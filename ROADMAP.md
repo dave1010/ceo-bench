@@ -1,5 +1,7 @@
 ## CEO Bench Implementation Roadmap
 
+(this file should be edited as progress is made)
+
 ### Phase 1: Research & Planning
 
 * pick about 5-10 topics and a some subtopics each (./dev/topic-ideas.md has early draft)
