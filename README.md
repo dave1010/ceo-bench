@@ -4,20 +4,37 @@
 
 ## 🏆 Benchmark & Leaderboard
 
-* **Prompt Dimensions**: Strategy, People, Communications, Risk & Ethics
-* **Metrics**: Weighted rubric scores
-* **Run an Eval**: triggers question generation → response generation → automated grading → leaderboard update
+- **Prompt Dimensions**: Strategy, People, Communications, Risk & Ethics
+- **Metrics**: Weighted rubric scores
+- **Run an Eval**: triggers question generation → response generation → automated grading → leaderboard update
 
 ## 🚀 Landing Page
 
-A Next.js front-end displaying the leaderboard and explaining the project.
+A Next.js front-end displays the leaderboard and explains the project.
 
-**Setup & Run**
+### Setup & Run Frontend
 
 ```bash
 npm install
 npm run dev
 ```
 
+### Python Workflow
+
+The benchmark generation and grading scripts live in `./scripts`. They use the OpenAI API to create questions, produce model answers and grade them. Results are written to `./answers`, `./results` and aggregated into `./leaderboard`.
+
+## Repo Layout
+
+See `dev/CONTEXT.md` for details. Key directories are:
+
+- `prompts/` – prompt templates and rubrics
+- `questions/` – generated question YAML files
+- `scripts/` – Python automation scripts
+- `answers/` – model answers
+- `results/` – grading outputs
+- `leaderboard/` – processed leaderboard data
+- `dev/` – development notes
+
 **Deploy**
+
 Deployed on Vercel; push to `main` to update.

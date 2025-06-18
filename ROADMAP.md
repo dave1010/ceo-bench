@@ -9,6 +9,7 @@ TODO: everything not already marked DONE below
 * DONE pick about 5-10 topics and a some subtopics each (./dev/topic-ideas.md has early draft)
 * DONE topics structured in dev/topics.yaml for easy iteration
 * DONE compile sample prompts and rubrics.
+* DONE created repo skeleton (prompts/, scripts/, etc) for future work
 * manually test a tiny vs big LLM on a few prompts.
 * tweak scoring
 * estimate human performance on these tasks.
