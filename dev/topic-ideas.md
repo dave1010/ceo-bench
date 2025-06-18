@@ -1,34 +1,40 @@
-Strategic Thinking
-Long-term planning, market analysis, competitive positioning, and vision setting capabilities.
+# Topic Ideas
 
-• Market entry strategies
-• Competitive analysis
-• Long-term planning
-• Vision articulation
+Structured version: topics.yaml
 
 
-Operational Excellence
-Process optimization, resource allocation, performance management, and operational efficiency.
+## Strategic Thinking
+- Market entry strategies
+- Competitive analysis
+- Long-term planning
+- Vision articulation
 
-• Resource optimization
-• Process improvement
-• Performance metrics
-• Efficiency analysis
+## Operational Excellence
+- Resource optimization
+- Process improvement
+- Performance metrics
+- Efficiency analysis
 
+## Leadership & Communication
+- Team motivation
+- Stakeholder management
+- Crisis communication
+- Culture building
 
-Leadership & Communication
-Team management, stakeholder communication, crisis management, and organizational culture.
+## Financial Acumen
+- Financial modeling
+- Investment analysis
+- Risk assessment
+- Budget planning
 
-• Team motivation
-• Stakeholder management
-• Crisis communication
-• Culture building
+## Risk & Ethics
+- Regulatory compliance
+- Ethical decision-making
+- Risk mitigation
+- Reputation management
 
-
-Financial Acumen
-Financial analysis, budgeting, investment decisions, and risk assessment capabilities.
-
-• Financial modeling
-• Investment analysis
-• Risk assessment
-• Budget planning
+## Innovation & Growth
+- Product innovation
+- Technology adoption
+- Growth strategy
+- M&A evaluation

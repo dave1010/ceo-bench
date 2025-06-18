@@ -4,7 +4,8 @@
 
 ### Phase 1: Research & Planning
 
-* pick about 5-10 topics and a some subtopics each (./dev/topic-ideas.md has early draft)
+* pick about 5-10 topics and a some subtopics each (./dev/topic-ideas.md has early draft) **DONE**
+* topics structured in dev/topics.yaml for easy iteration
 * pick evaluation dimensions: Strategy, People, Communications, Risk & Ethics.
 * Compile sample prompts and rubrics.
 * manually test a tiny vs big LLM on a few prompts.
