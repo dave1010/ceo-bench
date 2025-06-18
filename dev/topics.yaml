@@ -1,0 +1,39 @@
+# Structured topics list for CEO Bench development
+
+topics:
+  - name: Strategic Thinking
+    subtopics:
+      - Market entry strategies
+      - Competitive analysis
+      - Long-term planning
+      - Vision articulation
+  - name: Operational Excellence
+    subtopics:
+      - Resource optimization
+      - Process improvement
+      - Performance metrics
+      - Efficiency analysis
+  - name: Leadership & Communication
+    subtopics:
+      - Team motivation
+      - Stakeholder management
+      - Crisis communication
+      - Culture building
+  - name: Financial Acumen
+    subtopics:
+      - Financial modeling
+      - Investment analysis
+      - Risk assessment
+      - Budget planning
+  - name: Risk & Ethics
+    subtopics:
+      - Regulatory compliance
+      - Ethical decision-making
+      - Risk mitigation
+      - Reputation management
+  - name: Innovation & Growth
+    subtopics:
+      - Product innovation
+      - Technology adoption
+      - Growth strategy
+      - M&A evaluation
