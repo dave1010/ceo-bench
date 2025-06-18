@@ -1,0 +1,12 @@
+topic: Risk & Ethics
+subtopic: Regulatory compliance
+title: GDPR Update
+question: |
+  Summarize the key steps your SaaS company must take to comply with the latest GDPR guidance.
+rubric:
+  - dimension: Completeness
+    ideal: Covers main aspects of data handling and user rights.
+  - dimension: Practicality
+    ideal: Provides actionable steps for engineering and legal teams.
+  - dimension: Conciseness
+    ideal: Brief yet informative.

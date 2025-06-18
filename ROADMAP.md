@@ -8,7 +8,7 @@ TODO: everything not already marked DONE below
 
 * DONE pick about 5-10 topics and a some subtopics each (./dev/topic-ideas.md has early draft)
 * DONE topics structured in dev/topics.yaml for easy iteration
-* Compile sample prompts and rubrics.
+* DONE compile sample prompts and rubrics.
 * manually test a tiny vs big LLM on a few prompts.
 * tweak scoring
 * estimate human performance on these tasks.
@@ -21,7 +21,7 @@ TODO: everything not already marked DONE below
 * Python script to generate N questions per topic/subtopic.
 * Filtering: remove duplicates, low-quality via heuristics.
 * should have 200+ questions across all topics
-* YAML files in ./prompts/{incremental-id}-{topic}-{subtiopic}-{title}.yaml
+* YAML files in ./questions/{incremental-id}-{topic}-{subtiopic}-{title}.yaml
 * include in yaml: topic, subtopic, title, question, rubric
 
 
