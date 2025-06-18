@@ -1,0 +1,359 @@
+import { Button } from "@/components/ui/button"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { Badge } from "@/components/ui/badge"
+import { Github, FileText, Trophy, BarChart3, Users, Target, ArrowRight } from "lucide-react"
+import Link from "next/link"
+
+export default function Component() {
+  const leaderboardData = [
+    { rank: 1, model: "GPT-4o", score: 87.3, strategic: 89, operational: 86, leadership: 87, financial: 87 },
+    { rank: 2, model: "Claude-3.5 Sonnet", score: 84.7, strategic: 87, operational: 83, leadership: 85, financial: 84 },
+    { rank: 3, model: "Gemini Pro", score: 81.2, strategic: 82, operational: 81, leadership: 80, financial: 82 },
+    { rank: 4, model: "GPT-4", score: 78.9, strategic: 80, operational: 78, leadership: 79, financial: 78 },
+    { rank: 5, model: "Claude-3 Opus", score: 76.4, strategic: 78, operational: 75, leadership: 77, financial: 75 },
+    { rank: 6, model: "Llama-3 70B", score: 72.1, strategic: 74, operational: 71, leadership: 72, financial: 71 },
+    { rank: 7, model: "Mixtral 8x7B", score: 68.3, strategic: 70, operational: 67, leadership: 68, financial: 68 },
+    { rank: 8, model: "GPT-3.5 Turbo", score: 64.7, strategic: 66, operational: 64, leadership: 65, financial: 64 },
+  ]
+
+  return (
+    <div className="flex flex-col min-h-screen bg-white">
+      {/* Header */}
+      <header className="border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 sticky top-0 z-50">
+        <div className="container flex h-16 items-center justify-between px-4 md:px-6">
+          <div className="flex items-center space-x-3">
+            <div className="flex items-center justify-center w-10 h-10 bg-slate-900 text-white rounded-lg font-bold text-lg">
+              CEO
+            </div>
+            <div>
+              <h1 className="text-xl font-bold text-slate-900">CEO Bench</h1>
+              <p className="text-xs text-slate-600">LLM Executive Evaluation</p>
+            </div>
+          </div>
+          <nav className="hidden md:flex items-center space-x-6">
+            <Link href="#leaderboard" className="text-sm font-medium text-slate-700 hover:text-slate-900">
+              Leaderboard
+            </Link>
+            <Link href="#methodology" className="text-sm font-medium text-slate-700 hover:text-slate-900">
+              Methodology
+            </Link>
+            <Link href="#about" className="text-sm font-medium text-slate-700 hover:text-slate-900">
+              About
+            </Link>
+          </nav>
+          <div className="flex items-center space-x-3">
+            <Button variant="outline" size="sm" asChild>
+              <Link href="https://github.com/ceo-bench/ceo-bench" className="flex items-center space-x-2">
+                <Github className="w-4 h-4" />
+                <span className="hidden sm:inline">GitHub</span>
+              </Link>
+            </Button>
+            <Button size="sm" asChild>
+              <Link href="#" className="flex items-center space-x-2">
+                <FileText className="w-4 h-4" />
+                <span className="hidden sm:inline">Paper</span>
+              </Link>
+            </Button>
+          </div>
+        </div>
+      </header>
+
+      <main className="flex-1">
+        {/* Hero Section */}
+        <section className="py-20 md:py-32 bg-gradient-to-b from-slate-50 to-white">
+          <div className="container px-4 md:px-6">
+            <div className="max-w-4xl mx-auto text-center space-y-8">
+              <div className="space-y-4">
+                <Badge variant="secondary" className="text-sm font-medium">
+                  Research Benchmark
+                </Badge>
+                <h1 className="text-4xl md:text-6xl font-bold text-slate-900 leading-tight">
+                  Can AI Replace the
+                  <span className="text-slate-700"> C-Suite?</span>
+                </h1>
+                <p className="text-xl md:text-2xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
+                  CEO Bench is a comprehensive evaluation framework measuring how well Large Language Models perform on
+                  executive-level decision making, strategic planning, and leadership tasks.
+                </p>
+              </div>
+              <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+                <Button size="lg" asChild className="bg-slate-900 hover:bg-slate-800">
+                  <Link href="#leaderboard" className="flex items-center space-x-2">
+                    <Trophy className="w-5 h-5" />
+                    <span>View Leaderboard</span>
+                    <ArrowRight className="w-4 h-4" />
+                  </Link>
+                </Button>
+                <Button variant="outline" size="lg" asChild>
+                  <Link href="#" className="flex items-center space-x-2">
+                    <FileText className="w-5 h-5" />
+                    <span>Read the Paper</span>
+                  </Link>
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Stats Section */}
+        <section className="py-16 bg-white border-y">
+          <div className="container px-4 md:px-6">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto">
+              <div className="text-center">
+                <div className="text-3xl md:text-4xl font-bold text-slate-900">500+</div>
+                <div className="text-sm text-slate-600 mt-1">Executive Scenarios</div>
+              </div>
+              <div className="text-center">
+                <div className="text-3xl md:text-4xl font-bold text-slate-900">12</div>
+                <div className="text-sm text-slate-600 mt-1">Leading LLMs Tested</div>
+              </div>
+              <div className="text-center">
+                <div className="text-3xl md:text-4xl font-bold text-slate-900">4</div>
+                <div className="text-sm text-slate-600 mt-1">Core Competencies</div>
+              </div>
+              <div className="text-center">
+                <div className="text-3xl md:text-4xl font-bold text-slate-900">TBC</div>
+                <div className="text-sm text-slate-600 mt-1">Top Model Score</div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Leaderboard Section */}
+        <section id="leaderboard" className="py-20 bg-slate-50">
+          <div className="container px-4 md:px-6">
+            <div className="max-w-6xl mx-auto">
+              <div className="text-center mb-12">
+                <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Current Leaderboard</h2>
+                <p className="text-lg text-slate-600 max-w-2xl mx-auto">
+                  Rankings based on comprehensive evaluation across strategic thinking, operational excellence,
+                  leadership capabilities, and financial acumen.
+                </p>
+              </div>
+
+              <Card>
+                <CardHeader>
+                  <CardTitle className="flex items-center space-x-2">
+                    <BarChart3 className="w-5 h-5" />
+                    <span>Model Performance Rankings</span>
+                  </CardTitle>
+                  <CardDescription>
+                    Scores represent percentage accuracy across all CEO Bench evaluation tasks
+                  </CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <div className="overflow-x-auto">
+                    <table className="w-full">
+                      <thead>
+                        <tr className="border-b">
+                          <th className="text-left py-3 px-2 font-semibold text-slate-700">Rank</th>
+                          <th className="text-left py-3 px-2 font-semibold text-slate-700">Model</th>
+                          <th className="text-center py-3 px-2 font-semibold text-slate-700">Overall</th>
+                          <th className="text-center py-3 px-2 font-semibold text-slate-700">Strategic</th>
+                          <th className="text-center py-3 px-2 font-semibold text-slate-700">Operational</th>
+                          <th className="text-center py-3 px-2 font-semibold text-slate-700">Leadership</th>
+                          <th className="text-center py-3 px-2 font-semibold text-slate-700">Financial</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {leaderboardData.map((item) => (
+                          <tr key={item.rank} className="border-b hover:bg-slate-50/50">
+                            <td className="py-4 px-2">
+                              <div className="flex items-center space-x-2">
+                                {item.rank <= 3 && (
+                                  <Trophy
+                                    className={`w-4 h-4 ${
+                                      item.rank === 1
+                                        ? "text-yellow-500"
+                                        : item.rank === 2
+                                          ? "text-slate-400"
+                                          : "text-amber-600"
+                                    }`}
+                                  />
+                                )}
+                                <span className="font-semibold text-slate-900">#{item.rank}</span>
+                              </div>
+                            </td>
+                            <td className="py-4 px-2">
+                              <span className="font-medium text-slate-900">{item.model}</span>
+                            </td>
+                            <td className="py-4 px-2 text-center">
+                              <Badge variant={item.rank <= 3 ? "default" : "secondary"} className="font-semibold">
+                                {/* {item.score} */}
+                                &ndash;%
+                              </Badge>
+                            </td>
+                            <td className="py-4 px-2 text-center text-slate-700">-%</td>
+                            <td className="py-4 px-2 text-center text-slate-700">-%</td>
+                            <td className="py-4 px-2 text-center text-slate-700">-%</td>
+                            <td className="py-4 px-2 text-center text-slate-700">-%</td>
+                          
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                </CardContent>
+              </Card>
+            </div>
+          </div>
+        </section>
+
+        {/* Methodology Section */}
+        <section id="methodology" className="py-20 bg-white">
+          <div className="container px-4 md:px-6">
+            <div className="max-w-4xl mx-auto">
+              <div className="text-center mb-12">
+                <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Evaluation Methodology</h2>
+                <p className="text-lg text-slate-600">
+                  Our benchmark evaluates LLMs across four critical executive competencies
+                </p>
+              </div>
+
+              <div className="grid md:grid-cols-2 gap-8">
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center space-x-2">
+                      <Target className="w-5 h-5 text-slate-700" />
+                      <span>Strategic Thinking</span>
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-slate-600 mb-4">
+                      Long-term planning, market analysis, competitive positioning, and vision setting capabilities.
+                    </p>
+                    <ul className="text-sm text-slate-600 space-y-1">
+                      <li>• Market entry strategies</li>
+                      <li>• Competitive analysis</li>
+                      <li>• Long-term planning</li>
+                      <li>• Vision articulation</li>
+                    </ul>
+                  </CardContent>
+                </Card>
+
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center space-x-2">
+                      <BarChart3 className="w-5 h-5 text-slate-700" />
+                      <span>Operational Excellence</span>
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-slate-600 mb-4">
+                      Process optimization, resource allocation, performance management, and operational efficiency.
+                    </p>
+                    <ul className="text-sm text-slate-600 space-y-1">
+                      <li>• Resource optimization</li>
+                      <li>• Process improvement</li>
+                      <li>• Performance metrics</li>
+                      <li>• Efficiency analysis</li>
+                    </ul>
+                  </CardContent>
+                </Card>
+
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center space-x-2">
+                      <Users className="w-5 h-5 text-slate-700" />
+                      <span>Leadership & Communication</span>
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-slate-600 mb-4">
+                      Team management, stakeholder communication, crisis management, and organizational culture.
+                    </p>
+                    <ul className="text-sm text-slate-600 space-y-1">
+                      <li>• Team motivation</li>
+                      <li>• Stakeholder management</li>
+                      <li>• Crisis communication</li>
+                      <li>• Culture building</li>
+                    </ul>
+                  </CardContent>
+                </Card>
+
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center space-x-2">
+                      <FileText className="w-5 h-5 text-slate-700" />
+                      <span>Financial Acumen</span>
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-slate-600 mb-4">
+                      Financial analysis, budgeting, investment decisions, and risk assessment capabilities.
+                    </p>
+                    <ul className="text-sm text-slate-600 space-y-1">
+                      <li>• Financial modeling</li>
+                      <li>• Investment analysis</li>
+                      <li>• Risk assessment</li>
+                      <li>• Budget planning</li>
+                    </ul>
+                  </CardContent>
+                </Card>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* About Section */}
+        <section id="about" className="py-20 bg-slate-50">
+          <div className="container px-4 md:px-6">
+            <div className="max-w-4xl mx-auto text-center">
+              <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">About CEO Bench</h2>
+              <p className="text-lg text-slate-600 mb-8 leading-relaxed">
+                CEO Bench represents the first comprehensive benchmark for evaluating Large Language Models on
+                executive-level tasks. This benchmark provides crucial
+                insights into the potential and limitations of AI in high-stakes decision-making scenarios,
+                as well as understanding how effectively these models can replace human executives in the C-suite.
+              </p>
+              <p className="text-lg text-slate-600 mb-8 leading-relaxed">
+                For months, CEOs have been asking 
+                <em> &quot;Can I replace all my workers with AI?&quot; </em>
+                Now, with CEO Bench, we answer the question:
+                <strong><em> &quot;Can AI replace the CEO?&quot;</em></strong>
+              </p>
+              <p className="text-lg text-slate-600 mb-8 leading-relaxed">
+                As with many evals, we expect frontier LLMs will quickly improve their scores and saturate this benchmark.
+                At that point, <strong>CEO Bench</strong> can then answer the question:
+                <strong><em> &quot;What is the smallest LLM that can replace the CEO?&quot; </em></strong>
+              </p>
+              <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+                <Button variant="outline" size="lg" asChild>
+                  <Link href="https://github.com/dave1010/ceo-bench" className="flex items-center space-x-2">
+                    <Github className="w-5 h-5" />
+                    <span>Explore on GitHub</span>
+                  </Link>
+                </Button>
+                <Button variant="outline" size="lg" asChild>
+                  <Link href="#" className="flex items-center space-x-2">
+                    <FileText className="w-5 h-5" />
+                    <span>Download Paper (coming soon)</span>
+                  </Link>
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      {/* Footer */}
+      <footer className="border-t bg-white py-12">
+        <div className="container px-4 md:px-6">
+          <div className="flex flex-col md:flex-row items-center justify-between">
+            <div className="flex items-center space-x-3 mb-4 md:mb-0">
+              <div className="flex items-center justify-center w-8 h-8 bg-slate-900 text-white rounded font-bold text-sm">
+                CEO
+              </div>
+              <span className="font-semibold text-slate-900">CEO Bench</span>
+            </div>
+          </div>
+          <div className="mt-8 pt-8 border-t text-center text-sm text-slate-500">
+            <p>
+              &copy; 2025 <a href="https://dave.engineer" className="underline hover:text-slate-700" target="_blank" rel="noopener noreferrer">Dave Hulbert</a>. All rights reserved.
+            </p>
+          </div>
+        </div>
+      </footer>
+    </div>
+  )
+}
