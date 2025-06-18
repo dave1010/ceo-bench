@@ -1,0 +1,10 @@
+You are grading an answer for the CEO Bench evaluation. Use the rubric to provide a brief rationale and score each dimension from 1-5.
+
+Question:
+{question}
+
+Answer:
+{answer}
+
+Rubric:
+{rubric}
