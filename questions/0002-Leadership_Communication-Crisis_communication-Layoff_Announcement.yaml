@@ -1,0 +1,12 @@
+topic: Leadership & Communication
+subtopic: Crisis communication
+title: Layoff Announcement
+question: |
+  Write a brief statement to employees announcing a 10% workforce reduction while maintaining morale.
+rubric:
+  - dimension: Empathy
+    ideal: Shows understanding of employee concerns and well-being.
+  - dimension: Transparency
+    ideal: Clearly explains reasons and next steps.
+  - dimension: Tone
+    ideal: Maintains trust and motivation.
