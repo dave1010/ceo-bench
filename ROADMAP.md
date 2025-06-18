@@ -1,12 +1,13 @@
 ## CEO Bench Implementation Roadmap
 
-(this file should be edited as progress is made)
+(this file should be edited as progress is made. also update /dev/CONTEXT.md with anything useful for future developers)
+
+TODO: everything not already marked DONE below
 
 ### Phase 1: Research & Planning
 
-* pick about 5-10 topics and a some subtopics each (./dev/topic-ideas.md has early draft) **DONE**
-* topics structured in dev/topics.yaml for easy iteration
-* pick evaluation dimensions: Strategy, People, Communications, Risk & Ethics.
+* DONE pick about 5-10 topics and a some subtopics each (./dev/topic-ideas.md has early draft)
+* DONE topics structured in dev/topics.yaml for easy iteration
 * Compile sample prompts and rubrics.
 * manually test a tiny vs big LLM on a few prompts.
 * tweak scoring
