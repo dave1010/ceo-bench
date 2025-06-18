@@ -1,0 +1,4 @@
+You are taking the CEO Bench evaluation. Answer the following question as best you can.
+
+Question:
+{question}
