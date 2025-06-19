@@ -1,0 +1,12 @@
+{
+  "question_id": "0002-Leadership_Communication-Crisis_communication-Layoff_Announcement",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"empathy\":85,\"transparency\":80,\"tone\":85,\"overall_score\":83.33,\"comments\":\"The statement demonstrates good empathy by acknowledging the difficulty of the decision and offering support, and maintains a respectful tone that encourages resilience. It is reasonably transparent about the reasons for workforce reduction and outlines support measures. Overall, it effectively balances honesty with motivational messaging, suitable for maintaining morale during challenging news.\"}",
+  "scores": {
+    "Empathy": 85,
+    "Transparency": 80,
+    "Tone": 85
+  },
+  "total": 83.33,
+  "comments": "The statement demonstrates good empathy by acknowledging the difficulty of the decision and offering support, and maintains a respectful tone that encourages resilience. It is reasonably transparent about the reasons for workforce reduction and outlines support measures. Overall, it effectively balances honesty with motivational messaging, suitable for maintaining morale during challenging news."
+}
