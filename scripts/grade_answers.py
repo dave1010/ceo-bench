@@ -10,9 +10,11 @@ import subprocess
 from pathlib import Path
 import yaml
 
+DATA_DIR = Path("data")
+
 from make_grading_prompt import build_prompt, DEFAULT_TEMPLATE
 
-RESULTS_DIR = Path("results")
+RESULTS_DIR = DATA_DIR / "results"
 
 
 def build_schema(dimensions):

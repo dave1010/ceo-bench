@@ -20,8 +20,10 @@ from pathlib import Path
 from collections import defaultdict
 import csv
 
-RESULTS_DIR = Path("results")
-LEADERBOARD_PATH = Path("leaderboard/leaderboard.csv")
+DATA_DIR = Path("data")
+
+RESULTS_DIR = DATA_DIR / "results"
+LEADERBOARD_PATH = DATA_DIR / "leaderboard" / "leaderboard.csv"
 
 
 def load_results():

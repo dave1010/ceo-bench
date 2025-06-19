@@ -36,19 +36,19 @@ They use `llm` to create questions, produce model answers and grade them.
 
 #### Generating questions
 
-`generate_questions.py` can be run offline to create placeholder questions from `dev/topics.yaml`.
+`generate_questions.py` can be run offline to create placeholder questions from `dev/topics.yaml`. Questions are written to `data/questions/`.
 
 #### Running an evaluition
 
 This isa done in 2 parts:
 
-`generate_answers.py` uses the `llm` CLI to fetch a model answer and stores it under `./answers/<model>/`.
+`generate_answers.py` uses the `llm` CLI to fetch a model answer and stores it under `data/answers/<model>/`.
 
-`grade_answers.py` runs the grading prompt with `llm` using a JSON schema so the scores are parsed and written to `./results`.
+`grade_answers.py` runs the grading prompt with `llm` using a JSON schema so the scores are parsed and written to `data/results`.
 
 #### Updating the leaderboard
 
-Results are aggregated into `./leaderboard` using `aggregate_results.py`.
+Results are aggregated into `data/leaderboard` using `aggregate_results.py`.
 
 #### Python tests
 
@@ -62,5 +62,5 @@ The Phase 2 pipeline was tested on three example questions. Answers were
 generated using `gpt-4.1-nano`, `gpt-4.1-mini`, and `gpt-4.1`. Grading with a
 JSON schema produced numeric scores which were aggregated into
 `leaderboard/leaderboard.csv`.
-Sample answer files live in `./answers` and JSON results in `./results`.
+Sample answer files live in `data/answers` and JSON results in `data/results`.
 

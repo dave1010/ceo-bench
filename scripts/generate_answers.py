@@ -12,9 +12,11 @@ import argparse
 import subprocess
 from pathlib import Path
 
+DATA_DIR = Path("data")
+
 from make_question_prompt import build_prompt, DEFAULT_TEMPLATE
 
-ANSWERS_DIR = Path("answers")
+ANSWERS_DIR = DATA_DIR / "answers"
 
 
 def call_llm(prompt: str, model: str) -> str:

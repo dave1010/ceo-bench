@@ -33,7 +33,7 @@ TODO: everything not already marked DONE below
 
 ### phase 3 un evals with models
 
-* refactor all scripts, restructure directories
+* DONE refactor all scripts, restructure directories
 * write scripts to batch the processes
 * write script to generate answers with models, save results
 * write script to grade answers with judge LLM, save results
