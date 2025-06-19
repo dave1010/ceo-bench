@@ -10,8 +10,10 @@ import yaml
 from pathlib import Path
 import re
 
+DATA_DIR = Path("data")
+
 TOPICS_FILE = Path("dev/topics.yaml")
-OUTPUT_DIR = Path("questions")
+OUTPUT_DIR = DATA_DIR / "questions"
 
 ID_RE = re.compile(r"^(\d+)-")
 

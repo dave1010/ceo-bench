@@ -1,14 +1,16 @@
 """Generate a grading prompt from a question YAML file and an answer text file.
 
 Usage:
-    python make_grading_prompt.py question.yaml answer.txt [--template prompts/grading_prompt.txt]
+    python make_grading_prompt.py question.yaml answer.txt [--template templates/grading_prompt.txt]
 """
 
 import argparse
 from pathlib import Path
 import yaml
 
-DEFAULT_TEMPLATE = Path("prompts/grading_prompt.txt")
+TEMPLATES_DIR = Path("templates")
+
+DEFAULT_TEMPLATE = TEMPLATES_DIR / "grading_prompt.txt"
 
 
 def load_rubric(data: dict) -> str:

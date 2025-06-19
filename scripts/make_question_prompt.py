@@ -1,15 +1,17 @@
 """Generate a text prompt from a question YAML file.
 
 Usage:
-    python make_question_prompt.py path/to/question.yaml [--template prompts/question_prompt.txt]
+    python make_question_prompt.py path/to/question.yaml [--template templates/question_prompt.txt]
 """
 
 import argparse
 from pathlib import Path
 import yaml
 
+TEMPLATES_DIR = Path("templates")
 
-DEFAULT_TEMPLATE = Path("prompts/question_prompt.txt")
+
+DEFAULT_TEMPLATE = TEMPLATES_DIR / "question_prompt.txt"
 
 
 def build_prompt(question_file: Path, template_file: Path) -> str:
