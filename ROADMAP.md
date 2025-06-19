@@ -10,9 +10,9 @@ TODO: everything not already marked DONE below
 * DONE compile sample questions and rubrics. (/questions)
 * DONE created repo skeleton (prompts/, scripts/, etc) for future work
 * DONE set up `llm` and confirm it gets back real LLM responses (`llm --model gpt-4.1-nano --system "You are a helpful assistant" "What is the capital of France?"`)
-* send a test question to gpt-4.1-mini and save the answer in /answers - maybe we need to tweak the files in /prompts
-* send a test answer to gpt-4.1-mini and save the grading in /results
-* get it working with scripts (make_question_prompt.py and then get python to call `llm`)
+* DONE send a test question to gpt-4.1-mini and save the answer in /answers - maybe we need to tweak the files in /prompts
+* DONE send a test answer to gpt-4.1-mini and save the grading in /results
+* DONE get it working with scripts (make_question_prompt.py and then get python to call `llm`)
 * test gpt-4.1-mini vs gpt-4.1-nano vs gpt-4.1 on a few prompts.
 * tweak scoring
 * estimate human performance on these tasks.
