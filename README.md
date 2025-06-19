@@ -28,13 +28,6 @@ Results are written to `./answers`, `./results` and aggregated into `./leaderboa
 `generate_answers.py` uses the `llm` CLI to fetch a model answer and stores it under `./answers/<model>/`.
 `grade_answers.py` runs the grading prompt with `llm` and writes the result JSON into `./results`.
 
-### Progress
-
-- Prototype question generator outputs placeholder YAML files.
-- `aggregate_results.py` converts JSON results into a leaderboard CSV.
-- Basic scripts now fetch answers and grade them using `llm`, though full
-  question generation with the API is still TODO.
-
 ## Repo Layout
 
 See `dev/CONTEXT.md` for details. Key directories are:
