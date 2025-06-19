@@ -7,7 +7,7 @@ Usage:
 import argparse
 from pathlib import Path
 import yaml
-from string import Template
+
 
 DEFAULT_TEMPLATE = Path("prompts/question_prompt.txt")
 
@@ -15,8 +15,8 @@ DEFAULT_TEMPLATE = Path("prompts/question_prompt.txt")
 def build_prompt(question_file: Path, template_file: Path) -> str:
     data = yaml.safe_load(question_file.read_text())
     question_text = data.get("question", "").strip()
-    tmpl = Template(template_file.read_text())
-    return tmpl.safe_substitute(question=question_text)
+    tmpl = template_file.read_text()
+    return tmpl.format(question=question_text)
 
 
 def main() -> None:

@@ -7,7 +7,6 @@ Usage:
 import argparse
 from pathlib import Path
 import yaml
-from string import Template
 
 DEFAULT_TEMPLATE = Path("prompts/grading_prompt.txt")
 
@@ -28,8 +27,8 @@ def build_prompt(question_file: Path, answer_file: Path, template_file: Path) ->
 
     answer_text = answer_file.read_text().strip()
 
-    tmpl = Template(template_file.read_text())
-    return tmpl.safe_substitute(question=question_text, answer=answer_text, rubric=rubric_text)
+    tmpl = template_file.read_text()
+    return tmpl.format(question=question_text, answer=answer_text, rubric=rubric_text)
 
 
 def main() -> None:
