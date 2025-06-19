@@ -6,14 +6,16 @@ TODO: everything not already marked DONE below
 
 ### Phase 1: Research & Planning
 
-* DONE pick about 5-10 topics and a some subtopics each (./dev/topic-ideas.md has early draft)
-* DONE topics structured in dev/topics.yaml for easy iteration
-* DONE compile sample prompts and rubrics.
+* DONE pick about 5-10 topics and a some subtopics each (./dev/topics.yaml)
+* DONE compile sample questions and rubrics. (/questions)
 * DONE created repo skeleton (prompts/, scripts/, etc) for future work
-* DONE manually test a tiny vs big LLM on a few prompts.
+* set up `llm` and confirm it gets back real LLM responses
+* send a test question to gpt-4.1-mini and save the answer
+* send a test answer to gpt-4.1-mini and save the grading
+* test a mini vs standard 4.1 on a few prompts.
 * tweak scoring
 * estimate human performance on these tasks.
-* update readme with findings and progress (ongoing)
+* update readme with findings and progress
 * draft Prompt Templates, Rubric Specs, Evaluation Pipeline, Analysis & Reporting.
 
 ### Phase 2: Proof of Concept Scripts for Querstion Generation & Evaluation
