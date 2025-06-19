@@ -7,7 +7,7 @@ from scripts.generate_questions import build_filename, create_question
 
 
 def test_build_filename_structure():
-    path = build_filename(1, "Strategic Thinking", "Market Entry")
+    path = build_filename(1, "Strategic Thinking", "Market Entry", "Market Entry")
     assert path == Path("data/questions/0001-Strategic_Thinking-Market_Entry-Market_Entry.yaml")
 
 

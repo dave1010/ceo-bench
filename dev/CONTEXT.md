@@ -2,7 +2,9 @@
 
 Front end is Next.js.
 
-Scripts are Python. Use OpenAI chat completion API for question generation and grading. Offline helpers like `generate_questions.py` and `aggregate_results.py` assist with creating data without API calls.
+Scripts are Python. Use the `llm` CLI for question generation, answer generation and grading.
+`generate_questions.py` now calls the API using `templates/question_gen_prompt.txt`
+to create YAML question files. `aggregate_results.py` compiles scoring data.
 
 ## dirs in project root
 
