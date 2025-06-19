@@ -1,14 +1,19 @@
-
 $ python3 scripts/generate_answers.py --model gpt-4.1-nano questions/0001-Strategic_Thinking-Market_entry_strategies-European_Expansion.yaml
 Wrote answers/gpt-4.1-nano/0001-Strategic_Thinking-Market_entry_strategies-European_Expansion.txt
 
-
-$ python3 scripts/grade_answers.py --model gpt-4.1-nano questions/0001-Strategic_Thinking-Market_entry_strategies-European_Expansion.yaml answers/gpt-4.1-nano/0001-Strategic_Thinking-Market_entry_strategies-European_Expansion.txt 
+$ python3 scripts/grade_answers.py --model gpt-4.1-nano questions/0001-Strategic_Thinking-Market_entry_strategies-European_Expansion.yaml answers/gpt-4.1-nano/0001-Strategic_Thinking-Market_entry_strategies-European_Expansion.txt
 Wrote results/0001-Strategic_Thinking-Market_entry_strategies-European_Expansion-gpt-4.1-nano.json
 
 $ cat results/0001-Strategic_Thinking-Market_entry_strategies-European_Expansion-gpt-4.1-nano.json
 {
   "question_id": "0001-Strategic_Thinking-Market_entry_strategies-European_Expansion",
   "model": "gpt-4.1-nano",
-  "raw": "**Strategic Depth: 4**\nThe answer demonstrates a solid understanding of key factors such as market research, regulatory compliance (e.g., GDPR), local adaptation, and building partnerships. The phased approach shows awareness of the complexities involved in international expansion. However, it could benefit from more detailed analysis of the competitive landscape or specific strategic differentiation to demonstrate deeper insight.\n\n**Feasibility: 4**\nThe outlined steps are realistic and align with typical best practices for market entry\u2014research, localization, partnership, pilot testing, and scaling. The timeline is reasonable, and actionable milestones are identifiable. Additional details on resource allocation or potential challenges could strengthen feasibility assessment.\n\n**Clarity: 5**\nThe response is well-organized, logically structured into clear phases with specific actions and timelines. The language is concise and easy to follow, making the overall strategy understandable and actionable.\n\n---\n\n**Overall Comments:**  \nThe candidate provides a comprehensive, structured approach with appropriate milestones and considerations for European market entry. Slight enhancements in strategic depth and detail regarding competitive analysis would further elevate the plan."
-}%                                                                     
+  "raw": "{\"strategic_depth\": 4, \"feasibility\": 4, \"clarity\": 5, \"overall_score\": 4.33, \"comments\": \"The plan is solid but could use more competitive analysis.\"}",
+  "scores": {
+    "Strategic Depth": 4,
+    "Feasibility": 4,
+    "Clarity": 5
+  },
+  "total": 4.33,
+  "comments": "The plan is solid but could use more competitive analysis."
+}

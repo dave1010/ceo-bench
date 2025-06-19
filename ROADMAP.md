@@ -20,7 +20,7 @@ TODO: everything not already marked DONE below
 * DONE include in yaml: topic, subtopic, title, question, rubric
 * DONE generate prompts (with few shot examples) and script to loop through topics and subtopics and generate YAML questions (prototype)
 * DONE Python script to generate N questions per topic/subtopic (placeholder logic)
-* make the grading use a schema (see /dev/llm-schemas.txt) and parse grading_text
+* DONE make the grading use a schema (see /dev/llm-schemas.txt) and parse grading_text
 * run 3 or 4 test questions through the pipeline to confirm everything works end-to-end
 * test gpt-4.1-mini vs gpt-4.1-nano vs gpt-4.1 on a few prompts.
 * update readme with findings and progress

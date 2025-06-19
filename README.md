@@ -26,7 +26,7 @@ They use the OpenAI API to create questions, produce model answers and grade the
 Results are written to `./answers`, `./results` and aggregated into `./leaderboard` using `aggregate_results.py`.
 `generate_questions.py` can be run offline to create placeholder questions from `dev/topics.yaml`.
 `generate_answers.py` uses the `llm` CLI to fetch a model answer and stores it under `./answers/<model>/`.
-`grade_answers.py` runs the grading prompt with `llm` and writes the result JSON into `./results`.
+`grade_answers.py` runs the grading prompt with `llm` using a JSON schema so the scores are parsed and written to `./results`.
 
 ## Repo Layout
 
