@@ -10,11 +10,15 @@ Most scores will be between 80 and 120.
 
 Return **only** JSON that matches the provided schema with numeric scores.
 
-Question:
+<Question>
 {question}
+</Question>
 
-Answer:
+<Answer>
 {answer}
+</Answer>
 
-Rubric:
+<Rubric>
 {rubric}
+</Rubric>
+

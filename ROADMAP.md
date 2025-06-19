@@ -6,7 +6,7 @@ TODO: everything not already marked DONE below
 
 ### Phase 1: Research & Planning
 
-* DONE pick about 5-10 topics and a some subtopics each (./dev/topics.yaml)
+* DONE pick about 5-10 topics and a some subtopics each (./data/topics.yaml)
 * DONE compile sample questions and rubrics. (/questions)
 * DONE created repo skeleton (prompts/, scripts/, etc) for future work
 * DONE set up `llm` and confirm it gets back real LLM responses (`llm --model gpt-4.1-nano --system "You are a helpful assistant" "What is the capital of France?"`)
@@ -27,7 +27,9 @@ TODO: everything not already marked DONE below
 
 ### Phase 2.5 scaling up question generation
 
-* create real questions using the topics.yaml file and getting the LLM to generate them
+* create real questions using the /data/topics.yaml file and getting the LLM to generate them (expand generate_questions.py and refactor). this should loop through each topic and subtopic and ask the LLM to generate a question and rubric (just the first subtopic for now). we need to ensure questions are diverse in each subtopic - we can give the LLM the titles of any exisiting questions in the subtopic and ask it to be diverse. will need a new prompt template. we'll need to get this right with just 1 subtopic first, generating 10 questions. the script shold use the next available incremental ID for the question file name.
+* manually review the generated questions and rubrics
+* continue for all subtopics, then all topics
 * Filtering: remove duplicates, low-quality via heuristics.
 * should have 200+ questions across all topics
 
