@@ -21,7 +21,16 @@ npm run dev
 
 ### Python Workflow
 
-The benchmark generation and grading scripts live in `./scripts`. They use the OpenAI API to create questions, produce model answers and grade them. Results are written to `./answers`, `./results` and aggregated into `./leaderboard`.
+The benchmark generation and grading scripts live in `./scripts`.
+They use the OpenAI API to create questions, produce model answers and grade them.
+Results are written to `./answers`, `./results` and aggregated into `./leaderboard` using `aggregate_results.py`.
+`generate_questions.py` can be run offline to create placeholder questions from `dev/topics.yaml`.
+
+### Progress
+
+- Prototype question generator outputs placeholder YAML files.
+- `aggregate_results.py` converts JSON results into a leaderboard CSV.
+- Integrating the LLM API for real question generation is still TODO.
 
 ## Repo Layout
 

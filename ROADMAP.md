@@ -13,17 +13,18 @@ TODO: everything not already marked DONE below
 * DONE manually test a tiny vs big LLM on a few prompts.
 * tweak scoring
 * estimate human performance on these tasks.
-* update readme with findings and progress
+* update readme with findings and progress (ongoing)
 * draft Prompt Templates, Rubric Specs, Evaluation Pipeline, Analysis & Reporting.
 
 ### Phase 2: Proof of Concept Scripts for Querstion Generation & Evaluation
 
-* generate prompts (with few shot examples) and script to loop thhough topics and subtopics and generate YAML questions
-* Python script to generate N questions per topic/subtopic.
+* DONE generate prompts (with few shot examples) and script to loop through topics and subtopics and generate YAML questions (prototype)
+* DONE Python script to generate N questions per topic/subtopic (placeholder logic)
+* integrate LLM API to create real questions
 * Filtering: remove duplicates, low-quality via heuristics.
 * should have 200+ questions across all topics
-* YAML files in ./questions/{incremental-id}-{topic}-{subtiopic}-{title}.yaml
-* include in yaml: topic, subtopic, title, question, rubric
+* DONE YAML files in ./questions/{incremental-id}-{topic}-{subtiopic}-{title}.yaml
+* DONE include in yaml: topic, subtopic, title, question, rubric
 
 
 ### phase 3 Run evals with models
@@ -35,7 +36,7 @@ TODO: everything not already marked DONE below
 
 ### phase 4 Leaderboard
 
-* write script to turn results into leaderboard data
+* DONE write script to turn results into leaderboard data
 * make leaderboard display in Next.js app, updating on deploy
 * make fancy chart, inckuding human baseline range
 
@@ -53,5 +54,3 @@ TODO: everything not already marked DONE below
 * Results: tables, figures.
 * GitHub repo, MIT license, instructions.
 * share
-
-
