@@ -56,3 +56,11 @@ Results are aggregated into `./leaderboard` using `aggregate_results.py`.
 pytest
 ```
 
+#### Proof-of-concept results
+
+The Phase 2 pipeline was tested on three example questions. Answers were
+generated using `gpt-4.1-nano`, `gpt-4.1-mini`, and `gpt-4.1`. Grading with a
+JSON schema produced numeric scores which were aggregated into
+`leaderboard/leaderboard.csv`.
+Sample answer files live in `./answers` and JSON results in `./results`.
+

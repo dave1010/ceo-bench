@@ -1,0 +1,12 @@
+{
+  "question_id": "0003-Risk_Ethics-Regulatory_compliance-GDPR_Update",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"completeness\":85,\"practicality\":80,\"conciseness\":70,\"overall_score\":103.0,\"comments\":\"The answer comprehensively covers GDPR compliance areas, offering actionable steps suitable for implementation. It balances detail with clarity, making it practical for teams. Slightly more conciseness could improve readability without sacrificing key information.\"}",
+  "scores": {
+    "Completeness": 85,
+    "Practicality": 80,
+    "Conciseness": 70
+  },
+  "total": 103.0,
+  "comments": "The answer comprehensively covers GDPR compliance areas, offering actionable steps suitable for implementation. It balances detail with clarity, making it practical for teams. Slightly more conciseness could improve readability without sacrificing key information."
+}

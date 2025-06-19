@@ -1,12 +1,12 @@
 {
   "question_id": "0001-Strategic_Thinking-Market_entry_strategies-European_Expansion",
   "model": "gpt-4.1-nano",
-  "raw": "{\"strategic_depth\":115,\"feasibility\":110,\"clarity\":100,\"overall_score\":108.33,\"comments\":\"The plan demonstrates a thorough understanding of the European market, addressing key strategic considerations such as research, localization, partnerships, and incremental scaling. Steps are realistic and actions are clearly outlined, reflecting strong strategic depth and practicality. The response is well-structured and easy to follow, ensuring clarity. Overall, it signifies a competent and insightful approach suitable for effective market expansion.\"}",
+  "raw": "{\"strategic_depth\":125,\"feasibility\":115,\"clarity\":120,\"overall_score\":126.33,\"comments\":\"The plan demonstrates a comprehensive understanding of market entry strategies, addressing key aspects like research, localization, partnerships, and compliance, indicating strong strategic depth. The steps are detailed and follow a logical progression, making them feasible with proper resource allocation. The response is well-structured and easy to follow, reflecting high clarity. Overall, this plan would likely lead to successful European expansion if executed effectively.\"}",
   "scores": {
-    "Strategic Depth": 115,
-    "Feasibility": 110,
-    "Clarity": 100
+    "Strategic Depth": 125,
+    "Feasibility": 115,
+    "Clarity": 120
   },
-  "total": 108.33,
-  "comments": "The plan demonstrates a thorough understanding of the European market, addressing key strategic considerations such as research, localization, partnerships, and incremental scaling. Steps are realistic and actions are clearly outlined, reflecting strong strategic depth and practicality. The response is well-structured and easy to follow, ensuring clarity. Overall, it signifies a competent and insightful approach suitable for effective market expansion."
+  "total": 126.33,
+  "comments": "The plan demonstrates a comprehensive understanding of market entry strategies, addressing key aspects like research, localization, partnerships, and compliance, indicating strong strategic depth. The steps are detailed and follow a logical progression, making them feasible with proper resource allocation. The response is well-structured and easy to follow, reflecting high clarity. Overall, this plan would likely lead to successful European expansion if executed effectively."
 }
