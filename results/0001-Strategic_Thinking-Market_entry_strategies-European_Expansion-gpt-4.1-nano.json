@@ -1,5 +1,12 @@
 {
   "question_id": "0001-Strategic_Thinking-Market_entry_strategies-European_Expansion",
   "model": "gpt-4.1-nano",
-  "raw": "**Strategic Depth: 4**\nThe answer demonstrates a solid understanding of key factors such as market research, regulatory compliance (e.g., GDPR), local adaptation, and building partnerships. The phased approach shows awareness of the complexities involved in international expansion. However, it could benefit from more detailed analysis of the competitive landscape or specific strategic differentiation to demonstrate deeper insight.\n\n**Feasibility: 4**\nThe outlined steps are realistic and align with typical best practices for market entry\u2014research, localization, partnership, pilot testing, and scaling. The timeline is reasonable, and actionable milestones are identifiable. Additional details on resource allocation or potential challenges could strengthen feasibility assessment.\n\n**Clarity: 5**\nThe response is well-organized, logically structured into clear phases with specific actions and timelines. The language is concise and easy to follow, making the overall strategy understandable and actionable.\n\n---\n\n**Overall Comments:**  \nThe candidate provides a comprehensive, structured approach with appropriate milestones and considerations for European market entry. Slight enhancements in strategic depth and detail regarding competitive analysis would further elevate the plan."
+  "raw": "{\"strategic_depth\":115,\"feasibility\":110,\"clarity\":100,\"overall_score\":108.33,\"comments\":\"The plan demonstrates a thorough understanding of the European market, addressing key strategic considerations such as research, localization, partnerships, and incremental scaling. Steps are realistic and actions are clearly outlined, reflecting strong strategic depth and practicality. The response is well-structured and easy to follow, ensuring clarity. Overall, it signifies a competent and insightful approach suitable for effective market expansion.\"}",
+  "scores": {
+    "Strategic Depth": 115,
+    "Feasibility": 110,
+    "Clarity": 100
+  },
+  "total": 108.33,
+  "comments": "The plan demonstrates a thorough understanding of the European market, addressing key strategic considerations such as research, localization, partnerships, and incremental scaling. Steps are realistic and actions are clearly outlined, reflecting strong strategic depth and practicality. The response is well-structured and easy to follow, ensuring clarity. Overall, it signifies a competent and insightful approach suitable for effective market expansion."
 }

@@ -1,4 +1,13 @@
-You are grading an answer for the CEO Bench evaluation. Use the rubric to provide a brief rationale and score each dimension from 1-5.
+You are grading an answer for the CEO Bench evaluation. Use the rubric to provide a brief rationale and score each dimension on a Leadership Quotient (LQ).
+
+Scores are similar to IQ:
+
+- 100 is an average score for a capable human CEO after spending a couple of hours on the problem, likely leading in a successful company.
+- 140 is considered "genius" and would be an exceptional score for a CEO, reslting in extraordinary organisational performance.
+- Below 70 is considered "terrible" performance and would almost certainly destroy a company very quickly.
+
+Most scores will be between 80 and 120.
+
 Return **only** JSON that matches the provided schema with numeric scores.
 
 Question:

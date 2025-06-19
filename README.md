@@ -19,27 +19,40 @@ npm install
 npm run dev
 ```
 
-### Python Workflow
-
-The benchmark generation and grading scripts live in `./scripts`.
-They use the OpenAI API to create questions, produce model answers and grade them.
-Results are written to `./answers`, `./results` and aggregated into `./leaderboard` using `aggregate_results.py`.
-`generate_questions.py` can be run offline to create placeholder questions from `dev/topics.yaml`.
-`generate_answers.py` uses the `llm` CLI to fetch a model answer and stores it under `./answers/<model>/`.
-`grade_answers.py` runs the grading prompt with `llm` using a JSON schema so the scores are parsed and written to `./results`.
-
-## Repo Layout
-
-See `dev/CONTEXT.md` for details. Key directories are:
-
-- `prompts/` – prompt templates and rubrics
-- `questions/` – generated question YAML files
-- `scripts/` – Python automation scripts
-- `answers/` – model answers
-- `results/` – grading outputs
-- `leaderboard/` – processed leaderboard data
-- `dev/` – development notes
-
-**Deploy**
+### Deploy
 
 Deployed on Vercel; push to `main` to update.
+
+
+### Evaluation Workflow (Python)
+
+```p
+bash
+pip install -r requirements.txt
+```
+
+The benchmark generation and grading scripts live in `./scripts`.
+They use `llm` to create questions, produce model answers and grade them.
+
+#### Generating questions
+
+`generate_questions.py` can be run offline to create placeholder questions from `dev/topics.yaml`.
+
+#### Running an evaluition
+
+This isa done in 2 parts:
+
+`generate_answers.py` uses the `llm` CLI to fetch a model answer and stores it under `./answers/<model>/`.
+
+`grade_answers.py` runs the grading prompt with `llm` using a JSON schema so the scores are parsed and written to `./results`.
+
+#### Updating the leaderboard
+
+Results are aggregated into `./leaderboard` using `aggregate_results.py`.
+
+#### Python tests
+
+```bash
+pytest
+```
+
