@@ -1,0 +1,22 @@
+You are generating new questions for the CEO Bench evaluation.
+Each question should focus on the given topic and subtopic.
+Avoid repeating any of the existing titles listed below.
+Return YAML in the following structure:
+
+```
+topic: {topic}
+subtopic: {subtopic}
+title: <short title>
+question: |
+  <one to two sentence question>
+rubric:
+  - dimension: <dimension 1>
+    ideal: <ideal answer description>
+  - dimension: <dimension 2>
+    ideal: <ideal answer description>
+  - dimension: <dimension 3>
+    ideal: <ideal answer description>
+```
+
+Existing titles:
+{existing_titles}
