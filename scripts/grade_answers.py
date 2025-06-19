@@ -8,18 +8,28 @@ import argparse
 import json
 import subprocess
 from pathlib import Path
+import yaml
 
 from make_grading_prompt import build_prompt, DEFAULT_TEMPLATE
 
 RESULTS_DIR = Path("results")
 
 
-def call_llm(prompt: str, model: str) -> str:
+def build_schema(dimensions):
+    fields = [f"{dim.lower().replace(' ', '_')} int" for dim in dimensions]
+    fields.append("overall_score float")
+    fields.append("comments")
+    return ", ".join(fields)
+
+
+def call_llm(prompt: str, model: str, schema: str) -> str:
     result = subprocess.run([
         "llm",
         "prompt",
         "-m",
         model,
+        "--schema",
+        schema,
         prompt,
     ], capture_output=True, text=True, check=True)
     return result.stdout.strip()
@@ -32,8 +42,17 @@ def main() -> None:
     parser.add_argument("--model", default="gpt-4.1-mini", help="Model name")
     args = parser.parse_args()
 
+    qdata = yaml.safe_load(args.question.read_text())
+    dimensions = [item.get("dimension") for item in qdata.get("rubric", [])]
+
     prompt = build_prompt(args.question, args.answer, DEFAULT_TEMPLATE)
-    grading_text = call_llm(prompt, args.model)
+    schema = build_schema(dimensions)
+    grading_text = call_llm(prompt, args.model, schema)
+
+    try:
+        parsed = json.loads(grading_text)
+    except json.JSONDecodeError:
+        parsed = None
 
     RESULTS_DIR.mkdir(exist_ok=True)
     outfile = RESULTS_DIR / f"{args.answer.stem}-{args.model}.json"
@@ -42,6 +61,20 @@ def main() -> None:
         "model": args.model,
         "raw": grading_text,
     }
+    if parsed:
+        scores = {}
+        for dim in dimensions:
+            key = dim.lower().replace(" ", "_")
+            if key in parsed:
+                scores[dim] = int(parsed[key])
+        total = parsed.get("overall_score")
+        if total is None and scores:
+            total = sum(scores.values()) / len(scores)
+        record["scores"] = scores
+        if total is not None:
+            record["total"] = float(total)
+        if "comments" in parsed:
+            record["comments"] = parsed["comments"]
     outfile.write_text(json.dumps(record, indent=2))
     print(f"Wrote {outfile}")
 
