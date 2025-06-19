@@ -27,9 +27,7 @@ TODO: everything not already marked DONE below
 
 ### Phase 2.5 scaling up question generation
 
-* estimate human performance on these tasks.
-* tweak scoring
-* integrate LLM API to create real questions
+* create real questions using the topics.yaml file and getting the LLM to generate them
 * Filtering: remove duplicates, low-quality via heuristics.
 * should have 200+ questions across all topics
 
