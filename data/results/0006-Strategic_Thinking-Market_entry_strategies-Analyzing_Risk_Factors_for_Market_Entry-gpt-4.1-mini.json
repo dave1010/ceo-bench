@@ -1,0 +1,12 @@
+{
+  "question_id": "0006-Strategic_Thinking-Market_entry_strategies-Analyzing_Risk_Factors_for_Market_Entry",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"risk_identification\":130,\"prioritization\":125,\"mitigation_strategies\":130,\"overall_score\":128.3,\"comments\":\"The answer comprehensively identifies all major risk categories relevant to entering a new international market, including less obvious ones like political risk. The prioritization clearly focuses on the most critical risks first\u2014regulatory compliance and market understanding\u2014reflecting a strong understanding of impact and likelihood. Mitigation strategies are practical, actionable, and well-considered, demonstrating an advanced level of strategic planning. Overall, this response reflects exceptional leadership insight into international market entry risk management.\"}",
+  "scores": {
+    "Risk Identification": 130,
+    "Prioritization": 125,
+    "Mitigation Strategies": 130
+  },
+  "total": 128.3,
+  "comments": "The answer comprehensively identifies all major risk categories relevant to entering a new international market, including less obvious ones like political risk. The prioritization clearly focuses on the most critical risks first\u2014regulatory compliance and market understanding\u2014reflecting a strong understanding of impact and likelihood. Mitigation strategies are practical, actionable, and well-considered, demonstrating an advanced level of strategic planning. Overall, this response reflects exceptional leadership insight into international market entry risk management."
+}

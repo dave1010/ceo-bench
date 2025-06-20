@@ -1,0 +1,12 @@
+{
+  "question_id": "0007-Strategic_Thinking-Market_entry_strategies-Prioritizing_Market_Entry_Timing",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"market_analysis\": 125, \"strategic_agility\": 118, \"risk_management\": 112, \"overall_score\": 118.3, \"comments\": \"The candidate demonstrates strong market analysis capabilities, integrating multiple factors to determine optimal market entry timing. The approach shows good strategic agility, considering external shifts and adjusting plans accordingly. Risk management is well-balanced, weighing potential benefits against inherent uncertainties. Overall, the answer reflects a high level of leadership competence suitable for a CEO acting strategically in complex environments.\"}",
+  "scores": {
+    "Market Analysis": 125,
+    "Strategic Agility": 118,
+    "Risk Management": 112
+  },
+  "total": 118.3,
+  "comments": "The candidate demonstrates strong market analysis capabilities, integrating multiple factors to determine optimal market entry timing. The approach shows good strategic agility, considering external shifts and adjusting plans accordingly. Risk management is well-balanced, weighing potential benefits against inherent uncertainties. Overall, the answer reflects a high level of leadership competence suitable for a CEO acting strategically in complex environments."
+}
