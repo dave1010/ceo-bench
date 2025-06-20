@@ -1,0 +1,12 @@
+{
+  "question_id": "0006-Strategic_Thinking-Market_entry_strategies-Analyzing_Risk_Factors_for_Market_Entry",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"risk_identification\":85,\"prioritization\":80,\"mitigation_strategies\":75,\"overall_score\":79.2,\"comments\":\"The response effectively identifies key risks across multiple dimensions relevant to entering new international markets. It demonstrates a solid understanding of risk priorities by emphasizing legal compliance and market validation as top concerns, aligning with impact and likelihood considerations. The mitigation strategies proposed are practical and align with best practices, although some could benefit from more specific actions or innovative approaches. Overall, the answer reflects competent strategic thinking suitable for a capable CEO, with room for deeper analysis and more detailed implementation plans.\"}",
+  "scores": {
+    "Risk Identification": 85,
+    "Prioritization": 80,
+    "Mitigation Strategies": 75
+  },
+  "total": 79.2,
+  "comments": "The response effectively identifies key risks across multiple dimensions relevant to entering new international markets. It demonstrates a solid understanding of risk priorities by emphasizing legal compliance and market validation as top concerns, aligning with impact and likelihood considerations. The mitigation strategies proposed are practical and align with best practices, although some could benefit from more specific actions or innovative approaches. Overall, the answer reflects competent strategic thinking suitable for a capable CEO, with room for deeper analysis and more detailed implementation plans."
+}

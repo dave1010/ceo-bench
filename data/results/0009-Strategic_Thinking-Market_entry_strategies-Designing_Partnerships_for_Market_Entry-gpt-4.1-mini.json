@@ -1,0 +1,12 @@
+{
+  "question_id": "0009-Strategic_Thinking-Market_entry_strategies-Designing_Partnerships_for_Market_Entry",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"partnership_selection_criteria\":120,\"risk_and_benefit_analysis\":100,\"integration_and_collaboration_strategy\":110,\"overall_score\":110,\"comments\":\"The answer demonstrates a thorough and structured approach to evaluating and selecting strategic partnerships, clearly addressing alignment of goals, capabilities, reputation, and local expertise, thus scoring high in partnership selection criteria. It provides some consideration of risks such as operational and reputational risks through due diligence and pilot collaborations, but does not explicitly weigh risks and benefits in a detailed manner, leading to a good but not outstanding score in risk and benefit analysis. The integration and collaboration strategy is well covered with emphasis on cultural factors, governance structures, communication, and performance metrics, reflecting a clear plan for partnership management. Overall, the response indicates strong leadership capability with clear strategic thinking and practical execution considerations.\"}",
+  "scores": {
+    "Partnership selection criteria": 120,
+    "Risk and benefit analysis": 100,
+    "Integration and collaboration strategy": 110
+  },
+  "total": 110.0,
+  "comments": "The answer demonstrates a thorough and structured approach to evaluating and selecting strategic partnerships, clearly addressing alignment of goals, capabilities, reputation, and local expertise, thus scoring high in partnership selection criteria. It provides some consideration of risks such as operational and reputational risks through due diligence and pilot collaborations, but does not explicitly weigh risks and benefits in a detailed manner, leading to a good but not outstanding score in risk and benefit analysis. The integration and collaboration strategy is well covered with emphasis on cultural factors, governance structures, communication, and performance metrics, reflecting a clear plan for partnership management. Overall, the response indicates strong leadership capability with clear strategic thinking and practical execution considerations."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0004-Strategic_Thinking-Market_entry_strategies-Evaluating_Market_Selection_Criteria",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"market_analysis\":120,\"strategic_alignment\":115,\"risk_assessment\":110,\"overall_score\":115,\"comments\":\"The answer thoroughly identifies key market factors including size, growth potential, competitive landscape, and regulatory environment, earning a strong Market Analysis score. It explicitly aligns market criteria with the company's strengths and strategic goals, reflected in a high Strategic Alignment score. It also considers a range of risks\u2014political, economic, cultural\u2014and their implications, though it lacks detailed mitigation strategies, thus scoring slightly lower in Risk Assessment. Overall, the response demonstrates a well-rounded and insightful approach consistent with a highly capable CEO.\"}",
+  "scores": {
+    "Market Analysis": 120,
+    "Strategic Alignment": 115,
+    "Risk Assessment": 110
+  },
+  "total": 115.0,
+  "comments": "The answer thoroughly identifies key market factors including size, growth potential, competitive landscape, and regulatory environment, earning a strong Market Analysis score. It explicitly aligns market criteria with the company's strengths and strategic goals, reflected in a high Strategic Alignment score. It also considers a range of risks\u2014political, economic, cultural\u2014and their implications, though it lacks detailed mitigation strategies, thus scoring slightly lower in Risk Assessment. Overall, the response demonstrates a well-rounded and insightful approach consistent with a highly capable CEO."
+}

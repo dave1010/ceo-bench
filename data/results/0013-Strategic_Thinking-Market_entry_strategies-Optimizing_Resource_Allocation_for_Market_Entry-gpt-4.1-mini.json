@@ -1,0 +1,12 @@
+{
+  "question_id": "0013-Strategic_Thinking-Market_entry_strategies-Optimizing_Resource_Allocation_for_Market_Entry",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"resource_prioritization\":115,\"strategic_alignment\":120,\"risk_mitigation\":110,\"overall_score\":115,\"comments\":\"The answer comprehensively addresses resource prioritization by identifying critical activities such as market research, pilot launching, and focusing on core capabilities, effectively ensuring swift market penetration. Strategic alignment is strong, with clear connections between objectives, business strategy, and localized go-to-market efforts. Risk mitigation is well covered through pilot testing, agile iteration, continuous monitoring, and readiness to pivot resource allocation, demonstrating flexible response to changing conditions. Overall, the response reflects a capable and thoughtful CEO approach with slight room for even more granular contingency planning.\"}",
+  "scores": {
+    "Resource prioritization": 115,
+    "Strategic alignment": 120,
+    "Risk mitigation": 110
+  },
+  "total": 115.0,
+  "comments": "The answer comprehensively addresses resource prioritization by identifying critical activities such as market research, pilot launching, and focusing on core capabilities, effectively ensuring swift market penetration. Strategic alignment is strong, with clear connections between objectives, business strategy, and localized go-to-market efforts. Risk mitigation is well covered through pilot testing, agile iteration, continuous monitoring, and readiness to pivot resource allocation, demonstrating flexible response to changing conditions. Overall, the response reflects a capable and thoughtful CEO approach with slight room for even more granular contingency planning."
+}
