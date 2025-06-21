@@ -1,0 +1,14 @@
+{
+  "question_id": "0072-Financial_Acumen-Capital_Allocation-Prioritization_of_Capital_Projects",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Financial Acumen",
+  "subtopic": "Capital Allocation",
+  "raw": "{\"valuation_and_roi\":115,\"risk_consideration\":110,\"strategic_fit\":120,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong and structured approach to capital allocation, emphasizing financial metrics like NPV, IRR, and payback period, satisfying the Valuation and ROI criteria well. Risk considerations are thoughtfully addressed through risk assessments and sensitivity analyses. Strategic fit is excellently integrated, with projects aligned to competitive advantage and company goals. Overall, this reflects a high level of leadership capability in capital prioritization.\"}",
+  "scores": {
+    "Valuation and ROI": 115,
+    "Risk Consideration": 110,
+    "Strategic Fit": 120
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong and structured approach to capital allocation, emphasizing financial metrics like NPV, IRR, and payback period, satisfying the Valuation and ROI criteria well. Risk considerations are thoughtfully addressed through risk assessments and sensitivity analyses. Strategic fit is excellently integrated, with projects aligned to competitive advantage and company goals. Overall, this reflects a high level of leadership capability in capital prioritization."
+}

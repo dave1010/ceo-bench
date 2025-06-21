@@ -1,0 +1,14 @@
+{
+  "question_id": "0018-Strategic_Thinking-Risk_Management-Balancing_Innovation_with_Risk",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment\":130,\"decision-making_balance\":120,\"risk_mitigation_strategies\":125,\"overall_score\":125,\"comments\":\"The answer demonstrates an exceptional, comprehensive approach to risk management with detailed frameworks for identification, prioritization, monitoring, and cultural emphasis. The approach balances strategic foresight and operational rigor, indicating high leadership quality. Some moderate deduction given less explicit mention of balancing risks against benefits, but overall it's a strong, 'genius' level response reflective of outstanding CEO leadership.\"}",
+  "scores": {
+    "Risk Assessment": 130,
+    "Decision-Making Balance": 120,
+    "Risk Mitigation Strategies": 125
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates an exceptional, comprehensive approach to risk management with detailed frameworks for identification, prioritization, monitoring, and cultural emphasis. The approach balances strategic foresight and operational rigor, indicating high leadership quality. Some moderate deduction given less explicit mention of balancing risks against benefits, but overall it's a strong, 'genius' level response reflective of outstanding CEO leadership."
+}

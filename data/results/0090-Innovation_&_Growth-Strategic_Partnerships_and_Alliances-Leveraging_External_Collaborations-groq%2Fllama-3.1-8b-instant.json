@@ -1,0 +1,14 @@
+{
+  "question_id": "0090-Innovation_&_Growth-Strategic_Partnerships_and_Alliances-Leveraging_External_Collaborations",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Strategic Partnerships and Alliances",
+  "raw": "{\"partnership_strategy\":120,\"value_creation\":110,\"relationship_management\":105,\"overall_score\":112,\"comments\":\"The answer comprehensively addresses the cultivation of strategic partnerships with clear steps such as identifying key partners, establishing clear objectives, and fostering collaboration. The inclusion of examples across startups, academia, industry, and government shows a broad and strategic vision. The focus on monitoring and evaluation and leveraging emerging technologies reflects attention to value creation. While relationship management is implied through developing networks and alliances, more explicit emphasis on maintaining strong ongoing relationships could improve the score. Overall, the response reflects a strong CEO approach with above-average leadership in partnerships leading to innovation and growth.\"}",
+  "scores": {
+    "Partnership Strategy": 120,
+    "Value Creation": 110,
+    "Relationship Management": 105
+  },
+  "total": 112.0,
+  "comments": "The answer comprehensively addresses the cultivation of strategic partnerships with clear steps such as identifying key partners, establishing clear objectives, and fostering collaboration. The inclusion of examples across startups, academia, industry, and government shows a broad and strategic vision. The focus on monitoring and evaluation and leveraging emerging technologies reflects attention to value creation. While relationship management is implied through developing networks and alliances, more explicit emphasis on maintaining strong ongoing relationships could improve the score. Overall, the response reflects a strong CEO approach with above-average leadership in partnerships leading to innovation and growth."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0113-Leadership_&_Communication-Culture_building-Embedding_Ethical_Standards",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"ethical_leadership\":125,\"organizational_influence\":120,\"employee_engagement\":115,\"overall_score\":120,\"comments\":\"The CEO's answer provides a comprehensive and well-rounded approach to promoting ethical behavior. They emphasize leading by example with integrity and transparency, aligning strongly with the Ethical Leadership dimension. Their plans for policies like ethics training, an ethics hotline, accountability systems, and a clear Code of Conduct demonstrate robust Organizational Influence. Employee engagement is also well addressed through encouraging open communication, recognition programs, and inclusive leadership, fostering trust and accountability. The high scores reflect a strong capability to build and sustain an ethical culture that would likely yield excellent organizational performance.\"}",
+  "scores": {
+    "Ethical Leadership": 125,
+    "Organizational Influence": 120,
+    "Employee Engagement": 115
+  },
+  "total": 120.0,
+  "comments": "The CEO's answer provides a comprehensive and well-rounded approach to promoting ethical behavior. They emphasize leading by example with integrity and transparency, aligning strongly with the Ethical Leadership dimension. Their plans for policies like ethics training, an ethics hotline, accountability systems, and a clear Code of Conduct demonstrate robust Organizational Influence. Employee engagement is also well addressed through encouraging open communication, recognition programs, and inclusive leadership, fostering trust and accountability. The high scores reflect a strong capability to build and sustain an ethical culture that would likely yield excellent organizational performance."
+}

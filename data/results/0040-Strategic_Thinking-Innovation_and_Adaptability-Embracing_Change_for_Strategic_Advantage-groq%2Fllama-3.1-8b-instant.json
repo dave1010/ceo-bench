@@ -1,0 +1,14 @@
+{
+  "question_id": "0040-Strategic_Thinking-Innovation_and_Adaptability-Embracing_Change_for_Strategic_Advantage",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Innovation and Adaptability",
+  "raw": "{\"encouragement_of_innovation\":130,\"flexibility_in_strategy\":125,\"change_management_skills\":120,\"overall_score\":125,\"comments\":\"The CEO's answer thoroughly addresses fostering a culture of innovation by encouraging risk-taking, learning, collaboration, and monitoring innovation efforts, which demonstrates strong encouragement of innovation (score: 130). The answer also emphasizes scenario planning, adapting strategies, and resource reallocation in response to external changes, reflecting high flexibility in strategy (score: 125). Additionally, leading by example, clear communication, and guiding through transitions show proficient change management skills (score: 120). Overall, the response reflects a very capable CEO with an above-average leadership quotient in these dimensions.\"}",
+  "scores": {
+    "Encouragement of innovation": 130,
+    "Flexibility in strategy": 125,
+    "Change management skills": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO's answer thoroughly addresses fostering a culture of innovation by encouraging risk-taking, learning, collaboration, and monitoring innovation efforts, which demonstrates strong encouragement of innovation (score: 130). The answer also emphasizes scenario planning, adapting strategies, and resource reallocation in response to external changes, reflecting high flexibility in strategy (score: 125). Additionally, leading by example, clear communication, and guiding through transitions show proficient change management skills (score: 120). Overall, the response reflects a very capable CEO with an above-average leadership quotient in these dimensions."
+}

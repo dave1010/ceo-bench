@@ -1,0 +1,14 @@
+{
+  "question_id": "0006-Strategic_Thinking-Market_entry_strategies-Analyzing_Risk_Factors_for_Market_Entry",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"risk_identification\":130,\"prioritization\":110,\"mitigation_strategies\":120,\"overall_score\":120,\"comments\":\"The answer provides a comprehensive and detailed enumeration of primary risks covering cultural, financial, regulatory, competitive, logistical, and reputational challenges, demonstrating strong risk identification (130). Prioritization is addressed by outlining a clear sequence of mitigation strategies that implicitly prioritize market research and partnership selection first, though explicit risk impact and likelihood ranking is somewhat lacking, leading to a slightly lower prioritization score (110). The mitigation strategies are practical, well-rounded, and directly tackle the identified risks, including advanced tactics like currency hedging and real-time monitoring, meriting a high score (120). Overall, the response displays strong leadership insight and a sophisticated approach to international market entry risks, justifying an overall high LQ score of 120.\"}",
+  "scores": {
+    "Risk Identification": 130,
+    "Prioritization": 110,
+    "Mitigation Strategies": 120
+  },
+  "total": 120.0,
+  "comments": "The answer provides a comprehensive and detailed enumeration of primary risks covering cultural, financial, regulatory, competitive, logistical, and reputational challenges, demonstrating strong risk identification (130). Prioritization is addressed by outlining a clear sequence of mitigation strategies that implicitly prioritize market research and partnership selection first, though explicit risk impact and likelihood ranking is somewhat lacking, leading to a slightly lower prioritization score (110). The mitigation strategies are practical, well-rounded, and directly tackle the identified risks, including advanced tactics like currency hedging and real-time monitoring, meriting a high score (120). Overall, the response displays strong leadership insight and a sophisticated approach to international market entry risks, justifying an overall high LQ score of 120."
+}

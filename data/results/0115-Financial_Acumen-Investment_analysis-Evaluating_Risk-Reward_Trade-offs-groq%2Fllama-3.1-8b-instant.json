@@ -1,0 +1,14 @@
+{
+  "question_id": "0115-Financial_Acumen-Investment_analysis-Evaluating_Risk-Reward_Trade-offs",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment analysis",
+  "raw": "{\"risk_assessment\":130,\"reward_potential\":125,\"decision_justification\":135,\"overall_score\":130,\"comments\":\"The answer presents a comprehensive, structured approach to evaluating investments that reflects high-level leadership qualities. It demonstrates thorough risk assessment using recognized frameworks and mitigation planning, clearly articulates reward potential aligned with strategic objectives, and provides strong decision justification grounded in data-driven analysis and scenario planning. The ongoing monitoring aspect strengthens leadership foresight and adaptability. Overall, this reflects an exceptional leadership quotient well above average.\"}",
+  "scores": {
+    "Risk Assessment": 130,
+    "Reward Potential": 125,
+    "Decision Justification": 135
+  },
+  "total": 130.0,
+  "comments": "The answer presents a comprehensive, structured approach to evaluating investments that reflects high-level leadership qualities. It demonstrates thorough risk assessment using recognized frameworks and mitigation planning, clearly articulates reward potential aligned with strategic objectives, and provides strong decision justification grounded in data-driven analysis and scenario planning. The ongoing monitoring aspect strengthens leadership foresight and adaptability. Overall, this reflects an exceptional leadership quotient well above average."
+}

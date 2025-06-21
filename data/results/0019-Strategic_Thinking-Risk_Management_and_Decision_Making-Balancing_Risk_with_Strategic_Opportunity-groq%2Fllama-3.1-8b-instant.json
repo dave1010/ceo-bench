@@ -1,0 +1,14 @@
+{
+  "question_id": "0019-Strategic_Thinking-Risk_Management_and_Decision_Making-Balancing_Risk_with_Strategic_Opportunity",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management and Decision Making",
+  "raw": "{\"analytical_frameworks\":115,\"balance_of_risk_and_reward\":120,\"flexibility_and_adaptability\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a comprehensive and structured risk assessment framework using categorization, impact assessment, prioritization, and mitigation strategies, showing strong analytical skills. The decision-making process reflects sound judgment in balancing risk and reward with clear criteria and stakeholder input. Flexibility and adaptability are addressed through continuous refinement and contingency planning. Overall, this represents a capable and thoughtful CEO approach, scoring above average but not yet at genius level.\"}",
+  "scores": {
+    "Analytical Frameworks": 115,
+    "Balance of Risk and Reward": 120,
+    "Flexibility and Adaptability": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a comprehensive and structured risk assessment framework using categorization, impact assessment, prioritization, and mitigation strategies, showing strong analytical skills. The decision-making process reflects sound judgment in balancing risk and reward with clear criteria and stakeholder input. Flexibility and adaptability are addressed through continuous refinement and contingency planning. Overall, this represents a capable and thoughtful CEO approach, scoring above average but not yet at genius level."
+}

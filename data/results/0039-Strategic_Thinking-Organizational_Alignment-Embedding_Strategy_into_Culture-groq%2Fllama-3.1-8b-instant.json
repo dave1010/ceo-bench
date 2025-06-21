@@ -1,0 +1,14 @@
+{
+  "question_id": "0039-Strategic_Thinking-Organizational_Alignment-Embedding_Strategy_into_Culture",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Organizational Alignment",
+  "raw": "{\"communication\":115,\"leadership_and_modeling\":120,\"engagement_and_buy-in\":118,\"overall_score\":117.7,\"comments\":\"The answer provides a well-structured, comprehensive approach to embedding strategic priorities, emphasizing consistent communication through multiple channels and clear goal-setting. The CEO demonstrates strong leadership by committing to leading by example and modeling desired behaviors. They also effectively address employee engagement by empowering ownership, seeking regular feedback, and recognizing achievements. The response reflects a high level of understanding and capability, although some practical examples could further enhance the rationale.\"}",
+  "scores": {
+    "Communication": 115,
+    "Leadership and Modeling": 120,
+    "Engagement and buy-in": 118
+  },
+  "total": 117.7,
+  "comments": "The answer provides a well-structured, comprehensive approach to embedding strategic priorities, emphasizing consistent communication through multiple channels and clear goal-setting. The CEO demonstrates strong leadership by committing to leading by example and modeling desired behaviors. They also effectively address employee engagement by empowering ownership, seeking regular feedback, and recognizing achievements. The response reflects a high level of understanding and capability, although some practical examples could further enhance the rationale."
+}

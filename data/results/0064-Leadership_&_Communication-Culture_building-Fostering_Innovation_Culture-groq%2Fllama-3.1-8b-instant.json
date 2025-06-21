@@ -1,0 +1,14 @@
+{
+  "question_id": "0064-Leadership_&_Communication-Culture_building-Fostering_Innovation_Culture",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"leadership_commitment\":130,\"employee_engagement\":125,\"cultural_norms\":135,\"overall_score\":130,\"comments\":\"The answer clearly demonstrates strong leadership commitment through strategies such as resource allocation, setting ambitious goals, and recognizing innovation. Employee engagement is well addressed by fostering collaboration, empowerment, and feedback loops that encourage participation and diverse ideas. The cultural norms of experimentation and risk-taking are emphasized repeatedly with a safe environment for testing and learning from failures. Overall, the response shows a sophisticated and comprehensive approach to embedding innovation that aligns with a high Leadership Quotient.\"}",
+  "scores": {
+    "Leadership commitment": 130,
+    "Employee engagement": 125,
+    "Cultural norms": 135
+  },
+  "total": 130.0,
+  "comments": "The answer clearly demonstrates strong leadership commitment through strategies such as resource allocation, setting ambitious goals, and recognizing innovation. Employee engagement is well addressed by fostering collaboration, empowerment, and feedback loops that encourage participation and diverse ideas. The cultural norms of experimentation and risk-taking are emphasized repeatedly with a safe environment for testing and learning from failures. Overall, the response shows a sophisticated and comprehensive approach to embedding innovation that aligns with a high Leadership Quotient."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0025-Strategic_Thinking-Stakeholder_engagement-Building_Strategic_Alliances",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder engagement",
+  "raw": "{\"relationship_cultivation\":130,\"collaborative_mindset\":120,\"alignment_of_interests\":125,\"overall_score\":125,\"comments\":\"The answer demonstrates a strong and comprehensive approach to fostering strategic partnerships. It highlights clear communication, active networking, and collaborative culture, which show excellent relationship cultivation. The emphasis on a collaborative mindset and open communication supports co-creation and innovation. The detailed focus on strategic identification, governance, and regular evaluations indicates a strong alignment of interests with the company\u2019s long-term vision. Overall, the response reflects a high-level CEO capability well above average, meriting a score in the exceptional range.\"}",
+  "scores": {
+    "Relationship cultivation": 130,
+    "Collaborative mindset": 120,
+    "Alignment of interests": 125
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a strong and comprehensive approach to fostering strategic partnerships. It highlights clear communication, active networking, and collaborative culture, which show excellent relationship cultivation. The emphasis on a collaborative mindset and open communication supports co-creation and innovation. The detailed focus on strategic identification, governance, and regular evaluations indicates a strong alignment of interests with the company\u2019s long-term vision. Overall, the response reflects a high-level CEO capability well above average, meriting a score in the exceptional range."
+}

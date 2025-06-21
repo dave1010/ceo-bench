@@ -1,0 +1,14 @@
+{
+  "question_id": "0015-Strategic_Thinking-Market_entry_strategies-Assessing_Long-term_Viability_of_New_Markets",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"evaluation_framework\":120,\"data_and_forecasting\":115,\"adaptability_planning\":90,\"overall_score\":108,\"comments\":\"The answer demonstrates a strong evaluation framework by covering various models such as SWOT, macro-economic analysis, and competitor assessment, indicating a comprehensive approach to long-term market assessment. It incorporates both quantitative data (financial projections, market size, economic indicators) and qualitative insights (customer feedback, risk assessment), reflecting robust data and forecasting practices. However, the response lacks explicit mention of contingency planning or adaptability measures to manage uncertainties and ensure flexibility, which slightly reduces the score in adaptability planning. Overall, the answer reflects capable and informed leadership with room for improvement in planning for adaptability.\"}",
+  "scores": {
+    "Evaluation Framework": 120,
+    "Data and Forecasting": 115,
+    "Adaptability Planning": 90
+  },
+  "total": 108.0,
+  "comments": "The answer demonstrates a strong evaluation framework by covering various models such as SWOT, macro-economic analysis, and competitor assessment, indicating a comprehensive approach to long-term market assessment. It incorporates both quantitative data (financial projections, market size, economic indicators) and qualitative insights (customer feedback, risk assessment), reflecting robust data and forecasting practices. However, the response lacks explicit mention of contingency planning or adaptability measures to manage uncertainties and ensure flexibility, which slightly reduces the score in adaptability planning. Overall, the answer reflects capable and informed leadership with room for improvement in planning for adaptability."
+}

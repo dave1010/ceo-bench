@@ -1,0 +1,14 @@
+{
+  "question_id": "0057-Leadership_&_Communication-Stakeholder_management-Building_Stakeholder_Trust",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder management",
+  "raw": "{\"engagement_strategies\":130,\"consistency_and_reliability\":135,\"relationship_development\":130,\"overall_score\":132,\"comments\":\"The answer thoroughly details a comprehensive approach to fostering trust and transparency with stakeholders. The CEO demonstrates proactive engagement strategies through open communication, regular meetings, and empowering local stakeholders, reflecting high sincerity and effectiveness. The emphasis on metrics, accountability, leadership by example, admitting mistakes, and transparent governance illustrates strong consistency and reliability. Moreover, the focus on understanding stakeholder needs, building long-term relationships, and community engagement highlights meaningful relationship development. Overall, the approach reflects above-average to exceptional leadership qualities, meriting scores in the genius range.\"}",
+  "scores": {
+    "Engagement Strategies": 130,
+    "Consistency and Reliability": 135,
+    "Relationship Development": 130
+  },
+  "total": 132.0,
+  "comments": "The answer thoroughly details a comprehensive approach to fostering trust and transparency with stakeholders. The CEO demonstrates proactive engagement strategies through open communication, regular meetings, and empowering local stakeholders, reflecting high sincerity and effectiveness. The emphasis on metrics, accountability, leadership by example, admitting mistakes, and transparent governance illustrates strong consistency and reliability. Moreover, the focus on understanding stakeholder needs, building long-term relationships, and community engagement highlights meaningful relationship development. Overall, the approach reflects above-average to exceptional leadership qualities, meriting scores in the genius range."
+}

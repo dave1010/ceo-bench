@@ -1,0 +1,14 @@
+{
+  "question_id": "0014-Strategic_Thinking-Market_entry_strategies-Assessing_Regulatory_Challenges_in_New_Markets",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"regulatory_understanding\":130,\"risk_management\":125,\"adaptability\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a comprehensive understanding of regulatory requirements, including thorough market research, establishing a compliance framework, and engaging local experts. The risk management approach is clearly articulated through a risk-based strategy, regular audits, and mitigation tactics. Adaptability is addressed via continuous monitoring, stakeholder collaboration, and updating compliance programs to respond to changes. The detailed timeline, budget allocation, and success metrics further reflect practical and proactive leadership.\"}",
+  "scores": {
+    "Regulatory Understanding": 130,
+    "Risk Management": 125,
+    "Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a comprehensive understanding of regulatory requirements, including thorough market research, establishing a compliance framework, and engaging local experts. The risk management approach is clearly articulated through a risk-based strategy, regular audits, and mitigation tactics. Adaptability is addressed via continuous monitoring, stakeholder collaboration, and updating compliance programs to respond to changes. The detailed timeline, budget allocation, and success metrics further reflect practical and proactive leadership."
+}

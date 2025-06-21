@@ -1,0 +1,14 @@
+{
+  "question_id": "0071-Financial_Acumen-Investment_analysis-Portfolio_Diversification",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment analysis",
+  "raw": "{\"diversification_strategy\":130,\"risk-return_balance\":125,\"ongoing_review\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates a comprehensive and nuanced approach to portfolio diversification, incorporating a well-structured asset allocation across diverse sectors and asset classes. The response shows a sophisticated understanding of balancing risk tolerance with expected returns, aligned with organizational goals. Additionally, there is a strong emphasis on ongoing portfolio monitoring and dynamic adjustment through both strategic and tactical diversification methods, supported by technology and active management. This level of detail and integration reflects an advanced leadership capability in portfolio management, warranting a score indicative of high proficiency.\"}",
+  "scores": {
+    "Diversification Strategy": 130,
+    "Risk-Return Balance": 125,
+    "Ongoing Review": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a comprehensive and nuanced approach to portfolio diversification, incorporating a well-structured asset allocation across diverse sectors and asset classes. The response shows a sophisticated understanding of balancing risk tolerance with expected returns, aligned with organizational goals. Additionally, there is a strong emphasis on ongoing portfolio monitoring and dynamic adjustment through both strategic and tactical diversification methods, supported by technology and active management. This level of detail and integration reflects an advanced leadership capability in portfolio management, warranting a score indicative of high proficiency."
+}

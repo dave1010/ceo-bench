@@ -1,0 +1,14 @@
+{
+  "question_id": "0035-Strategic_Thinking-Competitive_analysis-Learning_from_Competitors",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive analysis",
+  "raw": "{\"insight_extraction\":130,\"benchmarking_practices\":125,\"open_innovation\":135,\"overall_score\":130,\"comments\":\"The CEO demonstrates a comprehensive and sophisticated understanding of competitors as valuable sources of learning. Insight extraction is well-articulated through detailed competitor intelligence and stakeholder engagement practices. Benchmarking practices are robust, including competitor visitations and market research that allow comparison and identification of performance gaps. The approach exemplifies open innovation by encouraging design thinking workshops and knowledge sharing, showing a strong culture of embracing external ideas. Overall, this answer reflects a high-level leadership aptitude consistent with a top-tier CEO performance.\"}",
+  "scores": {
+    "Insight Extraction": 130,
+    "Benchmarking Practices": 125,
+    "Open Innovation": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates a comprehensive and sophisticated understanding of competitors as valuable sources of learning. Insight extraction is well-articulated through detailed competitor intelligence and stakeholder engagement practices. Benchmarking practices are robust, including competitor visitations and market research that allow comparison and identification of performance gaps. The approach exemplifies open innovation by encouraging design thinking workshops and knowledge sharing, showing a strong culture of embracing external ideas. Overall, this answer reflects a high-level leadership aptitude consistent with a top-tier CEO performance."
+}

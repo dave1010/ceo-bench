@@ -1,0 +1,14 @@
+{
+  "question_id": "0114-Financial_Acumen-Financial_modeling-Evaluating_Scenario_Planning_Skills",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial modeling",
+  "raw": "{\"scenario_inclusion\":130,\"assumption_transparency\":115,\"decision_support\":125,\"overall_score\":123.3,\"comments\":\"The CEO demonstrates exceptional incorporation of multiple potential scenarios through a dynamic dashboard and comprehensive scenario planning, justifying a high Scenario Inclusion score. The answer details the processes and assumptions in an integrated way, but the explicit documentation of assumptions and rationales could be clearer, resulting in a slightly lower Assumption Transparency score. Decision Support is notably strong, with scenario-based budgeting and sensitivity analysis effectively guiding strategic decisions. The recommendations for improvement also show a forward-looking mindset, reinforcing the high overall score.\"}",
+  "scores": {
+    "Scenario Inclusion": 130,
+    "Assumption Transparency": 115,
+    "Decision Support": 125
+  },
+  "total": 123.3,
+  "comments": "The CEO demonstrates exceptional incorporation of multiple potential scenarios through a dynamic dashboard and comprehensive scenario planning, justifying a high Scenario Inclusion score. The answer details the processes and assumptions in an integrated way, but the explicit documentation of assumptions and rationales could be clearer, resulting in a slightly lower Assumption Transparency score. Decision Support is notably strong, with scenario-based budgeting and sensitivity analysis effectively guiding strategic decisions. The recommendations for improvement also show a forward-looking mindset, reinforcing the high overall score."
+}

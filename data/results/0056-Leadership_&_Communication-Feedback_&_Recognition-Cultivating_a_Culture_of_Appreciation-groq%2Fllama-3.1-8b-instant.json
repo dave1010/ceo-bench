@@ -1,0 +1,14 @@
+{
+  "question_id": "0056-Leadership_&_Communication-Feedback_&_Recognition-Cultivating_a_Culture_of_Appreciation",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Feedback & Recognition",
+  "raw": "{\"frequency\":135,\"recognition\":130,\"authenticity\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates a comprehensive and continuous approach to feedback, including regular town halls, anonymous feedback channels, and consistent performance check-ins, reflecting a high frequency score. Recognition is strongly emphasized with multiple structured programs and peer-to-peer systems, indicating active and varied acknowledgment of contributions. Authenticity is supported by leadership leading by example, feedback-driven initiatives, and consistent employee engagement, suggesting sincere and motivating practices aligned with organizational values. Overall, these measures collectively promote an exceptional culture of continuous feedback and recognition.\"}",
+  "scores": {
+    "Frequency": 135,
+    "Recognition": 130,
+    "Authenticity": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates a comprehensive and continuous approach to feedback, including regular town halls, anonymous feedback channels, and consistent performance check-ins, reflecting a high frequency score. Recognition is strongly emphasized with multiple structured programs and peer-to-peer systems, indicating active and varied acknowledgment of contributions. Authenticity is supported by leadership leading by example, feedback-driven initiatives, and consistent employee engagement, suggesting sincere and motivating practices aligned with organizational values. Overall, these measures collectively promote an exceptional culture of continuous feedback and recognition."
+}

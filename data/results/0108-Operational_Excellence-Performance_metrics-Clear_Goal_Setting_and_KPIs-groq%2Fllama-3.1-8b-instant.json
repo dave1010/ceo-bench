@@ -1,0 +1,14 @@
+{
+  "question_id": "0108-Operational_Excellence-Performance_metrics-Clear_Goal_Setting_and_KPIs",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"clarity_and_alignment\":115,\"engagement_and_buy-in\":110,\"monitoring_and_adjustment\":112,\"overall_score\":112.3,\"comments\":\"The answer clearly outlines a comprehensive and structured approach to defining, aligning, and communicating KPIs, demonstrating strong clarity and alignment. It emphasizes collaboration with executive teams and department heads, promoting engagement and buy-in through involvement and communication. Regular performance tracking, reporting, and a culture of accountability indicate effective monitoring and adjustment processes. The rationale is well-articulated and reflects a competent, thoughtful leadership approach.\"}",
+  "scores": {
+    "Clarity and Alignment": 115,
+    "Engagement and Buy-in": 110,
+    "Monitoring and Adjustment": 112
+  },
+  "total": 112.3,
+  "comments": "The answer clearly outlines a comprehensive and structured approach to defining, aligning, and communicating KPIs, demonstrating strong clarity and alignment. It emphasizes collaboration with executive teams and department heads, promoting engagement and buy-in through involvement and communication. Regular performance tracking, reporting, and a culture of accountability indicate effective monitoring and adjustment processes. The rationale is well-articulated and reflects a competent, thoughtful leadership approach."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0122-Innovation_&_Growth-Product_Innovation-Leveraging_Emerging_Technologies",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Product Innovation",
+  "raw": "{\"vision_for_technology_adoption\":120,\"strategic_implementation\":115,\"innovation_culture\":125,\"overall_score\":120,\"comments\":\"The answer thoroughly addresses all rubric dimensions. The CEO presents a clear, forward-looking vision for technology adoption, highlighting proactive scouting and partnership strategies. The implementation plan is detailed, featuring assessments, roadmaps, pilot projects, and strategic alignment demonstrating strong resource allocation and planning. The emphasis on fostering a culture of innovation through empowerment, experimentation, ongoing training, and risk-taking illustrates a robust innovation culture. Scores reflect performance above average, approaching exceptional leadership in technology-driven innovation.\"}",
+  "scores": {
+    "Vision for Technology Adoption": 120,
+    "Strategic Implementation": 115,
+    "Innovation Culture": 125
+  },
+  "total": 120.0,
+  "comments": "The answer thoroughly addresses all rubric dimensions. The CEO presents a clear, forward-looking vision for technology adoption, highlighting proactive scouting and partnership strategies. The implementation plan is detailed, featuring assessments, roadmaps, pilot projects, and strategic alignment demonstrating strong resource allocation and planning. The emphasis on fostering a culture of innovation through empowerment, experimentation, ongoing training, and risk-taking illustrates a robust innovation culture. Scores reflect performance above average, approaching exceptional leadership in technology-driven innovation."
+}

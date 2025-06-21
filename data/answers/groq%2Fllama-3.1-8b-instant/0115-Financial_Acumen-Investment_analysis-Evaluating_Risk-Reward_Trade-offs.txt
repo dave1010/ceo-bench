@@ -1,0 +1,19 @@
+When analyzing new investment proposals, I approach balancing potential rewards against associated risks by following a structured and data-driven approach. Here's a step-by-step framework I use:
+
+1. **Clearly defining the investment objective**: I ensure that the investment proposition aligns with our overall business strategy and goals. This helps to focus on relevant metrics and avoid unnecessary risks.
+
+2. **Conducting thorough research and analysis**: I gather and review all relevant data, including both quantitative and qualitative information. This might include market research, financial models, industry trends, and potential risks and mitigation strategies.
+
+3. **Evaluating risks using a systematic framework**: I apply a risk framework, such as the risk matrix or the probability-impact matrix, to categorize risks into different levels of severity and likelihood. This helps me prioritize mitigation efforts and resource allocation.
+
+4. **Estimating potential returns**: I use historical data, financial models, or other relevant information to estimate potential returns on investment. I also consider scenarios and sensitivities to account for potential outcomes.
+
+5. **Calculating the risk-adjusted return on investment (RARO)**: Using the estimated potential returns and risk levels, I calculate the RARO, which provides a standardized way to compare investment opportunities across different asset classes and risk profiles.
+
+6. **Comparing investment alternatives**: I analyze and compare different investment proposals using a standardized set of criteria, including RARO, risk profile, and alignment with business goals.
+
+7. **Making informed decisions**: Based on the analysis, I make recommendations for investment and present the rationale to stakeholders, emphasizing both the potential rewards and associated risks. This involves discussing mitigation strategies, contingency planning, and exit strategies.
+
+8. **Ongoing monitoring and review**: Once an investment is made, I continuously review its performance and adjust the investment strategy as necessary to ensure alignment with our business goals and risk tolerance.
+
+Throughout this process, I maintain a clear line of sight to the overall business goals, align the investment strategy with those goals, and remain aware of relevant market and industry trends. By following this structure, I'm confident in my ability to balance potential rewards against associated risks when analyzing new investment proposals.

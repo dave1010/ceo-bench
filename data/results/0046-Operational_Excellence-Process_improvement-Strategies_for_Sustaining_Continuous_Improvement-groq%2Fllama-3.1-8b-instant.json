@@ -1,0 +1,14 @@
+{
+  "question_id": "0046-Operational_Excellence-Process_improvement-Strategies_for_Sustaining_Continuous_Improvement",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"strategy_development\":115,\"change_management\":110,\"measurement_and_feedback\":120,\"overall_score\":115,\"comments\":\"The answer presents a well-structured and comprehensive strategy for embedding continuous process improvement into organizational culture, including clear communication, employee engagement, leadership accountability, and leveraging technology. It effectively addresses change management by emphasizing leadership commitment, training, and fostering an open culture, showing awareness of overcoming resistance and sustaining momentum. The measurement and feedback dimension is notably strong, detailing relevant KPIs, continuous monitoring, and feedback loops to ensure alignment and adaptability of initiatives. Overall, this response demonstrates a high level of leadership insight and practical application expected from a capable CEO.\"}",
+  "scores": {
+    "Strategy Development": 115,
+    "Change Management": 110,
+    "Measurement and Feedback": 120
+  },
+  "total": 115.0,
+  "comments": "The answer presents a well-structured and comprehensive strategy for embedding continuous process improvement into organizational culture, including clear communication, employee engagement, leadership accountability, and leveraging technology. It effectively addresses change management by emphasizing leadership commitment, training, and fostering an open culture, showing awareness of overcoming resistance and sustaining momentum. The measurement and feedback dimension is notably strong, detailing relevant KPIs, continuous monitoring, and feedback loops to ensure alignment and adaptability of initiatives. Overall, this response demonstrates a high level of leadership insight and practical application expected from a capable CEO."
+}

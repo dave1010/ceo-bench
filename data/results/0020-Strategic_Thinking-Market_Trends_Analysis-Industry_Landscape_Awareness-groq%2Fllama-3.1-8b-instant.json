@@ -1,0 +1,14 @@
+{
+  "question_id": "0020-Strategic_Thinking-Market_Trends_Analysis-Industry_Landscape_Awareness",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market Trends Analysis",
+  "raw": "{\"environmental_scanning\":130,\"adaptability\":125,\"forward-looking_perspective\":135,\"overall_score\":130,\"comments\":\"The CEO shows an exceptional and systematic approach to environmental scanning through multiple channels including research, networking, internal intelligence, advisory boards, and innovation efforts. Adaptability is well addressed with practices fostering agility, cross-functional collaboration, and strategic investments, demonstrating a strong capability to pivot based on intelligence. The forward-looking perspective is notably strong, with proactive business model assessments, strategic roadmaps, and emphasis on emerging technologies indicating deep foresight embedded into planning. Overall, this reflects an extraordinary leadership approach poised to drive high organizational performance.\"}",
+  "scores": {
+    "Environmental Scanning": 130,
+    "Adaptability": 125,
+    "Forward-looking Perspective": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO shows an exceptional and systematic approach to environmental scanning through multiple channels including research, networking, internal intelligence, advisory boards, and innovation efforts. Adaptability is well addressed with practices fostering agility, cross-functional collaboration, and strategic investments, demonstrating a strong capability to pivot based on intelligence. The forward-looking perspective is notably strong, with proactive business model assessments, strategic roadmaps, and emphasis on emerging technologies indicating deep foresight embedded into planning. Overall, this reflects an extraordinary leadership approach poised to drive high organizational performance."
+}

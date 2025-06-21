@@ -1,0 +1,14 @@
+{
+  "question_id": "0124-Innovation_&_Growth-Growth_strategy-Prioritizing_Strategic_Investments",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"decision-making\":130,\"market_awareness\":125,\"resource_allocation\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a strong, structured decision-making approach with a clear framework that weighs impact, risk, and alignment with strategic goals effectively. It shows excellent market awareness through comprehensive analysis including competitor landscapes and consumer behavior. The resource allocation discussion is solid, addressing financial, human, and technological resources. Overall, the response reflects high-level leadership thinking consistent with exceptional CEO performance.\"}",
+  "scores": {
+    "Decision-making": 130,
+    "Market awareness": 125,
+    "Resource allocation": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a strong, structured decision-making approach with a clear framework that weighs impact, risk, and alignment with strategic goals effectively. It shows excellent market awareness through comprehensive analysis including competitor landscapes and consumer behavior. The resource allocation discussion is solid, addressing financial, human, and technological resources. Overall, the response reflects high-level leadership thinking consistent with exceptional CEO performance."
+}

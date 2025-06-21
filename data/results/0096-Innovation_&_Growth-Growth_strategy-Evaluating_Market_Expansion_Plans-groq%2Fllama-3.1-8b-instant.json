@@ -1,0 +1,14 @@
+{
+  "question_id": "0096-Innovation_&_Growth-Growth_strategy-Evaluating_Market_Expansion_Plans",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"market_analysis\":130,\"strategic_alignment\":125,\"risk_management\":110,\"overall_score\":122,\"comments\":\"The answer demonstrates exceptional market analysis by outlining comprehensive research methods and competitor benchmarking, indicative of a high level of market insight. Strategic alignment is strong, with clear emphasis on aligning opportunities with organizational goals and involving the executive team in prioritization. Risk management is addressed implicitly through frameworks and regular review processes, but explicit identification of specific risks and detailed mitigation strategies could be further emphasized. Overall, the response reflects a sophisticated and structured approach to assessing and prioritizing new market opportunities to ensure sustainable growth.\"}",
+  "scores": {
+    "Market Analysis": 130,
+    "Strategic Alignment": 125,
+    "Risk Management": 110
+  },
+  "total": 122.0,
+  "comments": "The answer demonstrates exceptional market analysis by outlining comprehensive research methods and competitor benchmarking, indicative of a high level of market insight. Strategic alignment is strong, with clear emphasis on aligning opportunities with organizational goals and involving the executive team in prioritization. Risk management is addressed implicitly through frameworks and regular review processes, but explicit identification of specific risks and detailed mitigation strategies could be further emphasized. Overall, the response reflects a sophisticated and structured approach to assessing and prioritizing new market opportunities to ensure sustainable growth."
+}

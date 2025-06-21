@@ -1,0 +1,14 @@
+{
+  "question_id": "0037-Strategic_Thinking-Stakeholder_Engagement-Balancing_Diverse_Stakeholder_Interests",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder Engagement",
+  "raw": "{\"listening_and_empathy\":120,\"strategic_negotiation\":110,\"transparency\":130,\"overall_score\":120,\"comments\":\"The CEO demonstrates strong listening and empathy by actively seeking input from diverse stakeholders like employees, customers, investors, partners, and community, showing an understanding of their differing perspectives. The approach to strategic negotiation is evident through building collaborative partnerships and aligning interests via mutual understanding and trust. Transparency is notably well-addressed through frequent open communication such as town halls, investor updates, and sharing corporate social responsibility efforts, fostering trust and buy-in. Overall, the answer reflects above-average leadership qualities with a comprehensive and thoughtful approach to stakeholder alignment.\"}",
+  "scores": {
+    "Listening and Empathy": 120,
+    "Strategic Negotiation": 110,
+    "Transparency": 130
+  },
+  "total": 120.0,
+  "comments": "The CEO demonstrates strong listening and empathy by actively seeking input from diverse stakeholders like employees, customers, investors, partners, and community, showing an understanding of their differing perspectives. The approach to strategic negotiation is evident through building collaborative partnerships and aligning interests via mutual understanding and trust. Transparency is notably well-addressed through frequent open communication such as town halls, investor updates, and sharing corporate social responsibility efforts, fostering trust and buy-in. Overall, the answer reflects above-average leadership qualities with a comprehensive and thoughtful approach to stakeholder alignment."
+}

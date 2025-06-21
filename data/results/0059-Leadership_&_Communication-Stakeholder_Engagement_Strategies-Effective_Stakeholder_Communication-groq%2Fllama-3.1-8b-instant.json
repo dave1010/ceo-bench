@@ -1,0 +1,14 @@
+{
+  "question_id": "0059-Leadership_&_Communication-Stakeholder_Engagement_Strategies-Effective_Stakeholder_Communication",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder Engagement Strategies",
+  "raw": "{\"communication_clarity\":115,\"engagement_frequency\":110,\"responsiveness\":105,\"overall_score\":110,\"comments\":\"The answer provides a comprehensive and structured approach to ensuring clear and consistent communication with diverse stakeholders. It demonstrates clear communication strategies tailored to various stakeholder groups, indicating strong Communication Clarity. The emphasis on multiple regular touchpoints such as town halls, quarterly calls, newsletters, and social media shows proactive Engagement Frequency. Additionally, fostering open feedback, surveys, and focus groups addresses Responsiveness effectively. While well-detailed and thoughtful, the response could enhance score by providing specific examples or metrics for responsiveness and engagement impact, but overall it reflects strong leadership communication skills.\"}",
+  "scores": {
+    "Communication Clarity": 115,
+    "Engagement Frequency": 110,
+    "Responsiveness": 105
+  },
+  "total": 110.0,
+  "comments": "The answer provides a comprehensive and structured approach to ensuring clear and consistent communication with diverse stakeholders. It demonstrates clear communication strategies tailored to various stakeholder groups, indicating strong Communication Clarity. The emphasis on multiple regular touchpoints such as town halls, quarterly calls, newsletters, and social media shows proactive Engagement Frequency. Additionally, fostering open feedback, surveys, and focus groups addresses Responsiveness effectively. While well-detailed and thoughtful, the response could enhance score by providing specific examples or metrics for responsiveness and engagement impact, but overall it reflects strong leadership communication skills."
+}

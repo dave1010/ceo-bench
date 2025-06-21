@@ -1,0 +1,14 @@
+{
+  "question_id": "0036-Strategic_Thinking-Market_Analysis-Market_Trends_Anticipation",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market Analysis",
+  "raw": "{\"awareness_of_market_dynamics\":120,\"integration_of_insights\":115,\"proactiveness\":118,\"overall_score\":118,\"comments\":\"The CEO demonstrates a comprehensive approach to staying informed about market trends by leveraging multiple sources such as market research, conferences, social listening, stakeholder feedback, and strategic partnerships. The integration of insights is thorough, with regular reviews, alignment of strategic priorities, and empowerment of teams to make informed decisions. Proactiveness is evident in innovation incubation and collaboration with external entities to anticipate and explore emerging opportunities. Overall, the answer reflects strong leadership qualities slightly above average, indicative of a capable and forward-thinking CEO.\"}",
+  "scores": {
+    "Awareness of Market Dynamics": 120,
+    "Integration of Insights": 115,
+    "Proactiveness": 118
+  },
+  "total": 118.0,
+  "comments": "The CEO demonstrates a comprehensive approach to staying informed about market trends by leveraging multiple sources such as market research, conferences, social listening, stakeholder feedback, and strategic partnerships. The integration of insights is thorough, with regular reviews, alignment of strategic priorities, and empowerment of teams to make informed decisions. Proactiveness is evident in innovation incubation and collaboration with external entities to anticipate and explore emerging opportunities. Overall, the answer reflects strong leadership qualities slightly above average, indicative of a capable and forward-thinking CEO."
+}

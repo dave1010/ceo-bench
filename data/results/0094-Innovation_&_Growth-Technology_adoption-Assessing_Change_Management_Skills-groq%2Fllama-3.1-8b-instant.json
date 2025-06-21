@@ -1,0 +1,14 @@
+{
+  "question_id": "0094-Innovation_&_Growth-Technology_adoption-Assessing_Change_Management_Skills",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"leadership_in_change\":130,\"employee_engagement\":125,\"implementation_agility\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates exceptional leadership in change by proactively communicating and guiding the organization through technological transitions. There is strong emphasis on employee engagement through involvement, training, and a culture of continuous learning, which fosters buy-in and minimizes resistance. The CEO also shows good implementation agility via structured change management processes and performance tracking, ensuring responsiveness to challenges. Overall, the approach is comprehensive, strategic, and people-centered, resulting in a high Leadership Quotient score.\"}",
+  "scores": {
+    "Leadership in change": 130,
+    "Employee engagement": 125,
+    "Implementation agility": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates exceptional leadership in change by proactively communicating and guiding the organization through technological transitions. There is strong emphasis on employee engagement through involvement, training, and a culture of continuous learning, which fosters buy-in and minimizes resistance. The CEO also shows good implementation agility via structured change management processes and performance tracking, ensuring responsiveness to challenges. Overall, the approach is comprehensive, strategic, and people-centered, resulting in a high Leadership Quotient score."
+}

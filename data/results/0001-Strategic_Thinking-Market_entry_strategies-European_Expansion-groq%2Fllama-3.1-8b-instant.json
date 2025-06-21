@@ -1,0 +1,14 @@
+{
+  "question_id": "0001-Strategic_Thinking-Market_entry_strategies-European_Expansion",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"strategic_depth\":130,\"feasibility\":120,\"clarity\":125,\"overall_score\":125,\"comments\":\"The answer showcases a comprehensive understanding of the strategic factors necessary for European market entry, including market analysis, regulatory compliance, local partnerships, and product adaptation, reflecting strong strategic depth. The phased approach with clearly defined tasks and timeframes indicates realistic and actionable planning, contributing to high feasibility. The response is well-organized, clearly structured, and detailed, enhancing clarity. Overall, this plan demonstrates exceptional leadership insight suitable for successful market expansion.\"}",
+  "scores": {
+    "Strategic Depth": 130,
+    "Feasibility": 120,
+    "Clarity": 125
+  },
+  "total": 125.0,
+  "comments": "The answer showcases a comprehensive understanding of the strategic factors necessary for European market entry, including market analysis, regulatory compliance, local partnerships, and product adaptation, reflecting strong strategic depth. The phased approach with clearly defined tasks and timeframes indicates realistic and actionable planning, contributing to high feasibility. The response is well-organized, clearly structured, and detailed, enhancing clarity. Overall, this plan demonstrates exceptional leadership insight suitable for successful market expansion."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0021-Strategic_Thinking-Risk_Management-Navigating_Strategic_Risks",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_identification\":115,\"evaluation_and_prioritization\":110,\"mitigation_strategies\":112,\"overall_score\":112.3,\"comments\":\"The CEO demonstrates a comprehensive approach to risk identification, employing frameworks, stakeholder engagement, and market analysis, indicating strong awareness of both internal and external risks. The evaluation process is methodical, assessing impact, likelihood, and company risk tolerance, showing effective prioritization. Mitigation strategies are detailed, with multiple tactics including avoidance, transfer, acceptance, reduction, governance, crisis planning, and continuous monitoring, reflecting robust proactive planning. The inclusion of KPIs and communication/training further supports strategic agility. Overall, this response reflects above-average leadership in risk management.\"}",
+  "scores": {
+    "Risk Identification": 115,
+    "Evaluation and Prioritization": 110,
+    "Mitigation Strategies": 112
+  },
+  "total": 112.3,
+  "comments": "The CEO demonstrates a comprehensive approach to risk identification, employing frameworks, stakeholder engagement, and market analysis, indicating strong awareness of both internal and external risks. The evaluation process is methodical, assessing impact, likelihood, and company risk tolerance, showing effective prioritization. Mitigation strategies are detailed, with multiple tactics including avoidance, transfer, acceptance, reduction, governance, crisis planning, and continuous monitoring, reflecting robust proactive planning. The inclusion of KPIs and communication/training further supports strategic agility. Overall, this response reflects above-average leadership in risk management."
+}

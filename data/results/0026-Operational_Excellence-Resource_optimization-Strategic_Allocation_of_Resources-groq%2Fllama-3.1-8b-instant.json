@@ -1,0 +1,14 @@
+{
+  "question_id": "0026-Operational_Excellence-Resource_optimization-Strategic_Allocation_of_Resources",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"alignment_with_strategic_goals\":130,\"efficiency_of_use\":125,\"flexibility_and_adaptability\":120,\"overall_score\":125,\"comments\":\"The answer reflects a strong, structured approach to aligning resources with strategic goals, including strategic planning, resource mapping, and a prioritization framework. The CEO emphasizes performance management and continuous monitoring to optimize resource use, suggesting high efficiency. The inclusion of ongoing feedback mechanisms and adaptability in resource allocation indicates significant flexibility. The comprehensive nature and adoption of best practices support a high Leadership Quotient.\"}",
+  "scores": {
+    "Alignment with Strategic Goals": 130,
+    "Efficiency of Use": 125,
+    "Flexibility and Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The answer reflects a strong, structured approach to aligning resources with strategic goals, including strategic planning, resource mapping, and a prioritization framework. The CEO emphasizes performance management and continuous monitoring to optimize resource use, suggesting high efficiency. The inclusion of ongoing feedback mechanisms and adaptability in resource allocation indicates significant flexibility. The comprehensive nature and adoption of best practices support a high Leadership Quotient."
+}

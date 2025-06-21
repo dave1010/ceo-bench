@@ -1,0 +1,14 @@
+{
+  "question_id": "0101-Innovation_&_Growth-M&A_evaluation-Leadership_in_Due_Diligence_Processes",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"decision-making_clarity\":115,\"risk_management\":120,\"stakeholder_engagement\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a clear and structured approach to leading due diligence, detailing the phases and key focus areas, which reflects strong decision-making clarity. Risk management is thoroughly addressed through comprehensive evaluation of financial, operational, regulatory, market, and human capital risks. Stakeholder engagement is considered by involving key stakeholders early and organizing a specialized team, ensuring effective coordination and communication. Overall, the response reflects capable and strategic leadership during the M&A due diligence process.\"}",
+  "scores": {
+    "Decision-Making Clarity": 115,
+    "Risk Management": 120,
+    "Stakeholder Engagement": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a clear and structured approach to leading due diligence, detailing the phases and key focus areas, which reflects strong decision-making clarity. Risk management is thoroughly addressed through comprehensive evaluation of financial, operational, regulatory, market, and human capital risks. Stakeholder engagement is considered by involving key stakeholders early and organizing a specialized team, ensuring effective coordination and communication. Overall, the response reflects capable and strategic leadership during the M&A due diligence process."
+}

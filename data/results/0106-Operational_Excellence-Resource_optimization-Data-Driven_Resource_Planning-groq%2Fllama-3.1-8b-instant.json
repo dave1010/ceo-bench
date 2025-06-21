@@ -1,0 +1,14 @@
+{
+  "question_id": "0106-Operational_Excellence-Resource_optimization-Data-Driven_Resource_Planning",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"data_integration\":115,\"proactive_planning\":110,\"decision_impact\":110,\"overall_score\":111.67,\"comments\":\"The CEO demonstrates a strong and effective use of data analytics by integrating multiple data systems including historical trends, KPIs, financial data, and operational metrics to forecast resource needs accurately. Proactive planning is evident through risk management and continuous performance benchmarking, preventing resource shortages and minimizing waste. The decisions based on these analytics have clearly produced positive impacts on operational efficiency and cost savings, as reflected in high resource utilization rates and improved financial outcomes. Overall, the response reflects a capable CEO with above-average leadership intelligence in leveraging data for strategic resource allocation.\"}",
+  "scores": {
+    "Data Integration": 115,
+    "Proactive Planning": 110,
+    "Decision Impact": 110
+  },
+  "total": 111.67,
+  "comments": "The CEO demonstrates a strong and effective use of data analytics by integrating multiple data systems including historical trends, KPIs, financial data, and operational metrics to forecast resource needs accurately. Proactive planning is evident through risk management and continuous performance benchmarking, preventing resource shortages and minimizing waste. The decisions based on these analytics have clearly produced positive impacts on operational efficiency and cost savings, as reflected in high resource utilization rates and improved financial outcomes. Overall, the response reflects a capable CEO with above-average leadership intelligence in leveraging data for strategic resource allocation."
+}

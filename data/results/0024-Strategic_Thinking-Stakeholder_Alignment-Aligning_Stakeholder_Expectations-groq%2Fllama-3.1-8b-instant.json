@@ -1,0 +1,14 @@
+{
+  "question_id": "0024-Strategic_Thinking-Stakeholder_Alignment-Aligning_Stakeholder_Expectations",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder Alignment",
+  "raw": "{\"communication_clarity\":115,\"negotiation_skill\":110,\"relationship_building\":120,\"overall_score\":115,\"comments\":\"The CEO demonstrates strong communication clarity through regular and transparent engagement methods, effectively conveying strategic intent. Their negotiation skills are proficient, balancing diverse stakeholder interests and forming strategic partnerships, but could benefit from enhanced inclusive decision-making frameworks. Relationship building is a clear strength, with well-established trust and collaboration across key stakeholder groups. Opportunities remain to develop more robust metrics and crisis management approaches to elevate overall effectiveness.\"}",
+  "scores": {
+    "Communication Clarity": 115,
+    "Negotiation Skill": 110,
+    "Relationship Building": 120
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates strong communication clarity through regular and transparent engagement methods, effectively conveying strategic intent. Their negotiation skills are proficient, balancing diverse stakeholder interests and forming strategic partnerships, but could benefit from enhanced inclusive decision-making frameworks. Relationship building is a clear strength, with well-established trust and collaboration across key stakeholder groups. Opportunities remain to develop more robust metrics and crisis management approaches to elevate overall effectiveness."
+}

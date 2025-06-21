@@ -1,0 +1,14 @@
+{
+  "question_id": "0053-Operational_Excellence-Efficiency_analysis-Resource_Allocation_Strategies",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Efficiency analysis",
+  "raw": "{\"strategic_planning\":125,\"flexibility\":115,\"performance_monitoring\":120,\"overall_score\":120,\"comments\":\"The answer demonstrates strong strategic planning through data-driven decision making and a clear framework for resource allocation aligned with organizational goals. It also shows good flexibility by emphasizing a transparent, adjustable budgeting process and regular strategy adjustments. Performance monitoring is well covered with continuous performance reviews and quality metrics to identify inefficiencies and ensure quality. Overall, the response reflects a high level of leadership acumen.\"}",
+  "scores": {
+    "Strategic Planning": 125,
+    "Flexibility": 115,
+    "Performance Monitoring": 120
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates strong strategic planning through data-driven decision making and a clear framework for resource allocation aligned with organizational goals. It also shows good flexibility by emphasizing a transparent, adjustable budgeting process and regular strategy adjustments. Performance monitoring is well covered with continuous performance reviews and quality metrics to identify inefficiencies and ensure quality. Overall, the response reflects a high level of leadership acumen."
+}

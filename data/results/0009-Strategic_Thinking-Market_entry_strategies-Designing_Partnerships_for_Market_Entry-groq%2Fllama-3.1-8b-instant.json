@@ -1,0 +1,14 @@
+{
+  "question_id": "0009-Strategic_Thinking-Market_entry_strategies-Designing_Partnerships_for_Market_Entry",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"partnership_selection_criteria\":115,\"risk_and_benefit_analysis\":100,\"integration_and_collaboration_strategy\":90,\"overall_score\":102,\"comments\":\"The answer presents a comprehensive set of partnership selection criteria that align with the rubric requirements, earning a strong score. While it mentions governance, risk management, and due diligence, there is less explicit weighing of risks versus benefits, resulting in an average score for risk and benefit analysis. The integration and collaboration strategy is implicit through mentions of negotiations, post-partnership reviews, and shared objectives but lacks detailed mechanisms for communication and conflict resolution, leading to a slightly lower score in that dimension.\"}",
+  "scores": {
+    "Partnership selection criteria": 115,
+    "Risk and benefit analysis": 100,
+    "Integration and collaboration strategy": 90
+  },
+  "total": 102.0,
+  "comments": "The answer presents a comprehensive set of partnership selection criteria that align with the rubric requirements, earning a strong score. While it mentions governance, risk management, and due diligence, there is less explicit weighing of risks versus benefits, resulting in an average score for risk and benefit analysis. The integration and collaboration strategy is implicit through mentions of negotiations, post-partnership reviews, and shared objectives but lacks detailed mechanisms for communication and conflict resolution, leading to a slightly lower score in that dimension."
+}

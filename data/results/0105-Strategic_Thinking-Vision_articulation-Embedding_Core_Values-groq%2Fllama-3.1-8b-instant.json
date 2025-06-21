@@ -1,0 +1,14 @@
+{
+  "question_id": "0105-Strategic_Thinking-Vision_articulation-Embedding_Core_Values",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Vision articulation",
+  "raw": "{\"integration\":115,\"leadership_consistency\":110,\"cultural_influence\":105,\"overall_score\":110,\"comments\":\"The CEO demonstrates strong integration of core values into strategic initiatives, as evidenced by explicit communication and values-based metrics. Leadership consistency is solid, modeling desired behaviors and encouraging others, though ambassadorship can improve. Cultural influence is positively shaped but could be enhanced by increasing transparency and accountability. Overall, the approach reflects a capable CEO with room for growth.\"}",
+  "scores": {
+    "Integration": 115,
+    "Leadership consistency": 110,
+    "Cultural influence": 105
+  },
+  "total": 110.0,
+  "comments": "The CEO demonstrates strong integration of core values into strategic initiatives, as evidenced by explicit communication and values-based metrics. Leadership consistency is solid, modeling desired behaviors and encouraging others, though ambassadorship can improve. Cultural influence is positively shaped but could be enhanced by increasing transparency and accountability. Overall, the approach reflects a capable CEO with room for growth."
+}

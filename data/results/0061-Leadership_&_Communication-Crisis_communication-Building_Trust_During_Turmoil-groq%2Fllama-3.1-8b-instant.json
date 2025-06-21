@@ -1,0 +1,14 @@
+{
+  "question_id": "0061-Leadership_&_Communication-Crisis_communication-Building_Trust_During_Turmoil",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"transparency\":130,\"empathy\":125,\"consistency\":120,\"overall_score\":125,\"comments\":\"The CEO's answer demonstrates a strong commitment to transparency by emphasizing early, honest, and regular communication with stakeholders during a crisis. Empathy is clearly shown through acknowledging stakeholders' emotions and reassuring them with thoughtful actions. Consistency is addressed by maintaining clear, concise messages across multiple channels and ensuring follow-through on commitments. Overall, the approach reflects high-level leadership qualities likely to preserve and rebuild trust effectively.\"}",
+  "scores": {
+    "Transparency": 130,
+    "Empathy": 125,
+    "Consistency": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO's answer demonstrates a strong commitment to transparency by emphasizing early, honest, and regular communication with stakeholders during a crisis. Empathy is clearly shown through acknowledging stakeholders' emotions and reassuring them with thoughtful actions. Consistency is addressed by maintaining clear, concise messages across multiple channels and ensuring follow-through on commitments. Overall, the approach reflects high-level leadership qualities likely to preserve and rebuild trust effectively."
+}

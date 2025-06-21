@@ -1,0 +1,14 @@
+{
+  "question_id": "0099-Innovation_&_Growth-M&A_evaluation-Strategic_Fit_Assessment",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"strategic_alignment\":130,\"due_diligence_rigor\":135,\"decision-making_confidence\":125,\"overall_score\":130,\"comments\":\"The CEO's approach comprehensively addresses strategic alignment with clear criteria and ongoing strategic monitoring. The due diligence process is detailed and multi-dimensional, highlighting financial, operational, and management evaluations which demonstrate rigor. Decision-making is clearly supported by structured evaluations and stakeholder engagement, reflecting strong confidence. Overall, the answer reflects high-level leadership capabilities in M&A evaluation.\"}",
+  "scores": {
+    "Strategic Alignment": 130,
+    "Due Diligence Rigor": 135,
+    "Decision-Making Confidence": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO's approach comprehensively addresses strategic alignment with clear criteria and ongoing strategic monitoring. The due diligence process is detailed and multi-dimensional, highlighting financial, operational, and management evaluations which demonstrate rigor. Decision-making is clearly supported by structured evaluations and stakeholder engagement, reflecting strong confidence. Overall, the answer reflects high-level leadership capabilities in M&A evaluation."
+}

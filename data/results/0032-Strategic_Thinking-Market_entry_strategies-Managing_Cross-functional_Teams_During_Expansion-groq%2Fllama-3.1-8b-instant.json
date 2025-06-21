@@ -1,0 +1,14 @@
+{
+  "question_id": "0032-Strategic_Thinking-Market_entry_strategies-Managing_Cross-functional_Teams_During_Expansion",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"leadership_communication\":130,\"resource_management\":120,\"performance_monitoring\":125,\"overall_score\":125,\"comments\":\"The answer demonstrates exceptional leadership communication by clearly articulating steps to establish vision, roles, and promote collaboration. It addresses resource management thoroughly by emphasizing training, support, and allocation of resources. Performance monitoring is well-covered through KPIs, ongoing assessment, and adaptation. The comprehensive, structured approach reflects a high level of CEO capability and insight, earning a score above typical high standards.\"}",
+  "scores": {
+    "Leadership communication": 130,
+    "Resource management": 120,
+    "Performance monitoring": 125
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates exceptional leadership communication by clearly articulating steps to establish vision, roles, and promote collaboration. It addresses resource management thoroughly by emphasizing training, support, and allocation of resources. Performance monitoring is well-covered through KPIs, ongoing assessment, and adaptation. The comprehensive, structured approach reflects a high level of CEO capability and insight, earning a score above typical high standards."
+}

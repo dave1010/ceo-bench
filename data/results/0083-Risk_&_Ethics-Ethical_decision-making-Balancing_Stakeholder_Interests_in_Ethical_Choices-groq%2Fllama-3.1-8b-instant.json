@@ -1,0 +1,14 @@
+{
+  "question_id": "0083-Risk_&_Ethics-Ethical_decision-making-Balancing_Stakeholder_Interests_in_Ethical_Choices",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"stakeholder_consideration\":130,\"ethical_principles_application\":125,\"transparency_and_communication\":120,\"overall_score\":125,\"comments\":\"The CEO exhibits an exceptional and comprehensive approach to balancing stakeholder interests through engagement, advisory boards, and feedback mechanisms, reflecting a high Stakeholder Consideration score. The application of ethical principles is thorough, incorporating triple-bottom-line strategies, responsible business practices, and adherence to laws and regulations, indicating strong Ethical Principles Application. Transparency is well-addressed via regular communication, reporting, and accountability mechanisms, supporting trust and accountability. Overall, this response reflects an advanced leadership understanding indicative of an exceptional CEO.\"}",
+  "scores": {
+    "Stakeholder Consideration": 130,
+    "Ethical Principles Application": 125,
+    "Transparency and Communication": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO exhibits an exceptional and comprehensive approach to balancing stakeholder interests through engagement, advisory boards, and feedback mechanisms, reflecting a high Stakeholder Consideration score. The application of ethical principles is thorough, incorporating triple-bottom-line strategies, responsible business practices, and adherence to laws and regulations, indicating strong Ethical Principles Application. Transparency is well-addressed via regular communication, reporting, and accountability mechanisms, supporting trust and accountability. Overall, this response reflects an advanced leadership understanding indicative of an exceptional CEO."
+}

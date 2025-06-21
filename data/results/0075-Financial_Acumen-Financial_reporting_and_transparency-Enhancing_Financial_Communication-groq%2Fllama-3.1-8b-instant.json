@@ -1,0 +1,14 @@
+{
+  "question_id": "0075-Financial_Acumen-Financial_reporting_and_transparency-Enhancing_Financial_Communication",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial reporting and transparency",
+  "raw": "{\"data_accuracy_and_integrity\":130,\"transparency_and_clarity\":125,\"stakeholder_engagement\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates a strong emphasis on data accuracy through robust internal controls, independent audits, and risk management. Transparency is well-addressed by adhering to GAAP/IFRS and making reports publicly available, ensuring clarity for diverse stakeholders. The approach to stakeholder engagement is comprehensive, including scheduled communications and open channels, fostering trust. Overall, the response reflects an above-average leadership quality with thoughtful, comprehensive strategies enhancing financial reporting integrity and communication.\"}",
+  "scores": {
+    "Data accuracy and integrity": 130,
+    "Transparency and clarity": 125,
+    "Stakeholder engagement": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a strong emphasis on data accuracy through robust internal controls, independent audits, and risk management. Transparency is well-addressed by adhering to GAAP/IFRS and making reports publicly available, ensuring clarity for diverse stakeholders. The approach to stakeholder engagement is comprehensive, including scheduled communications and open channels, fostering trust. Overall, the response reflects an above-average leadership quality with thoughtful, comprehensive strategies enhancing financial reporting integrity and communication."
+}

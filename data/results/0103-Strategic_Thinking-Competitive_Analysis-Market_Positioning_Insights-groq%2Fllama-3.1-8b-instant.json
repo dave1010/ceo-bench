@@ -1,0 +1,14 @@
+{
+  "question_id": "0103-Strategic_Thinking-Competitive_Analysis-Market_Positioning_Insights",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive Analysis",
+  "raw": "{\"market_awareness\":130,\"adaptability\":125,\"strategic_implementation\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates exceptional market awareness through continuous and comprehensive market analysis, competitor intelligence, and customer insights. Their adaptability is reflected in scenario planning, agility in organizational structure, and willingness to innovate and experiment. Strategic implementation is strong, incorporating feedback loops, collaborations, skill development, and systematic adjustments to market positioning. The approach is holistic and proactive, indicative of a CEO capable of driving significant organizational success in a dynamic market environment.\"}",
+  "scores": {
+    "Market Awareness": 130,
+    "Adaptability": 125,
+    "Strategic Implementation": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates exceptional market awareness through continuous and comprehensive market analysis, competitor intelligence, and customer insights. Their adaptability is reflected in scenario planning, agility in organizational structure, and willingness to innovate and experiment. Strategic implementation is strong, incorporating feedback loops, collaborations, skill development, and systematic adjustments to market positioning. The approach is holistic and proactive, indicative of a CEO capable of driving significant organizational success in a dynamic market environment."
+}

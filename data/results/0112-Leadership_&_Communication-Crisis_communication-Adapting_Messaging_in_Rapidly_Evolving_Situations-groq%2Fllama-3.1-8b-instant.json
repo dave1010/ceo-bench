@@ -1,0 +1,14 @@
+{
+  "question_id": "0112-Leadership_&_Communication-Crisis_communication-Adapting_Messaging_in_Rapidly_Evolving_Situations",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"responsiveness\":120,\"clarity\":125,\"empathy\":120,\"overall_score\":122,\"comments\":\"The answer comprehensively addresses how a CEO should adapt messaging during a crisis by emphasizing timely and transparent communication, empathy, setting the right tone, framing uncertainty, providing actionable steps, and maintaining authenticity. Responsiveness is rated highly due to focus on early communication and adaptability. Clarity is strong because the guidelines emphasize clear, direct messaging and actionable steps. Empathy is well-covered through emphasis on compassionate tone and stakeholder reassurance. Overall, the answer demonstrates an exceptional understanding of crisis communication tailored for CEOs.\"}",
+  "scores": {
+    "Responsiveness": 120,
+    "Clarity": 125,
+    "Empathy": 120
+  },
+  "total": 122.0,
+  "comments": "The answer comprehensively addresses how a CEO should adapt messaging during a crisis by emphasizing timely and transparent communication, empathy, setting the right tone, framing uncertainty, providing actionable steps, and maintaining authenticity. Responsiveness is rated highly due to focus on early communication and adaptability. Clarity is strong because the guidelines emphasize clear, direct messaging and actionable steps. Empathy is well-covered through emphasis on compassionate tone and stakeholder reassurance. Overall, the answer demonstrates an exceptional understanding of crisis communication tailored for CEOs."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0104-Strategic_Thinking-Industry_Trends-Anticipating_Market_Changes",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Industry Trends",
+  "raw": "{\"market_awareness\":130,\"proactiveness\":125,\"strategic_preparedness\":130,\"overall_score\":128.3,\"comments\":\"The CEO answer comprehensively identifies a wide range of tactics to remain informed on industry shifts, indicating exceptional market awareness. Their approach includes cross-functional teams, strategic partnerships, and monitoring regulatory changes, which shows proactive and ongoing engagement with early signals. The prepared strategies demonstrate a robust, agile business model with investments in emerging technologies, talent development, digital transformation, and continuous strategic plan revisions, reflecting high strategic preparedness. Scores reflect a well-above-average leadership capability likely to drive strong organizational advantage.\"}",
+  "scores": {
+    "Market Awareness": 130,
+    "Proactiveness": 125,
+    "Strategic Preparedness": 130
+  },
+  "total": 128.3,
+  "comments": "The CEO answer comprehensively identifies a wide range of tactics to remain informed on industry shifts, indicating exceptional market awareness. Their approach includes cross-functional teams, strategic partnerships, and monitoring regulatory changes, which shows proactive and ongoing engagement with early signals. The prepared strategies demonstrate a robust, agile business model with investments in emerging technologies, talent development, digital transformation, and continuous strategic plan revisions, reflecting high strategic preparedness. Scores reflect a well-above-average leadership capability likely to drive strong organizational advantage."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0055-Leadership_&_Communication-Change_Management-Leading_Organizational_Change",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Change Management",
+  "raw": "{\"communication_strategy\":130,\"employee_engagement\":125,\"adaptability\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a sophisticated understanding of leading organizational change, emphasizing clear communication of reasons, impacts, and benefits (communication_strategy). It highlights active employee involvement and fostering collaboration, which scores high in employee engagement. The CEO also shows strong adaptability with emphasis on resilience, willingness to adjust plans, and emotional intelligence. Overall, the response reflects a high level of leadership maturity and strategic insight suitable for exceptional CEO performance.\"}",
+  "scores": {
+    "Communication Strategy": 130,
+    "Employee Engagement": 125,
+    "Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a sophisticated understanding of leading organizational change, emphasizing clear communication of reasons, impacts, and benefits (communication_strategy). It highlights active employee involvement and fostering collaboration, which scores high in employee engagement. The CEO also shows strong adaptability with emphasis on resilience, willingness to adjust plans, and emotional intelligence. Overall, the response reflects a high level of leadership maturity and strategic insight suitable for exceptional CEO performance."
+}

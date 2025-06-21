@@ -1,0 +1,14 @@
+{
+  "question_id": "0011-Strategic_Thinking-Market_entry_strategies-Tailoring_Market_Entry_Models_to_Local_Dynamics",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"cultural_adaptation\":120,\"regulatory_compliance\":115,\"economic_context\":110,\"overall_score\":115,\"comments\":\"The answer comprehensively addresses all three dimensions with clear, structured strategies. It demonstrates strong understanding of cultural nuances through localization of marketing and partnerships, indicating above-average cultural adaptation. Regulatory compliance is well-integrated through mention of permits, licenses, and certifications, showing solid grasp of legal requirements. Economic context considerations such as pricing adjustments and understanding of exchange rates and purchasing power are thoughtfully incorporated. Overall, the response reflects a capable CEO's approach with some advanced insights, meriting a score above average yet short of genius level.\"}",
+  "scores": {
+    "Cultural Adaptation": 120,
+    "Regulatory Compliance": 115,
+    "Economic Context": 110
+  },
+  "total": 115.0,
+  "comments": "The answer comprehensively addresses all three dimensions with clear, structured strategies. It demonstrates strong understanding of cultural nuances through localization of marketing and partnerships, indicating above-average cultural adaptation. Regulatory compliance is well-integrated through mention of permits, licenses, and certifications, showing solid grasp of legal requirements. Economic context considerations such as pricing adjustments and understanding of exchange rates and purchasing power are thoughtfully incorporated. Overall, the response reflects a capable CEO's approach with some advanced insights, meriting a score above average yet short of genius level."
+}

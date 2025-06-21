@@ -1,0 +1,14 @@
+{
+  "question_id": "0118-Risk_&_Ethics-Regulatory_compliance-Navigating_Shifting_Regulatory_Landscapes",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Regulatory compliance",
+  "raw": "{\"strategic_foresight\":130,\"operational_implementation\":125,\"risk_management\":130,\"overall_score\":128.3,\"comments\":\"The answer demonstrates exceptional strategic foresight by emphasizing proactive monitoring, use of advanced tools, and staying ahead of emerging trends like blockchain and AI. Operational implementation is robust with centralized compliance functions, detailed training plans, internal controls, and external audits. Risk management is clearly addressed via a risk-based compliance framework and regular assessments, indicating a high awareness and control over potential compliance breaches. Overall, the response reflects a genius-level leadership approach appropriate for extraordinary organizational performance.\"}",
+  "scores": {
+    "Strategic Foresight": 130,
+    "Operational Implementation": 125,
+    "Risk Management": 130
+  },
+  "total": 128.3,
+  "comments": "The answer demonstrates exceptional strategic foresight by emphasizing proactive monitoring, use of advanced tools, and staying ahead of emerging trends like blockchain and AI. Operational implementation is robust with centralized compliance functions, detailed training plans, internal controls, and external audits. Risk management is clearly addressed via a risk-based compliance framework and regular assessments, indicating a high awareness and control over potential compliance breaches. Overall, the response reflects a genius-level leadership approach appropriate for extraordinary organizational performance."
+}

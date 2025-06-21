@@ -1,0 +1,14 @@
+{
+  "question_id": "0119-Risk_&_Ethics-Ethical_decision-making-Cultivating_Ethical_Culture_Within_the_Organization",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"leadership_commitment\":130,\"communication_and_awareness\":125,\"accountability_and_reinforcement\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates strong leadership commitment through leading by example and establishing clear codes and values. It emphasizes comprehensive communication and awareness efforts including training, open dialogue, and transparency. Accountability is well addressed with clear consequences, recognition of ethical behavior, and regular monitoring. Overall, the approach is thorough and indicative of an advanced understanding of fostering ethical culture, deserving a high Leadership Quotient score.\"}",
+  "scores": {
+    "Leadership Commitment": 130,
+    "Communication and Awareness": 125,
+    "Accountability and Reinforcement": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates strong leadership commitment through leading by example and establishing clear codes and values. It emphasizes comprehensive communication and awareness efforts including training, open dialogue, and transparency. Accountability is well addressed with clear consequences, recognition of ethical behavior, and regular monitoring. Overall, the approach is thorough and indicative of an advanced understanding of fostering ethical culture, deserving a high Leadership Quotient score."
+}

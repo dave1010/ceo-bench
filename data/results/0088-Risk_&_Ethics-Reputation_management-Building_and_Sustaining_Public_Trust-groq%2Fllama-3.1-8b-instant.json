@@ -1,0 +1,14 @@
+{
+  "question_id": "0088-Risk_&_Ethics-Reputation_management-Building_and_Sustaining_Public_Trust",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"transparency\":115,\"consistency\":110,\"engagement\":112,\"overall_score\":112.3,\"comments\":\"The CEO demonstrates a strong understanding of fostering transparency by proposing clear messaging, regular reporting, and transparent decision-making. The emphasis on consistency is evident through alignment of messages across channels and regular updates. Engagement is well addressed by mechanisms such as active listening, stakeholder advisory boards, and feedback loops. The approach is comprehensive, proactive, and balanced, aligning well with the rubric criteria and indicating a capable leadership style.\"}",
+  "scores": {
+    "Transparency": 115,
+    "Consistency": 110,
+    "Engagement": 112
+  },
+  "total": 112.3,
+  "comments": "The CEO demonstrates a strong understanding of fostering transparency by proposing clear messaging, regular reporting, and transparent decision-making. The emphasis on consistency is evident through alignment of messages across channels and regular updates. Engagement is well addressed by mechanisms such as active listening, stakeholder advisory boards, and feedback loops. The approach is comprehensive, proactive, and balanced, aligning well with the rubric criteria and indicating a capable leadership style."
+}

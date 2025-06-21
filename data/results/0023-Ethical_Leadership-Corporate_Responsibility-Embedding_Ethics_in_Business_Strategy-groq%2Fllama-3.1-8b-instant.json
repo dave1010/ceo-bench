@@ -1,0 +1,14 @@
+{
+  "question_id": "0023-Ethical_Leadership-Corporate_Responsibility-Embedding_Ethics_in_Business_Strategy",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Ethical Leadership",
+  "subtopic": "Corporate Responsibility",
+  "raw": "{\"ethical_framework\":130,\"policy_integration\":130,\"leadership_example\":125,\"overall_score\":128.3,\"comments\":\"The answer demonstrates a comprehensive and actionable approach to embedding ethics and corporate responsibility into the core strategic decision-making process. The CEO proposes strong governance, clear principles, diverse and representative leadership, and a culture emphasizing integrity and accountability, fulfilling the Ethical Framework criterion impressively. Policy Integration is robust, with explicit emphasis on embedding ESG metrics into performance evaluations, risk analysis, stakeholder engagement, and third-party audits, indicating a thorough integration into company procedures and policies. Leadership Example is well addressed through commitment to transparency, open communication, and continuous improvement in diversity, equity, and inclusion, setting a strong ethical tone at the top. Overall, this reflects exceptional understanding and capability beyond average CEO expectations.\"}",
+  "scores": {
+    "Ethical Framework": 130,
+    "Policy Integration": 130,
+    "Leadership Example": 125
+  },
+  "total": 128.3,
+  "comments": "The answer demonstrates a comprehensive and actionable approach to embedding ethics and corporate responsibility into the core strategic decision-making process. The CEO proposes strong governance, clear principles, diverse and representative leadership, and a culture emphasizing integrity and accountability, fulfilling the Ethical Framework criterion impressively. Policy Integration is robust, with explicit emphasis on embedding ESG metrics into performance evaluations, risk analysis, stakeholder engagement, and third-party audits, indicating a thorough integration into company procedures and policies. Leadership Example is well addressed through commitment to transparency, open communication, and continuous improvement in diversity, equity, and inclusion, setting a strong ethical tone at the top. Overall, this reflects exceptional understanding and capability beyond average CEO expectations."
+}

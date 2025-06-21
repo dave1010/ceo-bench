@@ -1,0 +1,14 @@
+{
+  "question_id": "0044-Operational_Excellence-Resource_optimization-Sustainable_Resource_Use",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"policy_development\":130,\"employee_engagement\":125,\"outcome_tracking\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates a strong commitment to sustainability by outlining a comprehensive approach to policy development, including integrating sustainability into core business strategy and creating environmental policies. Employee engagement is well-addressed through leadership by example, training, recognition, and involvement initiatives. Outcome tracking is solid with goals setting, performance monitoring, and transparent communication. The overall approach reflects a high Leadership Quotient indicative of an exceptional CEO in sustainability leadership.\"}",
+  "scores": {
+    "Policy Development": 130,
+    "Employee Engagement": 125,
+    "Outcome Tracking": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a strong commitment to sustainability by outlining a comprehensive approach to policy development, including integrating sustainability into core business strategy and creating environmental policies. Employee engagement is well-addressed through leadership by example, training, recognition, and involvement initiatives. Outcome tracking is solid with goals setting, performance monitoring, and transparent communication. The overall approach reflects a high Leadership Quotient indicative of an exceptional CEO in sustainability leadership."
+}

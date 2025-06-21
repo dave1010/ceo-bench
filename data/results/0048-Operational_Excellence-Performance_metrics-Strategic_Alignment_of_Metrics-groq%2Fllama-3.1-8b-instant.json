@@ -1,0 +1,14 @@
+{
+  "question_id": "0048-Operational_Excellence-Performance_metrics-Strategic_Alignment_of_Metrics",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"clarity_of_strategic_alignment\":115,\"implementation_effectiveness\":110,\"continuous_improvement\":110,\"overall_score\":112,\"comments\":\"The CEO demonstrates a strong and clear alignment between performance metrics and strategic goals, with well-established KPIs and clear communication across the organization. Implementation is effective, as metrics are regularly reviewed and inform decision-making and resource allocation. The CEO also fosters a culture of continuous improvement by encouraging ongoing review and adaptation of metrics. The rationale reflects confident and competent leadership practices indicative of a capable CEO.\"}",
+  "scores": {
+    "Clarity of strategic alignment": 115,
+    "Implementation effectiveness": 110,
+    "Continuous improvement": 110
+  },
+  "total": 112.0,
+  "comments": "The CEO demonstrates a strong and clear alignment between performance metrics and strategic goals, with well-established KPIs and clear communication across the organization. Implementation is effective, as metrics are regularly reviewed and inform decision-making and resource allocation. The CEO also fosters a culture of continuous improvement by encouraging ongoing review and adaptation of metrics. The rationale reflects confident and competent leadership practices indicative of a capable CEO."
+}

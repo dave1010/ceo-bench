@@ -1,0 +1,14 @@
+{
+  "question_id": "0054-Leadership_&_Communication-Cultural_Communication-Promoting_Organizational_Values_Communicatively",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Cultural Communication",
+  "raw": "{\"consistency\":125,\"modeling_behavior\":130,\"cultural_alignment\":128,\"overall_score\":127.7,\"comments\":\"The answer comprehensively addresses how the CEO communicates and reinforces organizational culture and core values. It emphasizes consistent messaging through multiple channels, models behavior by leadership example, and fosters cultural alignment via feedback loops, culture committees, and recognition programs. The approach is thorough, practical, and reflects an exceptional level of insight suitable for a top-tier CEO.\"}",
+  "scores": {
+    "Consistency": 125,
+    "Modeling Behavior": 130,
+    "Cultural Alignment": 128
+  },
+  "total": 127.7,
+  "comments": "The answer comprehensively addresses how the CEO communicates and reinforces organizational culture and core values. It emphasizes consistent messaging through multiple channels, models behavior by leadership example, and fosters cultural alignment via feedback loops, culture committees, and recognition programs. The approach is thorough, practical, and reflects an exceptional level of insight suitable for a top-tier CEO."
+}

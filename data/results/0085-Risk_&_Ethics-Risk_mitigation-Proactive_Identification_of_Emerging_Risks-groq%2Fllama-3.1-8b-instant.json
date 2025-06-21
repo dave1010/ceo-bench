@@ -1,0 +1,14 @@
+{
+  "question_id": "0085-Risk_&_Ethics-Risk_mitigation-Proactive_Identification_of_Emerging_Risks",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"proactivity_in_risk_detection\":130,\"integration_with_organizational_processes\":125,\"responsiveness_and_follow-through\":130,\"overall_score\":128.3,\"comments\":\"The answer demonstrates a comprehensive and proactive approach to risk detection, including fostering a risk-aware culture and utilizing advanced tools like AI for emerging risk identification, reflecting a high level of proactivity. It clearly integrates risk detection with organizational processes such as strategic alignment, KPIs, and cross-functional teams, showing strong integration. The CEO also ensures responsiveness through continuous monitoring, regular updates, and responsiveness to changes, indicating effective follow-through. Overall, the response displays exceptional leadership qualities in risk management, meriting a score well above average.\"}",
+  "scores": {
+    "Proactivity in Risk Detection": 130,
+    "Integration with Organizational Processes": 125,
+    "Responsiveness and Follow-through": 130
+  },
+  "total": 128.3,
+  "comments": "The answer demonstrates a comprehensive and proactive approach to risk detection, including fostering a risk-aware culture and utilizing advanced tools like AI for emerging risk identification, reflecting a high level of proactivity. It clearly integrates risk detection with organizational processes such as strategic alignment, KPIs, and cross-functional teams, showing strong integration. The CEO also ensures responsiveness through continuous monitoring, regular updates, and responsiveness to changes, indicating effective follow-through. Overall, the response displays exceptional leadership qualities in risk management, meriting a score well above average."
+}

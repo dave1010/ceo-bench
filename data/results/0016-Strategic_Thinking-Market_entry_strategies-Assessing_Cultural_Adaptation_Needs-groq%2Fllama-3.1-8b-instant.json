@@ -1,0 +1,14 @@
+{
+  "question_id": "0016-Strategic_Thinking-Market_entry_strategies-Assessing_Cultural_Adaptation_Needs",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"cultural_awareness\":130,\"flexibility_in_approach\":130,\"stakeholder_engagement\":125,\"overall_score\":128.3,\"comments\":\"The answer demonstrates a strong and detailed understanding of cultural differences through the Cultural Intelligence framework, indicating high cultural awareness. It clearly outlines adaptive strategies, including product customization and culturally relevant marketing, showing excellent flexibility in approach. The emphasis on local partnerships, hiring, and collaboration reflects strong stakeholder engagement. Overall, the response is comprehensive, thoughtful, and aligns well with best practices for successful market entry, warranting a high leadership quotient score.\"}",
+  "scores": {
+    "Cultural Awareness": 130,
+    "Flexibility in Approach": 130,
+    "Stakeholder Engagement": 125
+  },
+  "total": 128.3,
+  "comments": "The answer demonstrates a strong and detailed understanding of cultural differences through the Cultural Intelligence framework, indicating high cultural awareness. It clearly outlines adaptive strategies, including product customization and culturally relevant marketing, showing excellent flexibility in approach. The emphasis on local partnerships, hiring, and collaboration reflects strong stakeholder engagement. Overall, the response is comprehensive, thoughtful, and aligns well with best practices for successful market entry, warranting a high leadership quotient score."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0007-Strategic_Thinking-Market_entry_strategies-Prioritizing_Market_Entry_Timing",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"market_analysis\":115,\"strategic_agility\":110,\"risk_management\":110,\"overall_score\":111.7,\"comments\":\"The response comprehensively addresses market analysis with detailed evaluation methods and KPIs, demonstrating strong capability. Strategic agility is shown through scenario planning and monitoring external factors such as regulatory changes, indicating flexibility to adjust plans. Risk management is well covered via scenario planning and risk mitigation recommendations, balancing urgency and caution effectively. Overall, this is a solid and structured approach indicative of a capable CEO.\"}",
+  "scores": {
+    "Market Analysis": 115,
+    "Strategic Agility": 110,
+    "Risk Management": 110
+  },
+  "total": 111.7,
+  "comments": "The response comprehensively addresses market analysis with detailed evaluation methods and KPIs, demonstrating strong capability. Strategic agility is shown through scenario planning and monitoring external factors such as regulatory changes, indicating flexibility to adjust plans. Risk management is well covered via scenario planning and risk mitigation recommendations, balancing urgency and caution effectively. Overall, this is a solid and structured approach indicative of a capable CEO."
+}

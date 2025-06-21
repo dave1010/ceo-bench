@@ -1,0 +1,14 @@
+{
+  "question_id": "0120-Risk_&_Ethics-Risk_mitigation-Building_a_Risk_Awareness_Culture",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"leadership_in_risk_culture\":120,\"employee_engagement\":115,\"continuous_improvement\":110,\"overall_score\":115,\"comments\":\"The CEO's answer demonstrates a strong leadership commitment to fostering risk culture through transparency, open communication, and leading by example. The approach to employee engagement is comprehensive, emphasizing empowerment, safe reporting mechanisms, and recognition, indicating that staff would feel responsible and motivated to identify risks. Continuous improvement is addressed via regular risk assessments, KPI tracking, and learning from successes and failures. The detailed, structured plan reflects a capable CEO with above-average competency in embedding risk culture.\"}",
+  "scores": {
+    "Leadership in Risk Culture": 120,
+    "Employee Engagement": 115,
+    "Continuous Improvement": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO's answer demonstrates a strong leadership commitment to fostering risk culture through transparency, open communication, and leading by example. The approach to employee engagement is comprehensive, emphasizing empowerment, safe reporting mechanisms, and recognition, indicating that staff would feel responsible and motivated to identify risks. Continuous improvement is addressed via regular risk assessments, KPI tracking, and learning from successes and failures. The detailed, structured plan reflects a capable CEO with above-average competency in embedding risk culture."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0081-Risk_&_Ethics-Ethical_leadership_in_crisis_situations-Navigating_Ethical_Dilemmas_During_Crisis",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical leadership in crisis situations",
+  "raw": "{\"crisis_response_integrity\":120,\"stakeholder_consideration\":125,\"personal_accountability\":130,\"overall_score\":125,\"comments\":\"The answer comprehensively addresses ethical leadership in crisis situations, emphasizing transparent communication, prioritization of stakeholder interests, acting with integrity, seeking diverse perspectives, and balancing short- and long-term goals, which reflects strong crisis response integrity. The emphasis on clear communication and consideration of multiple stakeholders aligns well with stakeholder consideration. The commitment to personal accountability and leading by example strongly fulfills personal accountability. The detailed example further demonstrates practical application. Overall, this demonstrates above-average leadership qualities well beyond typical expectations.\"}",
+  "scores": {
+    "Crisis response integrity": 120,
+    "Stakeholder consideration": 125,
+    "Personal accountability": 130
+  },
+  "total": 125.0,
+  "comments": "The answer comprehensively addresses ethical leadership in crisis situations, emphasizing transparent communication, prioritization of stakeholder interests, acting with integrity, seeking diverse perspectives, and balancing short- and long-term goals, which reflects strong crisis response integrity. The emphasis on clear communication and consideration of multiple stakeholders aligns well with stakeholder consideration. The commitment to personal accountability and leading by example strongly fulfills personal accountability. The detailed example further demonstrates practical application. Overall, this demonstrates above-average leadership qualities well beyond typical expectations."
+}

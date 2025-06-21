@@ -1,0 +1,14 @@
+{
+  "question_id": "0087-Risk_&_Ethics-Reputation_management-Crisis_Response_Effectiveness",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"response_timeliness\":115,\"transparency_and_honesty\":120,\"restoration_of_trust\":118,\"overall_score\":117.7,\"comments\":\"The CEO demonstrates a thorough and proactive approach, including setting up a reputation management team and crisis communication plan, which ensures timeliness. The emphasis on consistent, clear messaging and taking responsibility reflects strong transparency and honesty. A detailed plan for regular updates, enhancing communication, and reinforcing values indicates a strong strategy for restoring trust. Overall, this response aligns well with best practices for effective leadership in reputational crises, earning high marks across all dimensions.\"}",
+  "scores": {
+    "Response timeliness": 115,
+    "Transparency and honesty": 120,
+    "Restoration of trust": 118
+  },
+  "total": 117.7,
+  "comments": "The CEO demonstrates a thorough and proactive approach, including setting up a reputation management team and crisis communication plan, which ensures timeliness. The emphasis on consistent, clear messaging and taking responsibility reflects strong transparency and honesty. A detailed plan for regular updates, enhancing communication, and reinforcing values indicates a strong strategy for restoring trust. Overall, this response aligns well with best practices for effective leadership in reputational crises, earning high marks across all dimensions."
+}

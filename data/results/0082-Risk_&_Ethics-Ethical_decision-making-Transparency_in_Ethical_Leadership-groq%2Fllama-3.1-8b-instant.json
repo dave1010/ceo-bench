@@ -1,0 +1,14 @@
+{
+  "question_id": "0082-Risk_&_Ethics-Ethical_decision-making-Transparency_in_Ethical_Leadership",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"openness\":120,\"integrity\":115,\"accountability\":118,\"overall_score\":117.7,\"comments\":\"The answer clearly demonstrates strong openness through timely and clear communication with stakeholders and employee empowerment. Integrity is well represented by a commitment to honesty, leading by example, and willingness to make tough decisions in alignment with ethical standards. Accountability is robustly addressed by taking personal responsibility, encouraging organizational accountability, and regularly reviewing compliance processes. Overall, the response reflects an above-average leadership quality in navigating complex ethical issues with transparency.\"}",
+  "scores": {
+    "Openness": 120,
+    "Integrity": 115,
+    "Accountability": 118
+  },
+  "total": 117.7,
+  "comments": "The answer clearly demonstrates strong openness through timely and clear communication with stakeholders and employee empowerment. Integrity is well represented by a commitment to honesty, leading by example, and willingness to make tough decisions in alignment with ethical standards. Accountability is robustly addressed by taking personal responsibility, encouraging organizational accountability, and regularly reviewing compliance processes. Overall, the response reflects an above-average leadership quality in navigating complex ethical issues with transparency."
+}

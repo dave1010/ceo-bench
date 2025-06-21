@@ -1,0 +1,14 @@
+{
+  "question_id": "0111-Leadership_&_Communication-Building_Stakeholder_Loyalty-Cultivating_Long-Term_Stakeholder_Relationships",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Building Stakeholder Loyalty",
+  "raw": "{\"relationship_management\":130,\"value_creation\":125,\"responsiveness\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates exceptional strategies for building and sustaining stakeholder loyalty, emphasizing clear communication, shared values, inclusivity, transparency, and empowerment. Relationship Management is strong through personalized engagement and trust-building efforts. The emphasis on delivering value and aligning with stakeholder needs reflects high Value Creation. Although responsiveness is implied through open feedback channels and active solicitation of input, it is less explicitly detailed but still addressed effectively. Overall, the answer reflects a high leadership quotient indicative of an exceptional CEO.\"}",
+  "scores": {
+    "Relationship Management": 130,
+    "Value Creation": 125,
+    "Responsiveness": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates exceptional strategies for building and sustaining stakeholder loyalty, emphasizing clear communication, shared values, inclusivity, transparency, and empowerment. Relationship Management is strong through personalized engagement and trust-building efforts. The emphasis on delivering value and aligning with stakeholder needs reflects high Value Creation. Although responsiveness is implied through open feedback channels and active solicitation of input, it is less explicitly detailed but still addressed effectively. Overall, the answer reflects a high leadership quotient indicative of an exceptional CEO."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0033-Change_Management-Driving_Organizational_Change-Leading_Successful_Change_Initiatives",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Change Management",
+  "subtopic": "Driving Organizational Change",
+  "raw": "{\"communication_strategy\":115,\"stakeholder_engagement\":120,\"monitoring_and_adjustment\":110,\"overall_score\":115,\"comments\":\"The answer thoroughly covers communication by clearly defining purpose, involving stakeholders, and providing resources, showing strong skills in articulating vision and benefits. Stakeholder engagement is detailed with coalition building, feedback channels, and recognition, reflecting active involvement and support-building. Monitoring and adjustment are addressed through KPIs, continuous evaluation, and iterative learning, demonstrating effective tracking and adaptability. Overall, this reflects a capable CEO well above average, though not reaching genius-level insights.\"}",
+  "scores": {
+    "Communication Strategy": 115,
+    "Stakeholder Engagement": 120,
+    "Monitoring and Adjustment": 110
+  },
+  "total": 115.0,
+  "comments": "The answer thoroughly covers communication by clearly defining purpose, involving stakeholders, and providing resources, showing strong skills in articulating vision and benefits. Stakeholder engagement is detailed with coalition building, feedback channels, and recognition, reflecting active involvement and support-building. Monitoring and adjustment are addressed through KPIs, continuous evaluation, and iterative learning, demonstrating effective tracking and adaptability. Overall, this reflects a capable CEO well above average, though not reaching genius-level insights."
+}

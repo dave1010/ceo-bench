@@ -1,0 +1,14 @@
+{
+  "question_id": "0017-Strategic_Thinking-Long-term_Planning-Visionary_Strategy_Development",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Planning",
+  "raw": "{\"clarity_of_vision\":130,\"engagement\":125,\"adaptability\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates a clear and compelling long-term vision through strategic planning, stakeholder engagement, and market analysis, resulting in a high clarity score. Communication is strong, employing storytelling, clear messaging, and leadership by example to inspire commitment, warranting a high engagement score. The vision also emphasizes adaptability and responsiveness to market changes, earning a strong score in adaptability. Overall, this reflects exceptional leadership qualities aligned with top-tier CEO performance.\"}",
+  "scores": {
+    "Clarity of vision": 130,
+    "Engagement": 125,
+    "Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a clear and compelling long-term vision through strategic planning, stakeholder engagement, and market analysis, resulting in a high clarity score. Communication is strong, employing storytelling, clear messaging, and leadership by example to inspire commitment, warranting a high engagement score. The vision also emphasizes adaptability and responsiveness to market changes, earning a strong score in adaptability. Overall, this reflects exceptional leadership qualities aligned with top-tier CEO performance."
+}

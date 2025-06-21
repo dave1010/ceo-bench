@@ -1,0 +1,14 @@
+{
+  "question_id": "0060-Leadership_&_Communication-Crisis_communication-Navigating_Unexpected_Challenges",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"proactivity\":130,\"clarity_of_communication\":125,\"stakeholder_confidence\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a highly proactive approach to crisis management, covering comprehensive risk assessments, scenario planning, and continuous improvement through reviews and simulations. Communication is clearly prioritized with defined protocols and designated contacts, ensuring transparency and efficiency. Stakeholder confidence is maintained by fostering trust, openness, and regulatory compliance. Overall, this response reflects exceptional leadership qualities likely to result in strong organizational resilience during crises.\"}",
+  "scores": {
+    "Proactivity": 130,
+    "Clarity of Communication": 125,
+    "Stakeholder Confidence": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a highly proactive approach to crisis management, covering comprehensive risk assessments, scenario planning, and continuous improvement through reviews and simulations. Communication is clearly prioritized with defined protocols and designated contacts, ensuring transparency and efficiency. Stakeholder confidence is maintained by fostering trust, openness, and regulatory compliance. Overall, this response reflects exceptional leadership qualities likely to result in strong organizational resilience during crises."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0092-Innovation_&_Growth-Product_innovation-Customer-Centric_Design_Approach",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Product innovation",
+  "raw": "{\"customer_engagement\":130,\"integration_of_feedback\":135,\"outcome_focus\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates a comprehensive and systematic approach to capturing, advocating, and integrating customer feedback at all levels of the organization. The strategies include cultural embedding, structured feedback mechanisms, cross-functional teams, and data-driven KPIs, all of which indicate a high level of leadership competence. Personal engagement and leadership visibility further strengthen customer-centricity. This approach would likely result in products well-aligned to customer needs and drive significant business growth, reflecting a 'genius' level CEO performance.\"}",
+  "scores": {
+    "Customer Engagement": 130,
+    "Integration of Feedback": 135,
+    "Outcome Focus": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates a comprehensive and systematic approach to capturing, advocating, and integrating customer feedback at all levels of the organization. The strategies include cultural embedding, structured feedback mechanisms, cross-functional teams, and data-driven KPIs, all of which indicate a high level of leadership competence. Personal engagement and leadership visibility further strengthen customer-centricity. This approach would likely result in products well-aligned to customer needs and drive significant business growth, reflecting a 'genius' level CEO performance."
+}

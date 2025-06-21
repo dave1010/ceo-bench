@@ -1,0 +1,14 @@
+{
+  "question_id": "0093-Innovation_&_Growth-Technology_adoption-Accelerating_Digital_Transformation",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"leadership_in_technology_adoption\":125,\"strategy_alignment\":120,\"change_management\":118,\"overall_score\":121,\"comments\":\"The response demonstrates strong proactive leadership in technology adoption with clear initiatives to champion innovation and allocate resources. The outlined digital strategy is well aligned with broader business objectives, ensuring competitive advantage. The emphasis on cultivating an innovative culture and managing organizational change reflects effective change management practices. Minor improvements could enhance adaptability to emerging trends.\"}",
+  "scores": {
+    "Leadership in Technology Adoption": 125,
+    "Strategy Alignment": 120,
+    "Change Management": 118
+  },
+  "total": 121.0,
+  "comments": "The response demonstrates strong proactive leadership in technology adoption with clear initiatives to champion innovation and allocate resources. The outlined digital strategy is well aligned with broader business objectives, ensuring competitive advantage. The emphasis on cultivating an innovative culture and managing organizational change reflects effective change management practices. Minor improvements could enhance adaptability to emerging trends."
+}

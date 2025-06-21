@@ -1,0 +1,14 @@
+{
+  "question_id": "0050-Operational_Excellence-Performance_metrics-Training_and_Cultural_Integration",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"cultural_leadership\":130,\"training_and_development\":120,\"recognition_and_incentives\":115,\"overall_score\":122.0,\"comments\":\"The answer demonstrates a strong commitment to establishing and embedding a culture valuing accurate measurement and continuous improvement, indicating high cultural leadership. It emphasizes investment in training and development, showing understanding of its importance in enhancing data-driven capabilities. Recognition of successes and learning from failures points to awareness of incentives that support continuous improvement. Overall, the response reflects an advanced understanding of the CEO's role in fostering such a culture, meriting scores above average in all dimensions.\"}",
+  "scores": {
+    "Cultural Leadership": 130,
+    "Training and Development": 120,
+    "Recognition and Incentives": 115
+  },
+  "total": 122.0,
+  "comments": "The answer demonstrates a strong commitment to establishing and embedding a culture valuing accurate measurement and continuous improvement, indicating high cultural leadership. It emphasizes investment in training and development, showing understanding of its importance in enhancing data-driven capabilities. Recognition of successes and learning from failures points to awareness of incentives that support continuous improvement. Overall, the response reflects an advanced understanding of the CEO's role in fostering such a culture, meriting scores above average in all dimensions."
+}

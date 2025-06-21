@@ -1,0 +1,14 @@
+{
+  "question_id": "0078-Risk_&_Ethics-Ethical_Leadership_&_Decision-Making-Embedding_Ethics_in_Leadership",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical Leadership & Decision-Making",
+  "raw": "{\"decision_frameworks\":120,\"transparency_and_accountability\":115,\"cultural_promotion\":125,\"overall_score\":120,\"comments\":\"The answer thoroughly addresses the use of established ethical frameworks, stakeholder engagement, and risk assessments, meriting a strong score in Decision Frameworks. Transparency and accountability are well covered through clear communication and accountability assignments, justifying a high score. The emphasis on fostering an ethical culture via leadership example, training, compliance programs, and open communication is comprehensive and earns the highest score among dimensions. Overall, the response reflects an exceptional approach to ethics in leadership, supporting a strong overall score.\"}",
+  "scores": {
+    "Decision Frameworks": 120,
+    "Transparency and Accountability": 115,
+    "Cultural Promotion": 125
+  },
+  "total": 120.0,
+  "comments": "The answer thoroughly addresses the use of established ethical frameworks, stakeholder engagement, and risk assessments, meriting a strong score in Decision Frameworks. Transparency and accountability are well covered through clear communication and accountability assignments, justifying a high score. The emphasis on fostering an ethical culture via leadership example, training, compliance programs, and open communication is comprehensive and earns the highest score among dimensions. Overall, the response reflects an exceptional approach to ethics in leadership, supporting a strong overall score."
+}

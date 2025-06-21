@@ -1,0 +1,14 @@
+{
+  "question_id": "0095-Innovation_&_Growth-Technology_adoption-Embracing_Emerging_Technologies",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"strategic_vision\":130,\"implementation_capability\":120,\"impact_measurement\":115,\"overall_score\":122.5,\"comments\":\"The CEO shows strong strategic vision by aligning emerging technologies with business goals, reflecting proactive planning and industry awareness. Implementation capability is solid, fostering collaboration and risk management, though some legacy system integration and workforce upskilling need attention. Impact measurement is evident through continuous evaluation, but could improve with more structured metrics. Overall, the performance is strong with clear areas for focused improvement.\"}",
+  "scores": {
+    "Strategic Vision": 130,
+    "Implementation Capability": 120,
+    "Impact Measurement": 115
+  },
+  "total": 122.5,
+  "comments": "The CEO shows strong strategic vision by aligning emerging technologies with business goals, reflecting proactive planning and industry awareness. Implementation capability is solid, fostering collaboration and risk management, though some legacy system integration and workforce upskilling need attention. Impact measurement is evident through continuous evaluation, but could improve with more structured metrics. Overall, the performance is strong with clear areas for focused improvement."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0022-Strategic_Thinking-Resource_Prioritization-Strategic_Resource_Deployment",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Resource Prioritization",
+  "raw": "{\"prioritization_skills\":115,\"decision-making_process\":110,\"outcome_focus\":112,\"overall_score\":112.3,\"comments\":\"The answer demonstrates a strong prioritization skill by differentiating between short-term and long-term goals and using a prioritization matrix based on strategic objectives and resource availability. The decision-making process is informed by structured frameworks, data considerations like ROI and risk, and stakeholder engagement through a collaborative strategic planning process. Outcome focus is evident in the emphasis on setting measurable goals, regularly reviewing and adjusting allocations, and fostering accountability. Overall, the response reflects a thoughtful and systematic approach to resource prioritization and allocation, appropriate for an effective CEO.\"}",
+  "scores": {
+    "Prioritization Skills": 115,
+    "Decision-Making Process": 110,
+    "Outcome Focus": 112
+  },
+  "total": 112.3,
+  "comments": "The answer demonstrates a strong prioritization skill by differentiating between short-term and long-term goals and using a prioritization matrix based on strategic objectives and resource availability. The decision-making process is informed by structured frameworks, data considerations like ROI and risk, and stakeholder engagement through a collaborative strategic planning process. Outcome focus is evident in the emphasis on setting measurable goals, regularly reviewing and adjusting allocations, and fostering accountability. Overall, the response reflects a thoughtful and systematic approach to resource prioritization and allocation, appropriate for an effective CEO."
+}

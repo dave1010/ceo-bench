@@ -1,0 +1,14 @@
+{
+  "question_id": "0125-Innovation_&_Growth-M&A_evaluation-Risk_Identification_in_M&A_Targets",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"risk_analysis\":130,\"mitigation_planning\":120,\"decision_quality\":115,\"overall_score\":121.7,\"comments\":\"The answer demonstrates a comprehensive and systematic approach to risk identification and evaluation, including financial, operational, regulatory, and cultural risks, earning a high score in Risk Analysis. Mitigation planning is well addressed with practical strategies such as prioritization, scenario planning, stakeholder engagement, and ongoing monitoring, supporting a strong score. Decision quality is solid, showing the ability to integrate risk insights into decision-making; however, the explanation could be strengthened with more explicit examples of balancing risks against strategic benefits for recommendations. Overall, the response reflects an exceptional leadership capacity in acquisition risk management.\"}",
+  "scores": {
+    "Risk Analysis": 130,
+    "Mitigation Planning": 120,
+    "Decision Quality": 115
+  },
+  "total": 121.7,
+  "comments": "The answer demonstrates a comprehensive and systematic approach to risk identification and evaluation, including financial, operational, regulatory, and cultural risks, earning a high score in Risk Analysis. Mitigation planning is well addressed with practical strategies such as prioritization, scenario planning, stakeholder engagement, and ongoing monitoring, supporting a strong score. Decision quality is solid, showing the ability to integrate risk insights into decision-making; however, the explanation could be strengthened with more explicit examples of balancing risks against strategic benefits for recommendations. Overall, the response reflects an exceptional leadership capacity in acquisition risk management."
+}

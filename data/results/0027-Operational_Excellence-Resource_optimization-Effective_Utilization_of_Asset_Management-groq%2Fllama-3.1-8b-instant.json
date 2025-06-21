@@ -1,0 +1,14 @@
+{
+  "question_id": "0027-Operational_Excellence-Resource_optimization-Effective_Utilization_of_Asset_Management",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"asset_management_strategy\":130,\"continuous_improvement\":120,\"cross-functional_coordination\":110,\"overall_score\":120,\"comments\":\"The answer demonstrates a strong asset management strategy with comprehensive approaches such as audits, total asset management, KPIs, and leveraging technology. Continuous improvement is well-covered through metrics, culture, and ongoing updates. Cross-functional coordination is present through collaboration with stakeholders but could be elaborated further. Overall, the response reflects above-average leadership with clear, actionable plans to optimize asset utilization.\"}",
+  "scores": {
+    "Asset Management Strategy": 130,
+    "Continuous Improvement": 120,
+    "Cross-Functional Coordination": 110
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates a strong asset management strategy with comprehensive approaches such as audits, total asset management, KPIs, and leveraging technology. Continuous improvement is well-covered through metrics, culture, and ongoing updates. Cross-functional coordination is present through collaboration with stakeholders but could be elaborated further. Overall, the response reflects above-average leadership with clear, actionable plans to optimize asset utilization."
+}

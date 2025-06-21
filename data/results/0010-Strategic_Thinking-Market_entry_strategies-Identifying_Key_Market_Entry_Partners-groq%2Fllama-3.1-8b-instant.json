@@ -1,0 +1,14 @@
+{
+  "question_id": "0010-Strategic_Thinking-Market_entry_strategies-Identifying_Key_Market_Entry_Partners",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"partner_relevance\":115,\"strategic_fit\":110,\"risk_management\":105,\"overall_score\":110,\"comments\":\"The answer thoroughly addresses partner relevance by emphasizing alignment of business goals, values, market expertise, and capacity. It covers strategic fit through evaluation criteria that ensure partners complement company capabilities and facilitate market entry. Risk management is somewhat considered via financial stability, reputation, due diligence, and reference checks, though specific mention of conflicts of interest or regulatory compliance risks could be stronger. Overall, the response is structured, comprehensive, and displays strong leadership thinking appropriate for a CEO.\"}",
+  "scores": {
+    "Partner relevance": 115,
+    "Strategic fit": 110,
+    "Risk management": 105
+  },
+  "total": 110.0,
+  "comments": "The answer thoroughly addresses partner relevance by emphasizing alignment of business goals, values, market expertise, and capacity. It covers strategic fit through evaluation criteria that ensure partners complement company capabilities and facilitate market entry. Risk management is somewhat considered via financial stability, reputation, due diligence, and reference checks, though specific mention of conflicts of interest or regulatory compliance risks could be stronger. Overall, the response is structured, comprehensive, and displays strong leadership thinking appropriate for a CEO."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0063-Leadership_&_Communication-Culture_building-Driving_Organizational_Values",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"integration_of_values\":125,\"employee_engagement\":120,\"cultural_influence\":123,\"overall_score\":122.7,\"comments\":\"The CEO demonstrates a comprehensive and systematic approach to embedding core values into daily operations, including clear communication, leadership by example, accountability, and recognition. The response also highlights measurable improvements in employee engagement, retention, cultural health, and customer satisfaction, indicating strong employee alignment with values. Further, active cultural initiatives such as DEI programs and plans to embed values into technology underscore a proactive cultural influence. Scores reflect strong leadership ability with thoughtful strategies and measurable outcomes supporting an exceptional organizational culture.\"}",
+  "scores": {
+    "Integration of values": 125,
+    "Employee engagement": 120,
+    "Cultural influence": 123
+  },
+  "total": 122.7,
+  "comments": "The CEO demonstrates a comprehensive and systematic approach to embedding core values into daily operations, including clear communication, leadership by example, accountability, and recognition. The response also highlights measurable improvements in employee engagement, retention, cultural health, and customer satisfaction, indicating strong employee alignment with values. Further, active cultural initiatives such as DEI programs and plans to embed values into technology underscore a proactive cultural influence. Scores reflect strong leadership ability with thoughtful strategies and measurable outcomes supporting an exceptional organizational culture."
+}

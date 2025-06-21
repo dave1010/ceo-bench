@@ -1,0 +1,14 @@
+{
+  "question_id": "0084-Risk_&_Ethics-Risk_mitigation-Strategic_Approach_to_Anticipating_Risks",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"forward-looking_planning\":130,\"preventive_measures\":125,\"stakeholder_communication\":120,\"overall_score\":125,\"comments\":\"The CEO exhibits a highly proactive and strategic approach to risk management, including comprehensive environmental scanning, structured risk assessment, and scenario planning. Preventive measures are well-developed, encompassing diversified revenue streams, continuity planning, and employee development. Communication is clear and involves regular updates and collaboration with senior leaders and stakeholders, ensuring alignment and transparency. Scores reflect a level above average, approaching exceptional performance, indicating strong leadership in anticipating and mitigating risks.\"}",
+  "scores": {
+    "Forward-looking Planning": 130,
+    "Preventive Measures": 125,
+    "Stakeholder Communication": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO exhibits a highly proactive and strategic approach to risk management, including comprehensive environmental scanning, structured risk assessment, and scenario planning. Preventive measures are well-developed, encompassing diversified revenue streams, continuity planning, and employee development. Communication is clear and involves regular updates and collaboration with senior leaders and stakeholders, ensuring alignment and transparency. Scores reflect a level above average, approaching exceptional performance, indicating strong leadership in anticipating and mitigating risks."
+}

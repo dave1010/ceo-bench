@@ -1,0 +1,14 @@
+{
+  "question_id": "0042-Operational_Excellence-Continuous_Improvement_Culture-Fostering_a_Culture_of_Innovation",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Continuous Improvement Culture",
+  "raw": "{\"leadership_engagement\":135,\"employee_empowerment\":130,\"process_integration\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates exceptional leadership engagement by outlining a comprehensive, hands-on approach including leading by example, fostering a growth mindset, and encouraging experimentation. Employee empowerment is strongly supported through team ownership, recognition of failures and successes, and establishing feedback channels. Continuous improvement is well-integrated into organizational processes via collaboration, professional development, measurement, and rewards. Overall, the answer reflects a deep and well-rounded understanding of promoting a culture of continuous improvement and innovation.\"}",
+  "scores": {
+    "Leadership Engagement": 135,
+    "Employee Empowerment": 130,
+    "Process Integration": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional leadership engagement by outlining a comprehensive, hands-on approach including leading by example, fostering a growth mindset, and encouraging experimentation. Employee empowerment is strongly supported through team ownership, recognition of failures and successes, and establishing feedback channels. Continuous improvement is well-integrated into organizational processes via collaboration, professional development, measurement, and rewards. Overall, the answer reflects a deep and well-rounded understanding of promoting a culture of continuous improvement and innovation."
+}

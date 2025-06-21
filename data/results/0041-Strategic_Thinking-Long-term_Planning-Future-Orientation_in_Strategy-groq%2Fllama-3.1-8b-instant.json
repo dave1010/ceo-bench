@@ -1,0 +1,14 @@
+{
+  "question_id": "0041-Strategic_Thinking-Long-term_Planning-Future-Orientation_in_Strategy",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Planning",
+  "raw": "{\"visionary_planning\":130,\"sustainability_focus\":125,\"stakeholder_engagement\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates exceptional visionary planning by articulating a clear and compelling long-term vision aligned with organizational values. Sustainability focus is strongly emphasized by integrating social and environmental responsibility into the strategic planning process. Stakeholder engagement is comprehensive, involving cross-functional teams and regular monitoring of external trends to ensure alignment and support. Overall, this response reflects a high level of strategic leadership expected from an outstanding CEO.\"}",
+  "scores": {
+    "Visionary Planning": 130,
+    "Sustainability Focus": 125,
+    "Stakeholder Engagement": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates exceptional visionary planning by articulating a clear and compelling long-term vision aligned with organizational values. Sustainability focus is strongly emphasized by integrating social and environmental responsibility into the strategic planning process. Stakeholder engagement is comprehensive, involving cross-functional teams and regular monitoring of external trends to ensure alignment and support. Overall, this response reflects a high level of strategic leadership expected from an outstanding CEO."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0121-Risk_&_Ethics-Reputation_management-Ensuring_Transparency_and_Accountability",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"transparency_initiatives\":120,\"accountability_culture\":120,\"response_to_challenges\":115,\"overall_score\":118,\"comments\":\"The answer comprehensively addresses each rubric dimension with well-defined strategies. It outlines clear communication practices and transparency policies, promoting openness with all stakeholders. The emphasis on establishing accountability at all levels, including leadership and employees, aligns strongly with cultivating an ethical culture. The detailed crisis communication planning and reputation management demonstrate effective response to challenges. The approach is proactive, thorough, and balanced, reflecting a highly capable CEO perspective.\"}",
+  "scores": {
+    "Transparency Initiatives": 120,
+    "Accountability Culture": 120,
+    "Response to Challenges": 115
+  },
+  "total": 118.0,
+  "comments": "The answer comprehensively addresses each rubric dimension with well-defined strategies. It outlines clear communication practices and transparency policies, promoting openness with all stakeholders. The emphasis on establishing accountability at all levels, including leadership and employees, aligns strongly with cultivating an ethical culture. The detailed crisis communication planning and reputation management demonstrate effective response to challenges. The approach is proactive, thorough, and balanced, reflecting a highly capable CEO perspective."
+}

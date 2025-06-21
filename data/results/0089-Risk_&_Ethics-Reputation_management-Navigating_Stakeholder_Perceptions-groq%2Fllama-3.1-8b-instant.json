@@ -1,0 +1,14 @@
+{
+  "question_id": "0089-Risk_&_Ethics-Reputation_management-Navigating_Stakeholder_Perceptions",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"stakeholder_communication\":130,\"alignment_of_actions_and_values\":125,\"crisis_preparedness\":120,\"overall_score\":125,\"comments\":\"The answer comprehensively covers proactive communication strategies that emphasize transparency, consistency, and stakeholder engagement, warranting a high score in Stakeholder Communication. It reflects a strong focus on values-based leadership, empowering employees, and aligning organizational actions with core values, justifying a high score for Alignment of Actions and Values. Crisis preparedness is addressed through explicit plans and strategies for handling uncertainty, earning a solid score in that dimension. Overall, the response demonstrates an advanced and nuanced understanding consistent with exceptional CEO leadership.\"}",
+  "scores": {
+    "Stakeholder Communication": 130,
+    "Alignment of Actions and Values": 125,
+    "Crisis Preparedness": 120
+  },
+  "total": 125.0,
+  "comments": "The answer comprehensively covers proactive communication strategies that emphasize transparency, consistency, and stakeholder engagement, warranting a high score in Stakeholder Communication. It reflects a strong focus on values-based leadership, empowering employees, and aligning organizational actions with core values, justifying a high score for Alignment of Actions and Values. Crisis preparedness is addressed through explicit plans and strategies for handling uncertainty, earning a solid score in that dimension. Overall, the response demonstrates an advanced and nuanced understanding consistent with exceptional CEO leadership."
+}

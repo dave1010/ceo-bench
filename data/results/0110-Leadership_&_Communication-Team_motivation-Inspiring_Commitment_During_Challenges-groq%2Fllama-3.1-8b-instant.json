@@ -1,0 +1,14 @@
+{
+  "question_id": "0110-Leadership_&_Communication-Team_motivation-Inspiring_Commitment_During_Challenges",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Team motivation",
+  "raw": "{\"empathy_and_support\":120,\"communication_clarity\":125,\"action_and_accountability\":130,\"overall_score\":125,\"comments\":\"The answer demonstrates strong empathy and support by recognizing the emotional impact of organizational challenges and emphasizing reassurance through transparency, resilience, and empowerment. Communication clarity is well addressed by outlining clear strategies for transparent communication, articulating the organization's mission ('the why'), and fostering open feedback, ensuring the team stays focused and motivated. The action and accountability dimension is robustly covered with concrete steps including celebrating small wins, leading by example, providing resources, and encouraging autonomy, which collectively promote ownership and resilience. Overall, the response reflects a high level of leadership acumen suitable for effectively navigating and elevating team motivation during setbacks.\"}",
+  "scores": {
+    "Empathy and Support": 120,
+    "Communication Clarity": 125,
+    "Action and Accountability": 130
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates strong empathy and support by recognizing the emotional impact of organizational challenges and emphasizing reassurance through transparency, resilience, and empowerment. Communication clarity is well addressed by outlining clear strategies for transparent communication, articulating the organization's mission ('the why'), and fostering open feedback, ensuring the team stays focused and motivated. The action and accountability dimension is robustly covered with concrete steps including celebrating small wins, leading by example, providing resources, and encouraging autonomy, which collectively promote ownership and resilience. Overall, the response reflects a high level of leadership acumen suitable for effectively navigating and elevating team motivation during setbacks."
+}

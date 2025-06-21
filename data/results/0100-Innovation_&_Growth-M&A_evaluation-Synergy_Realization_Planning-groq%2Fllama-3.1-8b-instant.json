@@ -1,0 +1,14 @@
+{
+  "question_id": "0100-Innovation_&_Growth-M&A_evaluation-Synergy_Realization_Planning",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"strategic_alignment\":115,\"due_diligence_rigor\":120,\"integration_roadmap\":118,\"overall_score\":117.7,\"comments\":\"The CEO demonstrates strong strategic alignment by emphasizing cultural fit, talent management, and communication to ensure M&A complements business objectives. Due diligence rigor is evident through thorough pre-acquisition analysis including cost savings and market expansion opportunities. The integration roadmap is detailed, outlining clear goals, resource allocation, ongoing monitoring, and adaptability. Overall, the approach is well-structured and reflects a capable and thoughtful leadership approach, meriting a high LQ score just below genius level.\"}",
+  "scores": {
+    "Strategic Alignment": 115,
+    "Due Diligence Rigor": 120,
+    "Integration Roadmap": 118
+  },
+  "total": 117.7,
+  "comments": "The CEO demonstrates strong strategic alignment by emphasizing cultural fit, talent management, and communication to ensure M&A complements business objectives. Due diligence rigor is evident through thorough pre-acquisition analysis including cost savings and market expansion opportunities. The integration roadmap is detailed, outlining clear goals, resource allocation, ongoing monitoring, and adaptability. Overall, the approach is well-structured and reflects a capable and thoughtful leadership approach, meriting a high LQ score just below genius level."
+}

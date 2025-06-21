@@ -1,0 +1,14 @@
+{
+  "question_id": "0080-Risk_&_Ethics-Conflict_of_Interest_Management-Identifying_and_Addressing_Conflicts_of_Interest",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Conflict of Interest Management",
+  "raw": "{\"disclosure_processes\":120,\"resolution_strategies\":115,\"leadership_example\":110,\"overall_score\":115,\"comments\":\"The answer outlines comprehensive disclosure processes including a robust Code of Conduct, anonymous reporting mechanisms, and mandatory disclosures with authorization. Resolution strategies such as investigations, board oversight, and independent audits demonstrate strong conflict mitigation. Leadership example is evidenced by the CEO's commitment to integrity and proactive comprehensive measures. The detailed approach reflects a high level of competency appropriate for an effective CEO.\"}",
+  "scores": {
+    "Disclosure Processes": 120,
+    "Resolution Strategies": 115,
+    "Leadership Example": 110
+  },
+  "total": 115.0,
+  "comments": "The answer outlines comprehensive disclosure processes including a robust Code of Conduct, anonymous reporting mechanisms, and mandatory disclosures with authorization. Resolution strategies such as investigations, board oversight, and independent audits demonstrate strong conflict mitigation. Leadership example is evidenced by the CEO's commitment to integrity and proactive comprehensive measures. The detailed approach reflects a high level of competency appropriate for an effective CEO."
+}

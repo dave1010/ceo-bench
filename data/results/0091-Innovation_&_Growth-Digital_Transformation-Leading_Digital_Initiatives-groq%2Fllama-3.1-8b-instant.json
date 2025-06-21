@@ -1,0 +1,14 @@
+{
+  "question_id": "0091-Innovation_&_Growth-Digital_Transformation-Leading_Digital_Initiatives",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Digital Transformation",
+  "raw": "{\"strategic_vision\":130,\"change_management\":115,\"innovation_adoption\":120,\"overall_score\":122,\"comments\":\"The CEO demonstrates a strong strategic vision by establishing a comprehensive digital roadmap aligned with company goals. Change management is effective through employee enablement and partnerships, though stakeholder communication could improve. Innovation adoption is well-driven by leveraging data analytics and technology collaborations. Areas for improvement in ROI measurement and scalability slightly temper the overall score.\"}",
+  "scores": {
+    "Strategic Vision": 130,
+    "Change Management": 115,
+    "Innovation Adoption": 120
+  },
+  "total": 122.0,
+  "comments": "The CEO demonstrates a strong strategic vision by establishing a comprehensive digital roadmap aligned with company goals. Change management is effective through employee enablement and partnerships, though stakeholder communication could improve. Innovation adoption is well-driven by leveraging data analytics and technology collaborations. Areas for improvement in ROI measurement and scalability slightly temper the overall score."
+}

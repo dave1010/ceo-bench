@@ -1,0 +1,14 @@
+{
+  "question_id": "0097-Innovation_&_Growth-Growth_strategy-Identifying_New_Revenue_Opportunities",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"opportunity_identification\":115,\"strategic_prioritization\":110,\"execution_planning\":110,\"overall_score\":112,\"comments\":\"The answer showcases a comprehensive and proactive approach to identifying new revenue streams by leveraging market research, customer insights, and innovation practices. Strategic prioritization is thoughtful, integrating criteria such as growth potential, alignment with mission, competition, risk, and ROI. Execution planning is well addressed with cross-functional teams, detailed plans, ongoing progress reviews, and alignment with business strategy. Scores reflect a strong, capable CEO performance with room for further exceptional differentiation.\"}",
+  "scores": {
+    "Opportunity Identification": 115,
+    "Strategic Prioritization": 110,
+    "Execution Planning": 110
+  },
+  "total": 112.0,
+  "comments": "The answer showcases a comprehensive and proactive approach to identifying new revenue streams by leveraging market research, customer insights, and innovation practices. Strategic prioritization is thoughtful, integrating criteria such as growth potential, alignment with mission, competition, risk, and ROI. Execution planning is well addressed with cross-functional teams, detailed plans, ongoing progress reviews, and alignment with business strategy. Scores reflect a strong, capable CEO performance with room for further exceptional differentiation."
+}

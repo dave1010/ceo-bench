@@ -1,0 +1,14 @@
+{
+  "question_id": "0034-Strategic_Thinking-Long-term_Vision-Communicating_Future_Goals",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Vision",
+  "raw": "{\"clarity_of_vision\":120,\"inspiration\":125,\"consistency\":120,\"overall_score\":122,\"comments\":\"The answer demonstrates a thorough and clear articulation of how to communicate a long-term vision, covering clarity, regular communication, storytelling, and alignment with values, which supports strong clarity of vision. It emphasizes inspiring employees through storytelling, celebration of milestones, and leading by example, showing high inspiration. The approach also ensures consistency through regular updates, multiple communication channels, and transparency. Overall, the response reflects a high level of leadership competence with effective strategies for vision communication and organizational motivation.\"}",
+  "scores": {
+    "Clarity of Vision": 120,
+    "Inspiration": 125,
+    "Consistency": 120
+  },
+  "total": 122.0,
+  "comments": "The answer demonstrates a thorough and clear articulation of how to communicate a long-term vision, covering clarity, regular communication, storytelling, and alignment with values, which supports strong clarity of vision. It emphasizes inspiring employees through storytelling, celebration of milestones, and leading by example, showing high inspiration. The approach also ensures consistency through regular updates, multiple communication channels, and transparency. Overall, the response reflects a high level of leadership competence with effective strategies for vision communication and organizational motivation."
+}

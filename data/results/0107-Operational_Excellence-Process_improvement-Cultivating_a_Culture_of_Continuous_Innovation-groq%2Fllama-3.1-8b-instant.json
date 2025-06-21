@@ -1,0 +1,14 @@
+{
+  "question_id": "0107-Operational_Excellence-Process_improvement-Cultivating_a_Culture_of_Continuous_Innovation",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"leadership\":130,\"engagement\":125,\"sustainability\":130,\"overall_score\":128.3,\"comments\":\"The answer clearly demonstrates strong leadership by emphasizing role modeling, empowerment, and recognition of employee initiatives. Engagement is well-addressed through open communication, forums for sharing successes, and collaborative feedback mechanisms. Sustainability is ensured with structured practices such as training, regular monitoring, and established recognition programs that maintain ongoing process improvements. The comprehensive and thoughtful approach reflects a high level of CEO capability.\"}",
+  "scores": {
+    "Leadership": 130,
+    "Engagement": 125,
+    "Sustainability": 130
+  },
+  "total": 128.3,
+  "comments": "The answer clearly demonstrates strong leadership by emphasizing role modeling, empowerment, and recognition of employee initiatives. Engagement is well-addressed through open communication, forums for sharing successes, and collaborative feedback mechanisms. Sustainability is ensured with structured practices such as training, regular monitoring, and established recognition programs that maintain ongoing process improvements. The comprehensive and thoughtful approach reflects a high level of CEO capability."
+}

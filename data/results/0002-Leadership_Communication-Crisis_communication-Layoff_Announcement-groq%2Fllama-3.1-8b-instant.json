@@ -1,0 +1,14 @@
+{
+  "question_id": "0002-Leadership_Communication-Crisis_communication-Layoff_Announcement",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"empathy\":125,\"transparency\":120,\"tone\":130,\"overall_score\":125.0,\"comments\":\"The response demonstrates strong empathy by acknowledging employee concerns and offering support to those affected. Transparency is well-handled with clear explanations of the decision and next steps, including support resources. The tone maintains trust and motivation throughout, emphasizing commitment to remaining employees and future growth. Overall, this is a highly effective communication for a difficult announcement.\"}",
+  "scores": {
+    "Empathy": 125,
+    "Transparency": 120,
+    "Tone": 130
+  },
+  "total": 125.0,
+  "comments": "The response demonstrates strong empathy by acknowledging employee concerns and offering support to those affected. Transparency is well-handled with clear explanations of the decision and next steps, including support resources. The tone maintains trust and motivation throughout, emphasizing commitment to remaining employees and future growth. Overall, this is a highly effective communication for a difficult announcement."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0062-Leadership_&_Communication-Crisis_communication-Transparency_and_Clarity_in_High-Pressure_Situations",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"clarity_of_message\":115,\"stakeholder_engagement\":110,\"emotional_intelligence\":105,\"overall_score\":110,\"comments\":\"The answer provides a well-structured and comprehensive approach to crisis communication, ensuring transparency and clarity which supports strong stakeholder understanding. It emphasizes active stakeholder engagement through regular updates, multi-channel communication, and empowerment of employees to communicate, reflecting thoughtful involvement of all relevant parties. While emotional intelligence is addressed indirectly through fostering trust, transparency, and accountability, explicit mention of empathy and maintaining composure could be enhanced for a higher score. Overall, this response demonstrates solid leadership qualities appropriate for effective crisis management and communication.\"}",
+  "scores": {
+    "Clarity of Message": 115,
+    "Stakeholder Engagement": 110,
+    "Emotional Intelligence": 105
+  },
+  "total": 110.0,
+  "comments": "The answer provides a well-structured and comprehensive approach to crisis communication, ensuring transparency and clarity which supports strong stakeholder understanding. It emphasizes active stakeholder engagement through regular updates, multi-channel communication, and empowerment of employees to communicate, reflecting thoughtful involvement of all relevant parties. While emotional intelligence is addressed indirectly through fostering trust, transparency, and accountability, explicit mention of empathy and maintaining composure could be enhanced for a higher score. Overall, this response demonstrates solid leadership qualities appropriate for effective crisis management and communication."
+}

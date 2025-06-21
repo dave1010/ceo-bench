@@ -1,0 +1,14 @@
+{
+  "question_id": "0045-Operational_Excellence-Risk_Management-Identifying_and_Mitigating_Operational_Risks",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment_methodology\":130,\"mitigation_planning\":125,\"monitoring_&_review\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a comprehensive and systematic risk identification approach utilizing multiple perspectives and methodologies, indicating a high level of competency. Mitigation planning includes prioritization, prevention, containment, transfer, and monitoring, which shows robustness and strategic thinking. Monitoring and review processes are well-defined and continuous, incorporating feedback and metrics to adjust strategies effectively. Overall, the response reflects exceptional understanding and an advanced leadership capability in operational risk management.\"}",
+  "scores": {
+    "Risk Assessment Methodology": 130,
+    "Mitigation Planning": 125,
+    "Monitoring & Review": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a comprehensive and systematic risk identification approach utilizing multiple perspectives and methodologies, indicating a high level of competency. Mitigation planning includes prioritization, prevention, containment, transfer, and monitoring, which shows robustness and strategic thinking. Monitoring and review processes are well-defined and continuous, incorporating feedback and metrics to adjust strategies effectively. Overall, the response reflects exceptional understanding and an advanced leadership capability in operational risk management."
+}

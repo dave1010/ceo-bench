@@ -1,0 +1,14 @@
+{
+  "question_id": "0038-Strategic_Thinking-Future_Trends_and_Disruption-Preparing_for_Industry_Disruption",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Future Trends and Disruption",
+  "raw": "{\"environmental_scanning\":130,\"proactive_planning\":135,\"leadership_in_change\":128,\"overall_score\":131,\"comments\":\"The CEO exhibits exceptional capabilities in all dimensions. Their detailed and multi-faceted approach to environmental scanning is comprehensive, involving research teams, partnerships, and regular industry analysis. Proactive planning is strongly demonstrated through future-proofing roadmaps, scenario planning, contingency preparations, and investments in R&D. Leadership in change is evident in fostering a culture of continuous learning, employee engagement, and guiding the organization with resilience and foresight through complex industry changes. Scores are elevated due to the depth, consistency, and integration of these approaches, showcasing an outstanding strategic mindset.\"}",
+  "scores": {
+    "Environmental Scanning": 130,
+    "Proactive Planning": 135,
+    "Leadership in Change": 128
+  },
+  "total": 131.0,
+  "comments": "The CEO exhibits exceptional capabilities in all dimensions. Their detailed and multi-faceted approach to environmental scanning is comprehensive, involving research teams, partnerships, and regular industry analysis. Proactive planning is strongly demonstrated through future-proofing roadmaps, scenario planning, contingency preparations, and investments in R&D. Leadership in change is evident in fostering a culture of continuous learning, employee engagement, and guiding the organization with resilience and foresight through complex industry changes. Scores are elevated due to the depth, consistency, and integration of these approaches, showcasing an outstanding strategic mindset."
+}

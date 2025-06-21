@@ -1,0 +1,14 @@
+{
+  "question_id": "0123-Innovation_&_Growth-Partnerships_&_Ecosystems-Building_Innovation_Ecosystems",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Innovation & Growth",
+  "subtopic": "Partnerships & Ecosystems",
+  "raw": "{\"external_collaboration\":115,\"ecosystem_engagement\":120,\"value_creation\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates a well-articulated strategy for leveraging external partnerships and ecosystems to drive innovation. They emphasize identifying aligned partners, joint R&D, co-creation, and active engagement with startups, industry associations, and open innovation platforms, reflecting strong ecosystem engagement. The inclusion of specific KPIs such as innovation pipeline, time-to-market, customer adoption, and partnership ROI indicates a clear focus on measurable value creation. Leadership and governance mechanisms further strengthen accountability and cultural support for innovation. Scores reflect a strong leadership approach, above average and indicative of a capable CEO leveraging external relations effectively.\"}",
+  "scores": {
+    "External Collaboration": 115,
+    "Ecosystem Engagement": 120,
+    "Value Creation": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates a well-articulated strategy for leveraging external partnerships and ecosystems to drive innovation. They emphasize identifying aligned partners, joint R&D, co-creation, and active engagement with startups, industry associations, and open innovation platforms, reflecting strong ecosystem engagement. The inclusion of specific KPIs such as innovation pipeline, time-to-market, customer adoption, and partnership ROI indicates a clear focus on measurable value creation. Leadership and governance mechanisms further strengthen accountability and cultural support for innovation. Scores reflect a strong leadership approach, above average and indicative of a capable CEO leveraging external relations effectively."
+}

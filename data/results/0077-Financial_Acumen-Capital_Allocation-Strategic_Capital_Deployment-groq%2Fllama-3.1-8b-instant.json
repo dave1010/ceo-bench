@@ -1,0 +1,14 @@
+{
+  "question_id": "0077-Financial_Acumen-Capital_Allocation-Strategic_Capital_Deployment",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Financial Acumen",
+  "subtopic": "Capital Allocation",
+  "raw": "{\"investment_evaluation_process\":115,\"alignment_with_strategic_goals\":120,\"post-investment_oversight_and_adjustments\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates a robust and comprehensive approach to capital allocation. The investment evaluation process includes rigorous financial analysis, risk assessment, and a structured framework, justifying a strong score of 115. Alignment with strategic goals is clearly emphasized through collaboration with board and leadership to define objectives and priorities, meriting a higher score of 120. The post-investment oversight is well addressed via regular review and adjustment, earning a score of 110. Overall, the approach reflects capable and thoughtful leadership likely to maximize ROI while supporting strategic priorities.\"}",
+  "scores": {
+    "Investment evaluation process": 115,
+    "Alignment with strategic goals": 120,
+    "Post-investment oversight and adjustments": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates a robust and comprehensive approach to capital allocation. The investment evaluation process includes rigorous financial analysis, risk assessment, and a structured framework, justifying a strong score of 115. Alignment with strategic goals is clearly emphasized through collaboration with board and leadership to define objectives and priorities, meriting a higher score of 120. The post-investment oversight is well addressed via regular review and adjustment, earning a score of 110. Overall, the approach reflects capable and thoughtful leadership likely to maximize ROI while supporting strategic priorities."
+}

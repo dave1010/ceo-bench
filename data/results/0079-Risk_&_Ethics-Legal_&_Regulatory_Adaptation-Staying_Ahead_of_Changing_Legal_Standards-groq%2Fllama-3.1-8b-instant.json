@@ -1,0 +1,14 @@
+{
+  "question_id": "0079-Risk_&_Ethics-Legal_&_Regulatory_Adaptation-Staying_Ahead_of_Changing_Legal_Standards",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Risk & Ethics",
+  "subtopic": "Legal & Regulatory Adaptation",
+  "raw": "{\"monitoring_systems\":115,\"strategic_planning\":120,\"external_partnerships\":118,\"overall_score\":118,\"comments\":\"The answer thoroughly covers the establishment of monitoring systems through risk management frameworks, regulatory change management processes, and regular internal audits, earning a strong score for monitoring systems. Strategic planning is well integrated, emphasizing embedding compliance into organizational culture and aligning with evolving trends, granting a high score. The response also highlights building strategic partnerships with legal experts, consultants, industry associations, and regulators, reflecting strong external relationship management. Overall, the response demonstrates a comprehensive and proactive approach consistent with a high-level CEO capability.\"}",
+  "scores": {
+    "Monitoring systems": 115,
+    "Strategic planning": 120,
+    "External partnerships": 118
+  },
+  "total": 118.0,
+  "comments": "The answer thoroughly covers the establishment of monitoring systems through risk management frameworks, regulatory change management processes, and regular internal audits, earning a strong score for monitoring systems. Strategic planning is well integrated, emphasizing embedding compliance into organizational culture and aligning with evolving trends, granting a high score. The response also highlights building strategic partnerships with legal experts, consultants, industry associations, and regulators, reflecting strong external relationship management. Overall, the response demonstrates a comprehensive and proactive approach consistent with a high-level CEO capability."
+}

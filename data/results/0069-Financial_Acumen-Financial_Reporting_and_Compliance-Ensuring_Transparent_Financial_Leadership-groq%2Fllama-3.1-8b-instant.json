@@ -1,0 +1,14 @@
+{
+  "question_id": "0069-Financial_Acumen-Financial_Reporting_and_Compliance-Ensuring_Transparent_Financial_Leadership",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Reporting and Compliance",
+  "raw": "{\"accuracy_and_integrity\":130,\"stakeholder_engagement\":125,\"regulatory_compliance\":130,\"overall_score\":128,\"comments\":\"The CEO's answer thoroughly addresses all rubric dimensions with detailed and actionable steps. The emphasis on internal controls, audits, and a compliance program shows commitment to accuracy and integrity. Stakeholder engagement is clearly prioritized through timely, transparent communication and proactive disclosure policies. Strict adherence to accounting standards and regulatory requirements is evident, as well as attention to risk management and whistleblower mechanisms. Overall, the approach demonstrates a sophisticated, comprehensive leadership vision well above average CEO performance.\"}",
+  "scores": {
+    "Accuracy and Integrity": 130,
+    "Stakeholder Engagement": 125,
+    "Regulatory Compliance": 130
+  },
+  "total": 128.0,
+  "comments": "The CEO's answer thoroughly addresses all rubric dimensions with detailed and actionable steps. The emphasis on internal controls, audits, and a compliance program shows commitment to accuracy and integrity. Stakeholder engagement is clearly prioritized through timely, transparent communication and proactive disclosure policies. Strict adherence to accounting standards and regulatory requirements is evident, as well as attention to risk management and whistleblower mechanisms. Overall, the approach demonstrates a sophisticated, comprehensive leadership vision well above average CEO performance."
+}

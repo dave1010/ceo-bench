@@ -1,0 +1,14 @@
+{
+  "question_id": "0012-Strategic_Thinking-Market_entry_strategies-Integrating_Digital_Channels_in_Market_Entry",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"digital_strategy_integration\":115,\"competitive_analysis\":105,\"customer-centric_adaptation\":120,\"overall_score\":113.3,\"comments\":\"The answer presents a comprehensive and well-structured digital strategy integrating multiple channels tailored for market entry, including localized websites, social media, SEO, influencer partnerships, and digital advertising. It reflects solid understanding and application of digital strategy integration suitable for local infrastructure and preferences. Competitive analysis is present through market research, social media listening, and continuous experimentation to outpace competitors, though it could be more explicitly focused on digital competitors. Customer-centric adaptation is well addressed with emphasis on local language, culture, behavior, and ongoing feedback mechanisms. Overall, the response demonstrates a strong capability aligned with a proficient CEO's approach to leveraging digital channels for market entry.\"}",
+  "scores": {
+    "Digital Strategy Integration": 115,
+    "Competitive Analysis": 105,
+    "Customer-Centric Adaptation": 120
+  },
+  "total": 113.3,
+  "comments": "The answer presents a comprehensive and well-structured digital strategy integrating multiple channels tailored for market entry, including localized websites, social media, SEO, influencer partnerships, and digital advertising. It reflects solid understanding and application of digital strategy integration suitable for local infrastructure and preferences. Competitive analysis is present through market research, social media listening, and continuous experimentation to outpace competitors, though it could be more explicitly focused on digital competitors. Customer-centric adaptation is well addressed with emphasis on local language, culture, behavior, and ongoing feedback mechanisms. Overall, the response demonstrates a strong capability aligned with a proficient CEO's approach to leveraging digital channels for market entry."
+}

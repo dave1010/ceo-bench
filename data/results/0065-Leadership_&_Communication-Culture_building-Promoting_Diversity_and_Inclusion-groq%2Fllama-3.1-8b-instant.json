@@ -1,0 +1,14 @@
+{
+  "question_id": "0065-Leadership_&_Communication-Culture_building-Promoting_Diversity_and_Inclusion",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"commitment_to_diversity\":130,\"leadership_action\":130,\"impact_on_culture\":120,\"overall_score\":127,\"comments\":\"The CEO demonstrates a strong and proactive commitment to diversity and inclusion, outlining comprehensive strategies and concrete initiatives. Leadership actions are clearly defined with accountability measures and visible leadership involvement. While the impact on culture is well-targeted and likely positive, more specific measurable outcomes are not explicitly detailed, preventing a perfect score. Overall, the response reflects exceptional understanding and leadership in fostering an inclusive organizational culture.\"}",
+  "scores": {
+    "Commitment to Diversity": 130,
+    "Leadership Action": 130,
+    "Impact on Culture": 120
+  },
+  "total": 127.0,
+  "comments": "The CEO demonstrates a strong and proactive commitment to diversity and inclusion, outlining comprehensive strategies and concrete initiatives. Leadership actions are clearly defined with accountability measures and visible leadership involvement. While the impact on culture is well-targeted and likely positive, more specific measurable outcomes are not explicitly detailed, preventing a perfect score. Overall, the response reflects exceptional understanding and leadership in fostering an inclusive organizational culture."
+}

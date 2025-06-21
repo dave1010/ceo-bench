@@ -1,0 +1,14 @@
+{
+  "question_id": "0047-Operational_Excellence-Process_Improvement-Leveraging_Data_for_Continuous_Optimization",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Process Improvement",
+  "raw": "{\"data-driven_decision_making\":130,\"stakeholder_engagement\":120,\"culture_of_continuous_improvement\":125,\"overall_score\":125,\"comments\":\"The CEO's answer strongly emphasizes a data-driven culture, with clear steps to embed analytics into operations and strategic planning, justifying a high score for data-driven decision making. There is also a solid focus on collaboration via cross-functional teams and partnerships, supporting an above average stakeholder engagement score. The CEO repeatedly highlights fostering continuous learning and iterative improvement, evidencing a robust culture of continuous improvement. Overall, the detailed and comprehensive approach warrants a high leadership quotient across these dimensions.\"}",
+  "scores": {
+    "Data-Driven Decision Making": 130,
+    "Stakeholder Engagement": 120,
+    "Culture of Continuous Improvement": 125
+  },
+  "total": 125.0,
+  "comments": "The CEO's answer strongly emphasizes a data-driven culture, with clear steps to embed analytics into operations and strategic planning, justifying a high score for data-driven decision making. There is also a solid focus on collaboration via cross-functional teams and partnerships, supporting an above average stakeholder engagement score. The CEO repeatedly highlights fostering continuous learning and iterative improvement, evidencing a robust culture of continuous improvement. Overall, the detailed and comprehensive approach warrants a high leadership quotient across these dimensions."
+}

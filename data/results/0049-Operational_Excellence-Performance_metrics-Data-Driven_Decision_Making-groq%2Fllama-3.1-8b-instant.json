@@ -1,0 +1,14 @@
+{
+  "question_id": "0049-Operational_Excellence-Performance_metrics-Data-Driven_Decision_Making",
+  "model": "groq/llama-3.1-8b-instant",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"alignment_of_metrics_with_strategic_goals\":120,\"use_of_data_to_identify_opportunities\":115,\"actionability_of_insights\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates a strong alignment of performance metrics with strategic goals, including financial, customer, employee engagement, and operational efficiency KPIs. They proactively use data to identify growth opportunities and operational improvements, such as cost reductions and process enhancements. Their insights lead to clear operational actions resulting in measurable improvements like increased revenue and customer satisfaction. The approach is comprehensive, data-driven, and includes plans for continuous improvement, indicating competent and effective leadership in leveraging performance metrics.\"}",
+  "scores": {
+    "Alignment of metrics with strategic goals": 120,
+    "Use of data to identify opportunities": 115,
+    "Actionability of insights": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates a strong alignment of performance metrics with strategic goals, including financial, customer, employee engagement, and operational efficiency KPIs. They proactively use data to identify growth opportunities and operational improvements, such as cost reductions and process enhancements. Their insights lead to clear operational actions resulting in measurable improvements like increased revenue and customer satisfaction. The approach is comprehensive, data-driven, and includes plans for continuous improvement, indicating competent and effective leadership in leveraging performance metrics."
+}
