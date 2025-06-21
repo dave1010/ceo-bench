@@ -1,0 +1,15 @@
+topic: Financial Acumen
+subtopic: Investment Decisions
+title: Evaluating Strategic Investment Opportunities
+question: "How does the CEO assess and prioritize investment projects to ensure they\
+  \ generate sustainable long-term value?  \n"
+rubric:
+- dimension: Due Diligence and Analysis
+  ideal: The CEO conducts thorough due diligence, considering financial returns, strategic
+    fit, and potential risks before committing resources.
+- dimension: Portfolio Perspective
+  ideal: The CEO views investments as part of an integrated portfolio, balancing risk
+    and reward across different initiatives.
+- dimension: Post-Investment Review
+  ideal: The CEO emphasizes ongoing monitoring and evaluation of investment performance
+    to inform future decisions.
