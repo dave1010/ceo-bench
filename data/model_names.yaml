@@ -1,0 +1,20 @@
+model_names:
+  gpt-4o: Open AI GPT-4o
+  chatgpt-4o-latest: Open AI ChatGPT 4o Latest
+  gpt-4o-mini: Open AI GPT-4o Mini
+  gpt-4.1: Open AI GPT-4.1
+  gpt-4.1-mini: Open AI GPT-4.1 Mini
+  gpt-4.1-nano: Open AI GPT-4.1 Nano
+  gpt-3.5-turbo: Open AI GPT-3.5 Turbo
+  gpt-3.5-turbo-16k: Open AI GPT-3.5 Turbo 16K
+  gpt-4: Open AI GPT-4
+  gpt-4-32k: Open AI GPT-4 32K
+  gpt-4-turbo: Open AI GPT-4 Turbo
+  gpt-4.5-preview: Open AI GPT-4.5 Preview
+  o1: Open AI O1
+  o1-preview: Open AI O1 Preview
+  o1-mini: Open AI O1 Mini
+  o3-mini: Open AI O3 Mini
+  o3: Open AI O3
+  o4-mini: Open AI O4 Mini
+  gpt-3.5-turbo-instruct: Open AI GPT-3.5 Turbo Instruct
