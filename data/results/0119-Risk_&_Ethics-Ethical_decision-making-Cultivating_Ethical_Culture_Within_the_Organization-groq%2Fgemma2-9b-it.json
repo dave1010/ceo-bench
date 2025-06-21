@@ -1,0 +1,14 @@
+{
+  "question_id": "0119-Risk_&_Ethics-Ethical_decision-making-Cultivating_Ethical_Culture_Within_the_Organization",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"leadership_commitment\":135,\"communication_and_awareness\":130,\"accountability_and_reinforcement\":125,\"overall_score\":130,\"comments\":\"The CEO's answer demonstrates strong leadership commitment by leading by example and setting a tone of integrity. Communication and awareness are well addressed with clear mechanisms such as open forums, training tailored to roles, and transparent decision-making. Accountability and reinforcement are also strongly emphasized through consequences for violations and celebration of ethical behavior. The comprehensive approach and ongoing improvement reflect an exceptional understanding and implementation of ethical culture fostering.\"}",
+  "scores": {
+    "Leadership Commitment": 135,
+    "Communication and Awareness": 130,
+    "Accountability and Reinforcement": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO's answer demonstrates strong leadership commitment by leading by example and setting a tone of integrity. Communication and awareness are well addressed with clear mechanisms such as open forums, training tailored to roles, and transparent decision-making. Accountability and reinforcement are also strongly emphasized through consequences for violations and celebration of ethical behavior. The comprehensive approach and ongoing improvement reflect an exceptional understanding and implementation of ethical culture fostering."
+}

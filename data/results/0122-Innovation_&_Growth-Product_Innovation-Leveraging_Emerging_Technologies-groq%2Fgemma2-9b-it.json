@@ -1,0 +1,14 @@
+{
+  "question_id": "0122-Innovation_&_Growth-Product_Innovation-Leveraging_Emerging_Technologies",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Product Innovation",
+  "raw": "{\"vision_for_technology_adoption\":130,\"strategic_implementation\":125,\"innovation_culture\":135,\"overall_score\":130,\"comments\":\"The CEO provides a comprehensive and strategic approach to identifying and incorporating emerging technologies. Their emphasis on continuous learning, networking, and alignment with business vision demonstrates strong vision. The detailed processes for impact assessment, feasibility analysis, pilot projects, and agile development reflect effective strategic implementation. Furthermore, the focus on fostering a culture of experimentation, collaboration, and talent development highlights a robust innovation culture. Overall, this response reflects an exceptional understanding and leadership style conducive to driving product innovation and maintaining competitive advantage.\"}",
+  "scores": {
+    "Vision for Technology Adoption": 130,
+    "Strategic Implementation": 125,
+    "Innovation Culture": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO provides a comprehensive and strategic approach to identifying and incorporating emerging technologies. Their emphasis on continuous learning, networking, and alignment with business vision demonstrates strong vision. The detailed processes for impact assessment, feasibility analysis, pilot projects, and agile development reflect effective strategic implementation. Furthermore, the focus on fostering a culture of experimentation, collaboration, and talent development highlights a robust innovation culture. Overall, this response reflects an exceptional understanding and leadership style conducive to driving product innovation and maintaining competitive advantage."
+}

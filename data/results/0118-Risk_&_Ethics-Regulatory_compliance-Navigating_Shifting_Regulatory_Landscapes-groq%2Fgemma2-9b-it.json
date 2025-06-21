@@ -1,0 +1,14 @@
+{
+  "question_id": "0118-Risk_&_Ethics-Regulatory_compliance-Navigating_Shifting_Regulatory_Landscapes",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Regulatory compliance",
+  "raw": "{\"strategic_foresight\":130,\"operational_implementation\":125,\"risk_management\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates strong strategic foresight by emphasizing proactive monitoring through a centralized compliance team and leveraging RegTech for real-time adaptation. Operational implementation is robust, highlighting leadership buy-in, tailored training, and data management systems to ensure compliance across jurisdictions. Risk management is effectively addressed via regular risk assessments and using feedback mechanisms to identify and mitigate vulnerabilities. Overall, the response reflects exceptional capability in leading compliance in complex regulatory environments.\"}",
+  "scores": {
+    "Strategic Foresight": 130,
+    "Operational Implementation": 125,
+    "Risk Management": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates strong strategic foresight by emphasizing proactive monitoring through a centralized compliance team and leveraging RegTech for real-time adaptation. Operational implementation is robust, highlighting leadership buy-in, tailored training, and data management systems to ensure compliance across jurisdictions. Risk management is effectively addressed via regular risk assessments and using feedback mechanisms to identify and mitigate vulnerabilities. Overall, the response reflects exceptional capability in leading compliance in complex regulatory environments."
+}

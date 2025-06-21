@@ -1,0 +1,14 @@
+{
+  "question_id": "0120-Risk_&_Ethics-Risk_mitigation-Building_a_Risk_Awareness_Culture",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"leadership_in_risk_culture\":130,\"employee_engagement\":125,\"continuous_improvement\":120,\"overall_score\":125,\"comments\":\"The CEO response demonstrates a high level of leadership in fostering a risk-aware culture by emphasizing transparency, accountability, and visible commitment. Employee engagement is strongly addressed through psychological safety, training, and recognition, empowering staff at all levels. Continuous improvement is well covered with regular reviews and adapting processes, reflecting a dynamic approach to risk management. Overall, this is an exceptional and well-rounded approach indicative of a top-tier CEO performance.\"}",
+  "scores": {
+    "Leadership in Risk Culture": 130,
+    "Employee Engagement": 125,
+    "Continuous Improvement": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO response demonstrates a high level of leadership in fostering a risk-aware culture by emphasizing transparency, accountability, and visible commitment. Employee engagement is strongly addressed through psychological safety, training, and recognition, empowering staff at all levels. Continuous improvement is well covered with regular reviews and adapting processes, reflecting a dynamic approach to risk management. Overall, this is an exceptional and well-rounded approach indicative of a top-tier CEO performance."
+}

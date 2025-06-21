@@ -1,0 +1,14 @@
+{
+  "question_id": "0116-Financial_Acumen-Financial_Reporting_&_Transparency-Communicating_Financial_Performance",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Reporting & Transparency",
+  "raw": "{\"clarity_and_accuracy\":115,\"regular_communication\":110,\"ethical_standards\":120,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong commitment to transparency with clear communication tailored to a broad audience, proactive engagement through various forums, and ensuring data accessibility. The emphasis on independent audits and embedding transparency within an ethical framework highlights high ethical standards. Regular updates via multiple channels show consistent communication. Overall, this reflects an above-average to excellent leadership quality in financial transparency.\"}",
+  "scores": {
+    "Clarity and accuracy": 115,
+    "Regular communication": 110,
+    "Ethical standards": 120
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong commitment to transparency with clear communication tailored to a broad audience, proactive engagement through various forums, and ensuring data accessibility. The emphasis on independent audits and embedding transparency within an ethical framework highlights high ethical standards. Regular updates via multiple channels show consistent communication. Overall, this reflects an above-average to excellent leadership quality in financial transparency."
+}

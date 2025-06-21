@@ -1,0 +1,14 @@
+{
+  "question_id": "0114-Financial_Acumen-Financial_modeling-Evaluating_Scenario_Planning_Skills",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial modeling",
+  "raw": "{\"scenario_inclusion\":110,\"assumption_transparency\":105,\"decision_support\":108,\"overall_score\":107.7,\"comments\":\"The answer demonstrates a strong conceptual understanding of incorporating multiple scenarios into financial models for strategic decision-making. It emphasizes the importance of scenario planning, provides an example of diverse scenario consideration, and highlights how insights influenced strategic choices. Although it doesn't provide a personal experience as a CEO (understandably, being an AI), it outlines a clear framework that a CEO could adopt, reflects awareness of assumption transparency, and the use of modeling insights to inform decisions. The scores reflect solid CEO proficiency with room for higher scores if more concrete, quantified personal outcomes were included.\"}",
+  "scores": {
+    "Scenario Inclusion": 110,
+    "Assumption Transparency": 105,
+    "Decision Support": 108
+  },
+  "total": 107.7,
+  "comments": "The answer demonstrates a strong conceptual understanding of incorporating multiple scenarios into financial models for strategic decision-making. It emphasizes the importance of scenario planning, provides an example of diverse scenario consideration, and highlights how insights influenced strategic choices. Although it doesn't provide a personal experience as a CEO (understandably, being an AI), it outlines a clear framework that a CEO could adopt, reflects awareness of assumption transparency, and the use of modeling insights to inform decisions. The scores reflect solid CEO proficiency with room for higher scores if more concrete, quantified personal outcomes were included."
+}

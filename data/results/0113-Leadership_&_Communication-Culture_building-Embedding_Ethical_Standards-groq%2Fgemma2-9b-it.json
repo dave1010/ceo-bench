@@ -1,0 +1,14 @@
+{
+  "question_id": "0113-Leadership_&_Communication-Culture_building-Embedding_Ethical_Standards",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"ethical_leadership\":130,\"organizational_influence\":135,\"employee_engagement\":125,\"overall_score\":130.0,\"comments\":\"The CEO demonstrates exemplary ethical leadership by emphasizing transparency, accountability, and respect, effectively setting a strong example. The described organizational policies\u2014such as a clear code of conduct, ethics training, and a whistleblowing mechanism\u2014indicate a robust implementation of ethical standards. There is also clear encouragement of open dialogue and accountability, fostering employee engagement in ethical behavior. The comprehensive and thoughtful approach suggests a high-level leadership quotient across all dimensions.\"}",
+  "scores": {
+    "Ethical Leadership": 130,
+    "Organizational Influence": 135,
+    "Employee Engagement": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exemplary ethical leadership by emphasizing transparency, accountability, and respect, effectively setting a strong example. The described organizational policies\u2014such as a clear code of conduct, ethics training, and a whistleblowing mechanism\u2014indicate a robust implementation of ethical standards. There is also clear encouragement of open dialogue and accountability, fostering employee engagement in ethical behavior. The comprehensive and thoughtful approach suggests a high-level leadership quotient across all dimensions."
+}

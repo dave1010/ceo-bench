@@ -1,0 +1,14 @@
+{
+  "question_id": "0121-Risk_&_Ethics-Reputation_management-Ensuring_Transparency_and_Accountability",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"transparency_initiatives\":130,\"accountability_culture\":125,\"response_to_challenges\":135,\"overall_score\":130,\"comments\":\"The CEO's answer provides a comprehensive strategy for promoting transparency and accountability, emphasizing open communication, clear decision-making, and ethical conduct. Specific initiatives like regular transparent reporting, accessible leadership, and documented decision rationales demonstrate a strong commitment to transparency. The focus on ethical values, compliance programs, and inclusive decision processes highlights a robust accountability culture. Additionally, the prioritization of prompt and transparent crisis communication reflects an effective response to challenges. Overall, the response reflects a high level of leadership competence aligned with exceptional organizational performance.\"}",
+  "scores": {
+    "Transparency Initiatives": 130,
+    "Accountability Culture": 125,
+    "Response to Challenges": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO's answer provides a comprehensive strategy for promoting transparency and accountability, emphasizing open communication, clear decision-making, and ethical conduct. Specific initiatives like regular transparent reporting, accessible leadership, and documented decision rationales demonstrate a strong commitment to transparency. The focus on ethical values, compliance programs, and inclusive decision processes highlights a robust accountability culture. Additionally, the prioritization of prompt and transparent crisis communication reflects an effective response to challenges. Overall, the response reflects a high level of leadership competence aligned with exceptional organizational performance."
+}

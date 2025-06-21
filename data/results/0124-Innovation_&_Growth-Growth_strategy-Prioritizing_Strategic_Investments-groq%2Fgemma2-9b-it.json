@@ -1,0 +1,14 @@
+{
+  "question_id": "0124-Innovation_&_Growth-Growth_strategy-Prioritizing_Strategic_Investments",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"decision-making\":130,\"market_awareness\":135,\"resource_allocation\":125,\"overall_score\":130,\"comments\":\"The answer provides a comprehensive framework for decision-making, emphasizing clear criteria such as ROI, strategic alignment, and risk assessment, showing strong analytical acumen. The market awareness is demonstrated through detailed analysis of trends, SWOT, and ongoing adaptation to market changes. Resource allocation is well addressed through pilot testing, iterative scaling, and focus on maximizing ROI with both financial and human resources. Overall, the response reflects exceptional leadership insight suited for dynamic market environments.\"}",
+  "scores": {
+    "Decision-making": 130,
+    "Market awareness": 135,
+    "Resource allocation": 125
+  },
+  "total": 130.0,
+  "comments": "The answer provides a comprehensive framework for decision-making, emphasizing clear criteria such as ROI, strategic alignment, and risk assessment, showing strong analytical acumen. The market awareness is demonstrated through detailed analysis of trends, SWOT, and ongoing adaptation to market changes. Resource allocation is well addressed through pilot testing, iterative scaling, and focus on maximizing ROI with both financial and human resources. Overall, the response reflects exceptional leadership insight suited for dynamic market environments."
+}

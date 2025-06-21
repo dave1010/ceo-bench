@@ -1,0 +1,14 @@
+{
+  "question_id": "0123-Innovation_&_Growth-Partnerships_&_Ecosystems-Building_Innovation_Ecosystems",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Partnerships & Ecosystems",
+  "raw": "{\"external_collaboration\":130,\"ecosystem_engagement\":135,\"value_creation\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates an excellent understanding and implementation of leveraging external partnerships. They actively seek strategic alliances, foster open innovation, build innovation ecosystems, and enable cross-pollination of ideas. The emphasis on measuring impact and tracking innovation outcomes underscores a results-oriented approach. Overall, this response reflects a strong capacity to use external collaborations effectively, integrate into ecosystems fully, and create substantial innovation value, meriting a high leadership quotient.\"}",
+  "scores": {
+    "External Collaboration": 130,
+    "Ecosystem Engagement": 135,
+    "Value Creation": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates an excellent understanding and implementation of leveraging external partnerships. They actively seek strategic alliances, foster open innovation, build innovation ecosystems, and enable cross-pollination of ideas. The emphasis on measuring impact and tracking innovation outcomes underscores a results-oriented approach. Overall, this response reflects a strong capacity to use external collaborations effectively, integrate into ecosystems fully, and create substantial innovation value, meriting a high leadership quotient."
+}
