@@ -1,0 +1,12 @@
+{
+  "question_id": "0125-Innovation_&_Growth-M&A_evaluation-Risk_Identification_in_M&A_Targets",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"risk_analysis\":125,\"mitigation_planning\":115,\"decision_quality\":120,\"overall_score\":120.0,\"comments\":\"The answer presents a comprehensive and systematic approach to identifying risks, covering financial, legal, operational, and market dimensions with detailed frameworks and expert input, justifying a strong Risk Analysis score. Mitigation planning is addressed through identification of contingency planning, prioritization of risks, and ongoing monitoring, though explicit integration into overarching M&A strategy could be more emphasized, hence a slightly lower but strong score. Decision quality is well supported by scenario planning, quantitative and qualitative assessments, and a clear orientation toward informed decision-making, meriting a high score. Overall, this reflects an above-average, highly capable CEO-level response.\"}",
+  "scores": {
+    "Risk Analysis": 125,
+    "Mitigation Planning": 115,
+    "Decision Quality": 120
+  },
+  "total": 120.0,
+  "comments": "The answer presents a comprehensive and systematic approach to identifying risks, covering financial, legal, operational, and market dimensions with detailed frameworks and expert input, justifying a strong Risk Analysis score. Mitigation planning is addressed through identification of contingency planning, prioritization of risks, and ongoing monitoring, though explicit integration into overarching M&A strategy could be more emphasized, hence a slightly lower but strong score. Decision quality is well supported by scenario planning, quantitative and qualitative assessments, and a clear orientation toward informed decision-making, meriting a high score. Overall, this reflects an above-average, highly capable CEO-level response."
+}

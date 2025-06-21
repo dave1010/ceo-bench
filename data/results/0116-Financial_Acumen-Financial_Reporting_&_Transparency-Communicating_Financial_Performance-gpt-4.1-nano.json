@@ -1,0 +1,12 @@
+{
+  "question_id": "0116-Financial_Acumen-Financial_Reporting_&_Transparency-Communicating_Financial_Performance",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"clarity_and_accuracy\":115,\"regular_communication\":110,\"ethical_standards\":120,\"overall_score\":115,\"comments\":\"The answer clearly addresses how the CEO maintains transparency by ensuring rigorous controls and accurate, accessible financial reporting which supports clarity and accuracy. It emphasizes regular and open communication channels with stakeholders, fulfilling the regular communication criterion effectively. It also highlights adherence to ethical standards and fostering a culture of honesty, demonstrating strong ethical leadership in financial reporting.\"}",
+  "scores": {
+    "Clarity and accuracy": 115,
+    "Regular communication": 110,
+    "Ethical standards": 120
+  },
+  "total": 115.0,
+  "comments": "The answer clearly addresses how the CEO maintains transparency by ensuring rigorous controls and accurate, accessible financial reporting which supports clarity and accuracy. It emphasizes regular and open communication channels with stakeholders, fulfilling the regular communication criterion effectively. It also highlights adherence to ethical standards and fostering a culture of honesty, demonstrating strong ethical leadership in financial reporting."
+}

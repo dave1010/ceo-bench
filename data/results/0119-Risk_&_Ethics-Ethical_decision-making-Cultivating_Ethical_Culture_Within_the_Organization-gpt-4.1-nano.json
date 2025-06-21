@@ -1,0 +1,12 @@
+{
+  "question_id": "0119-Risk_&_Ethics-Ethical_decision-making-Cultivating_Ethical_Culture_Within_the_Organization",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"leadership_commitment\":130,\"communication_and_awareness\":125,\"accountability_and_reinforcement\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates strong leadership commitment by highlighting leading with integrity and transparency, which sets a powerful example. Communication and awareness are well addressed through ongoing training, clear communication of codes of ethics, and open channels for dialogue and reporting. Accountability and reinforcement are covered effectively with consistent disciplinary measures and recognition of ethical behavior. The comprehensive and well-structured approach indicates exceptional understanding and application of fostering an ethical culture, warranting a high Leadership Quotient.\"}",
+  "scores": {
+    "Leadership Commitment": 130,
+    "Communication and Awareness": 125,
+    "Accountability and Reinforcement": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates strong leadership commitment by highlighting leading with integrity and transparency, which sets a powerful example. Communication and awareness are well addressed through ongoing training, clear communication of codes of ethics, and open channels for dialogue and reporting. Accountability and reinforcement are covered effectively with consistent disciplinary measures and recognition of ethical behavior. The comprehensive and well-structured approach indicates exceptional understanding and application of fostering an ethical culture, warranting a high Leadership Quotient."
+}

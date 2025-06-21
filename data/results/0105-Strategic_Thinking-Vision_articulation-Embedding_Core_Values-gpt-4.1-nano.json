@@ -1,0 +1,12 @@
+{
+  "question_id": "0105-Strategic_Thinking-Vision_articulation-Embedding_Core_Values",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"integration\":120,\"leadership_consistency\":125,\"cultural_influence\":123,\"overall_score\":123,\"comments\":\"The CEO exhibits strong integration of core values into the vision and strategic initiatives, consistently models these values in their actions and communications, and successfully influences the organizational culture to align with these core principles. The scores reflect a high but not exceptional level of leadership quotient, indicative of a very capable CEO effectively embedding values into the organization.\"}",
+  "scores": {
+    "Integration": 120,
+    "Leadership consistency": 125,
+    "Cultural influence": 123
+  },
+  "total": 123.0,
+  "comments": "The CEO exhibits strong integration of core values into the vision and strategic initiatives, consistently models these values in their actions and communications, and successfully influences the organizational culture to align with these core principles. The scores reflect a high but not exceptional level of leadership quotient, indicative of a very capable CEO effectively embedding values into the organization."
+}

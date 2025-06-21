@@ -1,0 +1,12 @@
+{
+  "question_id": "0087-Risk_&_Ethics-Reputation_management-Crisis_Response_Effectiveness",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"response_timeliness\":115,\"transparency_and_honesty\":120,\"restoration_of_trust\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates strong understanding of proactive and timely crisis management through monitoring and swift coordinated action. It emphasizes transparency with clear, factual communication and accountability, which is crucial for honesty. The approach to restoring trust through ongoing engagement and fostering a culture of learning reflects effective long-term reputation management. Scores reflect a capable CEO performance above average, showing good leadership qualities in reputational crisis handling.\"}",
+  "scores": {
+    "Response timeliness": 115,
+    "Transparency and honesty": 120,
+    "Restoration of trust": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates strong understanding of proactive and timely crisis management through monitoring and swift coordinated action. It emphasizes transparency with clear, factual communication and accountability, which is crucial for honesty. The approach to restoring trust through ongoing engagement and fostering a culture of learning reflects effective long-term reputation management. Scores reflect a capable CEO performance above average, showing good leadership qualities in reputational crisis handling."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0018-Strategic_Thinking-Risk_Management-Balancing_Innovation_with_Risk",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"risk_assessment\":115,\"decision-making_balance\":110,\"risk_mitigation_strategies\":112,\"overall_score\":112.3,\"comments\":\"The CEO demonstrates a well-rounded and mature approach to risk management by conducting thorough risk assessments and scenario analyses. The emphasis on cross-functional collaboration and fostering a culture of risk awareness supports comprehensive identification and evaluation of risks. Decision-making balance is strong, with alignment to company values and risk appetite indicating prudent weighing of risks versus benefits. The CEO's use of ongoing monitoring, contingency planning, and adaptive decision-making reflects effective risk mitigation strategies that promote sustainable growth. Overall, this reflects a capable and strategic leader with above-average leadership quotient in managing risks.\"}",
+  "scores": {
+    "Risk Assessment": 115,
+    "Decision-Making Balance": 110,
+    "Risk Mitigation Strategies": 112
+  },
+  "total": 112.3,
+  "comments": "The CEO demonstrates a well-rounded and mature approach to risk management by conducting thorough risk assessments and scenario analyses. The emphasis on cross-functional collaboration and fostering a culture of risk awareness supports comprehensive identification and evaluation of risks. Decision-making balance is strong, with alignment to company values and risk appetite indicating prudent weighing of risks versus benefits. The CEO's use of ongoing monitoring, contingency planning, and adaptive decision-making reflects effective risk mitigation strategies that promote sustainable growth. Overall, this reflects a capable and strategic leader with above-average leadership quotient in managing risks."
+}

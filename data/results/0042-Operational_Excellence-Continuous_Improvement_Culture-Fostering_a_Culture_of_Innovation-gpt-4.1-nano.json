@@ -1,0 +1,12 @@
+{
+  "question_id": "0042-Operational_Excellence-Continuous_Improvement_Culture-Fostering_a_Culture_of_Innovation",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"leadership_engagement\":135,\"employee_empowerment\":130,\"process_integration\":125,\"overall_score\":130.0,\"comments\":\"The CEO demonstrates strong leadership engagement by setting a clear vision, leading by example, and fostering an innovative culture. Employees are empowered through autonomy, support, and recognition programs that encourage participation in innovation. Continuous improvement is well integrated through feedback loops, collaboration, and prioritizing learning and development, embedding these practices into daily operations. Overall, the response reflects an exceptional approach to promoting continuous improvement and innovation.\"}",
+  "scores": {
+    "Leadership Engagement": 135,
+    "Employee Empowerment": 130,
+    "Process Integration": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates strong leadership engagement by setting a clear vision, leading by example, and fostering an innovative culture. Employees are empowered through autonomy, support, and recognition programs that encourage participation in innovation. Continuous improvement is well integrated through feedback loops, collaboration, and prioritizing learning and development, embedding these practices into daily operations. Overall, the response reflects an exceptional approach to promoting continuous improvement and innovation."
+}

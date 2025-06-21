@@ -1,0 +1,12 @@
+{
+  "question_id": "0059-Leadership_&_Communication-Stakeholder_Engagement_Strategies-Effective_Stakeholder_Communication",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"communication_clarity\":120,\"engagement_frequency\":115,\"responsiveness\":118,\"overall_score\":117.7,\"comments\":\"The CEO demonstrates strong communication clarity by tailoring messages for diverse audiences and ensuring understanding. Engagement frequency is high, with regular updates and multiple communication channels. Responsiveness is prompt and effective, fostering trust through active listening and addressing concerns quickly. Overall, the CEO's approach strongly aligns with the rubric criteria, promoting collaboration and transparency effectively.\"}",
+  "scores": {
+    "Communication Clarity": 120,
+    "Engagement Frequency": 115,
+    "Responsiveness": 118
+  },
+  "total": 117.7,
+  "comments": "The CEO demonstrates strong communication clarity by tailoring messages for diverse audiences and ensuring understanding. Engagement frequency is high, with regular updates and multiple communication channels. Responsiveness is prompt and effective, fostering trust through active listening and addressing concerns quickly. Overall, the CEO's approach strongly aligns with the rubric criteria, promoting collaboration and transparency effectively."
+}

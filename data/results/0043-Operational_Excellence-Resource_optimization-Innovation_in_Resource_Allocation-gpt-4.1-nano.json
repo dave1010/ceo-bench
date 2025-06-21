@@ -1,0 +1,12 @@
+{
+  "question_id": "0043-Operational_Excellence-Resource_optimization-Innovation_in_Resource_Allocation",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"strategic_planning\":130,\"efficiency_gains\":135,\"change_management\":125,\"overall_score\":130,\"comments\":\"The CEO exhibits strong strategic planning evidenced by innovative, tailored approaches such as data-driven decision-making and integrated management platforms. Efficiency gains are notable through agile resource allocation and automation investments, leading to measurable improvements. Change management is effectively addressed by fostering cross-functional collaboration and continuous feedback mechanisms to embed new practices organization-wide. Overall, this reflects a high Leadership Quotient indicative of exceptional CEO performance.\"}",
+  "scores": {
+    "Strategic Planning": 130,
+    "Efficiency Gains": 135,
+    "Change Management": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO exhibits strong strategic planning evidenced by innovative, tailored approaches such as data-driven decision-making and integrated management platforms. Efficiency gains are notable through agile resource allocation and automation investments, leading to measurable improvements. Change management is effectively addressed by fostering cross-functional collaboration and continuous feedback mechanisms to embed new practices organization-wide. Overall, this reflects a high Leadership Quotient indicative of exceptional CEO performance."
+}

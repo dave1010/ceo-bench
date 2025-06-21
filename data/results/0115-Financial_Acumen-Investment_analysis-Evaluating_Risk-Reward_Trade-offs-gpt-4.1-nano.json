@@ -1,0 +1,12 @@
+{
+  "question_id": "0115-Financial_Acumen-Investment_analysis-Evaluating_Risk-Reward_Trade-offs",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"risk_assessment\":130,\"reward_potential\":125,\"decision_justification\":130,\"overall_score\":128.3,\"comments\":\"The answer exhibits a highly structured and comprehensive approach to balancing risks and rewards in investment proposals. It thoroughly covers risk identification and mitigation, uses quantitative methods, aligns with strategic goals, and incorporates scenario planning and stakeholder input. The reasoning is clear and well articulated, demonstrating an exceptional leadership capacity in decision-making and risk management, consistent with a high Leadership Quotient score.\"}",
+  "scores": {
+    "Risk Assessment": 130,
+    "Reward Potential": 125,
+    "Decision Justification": 130
+  },
+  "total": 128.3,
+  "comments": "The answer exhibits a highly structured and comprehensive approach to balancing risks and rewards in investment proposals. It thoroughly covers risk identification and mitigation, uses quantitative methods, aligns with strategic goals, and incorporates scenario planning and stakeholder input. The reasoning is clear and well articulated, demonstrating an exceptional leadership capacity in decision-making and risk management, consistent with a high Leadership Quotient score."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0086-Risk_&_Ethics-Risk_mitigation-Integrating_Ethical_Considerations_into_Risk_Plans",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"ethical_awareness\":115,\"integration\":110,\"influence\":105,\"overall_score\":110,\"comments\":\"The answer shows a clear understanding of the importance of ethics in risk management, highlighting commitment to integrity and stakeholder engagement. The integration of ethical principles into corporate policies and practices is well emphasized, demonstrating strong alignment with ethical standards. The influence dimension reflects fostering an ethical culture organization-wide, although the answer could provide more concrete examples of how this culture is maintained. Overall, the response is comprehensive and demonstrates strong leadership in ethical risk mitigation.\"}",
+  "scores": {
+    "Ethical Awareness": 115,
+    "Integration": 110,
+    "Influence": 105
+  },
+  "total": 110.0,
+  "comments": "The answer shows a clear understanding of the importance of ethics in risk management, highlighting commitment to integrity and stakeholder engagement. The integration of ethical principles into corporate policies and practices is well emphasized, demonstrating strong alignment with ethical standards. The influence dimension reflects fostering an ethical culture organization-wide, although the answer could provide more concrete examples of how this culture is maintained. Overall, the response is comprehensive and demonstrates strong leadership in ethical risk mitigation."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0039-Strategic_Thinking-Organizational_Alignment-Embedding_Strategy_into_Culture",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"communication\":120,\"leadership_and_modeling\":125,\"engagement_and_buy-in\":115,\"overall_score\":120,\"comments\":\"The answer demonstrates clear and consistent communication of strategic priorities at all organizational levels, fulfilling the 'Communication' criterion effectively. It appropriately highlights the CEO's role in leadership and modeling through commitment and behavior, earning a strong score in 'Leadership and Modeling.' The response also emphasizes cross-functional engagement and fostering ownership, aligning well with the 'Engagement and Buy-in' dimension, though with slightly less depth than the others. Overall, the CEO's approach is thorough and well-rounded, meriting a high Leadership Quotient score.\"}",
+  "scores": {
+    "Communication": 120,
+    "Leadership and Modeling": 125,
+    "Engagement and buy-in": 115
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates clear and consistent communication of strategic priorities at all organizational levels, fulfilling the 'Communication' criterion effectively. It appropriately highlights the CEO's role in leadership and modeling through commitment and behavior, earning a strong score in 'Leadership and Modeling.' The response also emphasizes cross-functional engagement and fostering ownership, aligning well with the 'Engagement and Buy-in' dimension, though with slightly less depth than the others. Overall, the CEO's approach is thorough and well-rounded, meriting a high Leadership Quotient score."
+}

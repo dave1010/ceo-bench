@@ -1,0 +1,12 @@
+{
+  "question_id": "0014-Strategic_Thinking-Market_entry_strategies-Assessing_Regulatory_Challenges_in_New_Markets",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"regulatory_understanding\":130,\"risk_management\":125,\"adaptability\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a deep and comprehensive understanding of regulatory environments and proactive research, including engaging local expertise and building relationships with authorities. Risk management strategies are effective, emphasizing continuous monitoring and compliance culture. The CEO shows adaptability by fostering organizational agility and readiness to adjust to regulatory changes, resulting in a strong, well-rounded approach to ensuring smooth market entry and compliance.\"}",
+  "scores": {
+    "Regulatory Understanding": 130,
+    "Risk Management": 125,
+    "Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a deep and comprehensive understanding of regulatory environments and proactive research, including engaging local expertise and building relationships with authorities. Risk management strategies are effective, emphasizing continuous monitoring and compliance culture. The CEO shows adaptability by fostering organizational agility and readiness to adjust to regulatory changes, resulting in a strong, well-rounded approach to ensuring smooth market entry and compliance."
+}

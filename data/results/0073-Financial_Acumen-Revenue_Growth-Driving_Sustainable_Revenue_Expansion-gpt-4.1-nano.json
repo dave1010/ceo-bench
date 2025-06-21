@@ -1,0 +1,12 @@
+{
+  "question_id": "0073-Financial_Acumen-Revenue_Growth-Driving_Sustainable_Revenue_Expansion",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"market_insight\":110,\"innovation_and_diversification\":115,\"risk-balanced_approach\":108,\"overall_score\":111,\"comments\":\"The CEO demonstrates strong market insight by monitoring industry trends and customer needs effectively. Innovation is well encouraged through fostering a culture of collaboration and new business models. The approach to risk is balanced with thorough analysis and sustainability metrics, ensuring long-term viability. Overall, the answer reflects a capable and thoughtful leadership approach.\"}",
+  "scores": {
+    "Market Insight": 110,
+    "Innovation and Diversification": 115,
+    "Risk-Balanced Approach": 108
+  },
+  "total": 111.0,
+  "comments": "The CEO demonstrates strong market insight by monitoring industry trends and customer needs effectively. Innovation is well encouraged through fostering a culture of collaboration and new business models. The approach to risk is balanced with thorough analysis and sustainability metrics, ensuring long-term viability. Overall, the answer reflects a capable and thoughtful leadership approach."
+}

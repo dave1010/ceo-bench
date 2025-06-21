@@ -1,0 +1,12 @@
+{
+  "question_id": "0074-Financial_Acumen-Investment_Decisions-Evaluating_Strategic_Investment_Opportunities",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"due_diligence_and_analysis\":120,\"portfolio_perspective\":110,\"post-investment_review\":115,\"overall_score\":115,\"comments\":\"The CEO demonstrates strong due diligence by integrating both financial metrics and qualitative factors into their assessment. They adopt a portfolio perspective through the balanced scorecard approach that balances multiple value dimensions, including sustainability. Additionally, there is a clear emphasis on post-investment review via continuous monitoring and reevaluation, supporting adaptive decision-making. Overall, the approach is comprehensive and aligns well with sustaining long-term value, meriting a high leadership quotient score across all dimensions.\"}",
+  "scores": {
+    "Due Diligence and Analysis": 120,
+    "Portfolio Perspective": 110,
+    "Post-Investment Review": 115
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates strong due diligence by integrating both financial metrics and qualitative factors into their assessment. They adopt a portfolio perspective through the balanced scorecard approach that balances multiple value dimensions, including sustainability. Additionally, there is a clear emphasis on post-investment review via continuous monitoring and reevaluation, supporting adaptive decision-making. Overall, the approach is comprehensive and aligns well with sustaining long-term value, meriting a high leadership quotient score across all dimensions."
+}

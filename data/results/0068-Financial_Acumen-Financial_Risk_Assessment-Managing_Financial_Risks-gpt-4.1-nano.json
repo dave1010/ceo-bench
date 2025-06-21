@@ -1,0 +1,12 @@
+{
+  "question_id": "0068-Financial_Acumen-Financial_Risk_Assessment-Managing_Financial_Risks",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"risk_identification\":115,\"mitigation_strategies\":120,\"monitoring_&_adaptation\":118,\"overall_score\":118,\"comments\":\"The CEO demonstrates strong capabilities in identifying financial risks by actively monitoring key indicators and trends. They design and oversee robust mitigation strategies, including risk management frameworks and contingency plans. Continuous monitoring and adaptation are evident through fostering collaboration with finance professionals and maintaining internal controls. Overall, the CEO exhibits above-average proficiency, nearing exceptional performance.\"}",
+  "scores": {
+    "Risk Identification": 115,
+    "Mitigation Strategies": 120,
+    "Monitoring & Adaptation": 118
+  },
+  "total": 118.0,
+  "comments": "The CEO demonstrates strong capabilities in identifying financial risks by actively monitoring key indicators and trends. They design and oversee robust mitigation strategies, including risk management frameworks and contingency plans. Continuous monitoring and adaptation are evident through fostering collaboration with finance professionals and maintaining internal controls. Overall, the CEO exhibits above-average proficiency, nearing exceptional performance."
+}

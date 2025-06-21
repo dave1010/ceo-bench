@@ -1,0 +1,12 @@
+{
+  "question_id": "0029-Operational_Excellence-Process_improvement-Identifying_Bottlenecks_in_Workflow",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"proactive_detection\":130,\"problem_solving\":125,\"continuous_improvement\":130,\"overall_score\":128.3,\"comments\":\"The answer demonstrates a strong, data-driven approach to proactively identifying bottlenecks through real-time analytics and process mapping, earning a high proactive detection score. It clearly outlines structured problem-solving methods using proven frameworks like Lean and Six Sigma, doing pilot tests before scaling, which merits a high problem-solving score. The commitment to continuous feedback loops, cross-functional team engagement, and iterative solution refinement indicates a robust continuous improvement mindset. Overall, the response reflects exceptional leadership capacity in operational efficiency enhancement.\"}",
+  "scores": {
+    "Proactive Detection": 130,
+    "Problem Solving": 125,
+    "Continuous Improvement": 130
+  },
+  "total": 128.3,
+  "comments": "The answer demonstrates a strong, data-driven approach to proactively identifying bottlenecks through real-time analytics and process mapping, earning a high proactive detection score. It clearly outlines structured problem-solving methods using proven frameworks like Lean and Six Sigma, doing pilot tests before scaling, which merits a high problem-solving score. The commitment to continuous feedback loops, cross-functional team engagement, and iterative solution refinement indicates a robust continuous improvement mindset. Overall, the response reflects exceptional leadership capacity in operational efficiency enhancement."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0022-Strategic_Thinking-Resource_Prioritization-Strategic_Resource_Deployment",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"prioritization_skills\":115,\"decision-making_process\":110,\"outcome_focus\":110,\"overall_score\":112,\"comments\":\"The answer demonstrates strong prioritization skills by focusing on high-impact initiatives aligned with strategic importance and ROI. The decision-making process includes collaboration with senior leadership and use of KPIs, indicating data and stakeholder-informed resource allocation. Outcome focus is evident through ongoing monitoring and dynamic adjustment of resources to meet strategic objectives. Overall, the response reflects a capable and effective CEO approach, scoring above average but not at the 'genius' level due to lack of mention of innovative or exceptional practices.\"}",
+  "scores": {
+    "Prioritization Skills": 115,
+    "Decision-Making Process": 110,
+    "Outcome Focus": 110
+  },
+  "total": 112.0,
+  "comments": "The answer demonstrates strong prioritization skills by focusing on high-impact initiatives aligned with strategic importance and ROI. The decision-making process includes collaboration with senior leadership and use of KPIs, indicating data and stakeholder-informed resource allocation. Outcome focus is evident through ongoing monitoring and dynamic adjustment of resources to meet strategic objectives. Overall, the response reflects a capable and effective CEO approach, scoring above average but not at the 'genius' level due to lack of mention of innovative or exceptional practices."
+}

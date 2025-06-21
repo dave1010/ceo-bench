@@ -1,0 +1,12 @@
+{
+  "question_id": "0110-Leadership_&_Communication-Team_motivation-Inspiring_Commitment_During_Challenges",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"empathy_and_support\":125,\"communication_clarity\":130,\"action_and_accountability\":128,\"overall_score\":128,\"comments\":\"The response effectively demonstrates empathy by recognizing team emotions and the importance of mental well-being, provides clear and transparent communication strategies to maintain focus and hope, and outlines concrete actionable steps such as involving the team, fostering resilience, and leading by example that promote accountability and ownership. The comprehensive and well-articulated approach reflects a high Leadership Quotient indicative of exceptional CEO performance.\"}",
+  "scores": {
+    "Empathy and Support": 125,
+    "Communication Clarity": 130,
+    "Action and Accountability": 128
+  },
+  "total": 128.0,
+  "comments": "The response effectively demonstrates empathy by recognizing team emotions and the importance of mental well-being, provides clear and transparent communication strategies to maintain focus and hope, and outlines concrete actionable steps such as involving the team, fostering resilience, and leading by example that promote accountability and ownership. The comprehensive and well-articulated approach reflects a high Leadership Quotient indicative of exceptional CEO performance."
+}

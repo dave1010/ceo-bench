@@ -1,0 +1,12 @@
+{
+  "question_id": "0060-Leadership_&_Communication-Crisis_communication-Navigating_Unexpected_Challenges",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"proactivity\":120,\"clarity_of_communication\":115,\"stakeholder_confidence\":118,\"overall_score\":118,\"comments\":\"The answer demonstrates strong proactivity through contingency planning and scenario simulations, showing advanced preparation for crises. Communication is clear and transparent, with emphasis on consistent messaging to maintain trust. The CEO's approach effectively reassures stakeholders and upholds confidence, reflecting a high leadership capability during crises.\"}",
+  "scores": {
+    "Proactivity": 120,
+    "Clarity of Communication": 115,
+    "Stakeholder Confidence": 118
+  },
+  "total": 118.0,
+  "comments": "The answer demonstrates strong proactivity through contingency planning and scenario simulations, showing advanced preparation for crises. Communication is clear and transparent, with emphasis on consistent messaging to maintain trust. The CEO's approach effectively reassures stakeholders and upholds confidence, reflecting a high leadership capability during crises."
+}

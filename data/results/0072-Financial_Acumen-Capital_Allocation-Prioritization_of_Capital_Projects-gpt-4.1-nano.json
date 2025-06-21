@@ -1,0 +1,12 @@
+{
+  "question_id": "0072-Financial_Acumen-Capital_Allocation-Prioritization_of_Capital_Projects",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"valuation_and_roi\":115,\"risk_consideration\":110,\"strategic_fit\":115,\"overall_score\":113.3,\"comments\":\"The answer thoroughly addresses the key aspects of capital allocation by emphasizing financial returns with appropriate metrics (NPV, IRR), risk management, and strategic alignment. It also adds considerations like resource constraints, portfolio diversification, and stakeholder impact, demonstrating a comprehensive and nuanced approach. The response reflects a strong leadership understanding, indicating an above-average to excellent capability in prioritizing capital allocation to maximize shareholder value.\"}",
+  "scores": {
+    "Valuation and ROI": 115,
+    "Risk Consideration": 110,
+    "Strategic Fit": 115
+  },
+  "total": 113.3,
+  "comments": "The answer thoroughly addresses the key aspects of capital allocation by emphasizing financial returns with appropriate metrics (NPV, IRR), risk management, and strategic alignment. It also adds considerations like resource constraints, portfolio diversification, and stakeholder impact, demonstrating a comprehensive and nuanced approach. The response reflects a strong leadership understanding, indicating an above-average to excellent capability in prioritizing capital allocation to maximize shareholder value."
+}

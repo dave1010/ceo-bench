@@ -1,0 +1,12 @@
+{
+  "question_id": "0017-Strategic_Thinking-Long-term_Planning-Visionary_Strategy_Development",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"clarity_of_vision\":115,\"engagement\":110,\"adaptability\":105,\"overall_score\":110,\"comments\":\"The CEO demonstrates a well-developed, strategic, and inclusive approach to crafting the long-term vision, indicating clarity and alignment with core values. The communication strategy involves multiple stakeholders and channels, showing strong engagement and motivation. Additionally, the vision is revisited and refined regularly, displaying good adaptability to changing circumstances. Scores reflect a capable and effective CEO with above-average performance in all dimensions.\"}",
+  "scores": {
+    "Clarity of vision": 115,
+    "Engagement": 110,
+    "Adaptability": 105
+  },
+  "total": 110.0,
+  "comments": "The CEO demonstrates a well-developed, strategic, and inclusive approach to crafting the long-term vision, indicating clarity and alignment with core values. The communication strategy involves multiple stakeholders and channels, showing strong engagement and motivation. Additionally, the vision is revisited and refined regularly, displaying good adaptability to changing circumstances. Scores reflect a capable and effective CEO with above-average performance in all dimensions."
+}

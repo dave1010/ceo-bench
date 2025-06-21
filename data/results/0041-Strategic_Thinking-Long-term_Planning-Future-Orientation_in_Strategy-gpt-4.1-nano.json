@@ -1,0 +1,12 @@
+{
+  "question_id": "0041-Strategic_Thinking-Long-term_Planning-Future-Orientation_in_Strategy",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"visionary_planning\":130,\"sustainability_focus\":135,\"stakeholder_engagement\":125,\"overall_score\":130.0,\"comments\":\"The answer demonstrates a strong visionary planning by outlining a clear, compelling long-term vision aligned with the company's core values and future aspirations. It shows a high sustainability focus by prioritizing investments in innovation, talent, and environmentally responsible practices, embedding sustainability into the organization's culture. Stakeholder engagement is well addressed through the inclusion of diverse groups such as employees, investors, and community partners to foster shared commitment. Overall, this reflects an exceptional level of leadership likely to drive extraordinary organizational performance.\"}",
+  "scores": {
+    "Visionary Planning": 130,
+    "Sustainability Focus": 135,
+    "Stakeholder Engagement": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a strong visionary planning by outlining a clear, compelling long-term vision aligned with the company's core values and future aspirations. It shows a high sustainability focus by prioritizing investments in innovation, talent, and environmentally responsible practices, embedding sustainability into the organization's culture. Stakeholder engagement is well addressed through the inclusion of diverse groups such as employees, investors, and community partners to foster shared commitment. Overall, this reflects an exceptional level of leadership likely to drive extraordinary organizational performance."
+}

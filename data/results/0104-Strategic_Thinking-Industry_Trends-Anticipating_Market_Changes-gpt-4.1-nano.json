@@ -1,0 +1,12 @@
+{
+  "question_id": "0104-Strategic_Thinking-Industry_Trends-Anticipating_Market_Changes",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"market_awareness\":120,\"proactiveness\":115,\"strategic_preparedness\":120,\"overall_score\":118.3,\"comments\":\"The CEO demonstrates strong market awareness by continuously monitoring trends and engaging with thought leaders. Proactiveness is evident through early detection of changes and fostering a culture of innovation and agility. Strategic preparedness is confirmed by integrating scenario planning and forming strategic alliances to adapt effectively. Scores reflect a high level of leadership competence in anticipating and preparing for industry shifts, positioning the company well for sustained competitive advantage.\"}",
+  "scores": {
+    "Market Awareness": 120,
+    "Proactiveness": 115,
+    "Strategic Preparedness": 120
+  },
+  "total": 118.3,
+  "comments": "The CEO demonstrates strong market awareness by continuously monitoring trends and engaging with thought leaders. Proactiveness is evident through early detection of changes and fostering a culture of innovation and agility. Strategic preparedness is confirmed by integrating scenario planning and forming strategic alliances to adapt effectively. Scores reflect a high level of leadership competence in anticipating and preparing for industry shifts, positioning the company well for sustained competitive advantage."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0019-Strategic_Thinking-Risk_Management_and_Decision_Making-Balancing_Risk_with_Strategic_Opportunity",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"analytical_frameworks\":115,\"balance_of_risk_and_reward\":120,\"flexibility_and_adaptability\":118,\"overall_score\":118,\"comments\":\"The CEO employs a well-rounded approach to risk assessment, utilizing data-driven insights and consulting stakeholders, exemplifying strong analytical frameworks. Their decision-making reflects a balanced judgment between risk and reward, leveraging structured mitigation techniques. The emphasis on agility and fostering a collaborative, transparent culture highlights a high degree of flexibility and adaptability. Overall, this approach embodies a highly effective CEO-level strategy.\"}",
+  "scores": {
+    "Analytical Frameworks": 115,
+    "Balance of Risk and Reward": 120,
+    "Flexibility and Adaptability": 118
+  },
+  "total": 118.0,
+  "comments": "The CEO employs a well-rounded approach to risk assessment, utilizing data-driven insights and consulting stakeholders, exemplifying strong analytical frameworks. Their decision-making reflects a balanced judgment between risk and reward, leveraging structured mitigation techniques. The emphasis on agility and fostering a collaborative, transparent culture highlights a high degree of flexibility and adaptability. Overall, this approach embodies a highly effective CEO-level strategy."
+}

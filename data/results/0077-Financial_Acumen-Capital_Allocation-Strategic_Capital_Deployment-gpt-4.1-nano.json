@@ -1,0 +1,12 @@
+{
+  "question_id": "0077-Financial_Acumen-Capital_Allocation-Strategic_Capital_Deployment",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"investment_evaluation_process\":125,\"alignment_with_strategic_goals\":120,\"post-investment_oversight_and_adjustments\":115,\"overall_score\":120,\"comments\":\"The CEO demonstrates a strong and comprehensive approach to capital allocation by employing rigorous financial analysis, incorporating market trends, and engaging cross-functional stakeholders. The process clearly aligns investments with strategic priorities and includes ongoing performance monitoring with adjustments as needed, reflecting a high degree of leadership competence in capital deployment.\"}",
+  "scores": {
+    "Investment evaluation process": 125,
+    "Alignment with strategic goals": 120,
+    "Post-investment oversight and adjustments": 115
+  },
+  "total": 120.0,
+  "comments": "The CEO demonstrates a strong and comprehensive approach to capital allocation by employing rigorous financial analysis, incorporating market trends, and engaging cross-functional stakeholders. The process clearly aligns investments with strategic priorities and includes ongoing performance monitoring with adjustments as needed, reflecting a high degree of leadership competence in capital deployment."
+}

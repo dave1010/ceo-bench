@@ -1,0 +1,12 @@
+{
+  "question_id": "0093-Innovation_&_Growth-Technology_adoption-Accelerating_Digital_Transformation",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"leadership_in_technology_adoption\":120,\"strategy_alignment\":115,\"change_management\":110,\"overall_score\":115,\"comments\":\"The CEO exhibits strong proactive leadership in technology adoption, effectively aligning initiatives with the company's strategic goals. They manage organizational change well, fostering a supportive culture for innovation and ensuring timely execution of digital transformation efforts. The scores reflect a highly capable CEO demonstrating above-average performance in all dimensions.\"}",
+  "scores": {
+    "Leadership in Technology Adoption": 120,
+    "Strategy Alignment": 115,
+    "Change Management": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO exhibits strong proactive leadership in technology adoption, effectively aligning initiatives with the company's strategic goals. They manage organizational change well, fostering a supportive culture for innovation and ensuring timely execution of digital transformation efforts. The scores reflect a highly capable CEO demonstrating above-average performance in all dimensions."
+}

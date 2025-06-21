@@ -1,0 +1,12 @@
+{
+  "question_id": "0099-Innovation_&_Growth-M&A_evaluation-Strategic_Fit_Assessment",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"strategic_alignment\":115,\"due_diligence_rigor\":120,\"decision-making_confidence\":110,\"overall_score\":115,\"comments\":\"The CEO shows a strong ability to align acquisitions with strategic objectives by assessing strategic fit and long-term value. The due diligence process is comprehensive, involving financial, cultural, and operational considerations with cross-functional input, reflecting rigor. Decision-making confidence is implied through the use of valuation models and informed analyses, supporting clear go/no-go decisions. Overall, the performance is above average and indicative of a capable, effective CEO.\"}",
+  "scores": {
+    "Strategic Alignment": 115,
+    "Due Diligence Rigor": 120,
+    "Decision-Making Confidence": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO shows a strong ability to align acquisitions with strategic objectives by assessing strategic fit and long-term value. The due diligence process is comprehensive, involving financial, cultural, and operational considerations with cross-functional input, reflecting rigor. Decision-making confidence is implied through the use of valuation models and informed analyses, supporting clear go/no-go decisions. Overall, the performance is above average and indicative of a capable, effective CEO."
+}

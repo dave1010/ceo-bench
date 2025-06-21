@@ -1,0 +1,12 @@
+{
+  "question_id": "0103-Strategic_Thinking-Competitive_Analysis-Market_Positioning_Insights",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"market_awareness\":130,\"adaptability\":125,\"strategic_implementation\":120,\"overall_score\":125,\"comments\":\"The answer thoroughly addresses how the CEO stays vigilant about market dynamics and competitor activities, showcasing high market awareness. The emphasis on scenario planning, organizational agility, and culture of innovation reflects strong adaptability. The integration of data-driven insights into strategic reviews and stakeholder engagement indicates effective strategic implementation. Overall, the response reflects superior leadership capabilities with actionable, forward-thinking strategies.\"}",
+  "scores": {
+    "Market Awareness": 130,
+    "Adaptability": 125,
+    "Strategic Implementation": 120
+  },
+  "total": 125.0,
+  "comments": "The answer thoroughly addresses how the CEO stays vigilant about market dynamics and competitor activities, showcasing high market awareness. The emphasis on scenario planning, organizational agility, and culture of innovation reflects strong adaptability. The integration of data-driven insights into strategic reviews and stakeholder engagement indicates effective strategic implementation. Overall, the response reflects superior leadership capabilities with actionable, forward-thinking strategies."
+}

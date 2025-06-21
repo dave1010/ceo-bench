@@ -1,0 +1,12 @@
+{
+  "question_id": "0026-Operational_Excellence-Resource_optimization-Strategic_Allocation_of_Resources",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"alignment_with_strategic_goals\":115,\"efficiency_of_use\":110,\"flexibility_and_adaptability\":110,\"overall_score\":112,\"comments\":\"The response clearly articulates the CEO's ability to align resources with strategic goals, including setting clear objectives and performance metrics, which supports high alignment. Efficiency is indicated through strategic budget and personnel allocation and fostering accountability to minimize waste. Flexibility is demonstrated by regular reviews and adjustments to resource utilization, showing adaptability to changing needs. Overall, the CEO shows strong, above-average leadership in resource alignment contributing to organizational success.\"}",
+  "scores": {
+    "Alignment with Strategic Goals": 115,
+    "Efficiency of Use": 110,
+    "Flexibility and Adaptability": 110
+  },
+  "total": 112.0,
+  "comments": "The response clearly articulates the CEO's ability to align resources with strategic goals, including setting clear objectives and performance metrics, which supports high alignment. Efficiency is indicated through strategic budget and personnel allocation and fostering accountability to minimize waste. Flexibility is demonstrated by regular reviews and adjustments to resource utilization, showing adaptability to changing needs. Overall, the CEO shows strong, above-average leadership in resource alignment contributing to organizational success."
+}

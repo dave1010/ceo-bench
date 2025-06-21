@@ -1,0 +1,12 @@
+{
+  "question_id": "0057-Leadership_&_Communication-Stakeholder_management-Building_Stakeholder_Trust",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"engagement_strategies\":115,\"consistency_and_reliability\":120,\"relationship_development\":118,\"overall_score\":118,\"comments\":\"The answer effectively highlights proactive communication, multiple feedback channels, and stakeholder involvement, indicating strong engagement strategies. It emphasizes accountability and ethical integrity, showcasing consistent reliability. The inclusion of stakeholder involvement in strategic decisions demonstrates a deep commitment to relationship development. Overall, this reflects a high-level understanding and execution of fostering trust and transparency, deserving a score well above average.\"}",
+  "scores": {
+    "Engagement Strategies": 115,
+    "Consistency and Reliability": 120,
+    "Relationship Development": 118
+  },
+  "total": 118.0,
+  "comments": "The answer effectively highlights proactive communication, multiple feedback channels, and stakeholder involvement, indicating strong engagement strategies. It emphasizes accountability and ethical integrity, showcasing consistent reliability. The inclusion of stakeholder involvement in strategic decisions demonstrates a deep commitment to relationship development. Overall, this reflects a high-level understanding and execution of fostering trust and transparency, deserving a score well above average."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0065-Leadership_&_Communication-Culture_building-Promoting_Diversity_and_Inclusion",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"commitment_to_diversity\":115,\"leadership_action\":120,\"impact_on_culture\":113,\"overall_score\":116,\"comments\":\"The CEO shows strong commitment to diversity through proactive policies and continuous monitoring. Leadership actions are exemplary, leading by example and advocating inclusivity. The impact on culture is significant, evidenced by inclusive initiatives and employee engagement in diversity efforts. Scores reflect a high competence level consistent with leading successful organizations.\"}",
+  "scores": {
+    "Commitment to Diversity": 115,
+    "Leadership Action": 120,
+    "Impact on Culture": 113
+  },
+  "total": 116.0,
+  "comments": "The CEO shows strong commitment to diversity through proactive policies and continuous monitoring. Leadership actions are exemplary, leading by example and advocating inclusivity. The impact on culture is significant, evidenced by inclusive initiatives and employee engagement in diversity efforts. Scores reflect a high competence level consistent with leading successful organizations."
+}

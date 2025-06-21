@@ -1,0 +1,12 @@
+{
+  "question_id": "0084-Risk_&_Ethics-Risk_mitigation-Strategic_Approach_to_Anticipating_Risks",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"forward-looking_planning\":120,\"preventive_measures\":115,\"stakeholder_communication\":100,\"overall_score\":112,\"comments\":\"The CEO exhibits a strong forward-looking approach by regularly conducting comprehensive risk assessments and scenario planning, reflected in the high Forward-looking Planning score. The implementation of mitigation strategies and fostering a risk-aware culture justifies a solid Preventive Measures score. However, the answer lacks explicit mention of how risk plans are communicated to stakeholders, warranting an average score in Stakeholder Communication. Overall, this indicates above-average leadership in risk preparedness.\"}",
+  "scores": {
+    "Forward-looking Planning": 120,
+    "Preventive Measures": 115,
+    "Stakeholder Communication": 100
+  },
+  "total": 112.0,
+  "comments": "The CEO exhibits a strong forward-looking approach by regularly conducting comprehensive risk assessments and scenario planning, reflected in the high Forward-looking Planning score. The implementation of mitigation strategies and fostering a risk-aware culture justifies a solid Preventive Measures score. However, the answer lacks explicit mention of how risk plans are communicated to stakeholders, warranting an average score in Stakeholder Communication. Overall, this indicates above-average leadership in risk preparedness."
+}

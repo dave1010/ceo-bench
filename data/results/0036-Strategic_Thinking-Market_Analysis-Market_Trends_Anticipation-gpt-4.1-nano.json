@@ -1,0 +1,12 @@
+{
+  "question_id": "0036-Strategic_Thinking-Market_Analysis-Market_Trends_Anticipation",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"awareness_of_market_dynamics\":115,\"integration_of_insights\":120,\"proactiveness\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a comprehensive approach to staying informed, leveraging diverse sources and continuous engagement. Integration of insights into strategic planning is systematic and adaptive, showing flexibility and incorporation of innovation and risk management. The CEO's proactiveness is evident through early engagement with trends and adaptability in strategy. Overall, this reflects strong leadership competencies slightly above average for a capable CEO.\"}",
+  "scores": {
+    "Awareness of Market Dynamics": 115,
+    "Integration of Insights": 120,
+    "Proactiveness": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a comprehensive approach to staying informed, leveraging diverse sources and continuous engagement. Integration of insights into strategic planning is systematic and adaptive, showing flexibility and incorporation of innovation and risk management. The CEO's proactiveness is evident through early engagement with trends and adaptability in strategy. Overall, this reflects strong leadership competencies slightly above average for a capable CEO."
+}

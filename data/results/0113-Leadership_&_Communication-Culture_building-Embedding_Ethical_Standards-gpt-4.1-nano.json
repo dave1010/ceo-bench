@@ -1,0 +1,12 @@
+{
+  "question_id": "0113-Leadership_&_Communication-Culture_building-Embedding_Ethical_Standards",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"ethical_leadership\":115,\"organizational_influence\":110,\"employee_engagement\":110,\"overall_score\":112,\"comments\":\"The CEO demonstrates strong ethical leadership by leading with integrity and transparency, setting a clear tone at the top. They implement well-defined ethics policies and training initiatives that reinforce ethical standards broadly, showing effective organizational influence. Furthermore, the CEO fosters employee engagement through open communication channels and accountability measures, cultivating trust and ethical awareness. The scores reflect a capable and committed ethical leadership that would positively impact the organization's culture.\"}",
+  "scores": {
+    "Ethical Leadership": 115,
+    "Organizational Influence": 110,
+    "Employee Engagement": 110
+  },
+  "total": 112.0,
+  "comments": "The CEO demonstrates strong ethical leadership by leading with integrity and transparency, setting a clear tone at the top. They implement well-defined ethics policies and training initiatives that reinforce ethical standards broadly, showing effective organizational influence. Furthermore, the CEO fosters employee engagement through open communication channels and accountability measures, cultivating trust and ethical awareness. The scores reflect a capable and committed ethical leadership that would positively impact the organization's culture."
+}

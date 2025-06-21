@@ -1,0 +1,12 @@
+{
+  "question_id": "0092-Innovation_&_Growth-Product_innovation-Customer-Centric_Design_Approach",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"customer_engagement\":130,\"integration_of_feedback\":135,\"outcome_focus\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates a comprehensive and sophisticated approach to leveraging customer feedback, showcasing strong leadership in establishing mechanisms and culture for continuous engagement, systematic integration, and outcome measurement. The CEO's focus on data-driven decisions, cross-functional collaboration, and continuous improvement indicates a high level of effectiveness likely to drive extraordinary organizational performance.\"}",
+  "scores": {
+    "Customer Engagement": 130,
+    "Integration of Feedback": 135,
+    "Outcome Focus": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a comprehensive and sophisticated approach to leveraging customer feedback, showcasing strong leadership in establishing mechanisms and culture for continuous engagement, systematic integration, and outcome measurement. The CEO's focus on data-driven decisions, cross-functional collaboration, and continuous improvement indicates a high level of effectiveness likely to drive extraordinary organizational performance."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0100-Innovation_&_Growth-M&A_evaluation-Synergy_Realization_Planning",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"strategic_alignment\":115,\"due_diligence_rigor\":120,\"integration_roadmap\":110,\"overall_score\":115,\"comments\":\"The CEO shows strong strategic alignment by linking M&A targets with business goals, conducts rigorous due diligence validating benefits and risks, and outlines effective integration plans. Communication and proactive mitigation strategies demonstrate thoughtful planning. Scores reflect above-average competency with solid foresight, though not reaching exceptional genius level.\"}",
+  "scores": {
+    "Strategic Alignment": 115,
+    "Due Diligence Rigor": 120,
+    "Integration Roadmap": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO shows strong strategic alignment by linking M&A targets with business goals, conducts rigorous due diligence validating benefits and risks, and outlines effective integration plans. Communication and proactive mitigation strategies demonstrate thoughtful planning. Scores reflect above-average competency with solid foresight, though not reaching exceptional genius level."
+}

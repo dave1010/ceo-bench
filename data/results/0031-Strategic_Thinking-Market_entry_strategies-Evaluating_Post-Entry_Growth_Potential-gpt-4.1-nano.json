@@ -1,0 +1,12 @@
+{
+  "question_id": "0031-Strategic_Thinking-Market_entry_strategies-Evaluating_Post-Entry_Growth_Potential",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"strategic_adaptability\":115,\"growth_forecasting\":110,\"resource_planning\":105,\"overall_score\":110,\"comments\":\"The answer effectively addresses strategic adaptability by emphasizing continuous innovation, flexible business models, and responsiveness to market changes. Growth forecasting is supported through strategies like market expansion and leveraging customer feedback, though specific projections are absent. Resource planning is implied through investment in R&D and partnerships but lacks detailed allocation strategies. Overall, the response demonstrates a strong leadership approach suitable for sustaining long-term growth.\"}",
+  "scores": {
+    "Strategic Adaptability": 115,
+    "Growth Forecasting": 110,
+    "Resource Planning": 105
+  },
+  "total": 110.0,
+  "comments": "The answer effectively addresses strategic adaptability by emphasizing continuous innovation, flexible business models, and responsiveness to market changes. Growth forecasting is supported through strategies like market expansion and leveraging customer feedback, though specific projections are absent. Resource planning is implied through investment in R&D and partnerships but lacks detailed allocation strategies. Overall, the response demonstrates a strong leadership approach suitable for sustaining long-term growth."
+}

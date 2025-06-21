@@ -1,0 +1,12 @@
+{
+  "question_id": "0030-Strategic_Thinking-Market_entry_strategies-Evaluating_Exit_Strategies_for_Market_Entry",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"strategic_foresight\":120,\"risk_management\":125,\"market_dynamics_awareness\":115,\"overall_score\":120,\"comments\":\"The answer demonstrates strong strategic foresight by detailing clear exit criteria and multiple contingency scenarios aligned with business goals. It thoroughly identifies and assesses risks, showing excellent risk management. Market dynamics awareness is well addressed through market analysis and monitoring processes, facilitating agility. Overall, the response reflects above-average, very capable CEO level thinking with comprehensive and practical insights.\"}",
+  "scores": {
+    "Strategic foresight": 120,
+    "Risk management": 125,
+    "Market dynamics awareness": 115
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates strong strategic foresight by detailing clear exit criteria and multiple contingency scenarios aligned with business goals. It thoroughly identifies and assesses risks, showing excellent risk management. Market dynamics awareness is well addressed through market analysis and monitoring processes, facilitating agility. Overall, the response reflects above-average, very capable CEO level thinking with comprehensive and practical insights."
+}

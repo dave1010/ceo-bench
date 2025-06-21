@@ -1,0 +1,12 @@
+{
+  "question_id": "0044-Operational_Excellence-Resource_optimization-Sustainable_Resource_Use",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"policy_development\":120,\"employee_engagement\":115,\"outcome_tracking\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates strong leadership in sustainability by establishing clear policies prioritizing eco-friendly operations and renewable energy. The CEO fosters a culture of environmental awareness, indicating good employee engagement, and ensures transparency in reporting, reflecting solid outcome tracking practices. While comprehensive, the approach could include more specific measurable targets for continuous improvement to reach exceptional scores.\"}",
+  "scores": {
+    "Policy Development": 120,
+    "Employee Engagement": 115,
+    "Outcome Tracking": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates strong leadership in sustainability by establishing clear policies prioritizing eco-friendly operations and renewable energy. The CEO fosters a culture of environmental awareness, indicating good employee engagement, and ensures transparency in reporting, reflecting solid outcome tracking practices. While comprehensive, the approach could include more specific measurable targets for continuous improvement to reach exceptional scores."
+}

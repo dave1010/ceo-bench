@@ -1,0 +1,12 @@
+{
+  "question_id": "0122-Innovation_&_Growth-Product_Innovation-Leveraging_Emerging_Technologies",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"vision_for_technology_adoption\":120,\"strategic_implementation\":115,\"innovation_culture\":120,\"overall_score\":118.3,\"comments\":\"The CEO demonstrates a strong and proactive vision for technology adoption by monitoring industry trends and engaging with innovation communities. Strategic implementation is well-addressed through collaboration with R&D and prioritization of investments. The culture of experimentation and continuous learning is clearly fostered, encouraging teams to pilot emerging technologies. Overall, the response reflects above-average to exceptional leadership in technology-driven innovation.\"}",
+  "scores": {
+    "Vision for Technology Adoption": 120,
+    "Strategic Implementation": 115,
+    "Innovation Culture": 120
+  },
+  "total": 118.3,
+  "comments": "The CEO demonstrates a strong and proactive vision for technology adoption by monitoring industry trends and engaging with innovation communities. Strategic implementation is well-addressed through collaboration with R&D and prioritization of investments. The culture of experimentation and continuous learning is clearly fostered, encouraging teams to pilot emerging technologies. Overall, the response reflects above-average to exceptional leadership in technology-driven innovation."
+}

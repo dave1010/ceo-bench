@@ -1,0 +1,12 @@
+{
+  "question_id": "0064-Leadership_&_Communication-Culture_building-Fostering_Innovation_Culture",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"leadership_commitment\":130,\"employee_engagement\":125,\"cultural_norms\":130,\"overall_score\":128.3,\"comments\":\"The CEO demonstrates a high level of personal commitment to innovation by strategically allocating resources, role modeling, and embedding innovation into processes. Employee engagement is strongly encouraged through open collaboration, employee voice channels, and incentive programs, fostering participative problem-solving. The cultural norms are clearly supportive of experimentation and calculated risk-taking, transcending mere encouragement to active cultural embedding. Overall, this reflects superior leadership in cultivating innovation within the organization.\"}",
+  "scores": {
+    "Leadership commitment": 130,
+    "Employee engagement": 125,
+    "Cultural norms": 130
+  },
+  "total": 128.3,
+  "comments": "The CEO demonstrates a high level of personal commitment to innovation by strategically allocating resources, role modeling, and embedding innovation into processes. Employee engagement is strongly encouraged through open collaboration, employee voice channels, and incentive programs, fostering participative problem-solving. The cultural norms are clearly supportive of experimentation and calculated risk-taking, transcending mere encouragement to active cultural embedding. Overall, this reflects superior leadership in cultivating innovation within the organization."
+}

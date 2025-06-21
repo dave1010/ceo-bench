@@ -1,0 +1,12 @@
+{
+  "question_id": "0020-Strategic_Thinking-Market_Trends_Analysis-Industry_Landscape_Awareness",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"environmental_scanning\":120,\"adaptability\":115,\"forward-looking_perspective\":120,\"overall_score\":118.3,\"comments\":\"The CEO demonstrates a strong, systematic approach to staying informed through diverse channels such as reports, events, and professional networks, scoring high on environmental scanning. They foster continuous learning and agile decision-making, showing effective adaptability. The proactive incorporation of market intelligence into strategic planning reflects a solid forward-looking perspective. Overall, the answer indicates a highly capable CEO with exceptional performance potential.\"}",
+  "scores": {
+    "Environmental Scanning": 120,
+    "Adaptability": 115,
+    "Forward-looking Perspective": 120
+  },
+  "total": 118.3,
+  "comments": "The CEO demonstrates a strong, systematic approach to staying informed through diverse channels such as reports, events, and professional networks, scoring high on environmental scanning. They foster continuous learning and agile decision-making, showing effective adaptability. The proactive incorporation of market intelligence into strategic planning reflects a solid forward-looking perspective. Overall, the answer indicates a highly capable CEO with exceptional performance potential."
+}

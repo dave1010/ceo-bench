@@ -1,0 +1,12 @@
+{
+  "question_id": "0075-Financial_Acumen-Financial_reporting_and_transparency-Enhancing_Financial_Communication",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"data_accuracy_and_integrity\":120,\"transparency_and_clarity\":115,\"stakeholder_engagement\":105,\"overall_score\":113.3,\"comments\":\"The answer highlights the CEO's commitment to rigorous internal controls, audits, and adherence to accounting standards, demonstrating strong emphasis on data accuracy and integrity. Transparency is addressed through the use of clear, accessible language and fostering a culture of openness. Stakeholder engagement is implied via the prioritization of effective communication with investors, regulators, and employees, though specifics on active engagement like addressing questions are less detailed. Overall, the response indicates a high level of leadership competency in financial reporting.\"}",
+  "scores": {
+    "Data accuracy and integrity": 120,
+    "Transparency and clarity": 115,
+    "Stakeholder engagement": 105
+  },
+  "total": 113.3,
+  "comments": "The answer highlights the CEO's commitment to rigorous internal controls, audits, and adherence to accounting standards, demonstrating strong emphasis on data accuracy and integrity. Transparency is addressed through the use of clear, accessible language and fostering a culture of openness. Stakeholder engagement is implied via the prioritization of effective communication with investors, regulators, and employees, though specifics on active engagement like addressing questions are less detailed. Overall, the response indicates a high level of leadership competency in financial reporting."
+}

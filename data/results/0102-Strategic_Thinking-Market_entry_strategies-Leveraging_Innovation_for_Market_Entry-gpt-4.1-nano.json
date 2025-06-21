@@ -1,0 +1,12 @@
+{
+  "question_id": "0102-Strategic_Thinking-Market_entry_strategies-Leveraging_Innovation_for_Market_Entry",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"innovation_strategy\":120,\"market_alignment\":115,\"competitive_advantage_sustainability\":118,\"overall_score\":118,\"comments\":\"The answer clearly outlines a strong innovation strategy focused on differentiation and unique value propositions. It demonstrates good alignment of innovation with specific unmet customer needs and local market dynamics. Additionally, it effectively addresses the sustainability of competitive advantage through barriers like intellectual property and adaptive business models. Overall, the response shows a high level of leadership insight consistent with an experienced CEO.\"}",
+  "scores": {
+    "Innovation strategy": 120,
+    "Market alignment": 115,
+    "Competitive advantage sustainability": 118
+  },
+  "total": 118.0,
+  "comments": "The answer clearly outlines a strong innovation strategy focused on differentiation and unique value propositions. It demonstrates good alignment of innovation with specific unmet customer needs and local market dynamics. Additionally, it effectively addresses the sustainability of competitive advantage through barriers like intellectual property and adaptive business models. Overall, the response shows a high level of leadership insight consistent with an experienced CEO."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0048-Operational_Excellence-Performance_metrics-Strategic_Alignment_of_Metrics",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"clarity_of_strategic_alignment\":115,\"implementation_effectiveness\":110,\"continuous_improvement\":110,\"overall_score\":112,\"comments\":\"The CEO effectively establishes clear, measurable KPIs aligned with strategic goals and communicates them transparently, which scores well on clarity of strategic alignment. Metrics are actively used to inform decisions and improve performance, demonstrating strong implementation effectiveness. There is also evidence of ongoing review and adjustment of metrics, indicating good continuous improvement practices. Overall, this reflects a capable and effective leadership approach with slight room for even more innovative or exceptional practices.\"}",
+  "scores": {
+    "Clarity of strategic alignment": 115,
+    "Implementation effectiveness": 110,
+    "Continuous improvement": 110
+  },
+  "total": 112.0,
+  "comments": "The CEO effectively establishes clear, measurable KPIs aligned with strategic goals and communicates them transparently, which scores well on clarity of strategic alignment. Metrics are actively used to inform decisions and improve performance, demonstrating strong implementation effectiveness. There is also evidence of ongoing review and adjustment of metrics, indicating good continuous improvement practices. Overall, this reflects a capable and effective leadership approach with slight room for even more innovative or exceptional practices."
+}

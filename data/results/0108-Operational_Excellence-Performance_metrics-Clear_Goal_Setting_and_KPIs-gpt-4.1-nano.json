@@ -1,0 +1,11 @@
+{
+  "question_id": "0108-Operational_Excellence-Performance_metrics-Clear_Goal_Setting_and_KPIs",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"clarity_and_alignment\":130,\"engagement_and_buy_in\":125,\"monitoring_and_adjustment\":120,\"overall_score\":125,\"comments\":\"The answer provides a clear and comprehensive approach to defining and aligning KPIs with organizational goals, achieving a high score for clarity and alignment. It details active engagement of stakeholders in KPI development, promoting strong buy-in. The response also emphasizes embedding KPIs into regular performance cycles and leveraging data tools for monitoring, reflecting robust monitoring and adjustment practices. Overall, the response demonstrates exceptional leadership qualities in managing performance metrics effectively.\"}",
+  "scores": {
+    "Clarity and Alignment": 130,
+    "Monitoring and Adjustment": 120
+  },
+  "total": 125.0,
+  "comments": "The answer provides a clear and comprehensive approach to defining and aligning KPIs with organizational goals, achieving a high score for clarity and alignment. It details active engagement of stakeholders in KPI development, promoting strong buy-in. The response also emphasizes embedding KPIs into regular performance cycles and leveraging data tools for monitoring, reflecting robust monitoring and adjustment practices. Overall, the response demonstrates exceptional leadership qualities in managing performance metrics effectively."
+}

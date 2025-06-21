@@ -1,0 +1,12 @@
+{
+  "question_id": "0111-Leadership_&_Communication-Building_Stakeholder_Loyalty-Cultivating_Long-Term_Stakeholder_Relationships",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"relationship_management\":120,\"value_creation\":115,\"responsiveness\":110,\"overall_score\":115,\"comments\":\"The answer comprehensively covers strategies indicating strong relationship management through transparent communication, engagement, and appreciation. It shows a high level of value creation by focusing on quality products, strategic vision, and innovation. Responsiveness is addressed through engagement and adaptability to evolving needs, though direct mention of promptness could be stronger. Overall, this reflects a solid, capable CEO approach with above-average insight into sustaining long-term stakeholder loyalty.\"}",
+  "scores": {
+    "Relationship Management": 120,
+    "Value Creation": 115,
+    "Responsiveness": 110
+  },
+  "total": 115.0,
+  "comments": "The answer comprehensively covers strategies indicating strong relationship management through transparent communication, engagement, and appreciation. It shows a high level of value creation by focusing on quality products, strategic vision, and innovation. Responsiveness is addressed through engagement and adaptability to evolving needs, though direct mention of promptness could be stronger. Overall, this reflects a solid, capable CEO approach with above-average insight into sustaining long-term stakeholder loyalty."
+}

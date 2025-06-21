@@ -1,0 +1,12 @@
+{
+  "question_id": "0040-Strategic_Thinking-Innovation_and_Adaptability-Embracing_Change_for_Strategic_Advantage",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"encouragement_of_innovation\":115,\"flexibility_in_strategy\":110,\"change_management_skills\":105,\"overall_score\":110,\"comments\":\"The CEO demonstrates strong promotion of innovation by fostering open communication and empowerment, supporting experimentation and learning. They show considerable flexibility by staying attuned to external conditions and proactively adapting strategies. Change management skills are solid, indicated by agility in decision-making and continuous competitive evaluation. Overall, this reflects a capable CEO adept at maintaining organizational innovation and responsiveness.\"}",
+  "scores": {
+    "Encouragement of innovation": 115,
+    "Flexibility in strategy": 110,
+    "Change management skills": 105
+  },
+  "total": 110.0,
+  "comments": "The CEO demonstrates strong promotion of innovation by fostering open communication and empowerment, supporting experimentation and learning. They show considerable flexibility by staying attuned to external conditions and proactively adapting strategies. Change management skills are solid, indicated by agility in decision-making and continuous competitive evaluation. Overall, this reflects a capable CEO adept at maintaining organizational innovation and responsiveness."
+}

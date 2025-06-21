@@ -1,0 +1,12 @@
+{
+  "question_id": "0025-Strategic_Thinking-Stakeholder_engagement-Building_Strategic_Alliances",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"relationship_cultivation\":120,\"collaborative_mindset\":115,\"alignment_of_interests\":125,\"overall_score\":120,\"comments\":\"The CEO demonstrates strong ability in cultivating trust-based, mutually beneficial relationships and maintains open dialogue, indicative of high relationship cultivation. The emphasis on cross-functional team engagement and co-creation shows a collaborative mindset slightly above average. The clear focus on aligning partnerships with the company's long-term vision and strategic fit indicates excellent alignment of interests. Overall, the response reflects a capable and strategic approach to partnerships, scoring well above baseline.\"}",
+  "scores": {
+    "Relationship cultivation": 120,
+    "Collaborative mindset": 115,
+    "Alignment of interests": 125
+  },
+  "total": 120.0,
+  "comments": "The CEO demonstrates strong ability in cultivating trust-based, mutually beneficial relationships and maintains open dialogue, indicative of high relationship cultivation. The emphasis on cross-functional team engagement and co-creation shows a collaborative mindset slightly above average. The clear focus on aligning partnerships with the company's long-term vision and strategic fit indicates excellent alignment of interests. Overall, the response reflects a capable and strategic approach to partnerships, scoring well above baseline."
+}

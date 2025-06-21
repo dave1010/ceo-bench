@@ -1,0 +1,12 @@
+{
+  "question_id": "0050-Operational_Excellence-Performance_metrics-Training_and_Cultural_Integration",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"cultural_leadership\":115,\"training_and_development\":110,\"recognition_and_incentives\":105,\"overall_score\":110,\"comments\":\"The answer effectively highlights the CEO's role in establishing a culture valuing accurate measurement through strategic vision and tone at the top. It emphasizes transparency, accountability, and a learning mindset, reflecting strong cultural leadership. It also notes investment in training and technologies, demonstrating a focus on training and development. However, while continuous feedback and innovation are mentioned, explicit recognition and incentivization of behaviors supporting data integrity and improvement could be more explicit. Overall, the response is solid with well-rounded insights aligned to the rubric.\"}",
+  "scores": {
+    "Cultural Leadership": 115,
+    "Training and Development": 110,
+    "Recognition and Incentives": 105
+  },
+  "total": 110.0,
+  "comments": "The answer effectively highlights the CEO's role in establishing a culture valuing accurate measurement through strategic vision and tone at the top. It emphasizes transparency, accountability, and a learning mindset, reflecting strong cultural leadership. It also notes investment in training and technologies, demonstrating a focus on training and development. However, while continuous feedback and innovation are mentioned, explicit recognition and incentivization of behaviors supporting data integrity and improvement could be more explicit. Overall, the response is solid with well-rounded insights aligned to the rubric."
+}

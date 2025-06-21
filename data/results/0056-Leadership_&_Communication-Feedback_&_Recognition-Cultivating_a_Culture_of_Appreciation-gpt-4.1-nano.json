@@ -1,0 +1,12 @@
+{
+  "question_id": "0056-Leadership_&_Communication-Feedback_&_Recognition-Cultivating_a_Culture_of_Appreciation",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"frequency\":120,\"recognition\":115,\"authenticity\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates a strong commitment to fostering continuous feedback and recognition, highlighted by regular feedback, formal recognition programs, and psychological safety. While the approaches are comprehensive and sincere, scores reflect excellent but not extraordinary implementation.\"}",
+  "scores": {
+    "Frequency": 120,
+    "Recognition": 115,
+    "Authenticity": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates a strong commitment to fostering continuous feedback and recognition, highlighted by regular feedback, formal recognition programs, and psychological safety. While the approaches are comprehensive and sincere, scores reflect excellent but not extraordinary implementation."
+}

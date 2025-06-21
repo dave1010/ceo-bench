@@ -1,0 +1,12 @@
+{
+  "question_id": "0083-Risk_&_Ethics-Ethical_decision-making-Balancing_Stakeholder_Interests_in_Ethical_Choices",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"stakeholder_consideration\":115,\"ethical_principles_application\":110,\"transparency_and_communication\":110,\"overall_score\":112,\"comments\":\"The response effectively addresses balancing interests of diverse stakeholders through a values-driven culture emphasizing transparency, integrity, and accountability. It highlights comprehensive stakeholder consideration by actively listening to concerns and integrating these into strategic planning. Ethical principles are consistently applied, prioritizing long-term sustainability. Communication is focused on openness and trust, fostering accountability. Scores reflect strong, capable leadership with room for more specific examples or mechanisms for measurement.\"}",
+  "scores": {
+    "Stakeholder Consideration": 115,
+    "Ethical Principles Application": 110,
+    "Transparency and Communication": 110
+  },
+  "total": 112.0,
+  "comments": "The response effectively addresses balancing interests of diverse stakeholders through a values-driven culture emphasizing transparency, integrity, and accountability. It highlights comprehensive stakeholder consideration by actively listening to concerns and integrating these into strategic planning. Ethical principles are consistently applied, prioritizing long-term sustainability. Communication is focused on openness and trust, fostering accountability. Scores reflect strong, capable leadership with room for more specific examples or mechanisms for measurement."
+}

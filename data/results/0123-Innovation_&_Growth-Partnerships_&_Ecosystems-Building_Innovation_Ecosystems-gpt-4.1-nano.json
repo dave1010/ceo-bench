@@ -1,0 +1,12 @@
+{
+  "question_id": "0123-Innovation_&_Growth-Partnerships_&_Ecosystems-Building_Innovation_Ecosystems",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"external_collaboration\":115,\"ecosystem_engagement\":120,\"value_creation\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates strong active engagement in fostering external partnerships and integration into industry ecosystems, effectively enhancing the company's access to diverse expertise and innovation. The efforts clearly drive co-innovation and open market opportunities, indicating tangible value creation. While exemplary, the description lacks specific metrics or concrete examples, which would elevate the evaluation closer to a genius level score.\"}",
+  "scores": {
+    "External Collaboration": 115,
+    "Ecosystem Engagement": 120,
+    "Value Creation": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates strong active engagement in fostering external partnerships and integration into industry ecosystems, effectively enhancing the company's access to diverse expertise and innovation. The efforts clearly drive co-innovation and open market opportunities, indicating tangible value creation. While exemplary, the description lacks specific metrics or concrete examples, which would elevate the evaluation closer to a genius level score."
+}

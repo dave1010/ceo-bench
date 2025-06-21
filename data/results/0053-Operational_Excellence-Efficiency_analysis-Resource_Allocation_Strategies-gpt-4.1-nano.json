@@ -1,0 +1,12 @@
+{
+  "question_id": "0053-Operational_Excellence-Efficiency_analysis-Resource_Allocation_Strategies",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"strategic_planning\":130,\"flexibility\":120,\"performance_monitoring\":125,\"overall_score\":125,\"comments\":\"The answer demonstrates exceptional understanding and application of strategic planning by aligning resources with company goals using data-driven insights. It shows strong flexibility through agile resource management and adaptation to changing conditions. Performance monitoring is well-addressed via continuous use of metrics and quality controls to maintain efficiency and standards. Overall, the response reflects high-level leadership competence with a thoughtful, comprehensive approach to resource allocation and operational excellence.\"}",
+  "scores": {
+    "Strategic Planning": 130,
+    "Flexibility": 120,
+    "Performance Monitoring": 125
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates exceptional understanding and application of strategic planning by aligning resources with company goals using data-driven insights. It shows strong flexibility through agile resource management and adaptation to changing conditions. Performance monitoring is well-addressed via continuous use of metrics and quality controls to maintain efficiency and standards. Overall, the response reflects high-level leadership competence with a thoughtful, comprehensive approach to resource allocation and operational excellence."
+}

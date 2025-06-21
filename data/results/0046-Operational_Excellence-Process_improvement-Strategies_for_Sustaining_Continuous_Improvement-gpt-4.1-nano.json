@@ -1,0 +1,12 @@
+{
+  "question_id": "0046-Operational_Excellence-Process_improvement-Strategies_for_Sustaining_Continuous_Improvement",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"strategy_development\":120,\"change_management\":115,\"measurement_and_feedback\":120,\"overall_score\":118,\"comments\":\"The answer presents a well-structured, actionable strategy that thoroughly aligns with embedding continuous process improvement into organizational culture. It addresses leadership commitment, clear goal setting, employee empowerment, and cross-functional collaboration, indicating strong strategic development. The response acknowledges change management principles through leadership support, communication, empowerment, and sustaining momentum via recognition and feedback mechanisms. Measurement and feedback are clearly emphasized with KPIs, data analytics, feedback loops, and incorporation into daily routines. Overall, this demonstrates a high level of leadership capability with minor room for elaboration on overcoming specific resistance scenarios.\"}",
+  "scores": {
+    "Strategy Development": 120,
+    "Change Management": 115,
+    "Measurement and Feedback": 120
+  },
+  "total": 118.0,
+  "comments": "The answer presents a well-structured, actionable strategy that thoroughly aligns with embedding continuous process improvement into organizational culture. It addresses leadership commitment, clear goal setting, employee empowerment, and cross-functional collaboration, indicating strong strategic development. The response acknowledges change management principles through leadership support, communication, empowerment, and sustaining momentum via recognition and feedback mechanisms. Measurement and feedback are clearly emphasized with KPIs, data analytics, feedback loops, and incorporation into daily routines. Overall, this demonstrates a high level of leadership capability with minor room for elaboration on overcoming specific resistance scenarios."
+}

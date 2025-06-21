@@ -1,0 +1,12 @@
+{
+  "question_id": "0067-Financial_Acumen-Financial_Modeling-Evaluating_Scenario_Analysis",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"scenario_planning_integration\":130,\"analytical_rigor\":120,\"strategic_adaptability\":125,\"overall_score\":125,\"comments\":\"The CEO shows strong integration of scenario planning by evaluating multiple potential futures and preparing contingency plans, indicating thoroughness beyond average expectations. Analytical rigor is high, evidenced by rigorous evaluation of model resilience, though not described in technical detail. Strategic adaptability is well demonstrated through proactive strategy adjustments enhancing agility. Overall, the performance reflects advanced leadership capacity in scenario analysis, yielding superior organizational foresight and risk management.\"}",
+  "scores": {
+    "Scenario Planning Integration": 130,
+    "Analytical Rigor": 120,
+    "Strategic Adaptability": 125
+  },
+  "total": 125.0,
+  "comments": "The CEO shows strong integration of scenario planning by evaluating multiple potential futures and preparing contingency plans, indicating thoroughness beyond average expectations. Analytical rigor is high, evidenced by rigorous evaluation of model resilience, though not described in technical detail. Strategic adaptability is well demonstrated through proactive strategy adjustments enhancing agility. Overall, the performance reflects advanced leadership capacity in scenario analysis, yielding superior organizational foresight and risk management."
+}

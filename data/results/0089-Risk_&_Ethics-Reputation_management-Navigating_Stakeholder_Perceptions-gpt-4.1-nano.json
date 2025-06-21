@@ -1,0 +1,12 @@
+{
+  "question_id": "0089-Risk_&_Ethics-Reputation_management-Navigating_Stakeholder_Perceptions",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"stakeholder_communication\":115,\"alignment_of_actions_and_values\":110,\"crisis_preparedness\":90,\"overall_score\":105,\"comments\":\"The CEO demonstrates strong transparency and consistent communication to build trust, effectively uses multiple channels, and models company values in behavior, reinforcing reputation integrity. However, explicit mention of proactive crisis preparedness strategies is limited, slightly reducing the score in that area. Overall, the approach reflects solid leadership capable of maintaining reputation during uncertainty.\"}",
+  "scores": {
+    "Stakeholder Communication": 115,
+    "Alignment of Actions and Values": 110,
+    "Crisis Preparedness": 90
+  },
+  "total": 105.0,
+  "comments": "The CEO demonstrates strong transparency and consistent communication to build trust, effectively uses multiple channels, and models company values in behavior, reinforcing reputation integrity. However, explicit mention of proactive crisis preparedness strategies is limited, slightly reducing the score in that area. Overall, the approach reflects solid leadership capable of maintaining reputation during uncertainty."
+}

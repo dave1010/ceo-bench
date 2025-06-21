@@ -1,0 +1,12 @@
+{
+  "question_id": "0107-Operational_Excellence-Process_improvement-Cultivating_a_Culture_of_Continuous_Innovation",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"leadership\":115,\"engagement\":120,\"sustainability\":118,\"overall_score\":117.7,\"comments\":\"The answer demonstrates strong leadership by emphasizing leading by example and recognizing proactive efforts, showcasing commitment to empowerment and innovation. Engagement is high due to the focus on safe environments, collaboration, and cross-functional communication platforms. Sustainability is well addressed with feedback loops, embedding continuous improvement into performance goals, and offering ongoing training, which support a continuous flow of initiatives. Overall, this is a comprehensive and effective approach to fostering a culture of proactive process improvement.\"}",
+  "scores": {
+    "Leadership": 115,
+    "Engagement": 120,
+    "Sustainability": 118
+  },
+  "total": 117.7,
+  "comments": "The answer demonstrates strong leadership by emphasizing leading by example and recognizing proactive efforts, showcasing commitment to empowerment and innovation. Engagement is high due to the focus on safe environments, collaboration, and cross-functional communication platforms. Sustainability is well addressed with feedback loops, embedding continuous improvement into performance goals, and offering ongoing training, which support a continuous flow of initiatives. Overall, this is a comprehensive and effective approach to fostering a culture of proactive process improvement."
+}

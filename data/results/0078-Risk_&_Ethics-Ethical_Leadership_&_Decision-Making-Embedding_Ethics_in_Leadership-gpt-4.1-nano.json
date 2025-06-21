@@ -1,0 +1,12 @@
+{
+  "question_id": "0078-Risk_&_Ethics-Ethical_Leadership_&_Decision-Making-Embedding_Ethics_in_Leadership",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"decision_frameworks\":130,\"transparency_and_accountability\":120,\"cultural_promotion\":125,\"overall_score\":125,\"comments\":\"The answer demonstrates the CEO's use of strong ethical frameworks, stakeholder consultation, and advisory inputs, aligning well with Decision Frameworks criteria. It describes the CEO promoting transparency and accountability by embedding integrity and responsibility, supporting Transparency and Accountability. Additionally, the CEO fosters a culture prioritizing ethical behavior at all levels, reflecting Cultural Promotion. Scores are high, reflecting a leadership approach that would notably enhance organizational ethics and trust.\"}",
+  "scores": {
+    "Decision Frameworks": 130,
+    "Transparency and Accountability": 120,
+    "Cultural Promotion": 125
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates the CEO's use of strong ethical frameworks, stakeholder consultation, and advisory inputs, aligning well with Decision Frameworks criteria. It describes the CEO promoting transparency and accountability by embedding integrity and responsibility, supporting Transparency and Accountability. Additionally, the CEO fosters a culture prioritizing ethical behavior at all levels, reflecting Cultural Promotion. Scores are high, reflecting a leadership approach that would notably enhance organizational ethics and trust."
+}

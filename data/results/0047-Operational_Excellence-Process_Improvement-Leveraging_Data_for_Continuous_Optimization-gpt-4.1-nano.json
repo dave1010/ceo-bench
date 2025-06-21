@@ -1,0 +1,12 @@
+{
+  "question_id": "0047-Operational_Excellence-Process_Improvement-Leveraging_Data_for_Continuous_Optimization",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"data-driven_decision_making\":120,\"stakeholder_engagement\":115,\"culture_of_continuous_improvement\":118,\"overall_score\":117.7,\"comments\":\"The CEO demonstrates strong commitment to integrating data analytics by establishing a data-driven culture and leveraging advanced tools. Encouraging cross-functional collaboration reflects effective stakeholder engagement. The emphasis on accountability, training, and embedding analytics into continuous improvement denotes a robust culture of continuous learning and optimization. Overall, the approach aligns well with best practices for leading process improvements through data analytics.\"}",
+  "scores": {
+    "Data-Driven Decision Making": 120,
+    "Stakeholder Engagement": 115,
+    "Culture of Continuous Improvement": 118
+  },
+  "total": 117.7,
+  "comments": "The CEO demonstrates strong commitment to integrating data analytics by establishing a data-driven culture and leveraging advanced tools. Encouraging cross-functional collaboration reflects effective stakeholder engagement. The emphasis on accountability, training, and embedding analytics into continuous improvement denotes a robust culture of continuous learning and optimization. Overall, the approach aligns well with best practices for leading process improvements through data analytics."
+}

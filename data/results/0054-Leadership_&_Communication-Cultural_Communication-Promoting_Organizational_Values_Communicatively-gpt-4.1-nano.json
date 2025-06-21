@@ -1,0 +1,12 @@
+{
+  "question_id": "0054-Leadership_&_Communication-Cultural_Communication-Promoting_Organizational_Values_Communicatively",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"consistency\":115,\"modeling_behavior\":120,\"cultural_alignment\":115,\"overall_score\":117,\"comments\":\"The answer clearly emphasizes consistent communication and reinforcement of core values across multiple channels and actions, reflecting strong consistency. It highlights the CEO leading by example and embodying key values, demonstrating excellent modeling behavior. The response also underscores fostering shared understanding and internalization of culture, showing strong cultural alignment. Overall, the answer reflects a sophisticated understanding likely contributing to effective organizational leadership.\"}",
+  "scores": {
+    "Consistency": 115,
+    "Modeling Behavior": 120,
+    "Cultural Alignment": 115
+  },
+  "total": 117.0,
+  "comments": "The answer clearly emphasizes consistent communication and reinforcement of core values across multiple channels and actions, reflecting strong consistency. It highlights the CEO leading by example and embodying key values, demonstrating excellent modeling behavior. The response also underscores fostering shared understanding and internalization of culture, showing strong cultural alignment. Overall, the answer reflects a sophisticated understanding likely contributing to effective organizational leadership."
+}

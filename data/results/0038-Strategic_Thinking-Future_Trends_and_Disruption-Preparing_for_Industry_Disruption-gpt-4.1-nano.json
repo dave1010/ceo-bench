@@ -1,0 +1,12 @@
+{
+  "question_id": "0038-Strategic_Thinking-Future_Trends_and_Disruption-Preparing_for_Industry_Disruption",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"environmental_scanning\":120,\"proactive_planning\":115,\"leadership_in_change\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates strong environmental scanning by monitoring trends and maintaining industry connections. Proactive planning is evident through scenario planning, risk management, and fostering innovation. Leadership in change shows resilience and foresight in guiding organizational adaptation. Overall, the CEO's approach is well-rounded and above average, indicating strong leadership in anticipating and preparing for disruptions.\"}",
+  "scores": {
+    "Environmental Scanning": 120,
+    "Proactive Planning": 115,
+    "Leadership in Change": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates strong environmental scanning by monitoring trends and maintaining industry connections. Proactive planning is evident through scenario planning, risk management, and fostering innovation. Leadership in change shows resilience and foresight in guiding organizational adaptation. Overall, the CEO's approach is well-rounded and above average, indicating strong leadership in anticipating and preparing for disruptions."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0080-Risk_&_Ethics-Conflict_of_Interest_Management-Identifying_and_Addressing_Conflicts_of_Interest",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"disclosure_processes\":110,\"resolution_strategies\":105,\"leadership_example\":95,\"overall_score\":103.3,\"comments\":\"The CEO demonstrates strong implementation of disclosure processes and resolution strategies, fostering transparency and ethical conduct. There is a solid approach to creating an open environment and oversight, ensuring conflicts are managed effectively. However, while leadership example is implied through fostering culture and policies, it is less explicitly demonstrated, resulting in a slightly lower score in that area.\"}",
+  "scores": {
+    "Disclosure Processes": 110,
+    "Resolution Strategies": 105,
+    "Leadership Example": 95
+  },
+  "total": 103.3,
+  "comments": "The CEO demonstrates strong implementation of disclosure processes and resolution strategies, fostering transparency and ethical conduct. There is a solid approach to creating an open environment and oversight, ensuring conflicts are managed effectively. However, while leadership example is implied through fostering culture and policies, it is less explicitly demonstrated, resulting in a slightly lower score in that area."
+}

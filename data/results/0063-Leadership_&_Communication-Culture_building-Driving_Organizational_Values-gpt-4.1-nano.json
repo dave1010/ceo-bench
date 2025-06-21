@@ -1,0 +1,12 @@
+{
+  "question_id": "0063-Leadership_&_Communication-Culture_building-Driving_Organizational_Values",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"integration_of_values\":120,\"employee_engagement\":115,\"cultural_influence\":120,\"overall_score\":118,\"comments\":\"The CEO demonstrates strong integration of core values by consistently modeling and reinforcing them across the organization. Employee engagement appears high, with alignment evident in behaviors and attitudes. The cultural influence is robust, fostering a positive and high-performing environment that aligns with strategic goals. Overall, this reflects a highly effective leadership approach in embedding values into daily operations.\"}",
+  "scores": {
+    "Integration of values": 120,
+    "Employee engagement": 115,
+    "Cultural influence": 120
+  },
+  "total": 118.0,
+  "comments": "The CEO demonstrates strong integration of core values by consistently modeling and reinforcing them across the organization. Employee engagement appears high, with alignment evident in behaviors and attitudes. The cultural influence is robust, fostering a positive and high-performing environment that aligns with strategic goals. Overall, this reflects a highly effective leadership approach in embedding values into daily operations."
+}

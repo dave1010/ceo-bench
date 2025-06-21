@@ -1,0 +1,12 @@
+{
+  "question_id": "0071-Financial_Acumen-Investment_analysis-Portfolio_Diversification",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"diversification_strategy\":115,\"risk-return_balance\":110,\"ongoing_review\":105,\"overall_score\":110,\"comments\":\"The CEO demonstrates a strong and strategic approach to diversification by allocating resources across sectors and investment vehicles, effectively balancing risk and reward. The emphasis on avoiding over-concentration and adapting to market trends suggests a solid understanding of risk-return balance. Regular portfolio reviews and risk management indicate commitment to ongoing optimization. Overall, the approach is well-rounded and indicative of a capable CEO's leadership in portfolio management.\"}",
+  "scores": {
+    "Diversification Strategy": 115,
+    "Risk-Return Balance": 110,
+    "Ongoing Review": 105
+  },
+  "total": 110.0,
+  "comments": "The CEO demonstrates a strong and strategic approach to diversification by allocating resources across sectors and investment vehicles, effectively balancing risk and reward. The emphasis on avoiding over-concentration and adapting to market trends suggests a solid understanding of risk-return balance. Regular portfolio reviews and risk management indicate commitment to ongoing optimization. Overall, the approach is well-rounded and indicative of a capable CEO's leadership in portfolio management."
+}

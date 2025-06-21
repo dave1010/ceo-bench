@@ -1,0 +1,12 @@
+{
+  "question_id": "0028-Operational_Excellence-Resource_optimization-Cross-Functional_Collaboration_Efficiency",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"collaboration_leadership\":115,\"resource_alignment\":110,\"innovation_in_resource_use\":95,\"overall_score\":106.7,\"comments\":\"The CEO shows strong leadership in fostering collaboration, effectively promoting cross-functional communication and shared objectives, which earns a high LQ score. Resource allocation is well-aligned with strategic priorities, demonstrating clear oversight. However, while the approach reduces duplication and maximizes impact, there is limited explicit evidence of innovative methods in resource use, leading to a slightly lower score in that dimension. Overall, performance is well above average, indicating effective leadership in optimizing organizational resources.\"}",
+  "scores": {
+    "Collaboration Leadership": 115,
+    "Resource Alignment": 110,
+    "Innovation in Resource Use": 95
+  },
+  "total": 106.7,
+  "comments": "The CEO shows strong leadership in fostering collaboration, effectively promoting cross-functional communication and shared objectives, which earns a high LQ score. Resource allocation is well-aligned with strategic priorities, demonstrating clear oversight. However, while the approach reduces duplication and maximizes impact, there is limited explicit evidence of innovative methods in resource use, leading to a slightly lower score in that dimension. Overall, performance is well above average, indicating effective leadership in optimizing organizational resources."
+}

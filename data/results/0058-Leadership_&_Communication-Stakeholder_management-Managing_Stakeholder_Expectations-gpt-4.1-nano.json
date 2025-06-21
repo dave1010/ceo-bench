@@ -1,0 +1,12 @@
+{
+  "question_id": "0058-Leadership_&_Communication-Stakeholder_management-Managing_Stakeholder_Expectations",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"communication_approach\":115,\"expectation_alignment\":120,\"responsiveness\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong, structured approach to stakeholder communication, alignment, and engagement throughout project phases. The CEO is described as proactive in defining strategic goals, maintaining transparency, and integrating feedback, which aligns well with the rubric criteria. However, while responsiveness is mentioned, it could be elaborated more specifically on promptness, slightly limiting the top score in that dimension.\"}",
+  "scores": {
+    "Communication Approach": 115,
+    "Expectation Alignment": 120,
+    "Responsiveness": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong, structured approach to stakeholder communication, alignment, and engagement throughout project phases. The CEO is described as proactive in defining strategic goals, maintaining transparency, and integrating feedback, which aligns well with the rubric criteria. However, while responsiveness is mentioned, it could be elaborated more specifically on promptness, slightly limiting the top score in that dimension."
+}

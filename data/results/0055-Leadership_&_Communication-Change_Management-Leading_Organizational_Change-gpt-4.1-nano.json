@@ -1,0 +1,12 @@
+{
+  "question_id": "0055-Leadership_&_Communication-Change_Management-Leading_Organizational_Change",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"communication_strategy\":120,\"employee_engagement\":115,\"adaptability\":110,\"overall_score\":115,\"comments\":\"The CEO communicates change initiatives clearly and strategically, ensuring stakeholders understand the reasons and benefits. They engage employees effectively, fostering buy-in and minimizing resistance. Their adaptability is evident in providing support and monitoring progress with flexibility. Overall, their performance indicates strong leadership in managing organizational change.\"}",
+  "scores": {
+    "Communication Strategy": 120,
+    "Employee Engagement": 115,
+    "Adaptability": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO communicates change initiatives clearly and strategically, ensuring stakeholders understand the reasons and benefits. They engage employees effectively, fostering buy-in and minimizing resistance. Their adaptability is evident in providing support and monitoring progress with flexibility. Overall, their performance indicates strong leadership in managing organizational change."
+}

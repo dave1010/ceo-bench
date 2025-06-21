@@ -1,0 +1,12 @@
+{
+  "question_id": "0094-Innovation_&_Growth-Technology_adoption-Assessing_Change_Management_Skills",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"leadership_in_change\":115,\"employee_engagement\":110,\"implementation_agility\":105,\"overall_score\":110,\"comments\":\"The answer reflects a solid understanding of effective leadership during technological change, highlighting clarity in vision, communication, and stakeholder involvement. It emphasizes proactive engagement and resource support, which supports high scores in leadership and employee engagement. While flexibility and responsiveness are mentioned implicitly, explicit emphasis on implementation agility is less strong, leading to a slightly lower score in that dimension. Overall, the response demonstrates capabilities typical of a strong CEO managing technological transitions.\"}",
+  "scores": {
+    "Leadership in change": 115,
+    "Employee engagement": 110,
+    "Implementation agility": 105
+  },
+  "total": 110.0,
+  "comments": "The answer reflects a solid understanding of effective leadership during technological change, highlighting clarity in vision, communication, and stakeholder involvement. It emphasizes proactive engagement and resource support, which supports high scores in leadership and employee engagement. While flexibility and responsiveness are mentioned implicitly, explicit emphasis on implementation agility is less strong, leading to a slightly lower score in that dimension. Overall, the response demonstrates capabilities typical of a strong CEO managing technological transitions."
+}

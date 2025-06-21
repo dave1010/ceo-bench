@@ -1,0 +1,12 @@
+{
+  "question_id": "0033-Change_Management-Driving_Organizational_Change-Leading_Successful_Change_Initiatives",
+  "model": "gpt-4.1-nano",
+  "raw": "{\"communication_strategy\":115,\"stakeholder_engagement\":110,\"monitoring_and_adjustment\":90,\"overall_score\":105,\"comments\":\"The answer demonstrates a strong communication strategy with transparent, consistent messaging that fosters trust. Stakeholder engagement is robust, with active involvement at all levels and leadership alignment. However, the response lacks explicit mention of using metrics or continuous monitoring to track progress and adjust strategies, leading to a somewhat lower score in monitoring and adjustment. Overall, a well-rounded leadership approach that would support successful organizational change.\"}",
+  "scores": {
+    "Communication Strategy": 115,
+    "Stakeholder Engagement": 110,
+    "Monitoring and Adjustment": 90
+  },
+  "total": 105.0,
+  "comments": "The answer demonstrates a strong communication strategy with transparent, consistent messaging that fosters trust. Stakeholder engagement is robust, with active involvement at all levels and leadership alignment. However, the response lacks explicit mention of using metrics or continuous monitoring to track progress and adjust strategies, leading to a somewhat lower score in monitoring and adjustment. Overall, a well-rounded leadership approach that would support successful organizational change."
+}
