@@ -44,7 +44,7 @@ export default async function Component() {
           </nav>
           <div className="flex items-center space-x-3">
             <Button variant="outline" size="sm" asChild>
-              <Link href="https://github.com/ceo-bench/ceo-bench" className="flex items-center space-x-2">
+              <Link href="https://github.com/dave1010/ceo-bench" className="flex items-center space-x-2">
                 <Github className="w-4 h-4" />
                 <span className="hidden sm:inline">GitHub</span>
               </Link>
@@ -73,8 +73,8 @@ export default async function Component() {
                   <span className="text-slate-700"> C-Suite?</span>
                 </h1>
                 <p className="text-xl md:text-2xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
-                  CEO Bench is a comprehensive evaluation framework measuring how well Large Language Models perform on
-                  executive-level decision making, strategic planning, and leadership tasks.
+                  CEO Bench is an open benchmark measuring how well large language models tackle
+                  executive decision making, strategic planning and leadership challenges.
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -86,9 +86,9 @@ export default async function Component() {
                   </Link>
                 </Button>
                 <Button variant="outline" size="lg" asChild>
-                  <Link href="#" className="flex items-center space-x-2">
+                  <Link href="https://github.com/dave1010/ceo-bench#readme" className="flex items-center space-x-2">
                     <FileText className="w-5 h-5" />
-                    <span>Read the Paper</span>
+                    <span>Read the Docs</span>
                   </Link>
                 </Button>
               </div>
@@ -243,21 +243,15 @@ export default async function Component() {
             <div className="max-w-4xl mx-auto text-center">
               <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">About CEO Bench</h2>
               <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-                CEO Bench represents the first comprehensive benchmark for evaluating Large Language Models on
-                executive-level tasks. This benchmark provides crucial
-                insights into the potential and limitations of AI in high-stakes decision-making scenarios,
-                as well as understanding how effectively these models can replace human executives in the C-suite.
+                CEO Bench is an open research benchmark for evaluating large language models on executive leadership tasks.
+                It generates realistic management questions, collects model answers and scores them automatically to build the leaderboard below.
               </p>
               <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-                For months, CEOs have been asking 
-                <em> &quot;Can I replace all my workers with AI?&quot; </em>
-                Now, with CEO Bench, we answer the question:
-                <strong><em> &quot;Can AI replace the CEO?&quot;</em></strong>
+                The Python scripts powering this site are included in the repository so you can run your own evaluations
+                or extend the question set.
               </p>
               <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-                As with many evals, we expect frontier LLMs will quickly improve their scores and saturate this benchmark.
-                At that point, <strong>CEO Bench</strong> can then answer the question:
-                <strong><em> &quot;What is the smallest LLM that can replace the CEO?&quot; </em></strong>
+                All data and code are released under the MIT License and contributions are welcome.
               </p>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                 <Button variant="outline" size="lg" asChild>
@@ -267,9 +261,9 @@ export default async function Component() {
                   </Link>
                 </Button>
                 <Button variant="outline" size="lg" asChild>
-                  <Link href="#" className="flex items-center space-x-2">
+                  <Link href="https://github.com/dave1010/ceo-bench#readme" className="flex items-center space-x-2">
                     <FileText className="w-5 h-5" />
-                    <span>Download Paper (coming soon)</span>
+                    <span>Read the Docs</span>
                   </Link>
                 </Button>
               </div>
