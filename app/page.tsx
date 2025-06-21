@@ -50,9 +50,12 @@ export default async function Component() {
               </Link>
             </Button>
             <Button size="sm" asChild>
-              <Link href="#" className="flex items-center space-x-2">
+              <Link
+                href="https://github.com/dave1010/ceo-bench#readme"
+                className="flex items-center space-x-2"
+              >
                 <FileText className="w-4 h-4" />
-                <span className="hidden sm:inline">Paper</span>
+                <span className="hidden sm:inline">Docs</span>
               </Link>
             </Button>
           </div>
@@ -247,10 +250,14 @@ export default async function Component() {
                 It generates realistic management questions, collects model answers and scores them automatically to build the leaderboard below.
               </p>
               <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-                The Python scripts powering this site are included in the repository so you can run your own evaluations
-                or extend the question set.
+                For months, CEOs have been asking <em>&quot;Can I replace all my workers with AI?&quot;</em>
+                Thanks to CEO Bench we can now turn the question around: <strong><em>AI can replace the CEO.</em></strong>
               </p>
               <p className="text-lg text-slate-600 mb-8 leading-relaxed">
+                The next challenge is figuring out just how small a model can still run the company as frontier LLMs saturate the benchmark.
+              </p>
+              <p className="text-lg text-slate-600 mb-8 leading-relaxed">
+                The Python scripts powering this site are included in the repository so you can run your own evaluations or extend the question set.
                 All data and code are released under the MIT License and contributions are welcome.
               </p>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
