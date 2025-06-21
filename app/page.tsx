@@ -24,11 +24,11 @@ export default async function Component() {
       <header className="border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 sticky top-0 z-50">
         <div className="container flex h-16 items-center justify-between px-4 md:px-6">
           <div className="flex items-center space-x-3">
-            <div className="flex items-center justify-center w-10 h-10 bg-slate-900 text-white rounded-lg font-bold text-lg">
+            <div className="flex items-center justify-center w-10 h-10 text-white rounded-lg font-bold text-lg bg-gradient-to-br from-indigo-600 to-pink-600">
               CEO
             </div>
             <div>
-              <h1 className="text-xl font-bold text-slate-900">CEO Bench</h1>
+              <h1 className="text-xl font-bold text-indigo-700">CEO Bench</h1>
               <p className="text-xs text-slate-600">LLM Executive Evaluation</p>
             </div>
           </div>
@@ -65,16 +65,17 @@ export default async function Component() {
 
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="py-20 md:py-32 bg-gradient-to-b from-slate-50 to-white">
+        <section className="py-20 md:py-32 bg-gradient-to-b from-indigo-50 via-pink-50 to-white">
           <div className="container px-4 md:px-6">
             <div className="max-w-4xl mx-auto text-center space-y-8">
               <div className="space-y-4">
                 <Badge variant="secondary" className="text-sm font-medium">
                   Research Benchmark
                 </Badge>
-                <h1 className="text-4xl md:text-6xl font-bold text-slate-900 leading-tight">
-                  Can AI Replace the
-                  <span className="text-slate-700"> C-Suite?</span>
+                <h1 className="text-4xl md:text-6xl font-bold leading-tight">
+                  <span className="bg-gradient-to-r from-indigo-600 via-pink-600 to-orange-500 bg-clip-text text-transparent">
+                    Can AI Replace the C-Suite?
+                  </span>
                 </h1>
                 <p className="text-xl md:text-2xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
                   CEO Bench is an open benchmark measuring how well large language models tackle
@@ -82,7 +83,7 @@ export default async function Component() {
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-                <Button size="lg" asChild className="bg-slate-900 hover:bg-slate-800">
+                <Button size="lg" asChild className="bg-indigo-600 hover:bg-indigo-500">
                   <Link href="#leaderboard" className="flex items-center space-x-2">
                     <Trophy className="w-5 h-5" />
                     <span>View Leaderboard</span>
@@ -289,7 +290,7 @@ export default async function Component() {
         <div className="container px-4 md:px-6">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex items-center space-x-3 mb-4 md:mb-0">
-              <div className="flex items-center justify-center w-8 h-8 bg-slate-900 text-white rounded font-bold text-sm">
+              <div className="flex items-center justify-center w-8 h-8 text-white rounded font-bold text-sm bg-gradient-to-br from-indigo-600 to-pink-600">
                 CEO
               </div>
               <span className="font-semibold text-slate-900">CEO Bench</span>
