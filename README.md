@@ -77,7 +77,10 @@ Run lint checks:
 ```bash
 flake8 --exclude node_modules .
 ```
-No JS tests yet.
+Run the JS tests with:
+```bash
+npm test
+```
 
 ## Next.js Web Site
 
