@@ -1,0 +1,14 @@
+topic: Operational Excellence
+subtopic: Performance metrics
+title: Data-Driven Decision Making
+question: "How effectively does the CEO leverage performance metrics to inform strategic\
+  \ decisions and drive operational improvements?  \n"
+rubric:
+- dimension: Alignment of metrics with strategic goals
+  ideal: Metrics are closely aligned with company objectives and inform decision-making
+    processes
+- dimension: Use of data to identify opportunities
+  ideal: Demonstrates proactive use of data to uncover areas for improvement and innovation
+- dimension: Actionability of insights
+  ideal: Provides clear, actionable insights derived from metrics to guide operational
+    changes

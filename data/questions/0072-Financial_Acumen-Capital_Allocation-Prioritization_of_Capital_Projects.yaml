@@ -1,0 +1,12 @@
+topic: Financial Acumen
+subtopic: Capital Allocation
+title: Prioritization of Capital Projects
+question: "How does the CEO prioritize capital allocation among competing projects\
+  \ to maximize shareholder value?  \n"
+rubric:
+- dimension: Valuation and ROI
+  ideal: Utilizes clear criteria such as return on investment and strategic importance.
+- dimension: Risk Consideration
+  ideal: Considers project risks and aligns allocations with risk appetite.
+- dimension: Strategic Fit
+  ideal: Selects projects that best support the company's long-term vision and goals.

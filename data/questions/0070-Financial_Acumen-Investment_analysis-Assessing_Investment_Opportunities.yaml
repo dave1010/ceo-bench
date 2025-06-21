@@ -1,0 +1,15 @@
+topic: Financial Acumen
+subtopic: Investment analysis
+title: Assessing Investment Opportunities
+question: "How do you evaluate the potential risks and returns of a new investment\
+  \ opportunity to determine its strategic value?  \n"
+rubric:
+- dimension: Risk Assessment
+  ideal: The candidate systematically identifies key risks, assesses their likelihood
+    and impact, and incorporates risk mitigation strategies into the evaluation.
+- dimension: Return Projections
+  ideal: The candidate employs comprehensive financial modeling to project potential
+    returns, considering both quantitative metrics and qualitative factors.
+- dimension: Strategic Fit
+  ideal: The candidate analyzes how the investment aligns with the company's long-term
+    strategic goals and market positioning.

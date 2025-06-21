@@ -105,14 +105,25 @@ def extract_yaml(text: str) -> str:
 def create_question_llm(topic: str, subtopic: str, titles: list[str], model: str, template_file: Path) -> dict:
     prompt = build_prompt(topic, subtopic, titles, template_file)
     text = call_llm(prompt, model)
-    return yaml.safe_load(extract_yaml(text))
+    try:
+        return yaml.safe_load(extract_yaml(text))
+    except yaml.YAMLError:
+        print("Failed to parse YAML from llm output, falling back to placeholder question")
+        return create_question(topic, subtopic)
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Generate questions")
     parser.add_argument("--model", default="gpt-4.1-mini", help="Model name")
-    parser.add_argument("--count", type=int, default=10, help="Questions to generate")
-    parser.add_argument("--template", type=Path, default=DEFAULT_TEMPLATE, help="Prompt template")
+    parser.add_argument(
+        "--questions-per-subtopic",
+        type=int,
+        default=10,
+        help="Questions to generate for each subtopic",
+    )
+    parser.add_argument(
+        "--template", type=Path, default=DEFAULT_TEMPLATE, help="Prompt template"
+    )
     args = parser.parse_args()
 
     if not TOPICS_FILE.exists():
@@ -121,22 +132,25 @@ def main() -> None:
     OUTPUT_DIR.mkdir(exist_ok=True)
 
     data = yaml.safe_load(TOPICS_FILE.read_text())
-    topic = data.get("topics", [])[0]
-    subtopic = topic.get("subtopics", [])[0]
 
     qid = next_id()
-    for _ in range(args.count):
-        titles = existing_titles(topic["name"], subtopic)
-        qdata = create_question_llm(topic["name"], subtopic, titles, args.model, args.template)
-        outfile = build_filename(
-            qid,
-            qdata.get("topic", topic["name"]),
-            qdata.get("subtopic", subtopic),
-            qdata.get("title", str(qid)),
-        )
-        outfile.write_text(yaml.safe_dump(qdata, sort_keys=False))
-        print(f"Wrote {outfile}")
-        qid += 1
+    for topic in data.get("topics", []):
+        tname = topic.get("name")
+        for subtopic in topic.get("subtopics", []):
+            for _ in range(args.questions_per_subtopic):
+                titles = existing_titles(tname, subtopic)
+                qdata = create_question_llm(
+                    tname, subtopic, titles, args.model, args.template
+                )
+                outfile = build_filename(
+                    qid,
+                    qdata.get("topic", tname),
+                    qdata.get("subtopic", subtopic),
+                    qdata.get("title", str(qid)),
+                )
+                outfile.write_text(yaml.safe_dump(qdata, sort_keys=False))
+                print(f"Wrote {outfile}")
+                qid += 1
 
 
 if __name__ == "__main__":
