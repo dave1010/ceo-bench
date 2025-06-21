@@ -12,6 +12,7 @@ import {
   Tooltip,
   Legend,
   type ScriptableContext,
+  type ChartDataset,
 } from 'chart.js'
 
 ChartJS.register(
@@ -33,24 +34,26 @@ export default function ModelsBarChart({ rows }: Props) {
   const topics = Object.keys(rows[0]).filter(k => !['model','model_name','overall','n'].includes(k))
   const labels = ['Overall', ...topics]
 
-  const datasets = rows.map((row, idx) => ({
-    label: row.model_name || row.model,
-    data: [Number(row.overall), ...topics.map(t => Number(row[t]))],
-    backgroundColor: `var(--color-chart-${(idx % 5) + 1})`,
-    borderColor: 'black',
-    borderWidth: (ctx: ScriptableContext<'bar'>) =>
-      ctx.dataIndex === 0 ? 2 : 0,
-  }))
+  const datasets: ChartDataset<'bar' | 'line', number[]>[] = rows.map(
+    (row, idx) => ({
+      label: row.model_name || row.model,
+      data: [Number(row.overall), ...topics.map(t => Number(row[t]))],
+      backgroundColor: `var(--color-chart-${(idx % 5) + 1})`,
+      borderColor: 'black',
+      borderWidth: (ctx: ScriptableContext<'bar'>) =>
+        ctx.dataIndex === 0 ? 2 : 0,
+    })
+  )
 
   datasets.push({
     label: 'Human CEO',
-    type: 'line' as const,
+    type: 'line',
     data: new Array(labels.length).fill(100),
     borderColor: '#888',
-    borderDash: [4,4],
+    borderDash: [4, 4],
     borderWidth: 2,
     pointRadius: 0,
-  })
+  } as ChartDataset<'line', number[]>)
 
   const data = { labels, datasets }
 
