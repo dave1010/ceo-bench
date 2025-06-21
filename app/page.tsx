@@ -4,6 +4,7 @@ import { Badge } from "@/components/ui/badge"
 import { Github, FileText, Trophy, BarChart3, Users, Target, ArrowRight } from "lucide-react"
 import Link from "next/link"
 import Leaderboard from "@/components/Leaderboard"
+import ModelsBarChart from "@/components/ModelsBarChart"
 import { loadLeaderboard } from '@/lib/leaderboard'
 
 export default async function Component() {
@@ -129,6 +130,10 @@ export default async function Component() {
                   Rankings based on comprehensive evaluation across strategic thinking, operational excellence,
                   leadership capabilities, and financial acumen.
                 </p>
+              </div>
+
+              <div className="mb-8">
+                <ModelsBarChart rows={rows} />
               </div>
 
               <Leaderboard />
