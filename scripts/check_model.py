@@ -17,7 +17,9 @@ def call_llm(model: str) -> str:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Send a hello prompt to a model")
+    parser = argparse.ArgumentParser(
+        description="Send a hello prompt to a model"
+    )
     parser.add_argument("--model", default="gpt-4.1-mini", help="Model name")
     args = parser.parse_args()
 

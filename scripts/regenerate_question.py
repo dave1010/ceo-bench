@@ -39,7 +39,12 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Regenerate a question")
     parser.add_argument("id", type=int, help="Question ID")
     parser.add_argument("--model", default="gpt-4.1-mini", help="Model name")
-    parser.add_argument("--template", type=Path, default=DEFAULT_TEMPLATE, help="Prompt template")
+    parser.add_argument(
+        "--template",
+        type=Path,
+        default=DEFAULT_TEMPLATE,
+        help="Prompt template",
+    )
     args = parser.parse_args()
 
     qfile = find_question_file(args.id)
@@ -51,7 +56,13 @@ def main() -> None:
     if data.get("title") in titles:
         titles.remove(data.get("title"))
 
-    new_data = create_question_llm(topic, subtopic, titles, args.model, args.template)
+    new_data = create_question_llm(
+        topic,
+        subtopic,
+        titles,
+        args.model,
+        args.template,
+    )
 
     outfile = build_filename(
         args.id,

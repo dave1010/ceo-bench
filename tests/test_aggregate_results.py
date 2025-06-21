@@ -3,7 +3,7 @@ from pathlib import Path
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 
-from scripts.aggregate_results import aggregate
+from scripts.aggregate_results import aggregate  # noqa: E402
 
 
 def test_aggregate_computes_averages():
