@@ -17,21 +17,18 @@ interface Props {
   rows: Row[]
 }
 
-export default function ModelsBarChart({ rows }: Props) {
+export default function OverallBarChart({ rows }: Props) {
   if (!rows.length) return null
-  const topics = Object.keys(rows[0]).filter(k => !['model','model_name','overall','n'].includes(k))
-  const labels = ['Overall', ...topics]
-
+  const labels = ['Overall']
   const colors = ['#4dc9f6', '#f67019', '#f53794', '#537bc4', '#acc236']
 
   const datasets: ChartDataset<'bar' | 'line', number[]>[] = rows.map((row, idx) => {
     const dataset: ChartDataset<'bar', number[]> = {
       label: row.model_name || row.model,
-      data: [Number(row.overall), ...topics.map(t => Number(row[t]))],
+      data: [Number(row.overall)],
       backgroundColor: colors[idx % colors.length],
       borderColor: 'black',
-      borderWidth: (ctx: ScriptableContext<'bar'>) =>
-        ctx.dataIndex === 0 ? 2 : 0,
+      borderWidth: 2,
     }
     return dataset
   })
@@ -39,7 +36,7 @@ export default function ModelsBarChart({ rows }: Props) {
   datasets.push({
     label: 'Human CEO',
     type: 'line',
-    data: new Array(labels.length).fill(100),
+    data: [100],
     borderColor: '#888',
     borderDash: [4, 4],
     borderWidth: 2,
@@ -61,7 +58,7 @@ export default function ModelsBarChart({ rows }: Props) {
   }
 
   return (
-    <div className="min-h-[400px]">
+    <div className="min-h-[300px]">
       <Chart type='bar' data={data} options={options} />
     </div>
   )

@@ -5,6 +5,7 @@ import { Github, FileText, Trophy, BarChart3, Users, Target, ArrowRight } from "
 import Link from "next/link"
 import Leaderboard from "@/components/Leaderboard"
 import ModelsBarChart from "@/components/ModelsBarChart"
+import OverallBarChart from "@/components/OverallBarChart"
 import { loadLeaderboard } from '@/lib/leaderboard'
 
 export default async function Component() {
@@ -136,10 +137,14 @@ export default async function Component() {
               </div>
 
               <div className="mb-8">
-                <ModelsBarChart rows={rows} />
+                <OverallBarChart rows={rows} />
               </div>
 
               <Leaderboard />
+
+              <div className="mt-8">
+                <ModelsBarChart rows={rows} />
+              </div>
             </div>
           </div>
         </section>
