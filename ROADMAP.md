@@ -1,6 +1,6 @@
 ## CEO Bench Implementation Roadmap
 
-(this file should be edited as progress is made. also update /dev/CONTEXT.md with anything useful for future developers)
+(this file should be edited as progress is made. see README for project context and directory structure)
 
 TODO: everything not already marked DONE below
 

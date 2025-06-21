@@ -23,11 +23,32 @@ npm run dev
 
 Deployed on Vercel; push to `main` to update.
 
+## Project Structure
+
+The front end is a **Next.js** application. Python scripts power question
+generation, answer generation and grading using the `llm` CLI.  Key files:
+
+- `generate_questions.py` uses `templates/question_gen_prompt.txt` to create
+  YAML question files.
+- `aggregate_results.py` compiles scoring data into the leaderboard.
+
+Important directories:
+
+- `templates/` – prompt templates and rubrics
+- `scripts/` – Python scripts for generation, evaluation and grading
+  - `generate_answers.py` calls `llm` to produce an answer for a question
+  - `grade_answers.py` grades an answer with `llm` using a JSON schema so
+    results include parsed scores
+- `data/questions/` – generated question YAML files
+- `data/answers/` – model responses to prompts
+- `data/results/` – evaluation results
+- `data/leaderboard/` – compiled leaderboard data for the web app
+- `dev/` – development notes and WIP docs
+
 
 ### Evaluation Workflow (Python)
 
-```p
-bash
+```bash
 pip install -r requirements.txt
 ```
 
