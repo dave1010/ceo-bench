@@ -5,4 +5,4 @@ See /README.md for more details.
 
 See /ROADMAP.md for the implementation roadmap.
 
-See /dev/CONTEXT.md for context and directory structure.
+See /README.md for context and directory structure.
