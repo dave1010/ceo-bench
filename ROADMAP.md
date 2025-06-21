@@ -28,32 +28,30 @@ TODO: everything not already marked DONE below
 ### Phase 2.5 scaling up question generation
 
 * DONE create real questions using the /data/topics.yaml file and getting the LLM to generate them (expand generate_questions.py and refactor). this should loop through each topic and subtopic and ask the LLM to generate a question and rubric (just the first subtopic for now). we need to ensure questions are diverse in each subtopic - we can give the LLM the titles of any exisiting questions in the subtopic and ask it to be diverse. will need a new prompt template. we'll need to get this right with just 1 subtopic first, generating 10 questions. the script shold use the next available incremental ID for the question file name.
-* manually review the generated questions and rubrics
-* continue for all subtopics, then all topics
-* Filtering: remove duplicates, low-quality via heuristics.
-* should have 200+ questions across all topics
+* DONE  review the generated questions and rubrics
+* DONE continue for all subtopics, then all topics
+* DONE should have 100+ questions across all topics
 
 ### phase 3 un evals with models
 
 * DONE refactor all scripts, restructure directories
-* write scripts to batch the processes
-* write script to generate answers with models, save results
-* write script to grade answers with judge LLM, save results
-* iterate to improve prompts and scoring
-* update readme
+* DONE write scripts to batch the processes
+* DONE write script to generate answers with models, save results
+* DONE write script to grade answers with judge LLM, save results
+* DONE iterate to improve prompts and scoring
+* DONE update readme
 
 ### phase 4 Leaderboard
 
 * DONE write script to turn results into leaderboard data
 * make leaderboard display in Next.js app, updating on deploy
-* make fancy chart, inckuding human baseline range
+* make fancy chart, including human baseline range
 
 ### phase 5 Analysis / evaluation of findings / interpretation
 
 * Significance tests between models (t‑test or nonparametric).
 * Correlation of rubric dims.
 * write some words
-
 
 ### Phase 6: Paper / publish
 
