@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Github, FileText, Trophy, BarChart3, Users, Target, ArrowRight } from "lucide-react"
+import { Github, FileText, FileDown, Trophy, BarChart3, Users, Target, ArrowRight } from "lucide-react"
 import Link from "next/link"
 import Leaderboard from "@/components/Leaderboard"
 import ModelsBarChart from "@/components/ModelsBarChart"
@@ -52,11 +52,12 @@ export default async function Component() {
             </Button>
             <Button size="sm" asChild>
               <Link
-                href="https://github.com/dave1010/ceo-bench#readme"
+                href="/CEO Bench - Can AI Replace the C-Suite - Dave Hulbert.pdf"
+                download
                 className="flex items-center space-x-2"
               >
-                <FileText className="w-4 h-4" />
-                <span className="hidden sm:inline">Docs</span>
+                <FileDown className="w-4 h-4" />
+                <span className="hidden sm:inline">Download PDF</span>
               </Link>
             </Button>
           </div>
@@ -91,9 +92,9 @@ export default async function Component() {
                   </Link>
                 </Button>
                 <Button variant="outline" size="lg" asChild>
-                  <Link href="https://github.com/dave1010/ceo-bench#readme" className="flex items-center space-x-2">
-                    <FileText className="w-5 h-5" />
-                    <span>Read the Docs</span>
+                  <Link href="/CEO Bench - Can AI Replace the C-Suite - Dave Hulbert.pdf" download className="flex items-center space-x-2">
+                    <FileDown className="w-5 h-5" />
+                    <span>Download PDF</span>
                   </Link>
                 </Button>
               </div>
@@ -274,9 +275,9 @@ export default async function Component() {
                   </Link>
                 </Button>
                 <Button variant="outline" size="lg" asChild>
-                  <Link href="https://github.com/dave1010/ceo-bench#readme" className="flex items-center space-x-2">
-                    <FileText className="w-5 h-5" />
-                    <span>Read the Docs</span>
+                  <Link href="/CEO Bench - Can AI Replace the C-Suite - Dave Hulbert.pdf" download className="flex items-center space-x-2">
+                    <FileDown className="w-5 h-5" />
+                    <span>Download PDF</span>
                   </Link>
                 </Button>
               </div>
