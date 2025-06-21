@@ -1,0 +1,14 @@
+{
+  "question_id": "0015-Strategic_Thinking-Market_entry_strategies-Assessing_Long-term_Viability_of_New_Markets",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"evaluation_framework\":120,\"data_and_forecasting\":115,\"adaptability_planning\":110,\"overall_score\":115,\"comments\":\"The answer provides a comprehensive evaluation framework covering economic, demographic, competitive, regulatory, cultural, and risk factors, demonstrating a strong methodical approach. It integrates both quantitative data and qualitative insights effectively for forecasting market viability. Adaptability is addressed with contingency planning and ongoing monitoring, reflecting awareness of dynamic market conditions. Scores reflect a CEO-level competency with room for deeper innovative methodologies to reach genius levels.\"}",
+  "scores": {
+    "Evaluation Framework": 120,
+    "Data and Forecasting": 115,
+    "Adaptability Planning": 110
+  },
+  "total": 115.0,
+  "comments": "The answer provides a comprehensive evaluation framework covering economic, demographic, competitive, regulatory, cultural, and risk factors, demonstrating a strong methodical approach. It integrates both quantitative data and qualitative insights effectively for forecasting market viability. Adaptability is addressed with contingency planning and ongoing monitoring, reflecting awareness of dynamic market conditions. Scores reflect a CEO-level competency with room for deeper innovative methodologies to reach genius levels."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0004-Strategic_Thinking-Market_entry_strategies-Evaluating_Market_Selection_Criteria",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"market_analysis\":115,\"strategic_alignment\":120,\"risk_assessment\":105,\"overall_score\":113.3,\"comments\":\"The answer provides a thorough market analysis by covering size, growth, competition, and regulatory environment extensively, meriting a high score. Strategic alignment is excellently addressed with focus on core competencies, long-term vision, portfolio fit, and synergy, receiving a top score. Risk assessment is acknowledged via cultural, economic, and infrastructure factors but lacks explicit mitigation strategies, resulting in a slightly lower score. Overall, the response demonstrates strong, well-rounded leadership thinking relevant for a CEO.\"}",
+  "scores": {
+    "Market Analysis": 115,
+    "Strategic Alignment": 120,
+    "Risk Assessment": 105
+  },
+  "total": 113.3,
+  "comments": "The answer provides a thorough market analysis by covering size, growth, competition, and regulatory environment extensively, meriting a high score. Strategic alignment is excellently addressed with focus on core competencies, long-term vision, portfolio fit, and synergy, receiving a top score. Risk assessment is acknowledged via cultural, economic, and infrastructure factors but lacks explicit mitigation strategies, resulting in a slightly lower score. Overall, the response demonstrates strong, well-rounded leadership thinking relevant for a CEO."
+}

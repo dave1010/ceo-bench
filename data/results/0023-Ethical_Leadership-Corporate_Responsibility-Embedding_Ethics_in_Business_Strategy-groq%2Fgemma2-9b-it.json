@@ -1,0 +1,14 @@
+{
+  "question_id": "0023-Ethical_Leadership-Corporate_Responsibility-Embedding_Ethics_in_Business_Strategy",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Ethical Leadership",
+  "subtopic": "Corporate Responsibility",
+  "raw": "{\"ethical_framework\":130,\"policy_integration\":125,\"leadership_example\":135,\"overall_score\":130,\"comments\":\"The CEO demonstrates an exceptionally strong ethical framework with clear principles and a commitment to continuous improvement. Ethical considerations are deeply embedded in policies and processes, including training, risk assessments, and whistleblower protections, reflecting a comprehensive integration. The CEO models ethical behavior visibly and fosters open communication, stakeholder engagement, and accountability, setting a high standard for the organization. Overall, the response reflects a genius-level leadership capacity in embedding ethics into strategic decision-making.\"}",
+  "scores": {
+    "Ethical Framework": 130,
+    "Policy Integration": 125,
+    "Leadership Example": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates an exceptionally strong ethical framework with clear principles and a commitment to continuous improvement. Ethical considerations are deeply embedded in policies and processes, including training, risk assessments, and whistleblower protections, reflecting a comprehensive integration. The CEO models ethical behavior visibly and fosters open communication, stakeholder engagement, and accountability, setting a high standard for the organization. Overall, the response reflects a genius-level leadership capacity in embedding ethics into strategic decision-making."
+}

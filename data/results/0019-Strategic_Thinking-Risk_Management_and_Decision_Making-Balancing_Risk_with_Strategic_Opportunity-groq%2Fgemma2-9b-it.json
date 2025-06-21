@@ -1,0 +1,14 @@
+{
+  "question_id": "0019-Strategic_Thinking-Risk_Management_and_Decision_Making-Balancing_Risk_with_Strategic_Opportunity",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management and Decision Making",
+  "raw": "{\"analytical_frameworks\":130,\"balance_of_risk_and_reward\":125,\"flexibility_and_adaptability\":120,\"overall_score\":125,\"comments\":\"The CEO presents a comprehensive and structured approach to risk assessment, showcasing strong analytical frameworks like data-driven insights, scenario planning, and SWOT analysis. Their balance of risk and reward is thoughtful, emphasizing calculated risks essential for innovation while developing mitigation strategies for downsides. Additionally, continuous monitoring and adaptability reflect a high degree of flexibility. Overall, the response indicates a high level of leadership aptitude in managing risk and decision-making effectively.\"}",
+  "scores": {
+    "Analytical Frameworks": 130,
+    "Balance of Risk and Reward": 125,
+    "Flexibility and Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO presents a comprehensive and structured approach to risk assessment, showcasing strong analytical frameworks like data-driven insights, scenario planning, and SWOT analysis. Their balance of risk and reward is thoughtful, emphasizing calculated risks essential for innovation while developing mitigation strategies for downsides. Additionally, continuous monitoring and adaptability reflect a high degree of flexibility. Overall, the response indicates a high level of leadership aptitude in managing risk and decision-making effectively."
+}

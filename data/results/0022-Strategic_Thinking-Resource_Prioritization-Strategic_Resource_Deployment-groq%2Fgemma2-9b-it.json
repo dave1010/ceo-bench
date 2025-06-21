@@ -1,0 +1,14 @@
+{
+  "question_id": "0022-Strategic_Thinking-Resource_Prioritization-Strategic_Resource_Deployment",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Resource Prioritization",
+  "raw": "{\"prioritization_skills\":120,\"decision-making_process\":115,\"outcome_focus\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong framework for prioritization, clearly outlining factors to rank initiatives by strategic importance, feasibility, financial impact, and risk, earning a high prioritization score. The emphasis on data-driven analysis and consideration of multiple data sources reflects a sound decision-making process, justifying a strong score there. Continuous monitoring and adjustment show an effective outcome focus, but since the answer is theoretical and lacks practical examples, the score remains high but not exceptional. Overall, the response aligns well with CEO-level strategic resource allocation competencies.\"}",
+  "scores": {
+    "Prioritization Skills": 120,
+    "Decision-Making Process": 115,
+    "Outcome Focus": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong framework for prioritization, clearly outlining factors to rank initiatives by strategic importance, feasibility, financial impact, and risk, earning a high prioritization score. The emphasis on data-driven analysis and consideration of multiple data sources reflects a sound decision-making process, justifying a strong score there. Continuous monitoring and adjustment show an effective outcome focus, but since the answer is theoretical and lacks practical examples, the score remains high but not exceptional. Overall, the response aligns well with CEO-level strategic resource allocation competencies."
+}

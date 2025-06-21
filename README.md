@@ -21,6 +21,18 @@ You can also run the steps individually:
 
 Data produced by the pipeline lives under the `data/` directory in `questions/`, `answers/`, `results/` and `leaderboard/`.
 
+## Groq Setup
+
+To evaluate Groq models you need the optional plugin and an API key:
+
+```bash
+llm install llm-groq
+export LLM_GROQ_KEY=YOUR_KEY
+```
+
+Run `llm groq refresh` to fetch the list of available models. The pipeline can
+then be run with `--models groq/gemma2-9b-it`.
+
 ## Evaluation Questions
 
 The benchmark covers a range of executive topics:

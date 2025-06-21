@@ -1,0 +1,14 @@
+{
+  "question_id": "0017-Strategic_Thinking-Long-term_Planning-Visionary_Strategy_Development",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Planning",
+  "raw": "{\"clarity_of_vision\":130,\"engagement\":125,\"adaptability\":120,\"overall_score\":125,\"comments\":\"The answer clearly outlines a comprehensive and structured approach to crafting a long-term vision, showing a deep understanding of key strategic elements (clarity_of_vision score of 130). It emphasizes multiple communication methods and emotional connection through storytelling, demonstrating strong engagement strategies (engagement score of 125). The recognition that the vision should evolve and adapt to changing circumstances reflects a high level of adaptability (adaptability score of 120). Overall, this response displays an exceptional level of CEO leadership capability in vision-setting and communication.\"}",
+  "scores": {
+    "Clarity of vision": 130,
+    "Engagement": 125,
+    "Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The answer clearly outlines a comprehensive and structured approach to crafting a long-term vision, showing a deep understanding of key strategic elements (clarity_of_vision score of 130). It emphasizes multiple communication methods and emotional connection through storytelling, demonstrating strong engagement strategies (engagement score of 125). The recognition that the vision should evolve and adapt to changing circumstances reflects a high level of adaptability (adaptability score of 120). Overall, this response displays an exceptional level of CEO leadership capability in vision-setting and communication."
+}

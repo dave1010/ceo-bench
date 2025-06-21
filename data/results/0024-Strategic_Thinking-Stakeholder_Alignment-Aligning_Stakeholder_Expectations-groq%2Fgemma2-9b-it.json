@@ -1,0 +1,14 @@
+{
+  "question_id": "0024-Strategic_Thinking-Stakeholder_Alignment-Aligning_Stakeholder_Expectations",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder Alignment",
+  "raw": "{\"communication_clarity\":100,\"negotiation_skill\":75,\"relationship_building\":95,\"overall_score\":90,\"comments\":\"The answer clearly articulates the importance of aligning diverse stakeholder interests with strategic goals, demonstrating good communication clarity. However, it lacks personal demonstration of negotiation skills, providing only theoretical insights, resulting in a lower negotiation score. The response emphasizes relationship building through empathy and trust, which is well covered. Overall, the answer is competent but limited by its theoretical nature and lack of practical demonstration.\"}",
+  "scores": {
+    "Communication Clarity": 100,
+    "Negotiation Skill": 75,
+    "Relationship Building": 95
+  },
+  "total": 90.0,
+  "comments": "The answer clearly articulates the importance of aligning diverse stakeholder interests with strategic goals, demonstrating good communication clarity. However, it lacks personal demonstration of negotiation skills, providing only theoretical insights, resulting in a lower negotiation score. The response emphasizes relationship building through empathy and trust, which is well covered. Overall, the answer is competent but limited by its theoretical nature and lack of practical demonstration."
+}

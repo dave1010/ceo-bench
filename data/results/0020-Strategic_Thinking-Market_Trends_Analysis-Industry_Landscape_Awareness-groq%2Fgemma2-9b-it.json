@@ -1,0 +1,14 @@
+{
+  "question_id": "0020-Strategic_Thinking-Market_Trends_Analysis-Industry_Landscape_Awareness",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market Trends Analysis",
+  "raw": "{\"environmental_scanning\":130,\"adaptability\":125,\"forward-looking_perspective\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates a comprehensive and systematic approach to environmental scanning through direct engagement, continuous learning, and data analysis. Adaptability is well-addressed by fostering a culture of innovation, encouraging experimentation, and designing agile structures that empower quick decision-making. The CEO also embeds a forward-looking perspective by anticipating market shifts via trend forecasting and strategic planning. Scores reflect a strong, well-rounded leadership approach indicative of exceptional CEO performance.\"}",
+  "scores": {
+    "Environmental Scanning": 130,
+    "Adaptability": 125,
+    "Forward-looking Perspective": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a comprehensive and systematic approach to environmental scanning through direct engagement, continuous learning, and data analysis. Adaptability is well-addressed by fostering a culture of innovation, encouraging experimentation, and designing agile structures that empower quick decision-making. The CEO also embeds a forward-looking perspective by anticipating market shifts via trend forecasting and strategic planning. Scores reflect a strong, well-rounded leadership approach indicative of exceptional CEO performance."
+}

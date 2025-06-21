@@ -1,0 +1,14 @@
+{
+  "question_id": "0025-Strategic_Thinking-Stakeholder_engagement-Building_Strategic_Alliances",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder engagement",
+  "raw": "{\"relationship_cultivation\":115,\"collaborative_mindset\":110,\"alignment_of_interests\":120,\"overall_score\":115,\"comments\":\"The response demonstrates a strong understanding of how a CEO fosters strategic partnerships by emphasizing clear communication, mutual benefit, and ongoing collaboration. It outlines relationship-building and trust, indicating high relationship cultivation. The emphasis on collaboration and communication reflects a strong collaborative mindset. The focus on alignment with company vision and thorough due diligence highlights the importance of aligning interests strategically and ethically. Overall, the answer reflects above-average leadership insight suitable for effective CEO performance.\"}",
+  "scores": {
+    "Relationship cultivation": 115,
+    "Collaborative mindset": 110,
+    "Alignment of interests": 120
+  },
+  "total": 115.0,
+  "comments": "The response demonstrates a strong understanding of how a CEO fosters strategic partnerships by emphasizing clear communication, mutual benefit, and ongoing collaboration. It outlines relationship-building and trust, indicating high relationship cultivation. The emphasis on collaboration and communication reflects a strong collaborative mindset. The focus on alignment with company vision and thorough due diligence highlights the importance of aligning interests strategically and ethically. Overall, the answer reflects above-average leadership insight suitable for effective CEO performance."
+}

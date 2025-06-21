@@ -1,0 +1,14 @@
+{
+  "question_id": "0018-Strategic_Thinking-Risk_Management-Balancing_Innovation_with_Risk",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment\":130,\"decision-making_balance\":125,\"risk_mitigation_strategies\":130,\"overall_score\":128.3,\"comments\":\"The CEO demonstrates an exceptional understanding of risk assessment with comprehensive methodologies including cross-functional engagement and both quantitative and qualitative analyses. Decision-making aptly balances risk and growth potential, emphasizing calculated risk-taking for sustainable growth. Risk mitigation strategies are robust, involving contingency planning, risk transfer, avoidance, continuous monitoring, and fostering a risk-aware culture. Overall, the approach reflects a high level of leadership acumen suitable for extraordinary organizational performance.\"}",
+  "scores": {
+    "Risk Assessment": 130,
+    "Decision-Making Balance": 125,
+    "Risk Mitigation Strategies": 130
+  },
+  "total": 128.3,
+  "comments": "The CEO demonstrates an exceptional understanding of risk assessment with comprehensive methodologies including cross-functional engagement and both quantitative and qualitative analyses. Decision-making aptly balances risk and growth potential, emphasizing calculated risk-taking for sustainable growth. Risk mitigation strategies are robust, involving contingency planning, risk transfer, avoidance, continuous monitoring, and fostering a risk-aware culture. Overall, the approach reflects a high level of leadership acumen suitable for extraordinary organizational performance."
+}

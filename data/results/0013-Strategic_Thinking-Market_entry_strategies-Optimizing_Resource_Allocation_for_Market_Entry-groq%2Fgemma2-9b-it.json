@@ -1,0 +1,14 @@
+{
+  "question_id": "0013-Strategic_Thinking-Market_entry_strategies-Optimizing_Resource_Allocation_for_Market_Entry",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"resource_prioritization\":125,\"strategic_alignment\":120,\"risk_mitigation\":115,\"overall_score\":120,\"comments\":\"The candidate presents a comprehensive, well-structured approach to resource prioritization, emphasizing market research, MVP development, and targeted marketing. Resource allocation decisions are clearly tied to business goals with a strong focus on data-driven adjustments, reflecting good strategic alignment. Risk mitigation is addressed through flexible resource deployment and agile processes, acknowledging the need for adaptability in dynamic market conditions. Overall, this answer demonstrates a high level of leadership competence suitable for effective market entry.\"}",
+  "scores": {
+    "Resource prioritization": 125,
+    "Strategic alignment": 120,
+    "Risk mitigation": 115
+  },
+  "total": 120.0,
+  "comments": "The candidate presents a comprehensive, well-structured approach to resource prioritization, emphasizing market research, MVP development, and targeted marketing. Resource allocation decisions are clearly tied to business goals with a strong focus on data-driven adjustments, reflecting good strategic alignment. Risk mitigation is addressed through flexible resource deployment and agile processes, acknowledging the need for adaptability in dynamic market conditions. Overall, this answer demonstrates a high level of leadership competence suitable for effective market entry."
+}

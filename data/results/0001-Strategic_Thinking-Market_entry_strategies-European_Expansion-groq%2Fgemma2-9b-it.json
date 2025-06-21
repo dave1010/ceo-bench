@@ -1,0 +1,14 @@
+{
+  "question_id": "0001-Strategic_Thinking-Market_entry_strategies-European_Expansion",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"strategic_depth\":130,\"feasibility\":125,\"clarity\":135,\"overall_score\":130,\"comments\":\"The answer demonstrates excellent strategic depth by covering market analysis, legal issues, localization, and cultural sensitivity thoroughly. The phased approach with clear milestones and pilots makes the plan highly feasible and actionable. The response is very well-structured, logically organized into phases, with clear, concise explanations, making it easy to follow. Overall, this is an exceptional CEO-level response likely to enable strong organizational performance in the new market.\"}",
+  "scores": {
+    "Strategic Depth": 130,
+    "Feasibility": 125,
+    "Clarity": 135
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates excellent strategic depth by covering market analysis, legal issues, localization, and cultural sensitivity thoroughly. The phased approach with clear milestones and pilots makes the plan highly feasible and actionable. The response is very well-structured, logically organized into phases, with clear, concise explanations, making it easy to follow. Overall, this is an exceptional CEO-level response likely to enable strong organizational performance in the new market."
+}
