@@ -1,0 +1,12 @@
+{
+  "question_id": "0120-Risk_&_Ethics-Risk_mitigation-Building_a_Risk_Awareness_Culture",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"leadership_in_risk_culture\":130,\"employee_engagement\":125,\"continuous_improvement\":120,\"overall_score\":125,\"comments\":\"The CEO clearly fosters a strong risk culture by promoting transparency and leading by example. Employee engagement is high as evidenced by the creation of safe communication channels, training, and rewarding proactive risk management. Continuous improvement is supported through regular workshops, anonymous reporting, and embedding risk management into organizational values, reflecting an advanced and systematic approach to risk mitigation.\"}",
+  "scores": {
+    "Leadership in Risk Culture": 130,
+    "Employee Engagement": 125,
+    "Continuous Improvement": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO clearly fosters a strong risk culture by promoting transparency and leading by example. Employee engagement is high as evidenced by the creation of safe communication channels, training, and rewarding proactive risk management. Continuous improvement is supported through regular workshops, anonymous reporting, and embedding risk management into organizational values, reflecting an advanced and systematic approach to risk mitigation."
+}

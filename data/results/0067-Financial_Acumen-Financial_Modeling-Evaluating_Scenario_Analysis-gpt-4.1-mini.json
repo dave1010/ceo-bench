@@ -1,0 +1,12 @@
+{
+  "question_id": "0067-Financial_Acumen-Financial_Modeling-Evaluating_Scenario_Analysis",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"scenario_planning_integration\":130,\"analytical_rigor\":115,\"strategic_adaptability\":120,\"overall_score\":122,\"comments\":\"The CEO demonstrates a strong and thorough use of scenario planning, addressing various financial outcomes comprehensively. The answer shows high strategic adaptability by emphasizing proactive adjustments based on scenario insights, and fosters cross-functional collaboration which enhances planning quality. While analytical rigor is implied through systematic evaluation and model reassessment, explicit description of analytical methodologies is somewhat limited. Overall, this is a high-level performance indicative of an effective CEO.\"}",
+  "scores": {
+    "Scenario Planning Integration": 130,
+    "Analytical Rigor": 115,
+    "Strategic Adaptability": 120
+  },
+  "total": 122.0,
+  "comments": "The CEO demonstrates a strong and thorough use of scenario planning, addressing various financial outcomes comprehensively. The answer shows high strategic adaptability by emphasizing proactive adjustments based on scenario insights, and fosters cross-functional collaboration which enhances planning quality. While analytical rigor is implied through systematic evaluation and model reassessment, explicit description of analytical methodologies is somewhat limited. Overall, this is a high-level performance indicative of an effective CEO."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0047-Operational_Excellence-Process_Improvement-Leveraging_Data_for_Continuous_Optimization",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"data-driven_decision_making\":125,\"stakeholder_engagement\":115,\"culture_of_continuous_improvement\":120,\"overall_score\":120,\"comments\":\"The answer comprehensively addresses how the CEO ensures data analytics are integrated into process improvements. It highlights clear vision-setting, investment in analytics capabilities, and embedding analytics into frameworks, which justifies a high score in data-driven decision making (125). The promotion of cross-functional collaboration supports a strong stakeholder engagement score (115). The emphasis on continuous monitoring, rewarding data-driven outcomes, and leading by example demonstrates a robust culture of continuous improvement (120). Overall, the response reflects a well-rounded, strategic leadership approach with scores above average but not at genius level, reflecting a capable and effective CEO.\"}",
+  "scores": {
+    "Data-Driven Decision Making": 125,
+    "Stakeholder Engagement": 115,
+    "Culture of Continuous Improvement": 120
+  },
+  "total": 120.0,
+  "comments": "The answer comprehensively addresses how the CEO ensures data analytics are integrated into process improvements. It highlights clear vision-setting, investment in analytics capabilities, and embedding analytics into frameworks, which justifies a high score in data-driven decision making (125). The promotion of cross-functional collaboration supports a strong stakeholder engagement score (115). The emphasis on continuous monitoring, rewarding data-driven outcomes, and leading by example demonstrates a robust culture of continuous improvement (120). Overall, the response reflects a well-rounded, strategic leadership approach with scores above average but not at genius level, reflecting a capable and effective CEO."
+}

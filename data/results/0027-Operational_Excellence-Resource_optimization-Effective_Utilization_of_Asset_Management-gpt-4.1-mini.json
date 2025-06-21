@@ -1,0 +1,12 @@
+{
+  "question_id": "0027-Operational_Excellence-Resource_optimization-Effective_Utilization_of_Asset_Management",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"asset_management_strategy\":125,\"continuous_improvement\":120,\"cross-functional_coordination\":115,\"overall_score\":120,\"comments\":\"The answer demonstrates strong strategic oversight for asset management, including clear objectives, performance monitoring, and disciplined capital allocation, aligning well with the 'Asset Management Strategy' dimension. It emphasizes regular review and adjustment processes with data-driven evaluations and continuous improvement practices, reflecting a high score for 'Continuous Improvement.' The fostering of accountability and alignment across teams indicates good 'Cross-Functional Coordination,' though slightly less emphasized than strategy and improvement. Overall, the response reflects a well-rounded and capable CEO approach to maximizing asset utilization and ROI.\"}",
+  "scores": {
+    "Asset Management Strategy": 125,
+    "Continuous Improvement": 120,
+    "Cross-Functional Coordination": 115
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates strong strategic oversight for asset management, including clear objectives, performance monitoring, and disciplined capital allocation, aligning well with the 'Asset Management Strategy' dimension. It emphasizes regular review and adjustment processes with data-driven evaluations and continuous improvement practices, reflecting a high score for 'Continuous Improvement.' The fostering of accountability and alignment across teams indicates good 'Cross-Functional Coordination,' though slightly less emphasized than strategy and improvement. Overall, the response reflects a well-rounded and capable CEO approach to maximizing asset utilization and ROI."
+}

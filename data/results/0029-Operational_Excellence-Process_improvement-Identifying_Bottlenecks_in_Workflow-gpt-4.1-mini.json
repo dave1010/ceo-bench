@@ -1,0 +1,12 @@
+{
+  "question_id": "0029-Operational_Excellence-Process_improvement-Identifying_Bottlenecks_in_Workflow",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"proactive_detection\":130,\"problem_solving\":125,\"continuous_improvement\":135,\"overall_score\":130.0,\"comments\":\"The answer demonstrates a strong, structured approach to proactively identifying bottlenecks using data and process mapping, scoring high in Proactive Detection. The use of root cause analysis and targeted testing of solutions indicates excellent Problem Solving skills. The emphasis on continuous improvement frameworks and fostering a culture of ongoing refinement evidences a high Continuous Improvement score. Overall, this reflects a highly capable and strategic approach that would drive exceptional operational efficiency.\"}",
+  "scores": {
+    "Proactive Detection": 130,
+    "Problem Solving": 125,
+    "Continuous Improvement": 135
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a strong, structured approach to proactively identifying bottlenecks using data and process mapping, scoring high in Proactive Detection. The use of root cause analysis and targeted testing of solutions indicates excellent Problem Solving skills. The emphasis on continuous improvement frameworks and fostering a culture of ongoing refinement evidences a high Continuous Improvement score. Overall, this reflects a highly capable and strategic approach that would drive exceptional operational efficiency."
+}

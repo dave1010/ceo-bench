@@ -1,0 +1,12 @@
+{
+  "question_id": "0074-Financial_Acumen-Investment_Decisions-Evaluating_Strategic_Investment_Opportunities",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"due_diligence_and_analysis\":130,\"portfolio_perspective\":120,\"post-investment_review\":115,\"overall_score\":122,\"comments\":\"The answer demonstrates a comprehensive understanding of due diligence through strategic alignment, financial evaluation, and risk assessment, meriting a high score for due diligence and analysis (130). The emphasis on portfolio balance and diversification shows a strong portfolio perspective (120). The inclusion of continuous review and adaptation reflects a solid approach to post-investment review (115). Overall, the CEO's approach is thorough and well-rounded, yielding an above-average Leadership Quotient indicative of effective, sustainable investment management.\"}",
+  "scores": {
+    "Due Diligence and Analysis": 130,
+    "Portfolio Perspective": 120,
+    "Post-Investment Review": 115
+  },
+  "total": 122.0,
+  "comments": "The answer demonstrates a comprehensive understanding of due diligence through strategic alignment, financial evaluation, and risk assessment, meriting a high score for due diligence and analysis (130). The emphasis on portfolio balance and diversification shows a strong portfolio perspective (120). The inclusion of continuous review and adaptation reflects a solid approach to post-investment review (115). Overall, the CEO's approach is thorough and well-rounded, yielding an above-average Leadership Quotient indicative of effective, sustainable investment management."
+}

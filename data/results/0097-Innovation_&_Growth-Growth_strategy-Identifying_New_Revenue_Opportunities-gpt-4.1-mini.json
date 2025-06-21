@@ -1,0 +1,12 @@
+{
+  "question_id": "0097-Innovation_&_Growth-Growth_strategy-Identifying_New_Revenue_Opportunities",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"opportunity_identification\":120,\"strategic_prioritization\":115,\"execution_planning\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong, proactive approach to identifying new revenue streams through continuous market analysis and customer insights, scoring high on Opportunity Identification. It emphasizes data-driven evaluation and alignment with strategic goals, reflecting effective Strategic Prioritization. Execution Planning is well covered via resource allocation and fostering agile adaptation, though specific details on timelines and success metrics are less explicit, resulting in a slightly lower score. Overall, the response indicates a capable CEO with a clear, strategic, and practical approach to sustained growth.\"}",
+  "scores": {
+    "Opportunity Identification": 120,
+    "Strategic Prioritization": 115,
+    "Execution Planning": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong, proactive approach to identifying new revenue streams through continuous market analysis and customer insights, scoring high on Opportunity Identification. It emphasizes data-driven evaluation and alignment with strategic goals, reflecting effective Strategic Prioritization. Execution Planning is well covered via resource allocation and fostering agile adaptation, though specific details on timelines and success metrics are less explicit, resulting in a slightly lower score. Overall, the response indicates a capable CEO with a clear, strategic, and practical approach to sustained growth."
+}

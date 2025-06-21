@@ -1,0 +1,12 @@
+{
+  "question_id": "0085-Risk_&_Ethics-Risk_mitigation-Proactive_Identification_of_Emerging_Risks",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"proactivity_in_risk_detection\":130,\"integration_with_organizational_processes\":125,\"responsiveness_and_follow-through\":128,\"overall_score\":127.7,\"comments\":\"The CEO demonstrates a highly proactive approach by implementing comprehensive early warning systems including environmental scanning, cross-functional committees, and data analytics. Risk detection is deeply integrated into organizational processes through strategic scenario planning and continuous learning initiatives. Responsiveness is ensured via agile protocols and a culture supporting open communication and follow-through. The answer reflects superior leadership in risk management, exceeding average CEO expectations with a well-rounded and effective approach.\"}",
+  "scores": {
+    "Proactivity in Risk Detection": 130,
+    "Integration with Organizational Processes": 125,
+    "Responsiveness and Follow-through": 128
+  },
+  "total": 127.7,
+  "comments": "The CEO demonstrates a highly proactive approach by implementing comprehensive early warning systems including environmental scanning, cross-functional committees, and data analytics. Risk detection is deeply integrated into organizational processes through strategic scenario planning and continuous learning initiatives. Responsiveness is ensured via agile protocols and a culture supporting open communication and follow-through. The answer reflects superior leadership in risk management, exceeding average CEO expectations with a well-rounded and effective approach."
+}

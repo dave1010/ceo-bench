@@ -1,0 +1,12 @@
+{
+  "question_id": "0094-Innovation_&_Growth-Technology_adoption-Assessing_Change_Management_Skills",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"leadership_in_change\":120,\"employee_engagement\":115,\"implementation_agility\":118,\"overall_score\":117.7,\"comments\":\"The CEO demonstrates strong leadership by articulating a clear vision and proactively communicating the importance of technological changes, facilitating smooth adoption. Employee engagement is high, with inclusive leadership, encouraging feedback, and recognizing early adopters to foster buy-in and address resistance. Implementation agility is evident through close collaboration with stakeholders, real-time monitoring, and adjustments, showing flexibility in navigating challenges. Overall, the CEO exhibits above-average to exceptional capabilities in leading technological change effectively.\"}",
+  "scores": {
+    "Leadership in change": 120,
+    "Employee engagement": 115,
+    "Implementation agility": 118
+  },
+  "total": 117.7,
+  "comments": "The CEO demonstrates strong leadership by articulating a clear vision and proactively communicating the importance of technological changes, facilitating smooth adoption. Employee engagement is high, with inclusive leadership, encouraging feedback, and recognizing early adopters to foster buy-in and address resistance. Implementation agility is evident through close collaboration with stakeholders, real-time monitoring, and adjustments, showing flexibility in navigating challenges. Overall, the CEO exhibits above-average to exceptional capabilities in leading technological change effectively."
+}

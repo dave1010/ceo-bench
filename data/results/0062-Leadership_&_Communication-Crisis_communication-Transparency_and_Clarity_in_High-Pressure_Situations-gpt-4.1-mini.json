@@ -1,0 +1,12 @@
+{
+  "question_id": "0062-Leadership_&_Communication-Crisis_communication-Transparency_and_Clarity_in_High-Pressure_Situations",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"clarity_of_message\":115,\"stakeholder_engagement\":110,\"emotional_intelligence\":105,\"overall_score\":110,\"comments\":\"The answer clearly outlines a structured communication approach ensuring transparency and clarity, reflected in a high clarity score. It emphasizes understanding and tailoring messages to varied stakeholder groups and encouraging two-way communication, demonstrating good stakeholder engagement. While empathy and composure are implicit through honesty and responsiveness, explicit mention of emotional intelligence aspects could be stronger, thus a slightly lower emotional intelligence score. Overall, the response shows a strong CEO capability in crisis communication.\"}",
+  "scores": {
+    "Clarity of Message": 115,
+    "Stakeholder Engagement": 110,
+    "Emotional Intelligence": 105
+  },
+  "total": 110.0,
+  "comments": "The answer clearly outlines a structured communication approach ensuring transparency and clarity, reflected in a high clarity score. It emphasizes understanding and tailoring messages to varied stakeholder groups and encouraging two-way communication, demonstrating good stakeholder engagement. While empathy and composure are implicit through honesty and responsiveness, explicit mention of emotional intelligence aspects could be stronger, thus a slightly lower emotional intelligence score. Overall, the response shows a strong CEO capability in crisis communication."
+}

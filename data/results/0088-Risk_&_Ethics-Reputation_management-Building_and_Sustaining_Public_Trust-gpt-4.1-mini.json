@@ -1,0 +1,12 @@
+{
+  "question_id": "0088-Risk_&_Ethics-Reputation_management-Building_and_Sustaining_Public_Trust",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"transparency\":120,\"consistency\":115,\"engagement\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates a high level of transparency by openly sharing information through multiple channels and committing to honest disclosures during both successes and challenges. Consistency is strongly maintained through aligned communication across departments and leadership, ensuring clear and reliable messaging. Engagement is proactive and thoughtful, incorporating various stakeholders and facilitating two-way dialogue. The approach reflects strong leadership qualities that would effectively build and sustain public trust.\"}",
+  "scores": {
+    "Transparency": 120,
+    "Consistency": 115,
+    "Engagement": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates a high level of transparency by openly sharing information through multiple channels and committing to honest disclosures during both successes and challenges. Consistency is strongly maintained through aligned communication across departments and leadership, ensuring clear and reliable messaging. Engagement is proactive and thoughtful, incorporating various stakeholders and facilitating two-way dialogue. The approach reflects strong leadership qualities that would effectively build and sustain public trust."
+}

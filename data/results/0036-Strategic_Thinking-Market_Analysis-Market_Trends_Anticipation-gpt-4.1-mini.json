@@ -1,0 +1,12 @@
+{
+  "question_id": "0036-Strategic_Thinking-Market_Analysis-Market_Trends_Anticipation",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"awareness_of_market_dynamics\":120,\"integration_of_insights\":125,\"proactiveness\":115,\"overall_score\":120,\"comments\":\"The CEO demonstrates a comprehensive and active approach to staying informed about market trends by leveraging multiple sources and engaging with various stakeholders. Market insights are clearly integrated into strategic planning through systematic processes involving cross-functional collaboration. The CEO also shows strong proactiveness by using insights for scenario planning and opportunity identification, indicating forward-thinking leadership. Scores reflect a strong, above-average performance indicative of an effective and proactive CEO.\"}",
+  "scores": {
+    "Awareness of Market Dynamics": 120,
+    "Integration of Insights": 125,
+    "Proactiveness": 115
+  },
+  "total": 120.0,
+  "comments": "The CEO demonstrates a comprehensive and active approach to staying informed about market trends by leveraging multiple sources and engaging with various stakeholders. Market insights are clearly integrated into strategic planning through systematic processes involving cross-functional collaboration. The CEO also shows strong proactiveness by using insights for scenario planning and opportunity identification, indicating forward-thinking leadership. Scores reflect a strong, above-average performance indicative of an effective and proactive CEO."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0037-Strategic_Thinking-Stakeholder_Engagement-Balancing_Diverse_Stakeholder_Interests",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"listening_and_empathy\":125,\"strategic_negotiation\":120,\"transparency\":130,\"overall_score\":125,\"comments\":\"The answer demonstrates strong listening and empathy by emphasizing engagement, collaboration, and balancing diverse stakeholder needs. Strategic negotiation is evident in aligning incentives and managing competing interests effectively. Transparency is well covered through clear vision communication and open involvement of stakeholders. Overall, the CEO's approach reflects a high leadership capacity for aligning stakeholders towards long-term strategy.\"}",
+  "scores": {
+    "Listening and Empathy": 125,
+    "Strategic Negotiation": 120,
+    "Transparency": 130
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates strong listening and empathy by emphasizing engagement, collaboration, and balancing diverse stakeholder needs. Strategic negotiation is evident in aligning incentives and managing competing interests effectively. Transparency is well covered through clear vision communication and open involvement of stakeholders. Overall, the CEO's approach reflects a high leadership capacity for aligning stakeholders towards long-term strategy."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0087-Risk_&_Ethics-Reputation_management-Crisis_Response_Effectiveness",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"response_timeliness\":120,\"transparency_and_honesty\":125,\"restoration_of_trust\":130,\"overall_score\":125,\"comments\":\"The answer comprehensively addresses each rubric dimension with a sophisticated and well-structured approach. It emphasizes a proactive crisis management framework ensuring swift action, promotes a culture of transparency, and details consistent stakeholder engagement and accountability. Furthermore, it highlights ongoing monitoring and long-term trust-building efforts, demonstrating a deep understanding of effective leadership in reputational crisis management. Scores reflect a strong performance well above average, indicating exceptional CEO capabilities in this domain.\"}",
+  "scores": {
+    "Response timeliness": 120,
+    "Transparency and honesty": 125,
+    "Restoration of trust": 130
+  },
+  "total": 125.0,
+  "comments": "The answer comprehensively addresses each rubric dimension with a sophisticated and well-structured approach. It emphasizes a proactive crisis management framework ensuring swift action, promotes a culture of transparency, and details consistent stakeholder engagement and accountability. Furthermore, it highlights ongoing monitoring and long-term trust-building efforts, demonstrating a deep understanding of effective leadership in reputational crisis management. Scores reflect a strong performance well above average, indicating exceptional CEO capabilities in this domain."
+}

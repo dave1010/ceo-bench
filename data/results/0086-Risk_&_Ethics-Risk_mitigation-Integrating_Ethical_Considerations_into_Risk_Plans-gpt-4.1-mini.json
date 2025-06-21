@@ -1,0 +1,12 @@
+{
+  "question_id": "0086-Risk_&_Ethics-Risk_mitigation-Integrating_Ethical_Considerations_into_Risk_Plans",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"ethical_awareness\":130,\"integration\":135,\"influence\":130,\"overall_score\":132,\"comments\":\"The CEO demonstrates a strong commitment to ethical principles by incorporating integrity, transparency, and social responsibility into risk management. Ethical considerations are seamlessly integrated into all aspects of risk mitigation, with attention paid to employees, customers, communities, and the environment. Furthermore, the CEO fosters an organization-wide culture of accountability and trust through open communication and stakeholder engagement. These behaviors indicate a high level of leadership in ethical risk management, justifying a score well above average.\"}",
+  "scores": {
+    "Ethical Awareness": 130,
+    "Integration": 135,
+    "Influence": 130
+  },
+  "total": 132.0,
+  "comments": "The CEO demonstrates a strong commitment to ethical principles by incorporating integrity, transparency, and social responsibility into risk management. Ethical considerations are seamlessly integrated into all aspects of risk mitigation, with attention paid to employees, customers, communities, and the environment. Furthermore, the CEO fosters an organization-wide culture of accountability and trust through open communication and stakeholder engagement. These behaviors indicate a high level of leadership in ethical risk management, justifying a score well above average."
+}

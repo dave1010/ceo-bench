@@ -1,0 +1,12 @@
+{
+  "question_id": "0043-Operational_Excellence-Resource_optimization-Innovation_in_Resource_Allocation",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"strategic_planning\":130,\"efficiency_gains\":125,\"change_management\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates exceptional strategic planning by integrating data-driven tools and innovative cross-departmental collaboration tailored to the organization's resource allocation needs. Efficiency gains are significant, evidenced by real-time visibility, dynamic reallocation, and lean initiatives leading to measurable improvements and cost savings. Change management is strong, as the CEO fosters a culture of innovation, transparency, and accountability, effectively embedding new practices organization-wide. Overall, the CEO's approach is highly effective and reflects leadership at a 'genius' level.\"}",
+  "scores": {
+    "Strategic Planning": 130,
+    "Efficiency Gains": 125,
+    "Change Management": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates exceptional strategic planning by integrating data-driven tools and innovative cross-departmental collaboration tailored to the organization's resource allocation needs. Efficiency gains are significant, evidenced by real-time visibility, dynamic reallocation, and lean initiatives leading to measurable improvements and cost savings. Change management is strong, as the CEO fosters a culture of innovation, transparency, and accountability, effectively embedding new practices organization-wide. Overall, the CEO's approach is highly effective and reflects leadership at a 'genius' level."
+}

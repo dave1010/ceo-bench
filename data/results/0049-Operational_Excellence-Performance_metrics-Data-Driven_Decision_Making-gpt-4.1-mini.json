@@ -1,0 +1,12 @@
+{
+  "question_id": "0049-Operational_Excellence-Performance_metrics-Data-Driven_Decision_Making",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"alignment_of_metrics_with_strategic_goals\":120,\"use_of_data_to_identify_opportunities\":115,\"actionability_of_insights\":118,\"overall_score\":118,\"comments\":\"The answer clearly demonstrates that the CEO aligns performance metrics closely with strategic goals, enabling informed decision-making. There is strong evidence of proactive use of data to identify opportunities and challenges, and the insights derived are actionable, leading to prioritized operational initiatives and measurable improvements. The description indicates a well-developed, effective data-driven leadership approach, meriting a high LQ score around 118.\"}",
+  "scores": {
+    "Alignment of metrics with strategic goals": 120,
+    "Use of data to identify opportunities": 115,
+    "Actionability of insights": 118
+  },
+  "total": 118.0,
+  "comments": "The answer clearly demonstrates that the CEO aligns performance metrics closely with strategic goals, enabling informed decision-making. There is strong evidence of proactive use of data to identify opportunities and challenges, and the insights derived are actionable, leading to prioritized operational initiatives and measurable improvements. The description indicates a well-developed, effective data-driven leadership approach, meriting a high LQ score around 118."
+}

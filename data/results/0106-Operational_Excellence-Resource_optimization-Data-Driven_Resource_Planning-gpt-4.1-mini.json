@@ -1,0 +1,12 @@
+{
+  "question_id": "0106-Operational_Excellence-Resource_optimization-Data-Driven_Resource_Planning",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"data_integration\":130,\"proactive_planning\":135,\"decision_impact\":130,\"overall_score\":132,\"comments\":\"The CEO exhibits exemplary leadership in leveraging integrated data systems and predictive analytics for accurate forecasting of resource needs. Proactive planning is evident through anticipation of demand and alignment with strategic goals, reducing waste and shortages. Decisions made based on data analytics significantly improve operational efficiency and cost management, reflecting high-level organizational performance.\"}",
+  "scores": {
+    "Data Integration": 130,
+    "Proactive Planning": 135,
+    "Decision Impact": 130
+  },
+  "total": 132.0,
+  "comments": "The CEO exhibits exemplary leadership in leveraging integrated data systems and predictive analytics for accurate forecasting of resource needs. Proactive planning is evident through anticipation of demand and alignment with strategic goals, reducing waste and shortages. Decisions made based on data analytics significantly improve operational efficiency and cost management, reflecting high-level organizational performance."
+}

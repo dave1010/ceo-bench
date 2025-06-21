@@ -1,0 +1,12 @@
+{
+  "question_id": "0069-Financial_Acumen-Financial_Reporting_and_Compliance-Ensuring_Transparent_Financial_Leadership",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"accuracy_and_integrity\":125,\"stakeholder_engagement\":120,\"regulatory_compliance\":120,\"overall_score\":122,\"comments\":\"The answer demonstrates strong emphasis on integrity and accountability, highlighting robust internal controls and collaboration with finance and audit teams, which supports accurate financial reporting. It also addresses transparent communication to stakeholders, building trust effectively. Additionally, adherence to regulatory requirements is explicitly mentioned, showing compliance focus. Overall, the response aligns well with the rubric criteria, reflecting a high level of leadership in financial reporting.\"}",
+  "scores": {
+    "Accuracy and Integrity": 125,
+    "Stakeholder Engagement": 120,
+    "Regulatory Compliance": 120
+  },
+  "total": 122.0,
+  "comments": "The answer demonstrates strong emphasis on integrity and accountability, highlighting robust internal controls and collaboration with finance and audit teams, which supports accurate financial reporting. It also addresses transparent communication to stakeholders, building trust effectively. Additionally, adherence to regulatory requirements is explicitly mentioned, showing compliance focus. Overall, the response aligns well with the rubric criteria, reflecting a high level of leadership in financial reporting."
+}

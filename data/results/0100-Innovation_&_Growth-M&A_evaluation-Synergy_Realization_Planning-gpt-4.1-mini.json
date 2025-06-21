@@ -1,0 +1,12 @@
+{
+  "question_id": "0100-Innovation_&_Growth-M&A_evaluation-Synergy_Realization_Planning",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"strategic_alignment\":120,\"due_diligence_rigor\":130,\"integration_roadmap\":125,\"overall_score\":125,\"comments\":\"The CEO exhibits strong strategic alignment by ensuring the target complements existing objectives. Due diligence is thorough, covering financial, cultural, and operational aspects. The integration roadmap is well planned, with clear priorities and risk mitigation. The comprehensive and collaborative approach indicates a high level of foresight and execution capability, resulting in an above-average Leadership Quotient.\"}",
+  "scores": {
+    "Strategic Alignment": 120,
+    "Due Diligence Rigor": 130,
+    "Integration Roadmap": 125
+  },
+  "total": 125.0,
+  "comments": "The CEO exhibits strong strategic alignment by ensuring the target complements existing objectives. Due diligence is thorough, covering financial, cultural, and operational aspects. The integration roadmap is well planned, with clear priorities and risk mitigation. The comprehensive and collaborative approach indicates a high level of foresight and execution capability, resulting in an above-average Leadership Quotient."
+}

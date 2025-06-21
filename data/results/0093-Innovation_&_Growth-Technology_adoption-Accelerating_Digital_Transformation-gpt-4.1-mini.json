@@ -1,0 +1,12 @@
+{
+  "question_id": "0093-Innovation_&_Growth-Technology_adoption-Accelerating_Digital_Transformation",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"leadership_in_technology_adoption\":125,\"strategy_alignment\":120,\"change_management\":118,\"overall_score\":121,\"comments\":\"The CEO exhibits strong leadership in driving digital transformation by championing innovative technologies and effectively mobilizing resources. Their technology initiatives are well-aligned with the organization's long-term strategic goals, maximizing potential growth and competitive advantage. Additionally, the CEO's focus on fostering a receptive culture and engaging stakeholders demonstrates effective change management that facilitates smooth adoption of emerging technologies. Overall, the performance is above average, approaching exceptional leadership in this domain.\"}",
+  "scores": {
+    "Leadership in Technology Adoption": 125,
+    "Strategy Alignment": 120,
+    "Change Management": 118
+  },
+  "total": 121.0,
+  "comments": "The CEO exhibits strong leadership in driving digital transformation by championing innovative technologies and effectively mobilizing resources. Their technology initiatives are well-aligned with the organization's long-term strategic goals, maximizing potential growth and competitive advantage. Additionally, the CEO's focus on fostering a receptive culture and engaging stakeholders demonstrates effective change management that facilitates smooth adoption of emerging technologies. Overall, the performance is above average, approaching exceptional leadership in this domain."
+}

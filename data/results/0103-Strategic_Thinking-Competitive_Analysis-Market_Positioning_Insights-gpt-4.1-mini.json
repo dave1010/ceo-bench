@@ -1,0 +1,12 @@
+{
+  "question_id": "0103-Strategic_Thinking-Competitive_Analysis-Market_Positioning_Insights",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"market_awareness\":120,\"adaptability\":115,\"strategic_implementation\":118,\"overall_score\":118,\"comments\":\"The CEO shows strong market awareness by engaging in comprehensive market analysis and competitive intelligence. Adaptability is evident through fostering agility and innovation, and regularly recalibrating strategies. Strategic implementation is effective with investments in R&D, partnerships, and leadership alignment to translate insights into actionable initiatives. Overall, the CEO demonstrates a high level of leadership competency well above average.\"}",
+  "scores": {
+    "Market Awareness": 120,
+    "Adaptability": 115,
+    "Strategic Implementation": 118
+  },
+  "total": 118.0,
+  "comments": "The CEO shows strong market awareness by engaging in comprehensive market analysis and competitive intelligence. Adaptability is evident through fostering agility and innovation, and regularly recalibrating strategies. Strategic implementation is effective with investments in R&D, partnerships, and leadership alignment to translate insights into actionable initiatives. Overall, the CEO demonstrates a high level of leadership competency well above average."
+}

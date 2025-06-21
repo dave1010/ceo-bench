@@ -1,0 +1,12 @@
+{
+  "question_id": "0032-Strategic_Thinking-Market_entry_strategies-Managing_Cross-functional_Teams_During_Expansion",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"leadership_communication\":120,\"resource_management\":115,\"performance_monitoring\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates strong leadership communication by articulating a clear vision, defining roles, and fostering a collaborative culture, which aligns well with the rubric. Resource management is well addressed through provisioning of resources and removal of obstacles, indicating effective support for teams. Performance monitoring is present with regular communication and progress tracking mechanisms. Overall, the approach shows solid capabilities expected of a successful CEO with some room for innovation or deeper metrics formalization.\"}",
+  "scores": {
+    "Leadership communication": 120,
+    "Resource management": 115,
+    "Performance monitoring": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates strong leadership communication by articulating a clear vision, defining roles, and fostering a collaborative culture, which aligns well with the rubric. Resource management is well addressed through provisioning of resources and removal of obstacles, indicating effective support for teams. Performance monitoring is present with regular communication and progress tracking mechanisms. Overall, the approach shows solid capabilities expected of a successful CEO with some room for innovation or deeper metrics formalization."
+}

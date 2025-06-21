@@ -1,0 +1,12 @@
+{
+  "question_id": "0119-Risk_&_Ethics-Ethical_decision-making-Cultivating_Ethical_Culture_Within_the_Organization",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"leadership_commitment\":130,\"communication_and_awareness\":125,\"accountability_and_reinforcement\":120,\"overall_score\":125,\"comments\":\"The answer shows strong leadership commitment by emphasizing leading by example and setting clear ethical standards. Communication and awareness are well covered with ongoing training and promotion of open dialogue. Accountability and reinforcement mechanisms such as performance metrics and recognition programs are thoughtfully included. Overall, this represents a comprehensive and highly effective approach to fostering an ethical organizational culture, warranting a well above average Leadership Quotient.\"}",
+  "scores": {
+    "Leadership Commitment": 130,
+    "Communication and Awareness": 125,
+    "Accountability and Reinforcement": 120
+  },
+  "total": 125.0,
+  "comments": "The answer shows strong leadership commitment by emphasizing leading by example and setting clear ethical standards. Communication and awareness are well covered with ongoing training and promotion of open dialogue. Accountability and reinforcement mechanisms such as performance metrics and recognition programs are thoughtfully included. Overall, this represents a comprehensive and highly effective approach to fostering an ethical organizational culture, warranting a well above average Leadership Quotient."
+}

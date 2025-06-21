@@ -1,0 +1,12 @@
+{
+  "question_id": "0089-Risk_&_Ethics-Reputation_management-Navigating_Stakeholder_Perceptions",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"stakeholder_communication\":130,\"alignment_of_actions_and_values\":135,\"crisis_preparedness\":125,\"overall_score\":130,\"comments\":\"The answer comprehensively addresses how the CEO proactively shapes and communicates values during uncertainty. It emphasizes transparency, consistent communication across multiple channels, and two-way engagement with stakeholders, earning a strong score in Stakeholder Communication. The integration of values into decision-making and leading by example shows a clear alignment of actions with company values, supporting a high score there. The mention of building an agile culture and embedding ethical guidelines to manage risks indicates strong crisis preparedness. Overall, the response demonstrates a sophisticated understanding suitable for an exceptional CEO.\"}",
+  "scores": {
+    "Stakeholder Communication": 130,
+    "Alignment of Actions and Values": 135,
+    "Crisis Preparedness": 125
+  },
+  "total": 130.0,
+  "comments": "The answer comprehensively addresses how the CEO proactively shapes and communicates values during uncertainty. It emphasizes transparency, consistent communication across multiple channels, and two-way engagement with stakeholders, earning a strong score in Stakeholder Communication. The integration of values into decision-making and leading by example shows a clear alignment of actions with company values, supporting a high score there. The mention of building an agile culture and embedding ethical guidelines to manage risks indicates strong crisis preparedness. Overall, the response demonstrates a sophisticated understanding suitable for an exceptional CEO."
+}

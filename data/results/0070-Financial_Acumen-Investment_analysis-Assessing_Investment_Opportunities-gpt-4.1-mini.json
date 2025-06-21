@@ -1,0 +1,12 @@
+{
+  "question_id": "0070-Financial_Acumen-Investment_analysis-Assessing_Investment_Opportunities",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"risk_assessment\":120,\"return_projections\":115,\"strategic_fit\":125,\"overall_score\":120,\"comments\":\"The answer demonstrates a thorough and systematic approach to evaluating risks by identifying key risk categories, assessing likelihood and impact, and considering mitigation strategies. The financial analysis includes detailed return projections with multiple metrics and scenario analysis, indicating strong competence. The strategic fit dimension is well-covered with a focus on alignment with long-term goals and resource capabilities, showing deep understanding. Scores reflect strong leadership aptitude just above average CEO performance.\"}",
+  "scores": {
+    "Risk Assessment": 120,
+    "Return Projections": 115,
+    "Strategic Fit": 125
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates a thorough and systematic approach to evaluating risks by identifying key risk categories, assessing likelihood and impact, and considering mitigation strategies. The financial analysis includes detailed return projections with multiple metrics and scenario analysis, indicating strong competence. The strategic fit dimension is well-covered with a focus on alignment with long-term goals and resource capabilities, showing deep understanding. Scores reflect strong leadership aptitude just above average CEO performance."
+}

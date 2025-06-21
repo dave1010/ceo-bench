@@ -1,0 +1,12 @@
+{
+  "question_id": "0058-Leadership_&_Communication-Stakeholder_management-Managing_Stakeholder_Expectations",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"communication_approach\":120,\"expectation_alignment\":115,\"responsiveness\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong, structured approach to communication, ensuring clear and consistent messaging tailored to stakeholder needs throughout the project phases. The CEO's role in setting and adjusting expectations via transparent reporting and feedback integration reflects excellent expectation alignment. While responsiveness is implied through proactive engagement and feedback mechanisms, explicit emphasis on promptness could be stronger. Overall, the answer reflects a highly competent leadership approach with well-rounded management of communication, expectation alignment, and responsiveness, justifying above-average scores in all dimensions.\"}",
+  "scores": {
+    "Communication Approach": 120,
+    "Expectation Alignment": 115,
+    "Responsiveness": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong, structured approach to communication, ensuring clear and consistent messaging tailored to stakeholder needs throughout the project phases. The CEO's role in setting and adjusting expectations via transparent reporting and feedback integration reflects excellent expectation alignment. While responsiveness is implied through proactive engagement and feedback mechanisms, explicit emphasis on promptness could be stronger. Overall, the answer reflects a highly competent leadership approach with well-rounded management of communication, expectation alignment, and responsiveness, justifying above-average scores in all dimensions."
+}

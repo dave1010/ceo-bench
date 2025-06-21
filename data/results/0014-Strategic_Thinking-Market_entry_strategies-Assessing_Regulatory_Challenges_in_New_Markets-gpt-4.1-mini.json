@@ -1,0 +1,12 @@
+{
+  "question_id": "0014-Strategic_Thinking-Market_entry_strategies-Assessing_Regulatory_Challenges_in_New_Markets",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"regulatory_understanding\":130,\"risk_management\":125,\"adaptability\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates exceptional comprehension of regulatory environments with detailed strategies for research, engagement, and integration into business operations, reflecting a high level of regulatory understanding. The outlined risk assessment and mitigation planning indicate strong, proactive risk management skills. The inclusion of ongoing monitoring and adaptation to regulatory changes showcases flexibility and adaptability. Overall, the approach is thorough, strategic, and aligns with practices expected from a highly capable CEO, warranting scores above average but slightly less than the peak genius level to reflect practical applicability rather than theoretical perfection.\"}",
+  "scores": {
+    "Regulatory Understanding": 130,
+    "Risk Management": 125,
+    "Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates exceptional comprehension of regulatory environments with detailed strategies for research, engagement, and integration into business operations, reflecting a high level of regulatory understanding. The outlined risk assessment and mitigation planning indicate strong, proactive risk management skills. The inclusion of ongoing monitoring and adaptation to regulatory changes showcases flexibility and adaptability. Overall, the approach is thorough, strategic, and aligns with practices expected from a highly capable CEO, warranting scores above average but slightly less than the peak genius level to reflect practical applicability rather than theoretical perfection."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0045-Operational_Excellence-Risk_Management-Identifying_and_Mitigating_Operational_Risks",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"risk_assessment_methodology\":130,\"mitigation_planning\":125,\"monitoring_&_review\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a highly comprehensive and systematic approach to identifying operational risks, including regular audits, data analytics, and engagement of frontline employees, meriting a high score for risk assessment methodology. Mitigation planning is robust, with detailed strategies such as scenario planning, contingency plans, and fostering a risk-aware culture, reflecting strong foresight and preparedness. Monitoring and review practices are thorough, involving real-time monitoring, AI-driven analytics, regular training, and consultation with external experts to adjust strategies proactively. Overall, the response reflects exceptional leadership competence in managing operational risks effectively.\"}",
+  "scores": {
+    "Risk Assessment Methodology": 130,
+    "Mitigation Planning": 125,
+    "Monitoring & Review": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a highly comprehensive and systematic approach to identifying operational risks, including regular audits, data analytics, and engagement of frontline employees, meriting a high score for risk assessment methodology. Mitigation planning is robust, with detailed strategies such as scenario planning, contingency plans, and fostering a risk-aware culture, reflecting strong foresight and preparedness. Monitoring and review practices are thorough, involving real-time monitoring, AI-driven analytics, regular training, and consultation with external experts to adjust strategies proactively. Overall, the response reflects exceptional leadership competence in managing operational risks effectively."
+}

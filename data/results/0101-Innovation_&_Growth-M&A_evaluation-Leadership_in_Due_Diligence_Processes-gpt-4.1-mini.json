@@ -1,0 +1,12 @@
+{
+  "question_id": "0101-Innovation_&_Growth-M&A_evaluation-Leadership_in_Due_Diligence_Processes",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"decision-making_clarity\":120,\"risk_management\":130,\"stakeholder_engagement\":125,\"overall_score\":125,\"comments\":\"The CEO demonstrates strong decision-making clarity with strategic focus and clear objectives. Risk management is highly proactive, surfacing potential risks and enabling mitigation. Stakeholder engagement is excellent, mobilizing cross-functional teams and fostering communication. Overall, the leadership shown is above average, reflecting an effective and disciplined approach to due diligence in M&A.\"}",
+  "scores": {
+    "Decision-Making Clarity": 120,
+    "Risk Management": 130,
+    "Stakeholder Engagement": 125
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates strong decision-making clarity with strategic focus and clear objectives. Risk management is highly proactive, surfacing potential risks and enabling mitigation. Stakeholder engagement is excellent, mobilizing cross-functional teams and fostering communication. Overall, the leadership shown is above average, reflecting an effective and disciplined approach to due diligence in M&A."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0096-Innovation_&_Growth-Growth_strategy-Evaluating_Market_Expansion_Plans",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"market_analysis\":120,\"strategic_alignment\":125,\"risk_management\":115,\"overall_score\":120,\"comments\":\"The answer demonstrates a comprehensive and structured approach to assessing and prioritizing new market opportunities. It covers thorough market analysis, alignment with company vision and capabilities, detailed risk assessment, and strategic prioritization with stakeholder involvement. Scores reflect strong competency and strategic insight consistent with a highly capable CEO.\"}",
+  "scores": {
+    "Market Analysis": 120,
+    "Strategic Alignment": 125,
+    "Risk Management": 115
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates a comprehensive and structured approach to assessing and prioritizing new market opportunities. It covers thorough market analysis, alignment with company vision and capabilities, detailed risk assessment, and strategic prioritization with stakeholder involvement. Scores reflect strong competency and strategic insight consistent with a highly capable CEO."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0084-Risk_&_Ethics-Risk_mitigation-Strategic_Approach_to_Anticipating_Risks",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"forward-looking_planning\":135,\"preventive_measures\":130,\"stakeholder_communication\":110,\"overall_score\":125,\"comments\":\"The CEO displays exceptional forward-looking planning through scenario planning and stress testing, indicating a genius-level capability in anticipating long-term risks. Preventive measures are proactively and comprehensively implemented, demonstrating strong risk mitigation. Stakeholder communication is addressed indirectly through fostering a culture of risk awareness, though explicit communication strategies could be more detailed.\"}",
+  "scores": {
+    "Forward-looking Planning": 135,
+    "Preventive Measures": 130,
+    "Stakeholder Communication": 110
+  },
+  "total": 125.0,
+  "comments": "The CEO displays exceptional forward-looking planning through scenario planning and stress testing, indicating a genius-level capability in anticipating long-term risks. Preventive measures are proactively and comprehensively implemented, demonstrating strong risk mitigation. Stakeholder communication is addressed indirectly through fostering a culture of risk awareness, though explicit communication strategies could be more detailed."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0125-Innovation_&_Growth-M&A_evaluation-Risk_Identification_in_M&A_Targets",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"risk_analysis\":130,\"mitigation_planning\":125,\"decision_quality\":120,\"overall_score\":125,\"comments\":\"The answer provides a comprehensive and systematic approach to identifying and evaluating risks across multiple dimensions, demonstrating expert risk analysis capabilities. It includes practical mitigation strategies and emphasizes integration risk and communication, reflecting strong mitigation planning. The approach supports informed, data-driven decision-making with scenario analysis and prioritization, indicating high decision quality. Overall, this is an exceptional response aligned with high-level CEO expertise.\"}",
+  "scores": {
+    "Risk Analysis": 130,
+    "Mitigation Planning": 125,
+    "Decision Quality": 120
+  },
+  "total": 125.0,
+  "comments": "The answer provides a comprehensive and systematic approach to identifying and evaluating risks across multiple dimensions, demonstrating expert risk analysis capabilities. It includes practical mitigation strategies and emphasizes integration risk and communication, reflecting strong mitigation planning. The approach supports informed, data-driven decision-making with scenario analysis and prioritization, indicating high decision quality. Overall, this is an exceptional response aligned with high-level CEO expertise."
+}

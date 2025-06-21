@@ -1,0 +1,12 @@
+{
+  "question_id": "0071-Financial_Acumen-Investment_analysis-Portfolio_Diversification",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"diversification_strategy\":130,\"risk-return_balance\":125,\"ongoing_review\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates a comprehensive and strategic approach to portfolio diversification, carefully balancing sector and geographic spread to mitigate risk. The risk-return balance is thoughtfully managed through data-driven analysis and scenario planning, aligned with the organization's risk tolerance. The commitment to regular portfolio review and adjustment in response to market developments shows strong ongoing governance. This well-rounded and sophisticated approach indicates exceptional leadership in portfolio management.\"}",
+  "scores": {
+    "Diversification Strategy": 130,
+    "Risk-Return Balance": 125,
+    "Ongoing Review": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a comprehensive and strategic approach to portfolio diversification, carefully balancing sector and geographic spread to mitigate risk. The risk-return balance is thoughtfully managed through data-driven analysis and scenario planning, aligned with the organization's risk tolerance. The commitment to regular portfolio review and adjustment in response to market developments shows strong ongoing governance. This well-rounded and sophisticated approach indicates exceptional leadership in portfolio management."
+}

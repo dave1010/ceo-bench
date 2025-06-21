@@ -1,0 +1,12 @@
+{
+  "question_id": "0052-Operational_Excellence-Efficiency_analysis-Data-Driven_Decision_Making",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"data_utilization\":125,\"analytical_skills\":120,\"impact_on_performance\":118,\"overall_score\":121,\"comments\":\"The CEO demonstrates a robust use of operational data by establishing a data-driven culture and implementing comprehensive analytics systems. Their analytical skills are strong, as evidenced by the ability to translate data insights into actionable strategies involving cross-functional collaboration. The impact on performance is significant, resulting in continuous improvement, increased agility, and enhanced productivity. Overall, the approach reflects above-average leadership with an excellent grasp of leveraging data for operational excellence.\"}",
+  "scores": {
+    "Data Utilization": 125,
+    "Analytical Skills": 120,
+    "Impact on Performance": 118
+  },
+  "total": 121.0,
+  "comments": "The CEO demonstrates a robust use of operational data by establishing a data-driven culture and implementing comprehensive analytics systems. Their analytical skills are strong, as evidenced by the ability to translate data insights into actionable strategies involving cross-functional collaboration. The impact on performance is significant, resulting in continuous improvement, increased agility, and enhanced productivity. Overall, the approach reflects above-average leadership with an excellent grasp of leveraging data for operational excellence."
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "0023-Ethical_Leadership-Corporate_Responsibility-Embedding_Ethics_in_Business_Strategy",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"ethical_framework\":135,\"policy_integration\":130,\"leadership_example\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates a comprehensive and sophisticated understanding of embedding ethics into strategic decision-making. The CEO sets a strong ethical vision, integrates ethics into corporate strategy, and establishes governance structures, reflecting an advanced ethical framework. Policy integration is robust, with a focus on embedding ethics into procedures, metrics, reporting, and stakeholder engagement. Leadership example is implicit through setting tone at the top, promoting transparency, and fostering accountability, although direct CEO behavioral examples could strengthen this slightly. Overall, the response reflects exceptional CEO performance in ethics and responsibility integration.\"}",
+  "scores": {
+    "Ethical Framework": 135,
+    "Policy Integration": 130,
+    "Leadership Example": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a comprehensive and sophisticated understanding of embedding ethics into strategic decision-making. The CEO sets a strong ethical vision, integrates ethics into corporate strategy, and establishes governance structures, reflecting an advanced ethical framework. Policy integration is robust, with a focus on embedding ethics into procedures, metrics, reporting, and stakeholder engagement. Leadership example is implicit through setting tone at the top, promoting transparency, and fostering accountability, although direct CEO behavioral examples could strengthen this slightly. Overall, the response reflects exceptional CEO performance in ethics and responsibility integration."
+}

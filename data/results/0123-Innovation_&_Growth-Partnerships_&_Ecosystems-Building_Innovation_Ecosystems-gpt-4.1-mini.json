@@ -1,0 +1,12 @@
+{
+  "question_id": "0123-Innovation_&_Growth-Partnerships_&_Ecosystems-Building_Innovation_Ecosystems",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"external_collaboration\":120,\"ecosystem_engagement\":115,\"value_creation\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong ability by the CEO to leverage diverse external partnerships and ecosystem networks to foster innovation. The CEO actively engages with multiple stakeholders and integrates the company into broader innovation ecosystems, indicative of high external collaboration and ecosystem engagement scores. While the approach clearly supports valuable innovation outcomes, specific examples of tangible value creation are implied but not detailed, hence a slightly lower but still high score in value creation. Overall, the CEO shows strong strategic and operational leadership in enhancing the company's innovation capabilities through external collaborations.\"}",
+  "scores": {
+    "External Collaboration": 120,
+    "Ecosystem Engagement": 115,
+    "Value Creation": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong ability by the CEO to leverage diverse external partnerships and ecosystem networks to foster innovation. The CEO actively engages with multiple stakeholders and integrates the company into broader innovation ecosystems, indicative of high external collaboration and ecosystem engagement scores. While the approach clearly supports valuable innovation outcomes, specific examples of tangible value creation are implied but not detailed, hence a slightly lower but still high score in value creation. Overall, the CEO shows strong strategic and operational leadership in enhancing the company's innovation capabilities through external collaborations."
+}

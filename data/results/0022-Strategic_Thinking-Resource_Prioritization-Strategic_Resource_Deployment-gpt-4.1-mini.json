@@ -1,0 +1,12 @@
+{
+  "question_id": "0022-Strategic_Thinking-Resource_Prioritization-Strategic_Resource_Deployment",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"prioritization_skills\":115,\"decision-making_process\":110,\"outcome_focus\":115,\"overall_score\":113.3,\"comments\":\"The CEO demonstrates strong prioritization skills by clearly identifying and focusing on high-impact strategic objectives. The decision-making process is data-driven and inclusive, incorporating market insights and leadership input to guide resource allocation effectively. There is a robust focus on outcomes, with continuous monitoring and adjustments to ensure resources drive tangible results. Overall, the response reflects a highly capable and dynamic leadership approach likely to support successful organizational performance.\"}",
+  "scores": {
+    "Prioritization Skills": 115,
+    "Decision-Making Process": 110,
+    "Outcome Focus": 115
+  },
+  "total": 113.3,
+  "comments": "The CEO demonstrates strong prioritization skills by clearly identifying and focusing on high-impact strategic objectives. The decision-making process is data-driven and inclusive, incorporating market insights and leadership input to guide resource allocation effectively. There is a robust focus on outcomes, with continuous monitoring and adjustments to ensure resources drive tangible results. Overall, the response reflects a highly capable and dynamic leadership approach likely to support successful organizational performance."
+}

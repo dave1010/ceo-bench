@@ -1,0 +1,12 @@
+{
+  "question_id": "0077-Financial_Acumen-Capital_Allocation-Strategic_Capital_Deployment",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"investment_evaluation_process\":120,\"alignment_with_strategic_goals\":115,\"post-investment_oversight_and_adjustments\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong and comprehensive investment evaluation process, emphasizing data-driven analysis and risk management. Alignment with strategic goals is well-articulated, highlighting focus on core competencies and long-term vision. Post-investment oversight is addressed with clear metrics and accountability. Scores reflect a high but realistic leadership capability in capital allocation decisions.\"}",
+  "scores": {
+    "Investment evaluation process": 120,
+    "Alignment with strategic goals": 115,
+    "Post-investment oversight and adjustments": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong and comprehensive investment evaluation process, emphasizing data-driven analysis and risk management. Alignment with strategic goals is well-articulated, highlighting focus on core competencies and long-term vision. Post-investment oversight is addressed with clear metrics and accountability. Scores reflect a high but realistic leadership capability in capital allocation decisions."
+}

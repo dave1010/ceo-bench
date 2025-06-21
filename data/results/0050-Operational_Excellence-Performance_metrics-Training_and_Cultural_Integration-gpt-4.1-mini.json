@@ -1,0 +1,12 @@
+{
+  "question_id": "0050-Operational_Excellence-Performance_metrics-Training_and_Cultural_Integration",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"cultural_leadership\":130,\"training_and_development\":115,\"recognition_and_incentives\":110,\"overall_score\":118.3,\"comments\":\"The answer comprehensively covers the CEO's role in fostering a culture valuing accurate measurement and continuous improvement. It strongly addresses cultural leadership with clear emphasis on tone-setting, modeling behaviors, and commitment. Training and development are implied through resource allocation for analytics and training, though not deeply detailed. Recognition and incentives are somewhat less explicit but are touched upon through accountability and learning mindset fostering. Overall, the answer demonstrates high leadership quotient with thorough understanding of the CEO's multifaceted role.\"}",
+  "scores": {
+    "Cultural Leadership": 130,
+    "Training and Development": 115,
+    "Recognition and Incentives": 110
+  },
+  "total": 118.3,
+  "comments": "The answer comprehensively covers the CEO's role in fostering a culture valuing accurate measurement and continuous improvement. It strongly addresses cultural leadership with clear emphasis on tone-setting, modeling behaviors, and commitment. Training and development are implied through resource allocation for analytics and training, though not deeply detailed. Recognition and incentives are somewhat less explicit but are touched upon through accountability and learning mindset fostering. Overall, the answer demonstrates high leadership quotient with thorough understanding of the CEO's multifaceted role."
+}

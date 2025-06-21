@@ -1,0 +1,12 @@
+{
+  "question_id": "0110-Leadership_&_Communication-Team_motivation-Inspiring_Commitment_During_Challenges",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"empathy_and_support\":135,\"communication_clarity\":130,\"action_and_accountability\":125,\"overall_score\":130,\"comments\":\"The answer exhibits a high degree of empathy and support by acknowledging emotions and validating team members' efforts, which is critical in maintaining motivation during setbacks. Communication clarity is strong, with transparent and purpose-driven messaging that aligns the team with organizational goals. The approach outlines concrete, actionable steps such as collaborative problem-solving, setting short-term milestones, and provisioning support, fostering accountability and engagement. Overall, the response demonstrates exceptional leadership quality suitable for extraordinary organizational performance.\"}",
+  "scores": {
+    "Empathy and Support": 135,
+    "Communication Clarity": 130,
+    "Action and Accountability": 125
+  },
+  "total": 130.0,
+  "comments": "The answer exhibits a high degree of empathy and support by acknowledging emotions and validating team members' efforts, which is critical in maintaining motivation during setbacks. Communication clarity is strong, with transparent and purpose-driven messaging that aligns the team with organizational goals. The approach outlines concrete, actionable steps such as collaborative problem-solving, setting short-term milestones, and provisioning support, fostering accountability and engagement. Overall, the response demonstrates exceptional leadership quality suitable for extraordinary organizational performance."
+}

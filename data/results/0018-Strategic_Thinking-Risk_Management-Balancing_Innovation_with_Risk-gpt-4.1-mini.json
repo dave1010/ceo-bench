@@ -1,0 +1,12 @@
+{
+  "question_id": "0018-Strategic_Thinking-Risk_Management-Balancing_Innovation_with_Risk",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"risk_assessment\":130,\"decision-making_balance\":125,\"risk_mitigation_strategies\":130,\"overall_score\":128.3,\"comments\":\"The CEO demonstrates a highly structured and comprehensive approach to risk evaluation and management. The answer details extensive risk assessment techniques and integration of diverse perspectives. Decision-making reflects a balanced approach aligned with organizational objectives and clearly defined risk tolerance thresholds. Risk mitigation strategies are proactive and multifaceted, including diversification and phased rollouts. Additionally, continuous monitoring and fostering a risk-aware culture strengthen ongoing risk management. Overall, the response reflects genius-level performance that would greatly enhance organizational sustainability and growth.\"}",
+  "scores": {
+    "Risk Assessment": 130,
+    "Decision-Making Balance": 125,
+    "Risk Mitigation Strategies": 130
+  },
+  "total": 128.3,
+  "comments": "The CEO demonstrates a highly structured and comprehensive approach to risk evaluation and management. The answer details extensive risk assessment techniques and integration of diverse perspectives. Decision-making reflects a balanced approach aligned with organizational objectives and clearly defined risk tolerance thresholds. Risk mitigation strategies are proactive and multifaceted, including diversification and phased rollouts. Additionally, continuous monitoring and fostering a risk-aware culture strengthen ongoing risk management. Overall, the response reflects genius-level performance that would greatly enhance organizational sustainability and growth."
+}

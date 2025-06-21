@@ -1,0 +1,12 @@
+{
+  "question_id": "0033-Change_Management-Driving_Organizational_Change-Leading_Successful_Change_Initiatives",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"communication_strategy\":120,\"stakeholder_engagement\":120,\"monitoring_and_adjustment\":115,\"overall_score\":118,\"comments\":\"The answer demonstrates a comprehensive and well-structured communication strategy that clearly outlines the vision and benefits of the change, facilitating buy-in. Stakeholder engagement is thoroughly addressed through early involvement, continuous feedback, and collaborative resolution of resistance. Monitoring and adjustment mechanisms are robust, incorporating metrics and feedback loops to ensure agile responses. Overall, this reflects a high leadership quotient indicative of effective change management.\"}",
+  "scores": {
+    "Communication Strategy": 120,
+    "Stakeholder Engagement": 120,
+    "Monitoring and Adjustment": 115
+  },
+  "total": 118.0,
+  "comments": "The answer demonstrates a comprehensive and well-structured communication strategy that clearly outlines the vision and benefits of the change, facilitating buy-in. Stakeholder engagement is thoroughly addressed through early involvement, continuous feedback, and collaborative resolution of resistance. Monitoring and adjustment mechanisms are robust, incorporating metrics and feedback loops to ensure agile responses. Overall, this reflects a high leadership quotient indicative of effective change management."
+}

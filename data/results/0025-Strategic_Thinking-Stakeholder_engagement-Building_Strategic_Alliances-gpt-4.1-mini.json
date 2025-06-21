@@ -1,0 +1,12 @@
+{
+  "question_id": "0025-Strategic_Thinking-Stakeholder_engagement-Building_Strategic_Alliances",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"relationship_cultivation\":120,\"collaborative_mindset\":125,\"alignment_of_interests\":130,\"overall_score\":125,\"comments\":\"The answer demonstrates strong relationship cultivation through active identification, engagement, and trust-building with partners. It shows a collaborative mindset by promoting open communication and cross-functional teamwork. Alignment of interests is emphasized via clear articulation of the company's vision, mutual benefit, and governance frameworks to ensure strategic goal congruence. Overall, the CEO exhibits above-average leadership in fostering strategic partnerships that advance long-term vision.\"}",
+  "scores": {
+    "Relationship cultivation": 120,
+    "Collaborative mindset": 125,
+    "Alignment of interests": 130
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates strong relationship cultivation through active identification, engagement, and trust-building with partners. It shows a collaborative mindset by promoting open communication and cross-functional teamwork. Alignment of interests is emphasized via clear articulation of the company's vision, mutual benefit, and governance frameworks to ensure strategic goal congruence. Overall, the CEO exhibits above-average leadership in fostering strategic partnerships that advance long-term vision."
+}

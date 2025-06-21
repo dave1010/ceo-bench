@@ -1,0 +1,12 @@
+{
+  "question_id": "0046-Operational_Excellence-Process_improvement-Strategies_for_Sustaining_Continuous_Improvement",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"strategy_development\":115,\"change_management\":110,\"measurement_and_feedback\":112,\"overall_score\":112.3,\"comments\":\"The answer presents a comprehensive and actionable strategy for embedding continuous process improvement within the organizational culture, aligning well with company goals and emphasizing employee involvement. It demonstrates a solid understanding of change management by highlighting leadership commitment, communication, psychological safety, and sustaining momentum through CPI champions. Measurement and feedback are thoroughly addressed with clear metrics, real-time data usage, and feedback loops. Overall, the approach reflects a capable CEO-level response with strengths in all rubric dimensions.\"}",
+  "scores": {
+    "Strategy Development": 115,
+    "Change Management": 110,
+    "Measurement and Feedback": 112
+  },
+  "total": 112.3,
+  "comments": "The answer presents a comprehensive and actionable strategy for embedding continuous process improvement within the organizational culture, aligning well with company goals and emphasizing employee involvement. It demonstrates a solid understanding of change management by highlighting leadership commitment, communication, psychological safety, and sustaining momentum through CPI champions. Measurement and feedback are thoroughly addressed with clear metrics, real-time data usage, and feedback loops. Overall, the approach reflects a capable CEO-level response with strengths in all rubric dimensions."
+}

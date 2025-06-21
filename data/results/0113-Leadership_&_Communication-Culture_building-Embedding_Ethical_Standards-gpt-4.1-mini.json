@@ -1,0 +1,12 @@
+{
+  "question_id": "0113-Leadership_&_Communication-Culture_building-Embedding_Ethical_Standards",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"ethical_leadership\":130,\"organizational_influence\":125,\"employee_engagement\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a strong grasp of ethical leadership by emphasizing integrity, transparency, and accountability exemplified by the CEO. It highlights robust organizational influence through policies like a code of ethics, ethics training, and mechanisms for reporting concerns. Employee engagement is well-addressed by fostering open communication and a culture of trust. Scores reflect an above-average, highly effective approach consistent with exceptional CEO performance in promoting ethics.\"}",
+  "scores": {
+    "Ethical Leadership": 130,
+    "Organizational Influence": 125,
+    "Employee Engagement": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a strong grasp of ethical leadership by emphasizing integrity, transparency, and accountability exemplified by the CEO. It highlights robust organizational influence through policies like a code of ethics, ethics training, and mechanisms for reporting concerns. Employee engagement is well-addressed by fostering open communication and a culture of trust. Scores reflect an above-average, highly effective approach consistent with exceptional CEO performance in promoting ethics."
+}

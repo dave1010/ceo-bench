@@ -1,0 +1,12 @@
+{
+  "question_id": "0104-Strategic_Thinking-Industry_Trends-Anticipating_Market_Changes",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"market_awareness\":130,\"proactiveness\":125,\"strategic_preparedness\":128,\"overall_score\":127.7,\"comments\":\"The answer exhibits a comprehensive understanding of market trends and emerging industry shifts, demonstrating exceptional market awareness. It outlines proactive measures such as continuous environmental scanning and engagement with thought leaders, reflecting high proactiveness. The emphasis on scenario planning, innovation, talent investment, and strategic partnerships signals strong strategic preparedness. Overall, the response aligns with a 'genius' level CEO capable of exceptional organizational performance.\"}",
+  "scores": {
+    "Market Awareness": 130,
+    "Proactiveness": 125,
+    "Strategic Preparedness": 128
+  },
+  "total": 127.7,
+  "comments": "The answer exhibits a comprehensive understanding of market trends and emerging industry shifts, demonstrating exceptional market awareness. It outlines proactive measures such as continuous environmental scanning and engagement with thought leaders, reflecting high proactiveness. The emphasis on scenario planning, innovation, talent investment, and strategic partnerships signals strong strategic preparedness. Overall, the response aligns with a 'genius' level CEO capable of exceptional organizational performance."
+}

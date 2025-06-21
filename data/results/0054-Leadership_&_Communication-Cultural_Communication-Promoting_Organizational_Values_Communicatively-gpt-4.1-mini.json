@@ -1,0 +1,12 @@
+{
+  "question_id": "0054-Leadership_&_Communication-Cultural_Communication-Promoting_Organizational_Values_Communicatively",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"consistency\":120,\"modeling_behavior\":125,\"cultural_alignment\":123,\"overall_score\":123,\"comments\":\"The answer thoroughly addresses the CEO's role in communicating and reinforcing organizational culture through consistent messaging, leading by example, embedding values into policies, creating rituals, encouraging open feedback, and showing commitment to ethics. This reflects a highly capable CEO who integrates culture deeply within the organization, demonstrating strong consistency, role modeling, and cultural alignment.\"}",
+  "scores": {
+    "Consistency": 120,
+    "Modeling Behavior": 125,
+    "Cultural Alignment": 123
+  },
+  "total": 123.0,
+  "comments": "The answer thoroughly addresses the CEO's role in communicating and reinforcing organizational culture through consistent messaging, leading by example, embedding values into policies, creating rituals, encouraging open feedback, and showing commitment to ethics. This reflects a highly capable CEO who integrates culture deeply within the organization, demonstrating strong consistency, role modeling, and cultural alignment."
+}

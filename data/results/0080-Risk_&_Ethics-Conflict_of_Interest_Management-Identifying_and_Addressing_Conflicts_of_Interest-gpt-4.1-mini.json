@@ -1,0 +1,12 @@
+{
+  "question_id": "0080-Risk_&_Ethics-Conflict_of_Interest_Management-Identifying_and_Addressing_Conflicts_of_Interest",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"disclosure_processes\":115,\"resolution_strategies\":110,\"leadership_example\":100,\"overall_score\":108.3,\"comments\":\"The answer thoroughly addresses the implementation of clear disclosure processes and encourages transparency, earning a strong score in disclosure processes. Resolution strategies are well-covered, including recusal and role adjustments, reflecting a proactive approach to conflict management. Leadership example is implicit but not explicitly detailed, leading to a slightly lower score in that dimension. Overall, the response demonstrates a capable and effective CEO approach to managing conflicts of interest.\"}",
+  "scores": {
+    "Disclosure Processes": 115,
+    "Resolution Strategies": 110,
+    "Leadership Example": 100
+  },
+  "total": 108.3,
+  "comments": "The answer thoroughly addresses the implementation of clear disclosure processes and encourages transparency, earning a strong score in disclosure processes. Resolution strategies are well-covered, including recusal and role adjustments, reflecting a proactive approach to conflict management. Leadership example is implicit but not explicitly detailed, leading to a slightly lower score in that dimension. Overall, the response demonstrates a capable and effective CEO approach to managing conflicts of interest."
+}

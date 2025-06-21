@@ -1,0 +1,12 @@
+{
+  "question_id": "0099-Innovation_&_Growth-M&A_evaluation-Strategic_Fit_Assessment",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"strategic_alignment\":130,\"due_diligence_rigor\":125,\"decision-making_confidence\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates exceptional capability in evaluating mergers or acquisitions by implementing a thorough strategic fit assessment that ensures alignment with the company's long-term vision. The due diligence process is comprehensive, covering financial, cultural, operational, legal, and risk factors, indicating a rigorous approach to uncovering value drivers and potential pitfalls. Decision-making confidence is evident through stakeholder engagement and scenario planning, which supports informed and well-prepared choices. Overall, this reflects a high level of leadership quotient suitable for outstanding organizational performance.\"}",
+  "scores": {
+    "Strategic Alignment": 130,
+    "Due Diligence Rigor": 125,
+    "Decision-Making Confidence": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates exceptional capability in evaluating mergers or acquisitions by implementing a thorough strategic fit assessment that ensures alignment with the company's long-term vision. The due diligence process is comprehensive, covering financial, cultural, operational, legal, and risk factors, indicating a rigorous approach to uncovering value drivers and potential pitfalls. Decision-making confidence is evident through stakeholder engagement and scenario planning, which supports informed and well-prepared choices. Overall, this reflects a high level of leadership quotient suitable for outstanding organizational performance."
+}

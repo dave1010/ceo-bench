@@ -1,0 +1,12 @@
+{
+  "question_id": "0053-Operational_Excellence-Efficiency_analysis-Resource_Allocation_Strategies",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"strategic_planning\":130,\"flexibility\":120,\"performance_monitoring\":115,\"overall_score\":122,\"comments\":\"The answer demonstrates a strong strategic approach emphasizing data-driven decision making and clear prioritization of resources, which earns a high score in strategic planning. It also highlights flexibility through regular performance reviews and dynamic reallocation of resources, meriting a high flexibility score. The emphasis on continuous monitoring of performance metrics and quality control systems justifies a robust score in performance monitoring. Overall, the response reflects an advanced understanding aligned with effective leadership competencies in resource allocation and operational excellence.\"}",
+  "scores": {
+    "Strategic Planning": 130,
+    "Flexibility": 120,
+    "Performance Monitoring": 115
+  },
+  "total": 122.0,
+  "comments": "The answer demonstrates a strong strategic approach emphasizing data-driven decision making and clear prioritization of resources, which earns a high score in strategic planning. It also highlights flexibility through regular performance reviews and dynamic reallocation of resources, meriting a high flexibility score. The emphasis on continuous monitoring of performance metrics and quality control systems justifies a robust score in performance monitoring. Overall, the response reflects an advanced understanding aligned with effective leadership competencies in resource allocation and operational excellence."
+}

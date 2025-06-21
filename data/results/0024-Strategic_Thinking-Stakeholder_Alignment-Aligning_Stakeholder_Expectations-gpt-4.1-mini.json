@@ -1,0 +1,12 @@
+{
+  "question_id": "0024-Strategic_Thinking-Stakeholder_Alignment-Aligning_Stakeholder_Expectations",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"communication_clarity\":120,\"negotiation_skill\":115,\"relationship_building\":120,\"overall_score\":118.3,\"comments\":\"The CEO effectively communicates strategic goals across diverse stakeholders, ensuring clarity and buy-in. They exhibit strong negotiation skills by balancing conflicting interests to reach beneficial outcomes. Their ability to build trust and foster collaborative relationships further strengthens stakeholder alignment, supporting long-term organizational success.\"}",
+  "scores": {
+    "Communication Clarity": 120,
+    "Negotiation Skill": 115,
+    "Relationship Building": 120
+  },
+  "total": 118.3,
+  "comments": "The CEO effectively communicates strategic goals across diverse stakeholders, ensuring clarity and buy-in. They exhibit strong negotiation skills by balancing conflicting interests to reach beneficial outcomes. Their ability to build trust and foster collaborative relationships further strengthens stakeholder alignment, supporting long-term organizational success."
+}

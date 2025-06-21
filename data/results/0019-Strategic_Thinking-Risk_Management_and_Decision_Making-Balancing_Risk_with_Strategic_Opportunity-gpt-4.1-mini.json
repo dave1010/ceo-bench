@@ -1,0 +1,12 @@
+{
+  "question_id": "0019-Strategic_Thinking-Risk_Management_and_Decision_Making-Balancing_Risk_with_Strategic_Opportunity",
+  "model": "gpt-4.1-mini",
+  "raw": "{\"analytical_frameworks\":115,\"balance_of_risk_and_reward\":120,\"flexibility_and_adaptability\":118,\"overall_score\":118,\"comments\":\"The CEO demonstrates a strong use of comprehensive data gathering, cross-functional engagement, and scenario planning, rating highly on analytical frameworks. Their approach balances risk and reward effectively by fostering calculated risk-taking aligned with long-term vision, earning a high score in judgment. Their implementation of monitoring mechanisms and adaptability to evolving market conditions shows excellent flexibility and adaptability. Overall, the CEO exemplifies a thoughtful and dynamic approach to risk assessment and decision-making, supporting resilient organizational performance.\"}",
+  "scores": {
+    "Analytical Frameworks": 115,
+    "Balance of Risk and Reward": 120,
+    "Flexibility and Adaptability": 118
+  },
+  "total": 118.0,
+  "comments": "The CEO demonstrates a strong use of comprehensive data gathering, cross-functional engagement, and scenario planning, rating highly on analytical frameworks. Their approach balances risk and reward effectively by fostering calculated risk-taking aligned with long-term vision, earning a high score in judgment. Their implementation of monitoring mechanisms and adaptability to evolving market conditions shows excellent flexibility and adaptability. Overall, the CEO exemplifies a thoughtful and dynamic approach to risk assessment and decision-making, supporting resilient organizational performance."
+}
