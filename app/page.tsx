@@ -1,20 +1,11 @@
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Github, FileText, Trophy, BarChart3, Users, Target, ArrowRight } from "lucide-react"
 import Link from "next/link"
+import Leaderboard from "@/components/Leaderboard"
 
-export default function Component() {
-  const leaderboardData = [
-    { rank: 1, model: "GPT-4o", score: 87.3, strategic: 89, operational: 86, leadership: 87, financial: 87 },
-    { rank: 2, model: "Claude-3.5 Sonnet", score: 84.7, strategic: 87, operational: 83, leadership: 85, financial: 84 },
-    { rank: 3, model: "Gemini Pro", score: 81.2, strategic: 82, operational: 81, leadership: 80, financial: 82 },
-    { rank: 4, model: "GPT-4", score: 78.9, strategic: 80, operational: 78, leadership: 79, financial: 78 },
-    { rank: 5, model: "Claude-3 Opus", score: 76.4, strategic: 78, operational: 75, leadership: 77, financial: 75 },
-    { rank: 6, model: "Llama-3 70B", score: 72.1, strategic: 74, operational: 71, leadership: 72, financial: 71 },
-    { rank: 7, model: "Mixtral 8x7B", score: 68.3, strategic: 70, operational: 67, leadership: 68, financial: 68 },
-    { rank: 8, model: "GPT-3.5 Turbo", score: 64.7, strategic: 66, operational: 64, leadership: 65, financial: 64 },
-  ]
+export default async function Component() {
 
   return (
     <div className="flex flex-col min-h-screen bg-white">
@@ -131,70 +122,7 @@ export default function Component() {
                 </p>
               </div>
 
-              <Card>
-                <CardHeader>
-                  <CardTitle className="flex items-center space-x-2">
-                    <BarChart3 className="w-5 h-5" />
-                    <span>Model Performance Rankings</span>
-                  </CardTitle>
-                  <CardDescription>
-                    Scores represent percentage accuracy across all CEO Bench evaluation tasks
-                  </CardDescription>
-                </CardHeader>
-                <CardContent>
-                  <div className="overflow-x-auto">
-                    <table className="w-full">
-                      <thead>
-                        <tr className="border-b">
-                          <th className="text-left py-3 px-2 font-semibold text-slate-700">Rank</th>
-                          <th className="text-left py-3 px-2 font-semibold text-slate-700">Model</th>
-                          <th className="text-center py-3 px-2 font-semibold text-slate-700">Overall</th>
-                          <th className="text-center py-3 px-2 font-semibold text-slate-700">Strategic</th>
-                          <th className="text-center py-3 px-2 font-semibold text-slate-700">Operational</th>
-                          <th className="text-center py-3 px-2 font-semibold text-slate-700">Leadership</th>
-                          <th className="text-center py-3 px-2 font-semibold text-slate-700">Financial</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        {leaderboardData.map((item) => (
-                          <tr key={item.rank} className="border-b hover:bg-slate-50/50">
-                            <td className="py-4 px-2">
-                              <div className="flex items-center space-x-2">
-                                {item.rank <= 3 && (
-                                  <Trophy
-                                    className={`w-4 h-4 ${
-                                      item.rank === 1
-                                        ? "text-yellow-500"
-                                        : item.rank === 2
-                                          ? "text-slate-400"
-                                          : "text-amber-600"
-                                    }`}
-                                  />
-                                )}
-                                <span className="font-semibold text-slate-900">#{item.rank}</span>
-                              </div>
-                            </td>
-                            <td className="py-4 px-2">
-                              <span className="font-medium text-slate-900">{item.model}</span>
-                            </td>
-                            <td className="py-4 px-2 text-center">
-                              <Badge variant={item.rank <= 3 ? "default" : "secondary"} className="font-semibold">
-                                {/* {item.score} */}
-                                &ndash;%
-                              </Badge>
-                            </td>
-                            <td className="py-4 px-2 text-center text-slate-700">-%</td>
-                            <td className="py-4 px-2 text-center text-slate-700">-%</td>
-                            <td className="py-4 px-2 text-center text-slate-700">-%</td>
-                            <td className="py-4 px-2 text-center text-slate-700">-%</td>
-                          
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
-                  </div>
-                </CardContent>
-              </Card>
+              <Leaderboard />
             </div>
           </div>
         </section>
