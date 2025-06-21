@@ -12,10 +12,9 @@ from pathlib import Path
 import yaml
 
 from model_utils import encode_model_name
+from make_grading_prompt import build_prompt, DEFAULT_TEMPLATE
 
 DATA_DIR = Path("data")
-
-from make_grading_prompt import build_prompt, DEFAULT_TEMPLATE
 
 RESULTS_DIR = DATA_DIR / "results"
 

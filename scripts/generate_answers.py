@@ -13,10 +13,9 @@ import subprocess
 from pathlib import Path
 
 from model_utils import encode_model_name
+from make_question_prompt import build_prompt, DEFAULT_TEMPLATE
 
 DATA_DIR = Path("data")
-
-from make_question_prompt import build_prompt, DEFAULT_TEMPLATE
 
 ANSWERS_DIR = DATA_DIR / "answers"
 
@@ -38,7 +37,9 @@ def call_llm(prompt: str, model: str) -> str:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Generate an answer using llm")
+    parser = argparse.ArgumentParser(
+        description="Generate an answer using llm"
+    )
     parser.add_argument("question", type=Path, help="Question YAML file")
     parser.add_argument("--model", default="gpt-4.1-mini", help="Model name")
     args = parser.parse_args()

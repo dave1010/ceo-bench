@@ -9,39 +9,33 @@ Usage::
 """
 
 import argparse
-import yaml
-from pathlib import Path
-
 import sys
 from pathlib import Path
+import yaml
 
 if __package__ is None:
     sys.path.append(str(Path(__file__).resolve().parents[1]))
     from scripts.question_utils import (
-        DATA_DIR,
         TOPICS_FILE,
         OUTPUT_DIR,
         DEFAULT_TEMPLATE,
         next_id,
         build_filename,
         existing_titles,
-        create_question,
+        create_question,  # noqa: F401
         create_question_llm,
     )
 else:
     from .question_utils import (
-        DATA_DIR,
         TOPICS_FILE,
         OUTPUT_DIR,
         DEFAULT_TEMPLATE,
         next_id,
         build_filename,
         existing_titles,
-        create_question,
+        create_question,  # noqa: F401
         create_question_llm,
     )
-
-
 
 
 def main() -> None:
