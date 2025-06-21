@@ -63,7 +63,6 @@ export default function ModelsBarChart({ rows }: Props) {
   const options: ChartOptions<'bar' | 'line'> = {
     responsive: true,
     interaction: { mode: 'index' as const, intersect: false },
-    stacked: false,
     plugins: {
       legend: { position: 'top' as const },
     },
