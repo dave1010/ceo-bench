@@ -1,7 +1,7 @@
 'use client'
 
 import { Row } from '@/lib/leaderboard'
-import { Bar } from 'react-chartjs-2'
+import { Chart } from 'react-chartjs-2'
 import {
   Chart as ChartJS,
   BarElement,
@@ -13,6 +13,8 @@ import {
   Legend,
   type ScriptableContext,
   type ChartDataset,
+  type ChartData,
+  type ChartOptions,
 } from 'chart.js'
 
 ChartJS.register(
@@ -34,16 +36,17 @@ export default function ModelsBarChart({ rows }: Props) {
   const topics = Object.keys(rows[0]).filter(k => !['model','model_name','overall','n'].includes(k))
   const labels = ['Overall', ...topics]
 
-  const datasets: ChartDataset<'bar' | 'line', number[]>[] = rows.map(
-    (row, idx) => ({
+  const datasets: ChartDataset<'bar' | 'line', number[]>[] = rows.map((row, idx) => {
+    const dataset: ChartDataset<'bar', number[]> = {
       label: row.model_name || row.model,
       data: [Number(row.overall), ...topics.map(t => Number(row[t]))],
       backgroundColor: `var(--color-chart-${(idx % 5) + 1})`,
       borderColor: 'black',
       borderWidth: (ctx: ScriptableContext<'bar'>) =>
         ctx.dataIndex === 0 ? 2 : 0,
-    })
-  )
+    }
+    return dataset
+  })
 
   datasets.push({
     label: 'Human CEO',
@@ -55,9 +58,9 @@ export default function ModelsBarChart({ rows }: Props) {
     pointRadius: 0,
   } as ChartDataset<'line', number[]>)
 
-  const data = { labels, datasets }
+  const data: ChartData<'bar' | 'line', number[], string> = { labels, datasets }
 
-  const options = {
+  const options: ChartOptions<'bar' | 'line'> = {
     responsive: true,
     interaction: { mode: 'index' as const, intersect: false },
     stacked: false,
@@ -69,6 +72,6 @@ export default function ModelsBarChart({ rows }: Props) {
     },
   }
 
-  return <Bar data={data} options={options} />
+  return <Chart type='bar' data={data} options={options} />
 }
 
