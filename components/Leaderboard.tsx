@@ -8,6 +8,15 @@ interface Row {
   [key: string]: string
 }
 
+const TOPIC_LABELS: Record<string, string> = {
+  'Strategic Thinking': 'Strategy',
+  'Operational Excellence': 'Management',
+  'Leadership & Communication': 'Communication',
+  'Financial Acumen': 'Finance',
+  'Risk & Ethics': 'Risk & Ethics',
+  'Innovation & Growth': 'Innovation',
+}
+
 async function loadCsv(): Promise<Row[]> {
   const csvPath = path.join(process.cwd(), 'data/leaderboard/leaderboard.csv')
   const text = await fs.readFile(csvPath, 'utf8')
@@ -59,7 +68,7 @@ export default async function Leaderboard() {
                 <th className="text-center py-3 px-2 font-semibold text-slate-700">Overall</th>
                 {topics.map(topic => (
                   <th key={topic} className="text-center py-3 px-2 font-semibold text-slate-700">
-                    {topic}
+                    {TOPIC_LABELS[topic] ?? topic}
                   </th>
                 ))}
               </tr>
