@@ -18,6 +18,7 @@ You can also run the steps individually:
 - `generate_answers.py` – fetch an answer for a single question.
 - `grade_answer.py` – score an answer with the grading model.
 - `aggregate_results.py` – build `data/leaderboard/leaderboard.csv` from result JSON files.
+- `check_model.py` – send a quick "Hello" prompt to verify a model works.
 
 Data produced by the pipeline lives under the `data/` directory in `questions/`, `answers/`, `results/` and `leaderboard/`.
 
