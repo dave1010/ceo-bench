@@ -8,13 +8,15 @@ from scripts.aggregate_results import aggregate
 
 def test_aggregate_computes_averages():
     records = [
-        {"model": "A", "total": 4.0},
-        {"model": "A", "total": 5.0},
-        {"model": "B", "total": 2.0},
+        {"model": "A", "total": 4.0, "topic": "X"},
+        {"model": "A", "total": 5.0, "topic": "Y"},
+        {"model": "B", "total": 2.0, "topic": "X"},
     ]
-    rows = aggregate(records)
+    rows = aggregate(records, ["X", "Y"])
     data = {row["model"]: row for row in rows}
-    assert data["A"]["avg_score"] == 4.5
+    assert data["A"]["overall"] == 4.5
     assert data["A"]["n"] == 2
-    assert data["B"]["avg_score"] == 2.0
+    assert data["A"]["X"] == 4.0
+    assert data["A"]["Y"] == 5.0
+    assert data["B"]["overall"] == 2.0
     assert data["B"]["n"] == 1

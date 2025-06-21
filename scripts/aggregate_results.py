@@ -19,11 +19,13 @@ import json
 from pathlib import Path
 from collections import defaultdict
 import csv
+import yaml
 
 DATA_DIR = Path("data")
 
 RESULTS_DIR = DATA_DIR / "results"
 LEADERBOARD_PATH = DATA_DIR / "leaderboard" / "leaderboard.csv"
+TOPICS_FILE = DATA_DIR / "topics.yaml"
 
 
 def load_results():
@@ -35,34 +37,51 @@ def load_results():
     return records
 
 
-def aggregate(records):
-    scores = defaultdict(list)
+def load_topics():
+    data = yaml.safe_load(TOPICS_FILE.read_text())
+    return [t.get("name") for t in data.get("topics", [])]
+
+
+def aggregate(records, topics):
+    overall = defaultdict(list)
+    by_topic = defaultdict(lambda: defaultdict(list))
+
     for rec in records:
         model = rec.get("model")
         total = rec.get("total")
-        if model is None or total is None:
+        topic = rec.get("topic")
+        if model is None or total is None or topic is None:
             continue
-        scores[model].append(float(total))
+        overall[model].append(float(total))
+        by_topic[model][topic].append(float(total))
 
     rows = []
-    for model, vals in scores.items():
-        avg = sum(vals) / len(vals)
-        rows.append({"model": model, "avg_score": round(avg, 3), "n": len(vals)})
+    for model, vals in overall.items():
+        row = {"model": model, "overall": round(sum(vals) / len(vals), 3), "n": len(vals)}
+        for t in topics:
+            tvals = by_topic[model].get(t)
+            if tvals:
+                row[t] = round(sum(tvals) / len(tvals), 3)
+            else:
+                row[t] = ""
+        rows.append(row)
     return rows
 
 
-def write_csv(rows):
+def write_csv(rows, topics):
     LEADERBOARD_PATH.parent.mkdir(exist_ok=True)
+    fieldnames = ["model", "overall", "n"] + topics
     with LEADERBOARD_PATH.open("w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["model", "avg_score", "n"])
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
 
 
 def main():
     records = load_results()
-    rows = aggregate(records)
-    write_csv(rows)
+    topics = load_topics()
+    rows = aggregate(records, topics)
+    write_csv(rows, topics)
     print(f"Wrote {LEADERBOARD_PATH}")
 
 

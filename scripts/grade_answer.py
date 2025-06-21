@@ -52,6 +52,8 @@ def main() -> None:
 
     qdata = yaml.safe_load(args.question.read_text())
     dimensions = [item.get("dimension") for item in qdata.get("rubric", [])]
+    topic = qdata.get("topic")
+    subtopic = qdata.get("subtopic")
 
     prompt = build_prompt(args.question, args.answer, DEFAULT_TEMPLATE)
     schema = build_schema(dimensions)
@@ -67,6 +69,8 @@ def main() -> None:
     record = {
         "question_id": args.question.stem,
         "model": args.model,
+        "topic": topic,
+        "subtopic": subtopic,
         "raw": grading_text,
     }
     if parsed:
