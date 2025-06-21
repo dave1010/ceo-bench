@@ -1,107 +1,81 @@
 # CEO Bench
 
-**CEO Bench** is an open evaluation suite benchmarking LLMs on leadership and management tasks. Compare large and small models on strategy, people management, communication and ethics.
+**CEO Bench** is an open research benchmark evaluating how well large language models handle executive leadership tasks. It generates realistic management questions, collects model answers and scores them with an automatic rubric to produce a leaderboard.
 
-## 🏆 Benchmark & Leaderboard
+## Running Evaluations
 
-- **Prompt Dimensions**: Strategy, People, Communications, Risk & Ethics
-- **Metrics**: Weighted rubric scores
-- **Run an Eval**: triggers question generation → response generation → automated grading → leaderboard update
+1. Install Python requirements and the `llm` command line tool.
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Generate question YAML files from `data/topics.yaml` (optional if they already exist):
+   ```bash
+   python scripts/generate_questions.py --model gpt-4.1-mini
+   ```
+3. Run the full pipeline for one or more models. Missing answers will be generated, graded and then aggregated into the leaderboard CSV.
+   ```bash
+   python scripts/run_full_evals.py --models gpt-4.1-nano gpt-4.1-mini --grading-model gpt-4.1-mini
+   ```
+4. You can also run the steps individually:
+   - `generate_answers.py` – fetch an answer for a single question.
+   - `grade_answer.py` – score an answer with the grading model.
+   - `aggregate_results.py` – build `data/leaderboard/leaderboard.csv` from result JSON files.
 
-## 🚀 Landing Page
+Data produced by the pipeline lives under the `data/` directory in `questions/`, `answers/`, `results/` and `leaderboard/`.
 
-A Next.js front-end displays the leaderboard and explains the project.
+## Evaluation Questions
 
-### Setup & Run Frontend
+The benchmark covers a range of executive topics:
+
+- **Strategic Thinking**
+- **Operational Excellence**
+- **Leadership & Communication**
+- **Financial Acumen**
+- **Risk & Ethics**
+- **Innovation & Growth**
+
+`generate_questions.py` creates YAML question files for these topics based on `data/topics.yaml`. If a specific prompt looks wrong you can rerun just that one with `regenerate_question.py`.
+
+## Grading
+
+Answers are scored automatically using the rubric attached to each question. `grade_answer.py` builds a grading prompt from the question and answer files and calls `llm` to produce structured JSON. The JSON contains scores for each rubric dimension plus an overall score.
+
+## Leaderboard
+
+`aggregate_results.py` collects all scoring JSON into `data/leaderboard/leaderboard.csv`. This CSV powers the website and lets you compare models at a glance.
+
+## Project Structure
+
+```
+app/          Next.js front-end
+scripts/      Python evaluation scripts
+templates/    Prompt templates for question and grading generation
+data/         Generated YAML, answers, results and leaderboard CSV
+tests/        Pytest unit tests
+dev/          Development notes and WIP documents
+```
+
+`ROADMAP.md` tracks ongoing implementation tasks. Run the Python tests with:
+
+```bash
+pytest
+```
+
+## Next.js Web Site
+
+The `app/` directory contains a small Next.js project that displays the leaderboard and describes the benchmark. To work on the web interface locally:
 
 ```bash
 npm install
 npm run dev
 ```
 
-### Deploy
+The site is deployed via Vercel and is updated whenever the `main` branch changes.
 
-Deployed on Vercel; push to `main` to update.
+## License
 
-## Project Structure
+This project is released under the MIT License.
 
-The front end is a **Next.js** application. Python scripts power question
-generation, answer generation and grading using the `llm` CLI.  Key files:
+## Contributing
 
-- `generate_questions.py` uses `templates/question_gen_prompt.txt` to create
-  YAML question files.
-- `aggregate_results.py` compiles scoring data into the leaderboard.
-
-Important directories:
-
-- `templates/` – prompt templates and rubrics
-- `scripts/` – Python scripts for generation, evaluation and grading
-  - `generate_answers.py` calls `llm` to produce an answer for a question
-  - `grade_answer.py` grades an answer with `llm` using a JSON schema so
-    results include parsed scores
-- `data/questions/` – generated question YAML files
-- `data/answers/` – model responses to prompts
-- `data/results/` – evaluation results
-- `data/leaderboard/` – compiled leaderboard data for the web app
-- `dev/` – development notes and WIP docs
-
-
-### Evaluation Workflow (Python)
-
-```bash
-pip install -r requirements.txt
-```
-
-The benchmark generation and grading scripts live in `./scripts`.
-They use `llm` to create questions, produce model answers and grade them.
-
-#### Generating questions
-
-`generate_questions.py` can be run offline to create placeholder questions from `dev/topics.yaml`. Questions are written to `data/questions/`.
-Use `regenerate_question.py` to redo a single question if generation failed:
-
-```bash
-python scripts/regenerate_question.py 42 --model gpt-4.1-mini
-```
-
-#### Running an evaluition
-
-This isa done in 2 parts:
-
-`generate_answers.py` uses the `llm` CLI to fetch a model answer and stores it under `data/answers/<model>/`.
-
-`grade_answer.py` runs the grading prompt with `llm` using a JSON schema so the scores are parsed and written to `data/results`.
-
-#### Running the full pipeline
-
-`run_full_evals.py` ties everything together. It loops over all question files
-for the models you specify, generates missing answers, grades them and then
-updates the leaderboard.
-
-Example:
-
-```bash
-python scripts/run_full_evals.py --models gpt-4.1-nano gpt-4.1-mini \
-    --grading-model gpt-4.1-mini
-```
-
-Use `--rerun-answer` or `--rerun-grade` to force regeneration.
-
-#### Updating the leaderboard
-
-Results are aggregated into `data/leaderboard` using `aggregate_results.py`.
-
-#### Python tests
-
-```bash
-pytest
-```
-
-# Licence
-
-This project is licensed under the MIT License.
-
-# Contributing
-
-Contributions are welcome, epecially for new models. Please open a PR.
-
+Contributions are welcome! Please check `ROADMAP.md` for current plans and open a pull request for improvements or new evaluation scripts.
