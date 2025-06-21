@@ -4,28 +4,14 @@ import { Row } from '@/lib/leaderboard'
 import { Chart } from 'react-chartjs-2'
 import {
   Chart as ChartJS,
-  BarElement,
-  CategoryScale,
-  LinearScale,
-  PointElement,
-  LineElement,
-  Tooltip,
-  Legend,
+  registerables,
   type ScriptableContext,
   type ChartDataset,
   type ChartData,
   type ChartOptions,
 } from 'chart.js'
 
-ChartJS.register(
-  CategoryScale,
-  LinearScale,
-  BarElement,
-  PointElement,
-  LineElement,
-  Tooltip,
-  Legend
-)
+ChartJS.register(...registerables)
 
 interface Props {
   rows: Row[]
