@@ -1,0 +1,14 @@
+{
+  "question_id": "0094-Innovation_&_Growth-Technology_adoption-Assessing_Change_Management_Skills",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"leadership_in_change\":115,\"employee_engagement\":110,\"implementation_agility\":108,\"overall_score\":111,\"comments\":\"The answer reflects a strong understanding of the critical elements required for leading technological change, emphasizing clear communication, employee involvement, and iterative flexibility. Although the contributor acknowledges lack of direct experience, the comprehensive approach indicates a capable and insightful leadership mindset, suitable for effectively guiding an organization through technological transitions.\"}",
+  "scores": {
+    "Leadership in change": 115,
+    "Employee engagement": 110,
+    "Implementation agility": 108
+  },
+  "total": 111.0,
+  "comments": "The answer reflects a strong understanding of the critical elements required for leading technological change, emphasizing clear communication, employee involvement, and iterative flexibility. Although the contributor acknowledges lack of direct experience, the comprehensive approach indicates a capable and insightful leadership mindset, suitable for effectively guiding an organization through technological transitions."
+}

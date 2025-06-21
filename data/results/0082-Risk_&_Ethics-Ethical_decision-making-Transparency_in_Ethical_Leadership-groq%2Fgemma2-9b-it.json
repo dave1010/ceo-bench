@@ -1,0 +1,14 @@
+{
+  "question_id": "0082-Risk_&_Ethics-Ethical_decision-making-Transparency_in_Ethical_Leadership",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"openness\":110,\"integrity\":105,\"accountability\":100,\"overall_score\":105,\"comments\":\"The answer provides a clear and structured framework for how a CEO should demonstrate transparency regarding ethical issues, emphasizing open communication, listening to diverse perspectives, and setting clear expectations. It strongly aligns with the rubric definitions for openness and integrity by highlighting honesty, consistent ethical standards, and admitting mistakes. Accountability is addressed through taking responsibility and encouraging corrective action. However, the response is theoretical and lacks concrete personal examples, which slightly limits the depth of the demonstration. Overall, the answer effectively covers key leadership qualities relevant to the question.\"}",
+  "scores": {
+    "Openness": 110,
+    "Integrity": 105,
+    "Accountability": 100
+  },
+  "total": 105.0,
+  "comments": "The answer provides a clear and structured framework for how a CEO should demonstrate transparency regarding ethical issues, emphasizing open communication, listening to diverse perspectives, and setting clear expectations. It strongly aligns with the rubric definitions for openness and integrity by highlighting honesty, consistent ethical standards, and admitting mistakes. Accountability is addressed through taking responsibility and encouraging corrective action. However, the response is theoretical and lacks concrete personal examples, which slightly limits the depth of the demonstration. Overall, the answer effectively covers key leadership qualities relevant to the question."
+}

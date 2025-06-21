@@ -1,0 +1,14 @@
+{
+  "question_id": "0096-Innovation_&_Growth-Growth_strategy-Evaluating_Market_Expansion_Plans",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"market_analysis\":130,\"strategic_alignment\":135,\"risk_management\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates a comprehensive and methodical approach to assessing and prioritizing new market opportunities. The emphasis on robust market research, competitive analysis, and trend forecasting reflects strong market analysis capabilities. Strategic alignment is well-articulated through the evaluation of opportunities against core competencies, mission, and long-term goals. Risk management is thoroughly considered with identification and prioritization of manageable risks and resource constraints. The inclusion of continuous evaluation and adaptability further enhances the quality of the approach. Overall, this answer reflects exceptional leadership qualities appropriate for sustainable growth.\"}",
+  "scores": {
+    "Market Analysis": 130,
+    "Strategic Alignment": 135,
+    "Risk Management": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates a comprehensive and methodical approach to assessing and prioritizing new market opportunities. The emphasis on robust market research, competitive analysis, and trend forecasting reflects strong market analysis capabilities. Strategic alignment is well-articulated through the evaluation of opportunities against core competencies, mission, and long-term goals. Risk management is thoroughly considered with identification and prioritization of manageable risks and resource constraints. The inclusion of continuous evaluation and adaptability further enhances the quality of the approach. Overall, this answer reflects exceptional leadership qualities appropriate for sustainable growth."
+}

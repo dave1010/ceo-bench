@@ -1,0 +1,14 @@
+{
+  "question_id": "0061-Leadership_&_Communication-Crisis_communication-Building_Trust_During_Turmoil",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"transparency\":135,\"empathy\":130,\"consistency\":125,\"overall_score\":130,\"comments\":\"The CEO's answer demonstrates exceptional understanding of transparency by emphasizing honest, regular communication and acknowledgment of uncertainties. Empathy is strongly conveyed through genuine concern, active listening, and taking responsibility. Consistency is well addressed with tailored messaging across channels and maintaining a steady, composed demeanor. Overall, the response reflects high-level leadership qualities appropriate for exceptional organizational performance during crisis management.\"}",
+  "scores": {
+    "Transparency": 135,
+    "Empathy": 130,
+    "Consistency": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO's answer demonstrates exceptional understanding of transparency by emphasizing honest, regular communication and acknowledgment of uncertainties. Empathy is strongly conveyed through genuine concern, active listening, and taking responsibility. Consistency is well addressed with tailored messaging across channels and maintaining a steady, composed demeanor. Overall, the response reflects high-level leadership qualities appropriate for exceptional organizational performance during crisis management."
+}

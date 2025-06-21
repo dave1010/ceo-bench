@@ -1,0 +1,14 @@
+{
+  "question_id": "0100-Innovation_&_Growth-M&A_evaluation-Synergy_Realization_Planning",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"strategic_alignment\":110,\"due_diligence_rigor\":120,\"integration_roadmap\":115,\"overall_score\":115,\"comments\":\"The answer thoroughly outlines best practices for identifying and planning synergies in M&A, addressing strategic alignment, due diligence rigor, and integration planning effectively. It demonstrates above-average comprehension with clear, actionable insights, meriting a strong Leadership Quotient score consistent with a capable and insightful CEO.\"}",
+  "scores": {
+    "Strategic Alignment": 110,
+    "Due Diligence Rigor": 120,
+    "Integration Roadmap": 115
+  },
+  "total": 115.0,
+  "comments": "The answer thoroughly outlines best practices for identifying and planning synergies in M&A, addressing strategic alignment, due diligence rigor, and integration planning effectively. It demonstrates above-average comprehension with clear, actionable insights, meriting a strong Leadership Quotient score consistent with a capable and insightful CEO."
+}

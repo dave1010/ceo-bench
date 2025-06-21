@@ -1,0 +1,14 @@
+{
+  "question_id": "0035-Strategic_Thinking-Competitive_analysis-Learning_from_Competitors",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive analysis",
+  "raw": "{\"insight_extraction\":130,\"benchmarking_practices\":125,\"open_innovation\":135,\"overall_score\":130,\"comments\":\"The CEO demonstrates a sophisticated and nuanced approach to perceiving competitors as valuable learning sources, employing comprehensive and structured methods. Insight extraction is strong through SWOT analyses, customer feedback, and product testing. Benchmarking is actively practiced across diverse metrics including customer satisfaction and operational efficiency, showing commitment to continuous performance assessment. Open innovation is embraced by using competitor knowledge to inform product differentiation and strategic adaptation, fostering innovation built on external ideas. Overall, the response reflects a high Leadership Quotient indicative of exceptional organizational leadership.\"}",
+  "scores": {
+    "Insight Extraction": 130,
+    "Benchmarking Practices": 125,
+    "Open Innovation": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates a sophisticated and nuanced approach to perceiving competitors as valuable learning sources, employing comprehensive and structured methods. Insight extraction is strong through SWOT analyses, customer feedback, and product testing. Benchmarking is actively practiced across diverse metrics including customer satisfaction and operational efficiency, showing commitment to continuous performance assessment. Open innovation is embraced by using competitor knowledge to inform product differentiation and strategic adaptation, fostering innovation built on external ideas. Overall, the response reflects a high Leadership Quotient indicative of exceptional organizational leadership."
+}

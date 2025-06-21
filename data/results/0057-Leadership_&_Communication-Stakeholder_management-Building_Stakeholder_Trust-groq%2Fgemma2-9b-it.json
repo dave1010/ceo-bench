@@ -1,0 +1,14 @@
+{
+  "question_id": "0057-Leadership_&_Communication-Stakeholder_management-Building_Stakeholder_Trust",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder management",
+  "raw": "{\"engagement_strategies\":120,\"consistency_and_reliability\":125,\"relationship_development\":118,\"overall_score\":121,\"comments\":\"The answer demonstrates a comprehensive and sincere approach to fostering trust and transparency, with clear strategies for open communication, active listening, ethical leadership, accountability, and relationship building. The CEO emphasizes regular, honest updates, engagement through multiple channels, and ongoing assessment for improvement. The response reflects a consistent and reliable commitment to these principles and shows strong understanding of stakeholder needs and collaboration.\"}",
+  "scores": {
+    "Engagement Strategies": 120,
+    "Consistency and Reliability": 125,
+    "Relationship Development": 118
+  },
+  "total": 121.0,
+  "comments": "The answer demonstrates a comprehensive and sincere approach to fostering trust and transparency, with clear strategies for open communication, active listening, ethical leadership, accountability, and relationship building. The CEO emphasizes regular, honest updates, engagement through multiple channels, and ongoing assessment for improvement. The response reflects a consistent and reliable commitment to these principles and shows strong understanding of stakeholder needs and collaboration."
+}

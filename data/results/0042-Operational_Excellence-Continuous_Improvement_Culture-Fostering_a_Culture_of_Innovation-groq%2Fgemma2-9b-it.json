@@ -1,0 +1,14 @@
+{
+  "question_id": "0042-Operational_Excellence-Continuous_Improvement_Culture-Fostering_a_Culture_of_Innovation",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Continuous Improvement Culture",
+  "raw": "{\"leadership_engagement\":120,\"employee_empowerment\":115,\"process_integration\":110,\"overall_score\":115,\"comments\":\"The response demonstrates strong leadership engagement through clear commitments to leading by example and fostering a culture of innovation. Employee empowerment is well-articulated, emphasizing autonomy, resources, and feedback mechanisms. Process integration is addressed via data-driven decision making, collaboration, and agile organizational structures. While detailed and insightful, the answer could include more concrete examples of embedding continuous improvement in specific operational practices to reach an exceptional level.\"}",
+  "scores": {
+    "Leadership Engagement": 120,
+    "Employee Empowerment": 115,
+    "Process Integration": 110
+  },
+  "total": 115.0,
+  "comments": "The response demonstrates strong leadership engagement through clear commitments to leading by example and fostering a culture of innovation. Employee empowerment is well-articulated, emphasizing autonomy, resources, and feedback mechanisms. Process integration is addressed via data-driven decision making, collaboration, and agile organizational structures. While detailed and insightful, the answer could include more concrete examples of embedding continuous improvement in specific operational practices to reach an exceptional level."
+}

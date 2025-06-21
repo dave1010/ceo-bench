@@ -1,0 +1,14 @@
+{
+  "question_id": "0063-Leadership_&_Communication-Culture_building-Driving_Organizational_Values",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"integration_of_values\":120,\"employee_engagement\":110,\"cultural_influence\":115,\"overall_score\":115,\"comments\":\"The answer provides a comprehensive and clear overview of how a CEO can embed core values into daily operations, emphasizing leading by example, integrating values into processes, and continuous reinforcement. It demonstrates strong understanding of the integration of values, employee engagement, and cultural influence necessary to foster a strong organizational culture. The response is well-rounded though somewhat general and theoretical without specific empirical examples, deserving a high but not genius-level score.\"}",
+  "scores": {
+    "Integration of values": 120,
+    "Employee engagement": 110,
+    "Cultural influence": 115
+  },
+  "total": 115.0,
+  "comments": "The answer provides a comprehensive and clear overview of how a CEO can embed core values into daily operations, emphasizing leading by example, integrating values into processes, and continuous reinforcement. It demonstrates strong understanding of the integration of values, employee engagement, and cultural influence necessary to foster a strong organizational culture. The response is well-rounded though somewhat general and theoretical without specific empirical examples, deserving a high but not genius-level score."
+}

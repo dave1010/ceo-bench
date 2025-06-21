@@ -1,0 +1,14 @@
+{
+  "question_id": "0095-Innovation_&_Growth-Technology_adoption-Embracing_Emerging_Technologies",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"strategic_vision\":60,\"implementation_capability\":50,\"impact_measurement\":50,\"overall_score\":53.3,\"comments\":\"The answer provides a theoretical framework for how a CEO should approach integrating emerging technologies but lacks specific examples or evidence of personal leadership in this area. It demonstrates understanding of the strategic vision required but does not show actual implementation capability or impact measurement, resulting in low scores across all dimensions.\"}",
+  "scores": {
+    "Strategic Vision": 60,
+    "Implementation Capability": 50,
+    "Impact Measurement": 50
+  },
+  "total": 53.3,
+  "comments": "The answer provides a theoretical framework for how a CEO should approach integrating emerging technologies but lacks specific examples or evidence of personal leadership in this area. It demonstrates understanding of the strategic vision required but does not show actual implementation capability or impact measurement, resulting in low scores across all dimensions."
+}

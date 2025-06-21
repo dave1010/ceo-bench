@@ -1,0 +1,14 @@
+{
+  "question_id": "0037-Strategic_Thinking-Stakeholder_Engagement-Balancing_Diverse_Stakeholder_Interests",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder Engagement",
+  "raw": "{\"listening_and_empathy\":85,\"strategic_negotiation\":80,\"transparency\":90,\"overall_score\":85,\"comments\":\"The answer offers a comprehensive overview of how a CEO might align stakeholder interests with long-term strategy. It reflects understanding of diverse stakeholder needs and references building trust and shared goals, indicating empathy. However, it lacks explicit examples of active listening or seeking direct stakeholder input. It also does not detail negotiation tactics to manage competing interests, which limits the strategic negotiation score. Transparency is well noted through emphasis on clear communication and open relationships. Overall, the response provides solid theoretical knowledge but does not demonstrate deeper practical nuance or advanced negotiation insight expected from a top-level CEO.\"}",
+  "scores": {
+    "Listening and Empathy": 85,
+    "Strategic Negotiation": 80,
+    "Transparency": 90
+  },
+  "total": 85.0,
+  "comments": "The answer offers a comprehensive overview of how a CEO might align stakeholder interests with long-term strategy. It reflects understanding of diverse stakeholder needs and references building trust and shared goals, indicating empathy. However, it lacks explicit examples of active listening or seeking direct stakeholder input. It also does not detail negotiation tactics to manage competing interests, which limits the strategic negotiation score. Transparency is well noted through emphasis on clear communication and open relationships. Overall, the response provides solid theoretical knowledge but does not demonstrate deeper practical nuance or advanced negotiation insight expected from a top-level CEO."
+}

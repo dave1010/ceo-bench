@@ -1,0 +1,14 @@
+{
+  "question_id": "0106-Operational_Excellence-Resource_optimization-Data-Driven_Resource_Planning",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"data_integration\":70,\"proactive_planning\":85,\"decision_impact\":75,\"overall_score\":77,\"comments\":\"The answer does not demonstrate direct use of data analytics or personal capabilities as a CEO, resulting in a low score for Data Integration. However, it outlines key considerations around proactive planning and decision impact, showing a solid conceptual understanding but lacking concrete application or results.\"}",
+  "scores": {
+    "Data Integration": 70,
+    "Proactive Planning": 85,
+    "Decision Impact": 75
+  },
+  "total": 77.0,
+  "comments": "The answer does not demonstrate direct use of data analytics or personal capabilities as a CEO, resulting in a low score for Data Integration. However, it outlines key considerations around proactive planning and decision impact, showing a solid conceptual understanding but lacking concrete application or results."
+}

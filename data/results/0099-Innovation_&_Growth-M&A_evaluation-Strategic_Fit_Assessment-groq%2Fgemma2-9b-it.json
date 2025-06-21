@@ -1,0 +1,14 @@
+{
+  "question_id": "0099-Innovation_&_Growth-M&A_evaluation-Strategic_Fit_Assessment",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"strategic_alignment\":130,\"due_diligence_rigor\":130,\"decision-making_confidence\":120,\"overall_score\":126.7,\"comments\":\"The answer outlines a comprehensive and well-structured framework for evaluating M&A opportunities, emphasizing clear strategic objectives, thorough due diligence, and detailed integration planning. It demonstrates a high level of strategic alignment by focusing on core competencies and growth areas, and shows strong due diligence rigor by encompassing financial, operational, cultural, and risk assessments. Decision-making confidence is presented clearly, highlighting a systematic approach to go/no-go decisions and value creation metrics. Overall, this reflects an exemplary CEO-level understanding and approach to M&A evaluation, warranting a high leadership quotient score.\"}",
+  "scores": {
+    "Strategic Alignment": 130,
+    "Due Diligence Rigor": 130,
+    "Decision-Making Confidence": 120
+  },
+  "total": 126.7,
+  "comments": "The answer outlines a comprehensive and well-structured framework for evaluating M&A opportunities, emphasizing clear strategic objectives, thorough due diligence, and detailed integration planning. It demonstrates a high level of strategic alignment by focusing on core competencies and growth areas, and shows strong due diligence rigor by encompassing financial, operational, cultural, and risk assessments. Decision-making confidence is presented clearly, highlighting a systematic approach to go/no-go decisions and value creation metrics. Overall, this reflects an exemplary CEO-level understanding and approach to M&A evaluation, warranting a high leadership quotient score."
+}

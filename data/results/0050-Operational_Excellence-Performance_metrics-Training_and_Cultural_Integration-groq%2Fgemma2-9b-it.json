@@ -1,0 +1,14 @@
+{
+  "question_id": "0050-Operational_Excellence-Performance_metrics-Training_and_Cultural_Integration",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"cultural_leadership\":130,\"training_and_development\":100,\"recognition_and_incentives\":120,\"overall_score\":117,\"comments\":\"The answer excellently covers the CEO's role in setting a data-driven culture, emphasizing tone from the top, transparency, and empowerment, which strongly supports cultural leadership (above average score). It touches on enabling employees through empowerment but does not explicitly mention formal training programs, leading to an average score for training and development. The recognition and incentives dimension is well addressed by discussing rewarding performance-oriented behaviors and incentivizing continuous improvement, leading to a high score. Overall, the response demonstrates a strong understanding of fostering a culture valuing accurate measurement and continuous improvement.\"}",
+  "scores": {
+    "Cultural Leadership": 130,
+    "Training and Development": 100,
+    "Recognition and Incentives": 120
+  },
+  "total": 117.0,
+  "comments": "The answer excellently covers the CEO's role in setting a data-driven culture, emphasizing tone from the top, transparency, and empowerment, which strongly supports cultural leadership (above average score). It touches on enabling employees through empowerment but does not explicitly mention formal training programs, leading to an average score for training and development. The recognition and incentives dimension is well addressed by discussing rewarding performance-oriented behaviors and incentivizing continuous improvement, leading to a high score. Overall, the response demonstrates a strong understanding of fostering a culture valuing accurate measurement and continuous improvement."
+}

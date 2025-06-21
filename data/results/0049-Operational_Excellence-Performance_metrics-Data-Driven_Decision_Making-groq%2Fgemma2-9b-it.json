@@ -1,0 +1,14 @@
+{
+  "question_id": "0049-Operational_Excellence-Performance_metrics-Data-Driven_Decision_Making",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"alignment_of_metrics_with_strategic_goals\":115,\"use_of_data_to_identify_opportunities\":110,\"actionability_of_insights\":105,\"overall_score\":110,\"comments\":\"The answer provides a clear, conceptual understanding of how a strong CEO would leverage performance metrics, emphasizing alignment of KPIs with strategic goals, rigorous data analysis, and fostering a data-driven culture. While the response lacks specific real-world examples or quantitative demonstrations, it articulates key leadership qualities effectively, warranting a strong score.\"}",
+  "scores": {
+    "Alignment of metrics with strategic goals": 115,
+    "Use of data to identify opportunities": 110,
+    "Actionability of insights": 105
+  },
+  "total": 110.0,
+  "comments": "The answer provides a clear, conceptual understanding of how a strong CEO would leverage performance metrics, emphasizing alignment of KPIs with strategic goals, rigorous data analysis, and fostering a data-driven culture. While the response lacks specific real-world examples or quantitative demonstrations, it articulates key leadership qualities effectively, warranting a strong score."
+}

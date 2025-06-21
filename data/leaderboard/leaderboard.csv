@@ -1,6 +1,6 @@
 model,model_name,overall,n,Strategic Thinking,Operational Excellence,Leadership & Communication,Financial Acumen,Risk & Ethics,Innovation & Growth
-gpt-4.1,Open AI GPT-4.1,124.027,125,123.508,121.695,127.429,122.925,125.135,124.019
-groq/llama-3.1-8b-instant,Llama 3.1 8B,120.544,125,119.305,120.079,123.318,120.142,121.606,120.181
-gpt-4.1-mini,Open AI GPT-4.1 Mini,121.464,125,122.222,120.08,119.941,120.25,122.759,122.581
 gpt-4.1-nano,Open AI GPT-4.1 Nano,115.975,125,114.176,118.005,115.788,117.869,115.506,117.269
-groq/gemma2-9b-it,groq/gemma2-9b-it,119.33,30,119.765,113.825,115.0,,125.0,
+groq/llama-3.1-8b-instant,Llama 3.1 8B,120.544,125,119.305,120.079,123.318,120.142,121.606,120.181
+gpt-4.1,Open AI GPT-4.1,124.027,125,123.508,121.695,127.429,122.925,125.135,124.019
+gpt-4.1-mini,Open AI GPT-4.1 Mini,121.464,125,122.222,120.08,119.941,120.25,122.759,122.581
+groq/gemma2-9b-it,groq/gemma2-9b-it,117.603,116,118.681,113.935,116.956,119.167,118.346,117.956

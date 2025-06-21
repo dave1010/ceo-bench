@@ -1,0 +1,14 @@
+{
+  "question_id": "0092-Innovation_&_Growth-Product_innovation-Customer-Centric_Design_Approach",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Product innovation",
+  "raw": "{\"customer_engagement\":130,\"integration_of_feedback\":135,\"outcome_focus\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates exceptional dedication to customer engagement by implementing multifaceted feedback channels and fostering a culture that champions the customer voice. Their systematic approach to collecting, centralizing, and analyzing feedback ensures deep integration of customer insights into product development. The emphasis on iterative development and transparent feedback loops aligns closely with customer needs, supporting enhanced user satisfaction. Overall, the response reflects a highly effective and sophisticated strategy for leveraging customer feedback in product innovation.\"}",
+  "scores": {
+    "Customer Engagement": 130,
+    "Integration of Feedback": 135,
+    "Outcome Focus": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional dedication to customer engagement by implementing multifaceted feedback channels and fostering a culture that champions the customer voice. Their systematic approach to collecting, centralizing, and analyzing feedback ensures deep integration of customer insights into product development. The emphasis on iterative development and transparent feedback loops aligns closely with customer needs, supporting enhanced user satisfaction. Overall, the response reflects a highly effective and sophisticated strategy for leveraging customer feedback in product innovation."
+}

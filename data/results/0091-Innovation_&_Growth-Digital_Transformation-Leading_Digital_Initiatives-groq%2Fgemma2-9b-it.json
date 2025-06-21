@@ -1,0 +1,14 @@
+{
+  "question_id": "0091-Innovation_&_Growth-Digital_Transformation-Leading_Digital_Initiatives",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Digital Transformation",
+  "raw": "{\"strategic_vision\":110,\"change_management\":100,\"innovation_adoption\":105,\"overall_score\":105,\"comments\":\"The response effectively outlines key components a CEO should focus on to drive digital transformation, including vision, culture, and technology adoption. While it provides a comprehensive framework based on best practices, it does not demonstrate direct personal execution or case-specific examples, reflecting an informed but indirect perspective. Scores reflect above-average understanding without exceptional inspirational or experiential insights.\"}",
+  "scores": {
+    "Strategic Vision": 110,
+    "Change Management": 100,
+    "Innovation Adoption": 105
+  },
+  "total": 105.0,
+  "comments": "The response effectively outlines key components a CEO should focus on to drive digital transformation, including vision, culture, and technology adoption. While it provides a comprehensive framework based on best practices, it does not demonstrate direct personal execution or case-specific examples, reflecting an informed but indirect perspective. Scores reflect above-average understanding without exceptional inspirational or experiential insights."
+}

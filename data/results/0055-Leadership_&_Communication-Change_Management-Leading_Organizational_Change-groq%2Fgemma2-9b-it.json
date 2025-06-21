@@ -1,0 +1,14 @@
+{
+  "question_id": "0055-Leadership_&_Communication-Change_Management-Leading_Organizational_Change",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Change Management",
+  "raw": "{\"communication_strategy\":115,\"employee_engagement\":110,\"adaptability\":105,\"overall_score\":110,\"comments\":\"The answer demonstrates a strong understanding of effective communication strategies by emphasizing clear vision, transparency, and multiple channels, scoring well above average. Employee engagement is addressed thoroughly with active listening and empowerment, reflecting a high LQ in fostering buy-in. Adaptability is recognized through support, training, and empathy, showing a slightly above-average grasp. While the response lacks personal experience, it effectively details principles indicative of capable CEO leadership during change.\"}",
+  "scores": {
+    "Communication Strategy": 115,
+    "Employee Engagement": 110,
+    "Adaptability": 105
+  },
+  "total": 110.0,
+  "comments": "The answer demonstrates a strong understanding of effective communication strategies by emphasizing clear vision, transparency, and multiple channels, scoring well above average. Employee engagement is addressed thoroughly with active listening and empowerment, reflecting a high LQ in fostering buy-in. Adaptability is recognized through support, training, and empathy, showing a slightly above-average grasp. While the response lacks personal experience, it effectively details principles indicative of capable CEO leadership during change."
+}

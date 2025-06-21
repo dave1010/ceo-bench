@@ -1,0 +1,14 @@
+{
+  "question_id": "0032-Strategic_Thinking-Market_entry_strategies-Managing_Cross-functional_Teams_During_Expansion",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"leadership_communication\":115,\"resource_management\":110,\"performance_monitoring\":105,\"overall_score\":110,\"comments\":\"The answer demonstrates strong leadership communication by setting a clear vision and fostering open communication. Resource management is well addressed through delegating responsibilities and providing necessary support. Performance monitoring is covered by regular reviews and continuous feedback. Overall, the response reflects a competent and effective approach to coordinating and motivating cross-disciplinary teams for market entry execution.\"}",
+  "scores": {
+    "Leadership communication": 115,
+    "Resource management": 110,
+    "Performance monitoring": 105
+  },
+  "total": 110.0,
+  "comments": "The answer demonstrates strong leadership communication by setting a clear vision and fostering open communication. Resource management is well addressed through delegating responsibilities and providing necessary support. Performance monitoring is covered by regular reviews and continuous feedback. Overall, the response reflects a competent and effective approach to coordinating and motivating cross-disciplinary teams for market entry execution."
+}

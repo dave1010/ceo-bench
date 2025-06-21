@@ -1,0 +1,14 @@
+{
+  "question_id": "0067-Financial_Acumen-Financial_Modeling-Evaluating_Scenario_Analysis",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Modeling",
+  "raw": "{\"scenario_planning_integration\":130,\"analytical_rigor\":110,\"strategic_adaptability\":120,\"overall_score\":120,\"comments\":\"The answer demonstrates a strong understanding of scenario planning integration by emphasizing regular use and inclusion of diverse optimistic, pessimistic, and rare event scenarios. Analytical rigor is addressed by recommending quantifying outcomes and data-driven decision making, though specifics on rigorous methods could be stronger. Strategic adaptability is well covered with emphasis on proactive adjustments of budgets, strategies, and communication. Overall, this reflects a high-level strategic mindset appropriate for a successful CEO.\"}",
+  "scores": {
+    "Scenario Planning Integration": 130,
+    "Analytical Rigor": 110,
+    "Strategic Adaptability": 120
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates a strong understanding of scenario planning integration by emphasizing regular use and inclusion of diverse optimistic, pessimistic, and rare event scenarios. Analytical rigor is addressed by recommending quantifying outcomes and data-driven decision making, though specifics on rigorous methods could be stronger. Strategic adaptability is well covered with emphasis on proactive adjustments of budgets, strategies, and communication. Overall, this reflects a high-level strategic mindset appropriate for a successful CEO."
+}

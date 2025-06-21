@@ -1,0 +1,14 @@
+{
+  "question_id": "0093-Innovation_&_Growth-Technology_adoption-Accelerating_Digital_Transformation",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"leadership_in_technology_adoption\":95,\"strategy_alignment\":110,\"change_management\":105,\"overall_score\":103.3,\"comments\":\"The answer showcases a comprehensive understanding of effective CEO qualities in digital transformation, notably emphasizing vision, strategic alignment, and cultural factors. While it lacks a personal account of leadership effectiveness, the insight into prioritization, resource allocation, and fostering innovation reflects solid strategic alignment and change management skills. Leadership in technology adoption is recognized but somewhat abstract, leading to a slightly lower score in that dimension.\"}",
+  "scores": {
+    "Leadership in Technology Adoption": 95,
+    "Strategy Alignment": 110,
+    "Change Management": 105
+  },
+  "total": 103.3,
+  "comments": "The answer showcases a comprehensive understanding of effective CEO qualities in digital transformation, notably emphasizing vision, strategic alignment, and cultural factors. While it lacks a personal account of leadership effectiveness, the insight into prioritization, resource allocation, and fostering innovation reflects solid strategic alignment and change management skills. Leadership in technology adoption is recognized but somewhat abstract, leading to a slightly lower score in that dimension."
+}

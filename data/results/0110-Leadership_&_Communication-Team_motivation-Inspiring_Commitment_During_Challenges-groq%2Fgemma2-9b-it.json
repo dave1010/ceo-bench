@@ -1,0 +1,14 @@
+{
+  "question_id": "0110-Leadership_&_Communication-Team_motivation-Inspiring_Commitment_During_Challenges",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Team motivation",
+  "raw": "{\"empathy_and_support\":130,\"communication_clarity\":125,\"action_and_accountability\":135,\"overall_score\":130,\"comments\":\"The answer excellently demonstrates empathy and support by emphasizing team well-being, empowerment, and celebration of small wins. Communication clarity is strong, with transparent, honest communication and a focus on shared purpose that aligns the team towards a hopeful future. Action and accountability are well addressed through concrete steps such as involving the team in solutions, leading by example, and fostering adaptability and continuous learning. The comprehensive multifaceted approach and leadership qualities reflected merit a high Leadership Quotient score indicative of an exceptional CEO.\"}",
+  "scores": {
+    "Empathy and Support": 130,
+    "Communication Clarity": 125,
+    "Action and Accountability": 135
+  },
+  "total": 130.0,
+  "comments": "The answer excellently demonstrates empathy and support by emphasizing team well-being, empowerment, and celebration of small wins. Communication clarity is strong, with transparent, honest communication and a focus on shared purpose that aligns the team towards a hopeful future. Action and accountability are well addressed through concrete steps such as involving the team in solutions, leading by example, and fostering adaptability and continuous learning. The comprehensive multifaceted approach and leadership qualities reflected merit a high Leadership Quotient score indicative of an exceptional CEO."
+}

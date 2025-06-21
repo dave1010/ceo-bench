@@ -1,0 +1,14 @@
+{
+  "question_id": "0087-Risk_&_Ethics-Reputation_management-Crisis_Response_Effectiveness",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"response_timeliness\":120,\"transparency_and_honesty\":130,\"restoration_of_trust\":125,\"overall_score\":125,\"comments\":\"The CEO's response clearly addresses timeliness by emphasizing swift acknowledgement and proactive risk assessment, scoring well above average. Transparency and honesty are strongly represented through commitments to open, clear communication and accountability, meriting a high score. Restoration of trust is thoroughly covered with corrective actions, long-term stakeholder engagement, and leading by example, indicating a sophisticated and effective approach that exceeds typical CEO capabilities. Overall, this is a comprehensive, well-articulated strategy that demonstrates exceptional leadership qualities in managing reputational challenges.\"}",
+  "scores": {
+    "Response timeliness": 120,
+    "Transparency and honesty": 130,
+    "Restoration of trust": 125
+  },
+  "total": 125.0,
+  "comments": "The CEO's response clearly addresses timeliness by emphasizing swift acknowledgement and proactive risk assessment, scoring well above average. Transparency and honesty are strongly represented through commitments to open, clear communication and accountability, meriting a high score. Restoration of trust is thoroughly covered with corrective actions, long-term stakeholder engagement, and leading by example, indicating a sophisticated and effective approach that exceeds typical CEO capabilities. Overall, this is a comprehensive, well-articulated strategy that demonstrates exceptional leadership qualities in managing reputational challenges."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0105-Strategic_Thinking-Vision_articulation-Embedding_Core_Values",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Vision articulation",
+  "raw": "{\"integration\":120,\"leadership_consistency\":115,\"cultural_influence\":118,\"overall_score\":117.7,\"comments\":\"The answer demonstrates a strong understanding of how a CEO embeds core values into the organization's vision and strategic initiatives. It emphasizes key aspects such as living the values, communication, linking values to strategy, recognition, and measurement. The response is comprehensive and aligns well with the rubric criteria, showing a high level of insight typical of an experienced CEO. Minor points could be made about dynamic adaptation to evolving environments which was briefly noted. Overall, this exhibits excellent leadership insight with high scores across all dimensions.\"}",
+  "scores": {
+    "Integration": 120,
+    "Leadership consistency": 115,
+    "Cultural influence": 118
+  },
+  "total": 117.7,
+  "comments": "The answer demonstrates a strong understanding of how a CEO embeds core values into the organization's vision and strategic initiatives. It emphasizes key aspects such as living the values, communication, linking values to strategy, recognition, and measurement. The response is comprehensive and aligns well with the rubric criteria, showing a high level of insight typical of an experienced CEO. Minor points could be made about dynamic adaptation to evolving environments which was briefly noted. Overall, this exhibits excellent leadership insight with high scores across all dimensions."
+}
