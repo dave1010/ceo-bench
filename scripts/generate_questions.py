@@ -48,7 +48,10 @@ def main() -> None:
         help="Questions to generate for each subtopic",
     )
     parser.add_argument(
-        "--template", type=Path, default=DEFAULT_TEMPLATE, help="Prompt template"
+        "--template",
+        type=Path,
+        default=DEFAULT_TEMPLATE,
+        help="Prompt template",
     )
     args = parser.parse_args()
 
