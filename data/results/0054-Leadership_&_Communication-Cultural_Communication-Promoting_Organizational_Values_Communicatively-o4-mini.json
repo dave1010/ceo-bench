@@ -1,0 +1,14 @@
+{
+  "question_id": "0054-Leadership_&_Communication-Cultural_Communication-Promoting_Organizational_Values_Communicatively",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Cultural Communication",
+  "raw": "{\"consistency\":130,\"modeling_behavior\":135,\"cultural_alignment\":130,\"overall_score\":132,\"comments\":\"The answer comprehensively addresses how a CEO consistently communicates and reinforces organizational culture and core values. It emphasizes frequent communication, embedding values in processes, modeling behavior, and creating feedback loops, all indicative of high consistency. The modeling behavior dimension scores very high due to detailed examples of the CEO living the values daily. Cultural alignment is strongly covered through alignment of structure, rituals, and communication fostering shared internalization. Overall, the response reflects an exceptional understanding and approach to cultural leadership in an organization.\"}",
+  "scores": {
+    "Consistency": 130,
+    "Modeling Behavior": 135,
+    "Cultural Alignment": 130
+  },
+  "total": 132.0,
+  "comments": "The answer comprehensively addresses how a CEO consistently communicates and reinforces organizational culture and core values. It emphasizes frequent communication, embedding values in processes, modeling behavior, and creating feedback loops, all indicative of high consistency. The modeling behavior dimension scores very high due to detailed examples of the CEO living the values daily. Cultural alignment is strongly covered through alignment of structure, rituals, and communication fostering shared internalization. Overall, the response reflects an exceptional understanding and approach to cultural leadership in an organization."
+}

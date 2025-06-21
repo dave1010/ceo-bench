@@ -1,0 +1,14 @@
+{
+  "question_id": "0113-Leadership_&_Communication-Culture_building-Embedding_Ethical_Standards",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"ethical_leadership\":135,\"organizational_influence\":130,\"employee_engagement\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates exceptional ethical leadership by personally modeling integrity and transparency through concrete actions and storytelling. The organizational influence is strong, with comprehensive policies like updated Codes of Conduct, ethics performance metrics, and a network of Ethics Ambassadors driving widespread ethical standards. Employee engagement is well fostered with open dialogue channels, anonymous hotlines, public recognition, and interactive sessions that build trust. Overall, this answer reflects a deeply embedded ethical culture and outstanding leadership commitment, meriting a high Leadership Quotient score.\"}",
+  "scores": {
+    "Ethical Leadership": 135,
+    "Organizational Influence": 130,
+    "Employee Engagement": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional ethical leadership by personally modeling integrity and transparency through concrete actions and storytelling. The organizational influence is strong, with comprehensive policies like updated Codes of Conduct, ethics performance metrics, and a network of Ethics Ambassadors driving widespread ethical standards. Employee engagement is well fostered with open dialogue channels, anonymous hotlines, public recognition, and interactive sessions that build trust. Overall, this answer reflects a deeply embedded ethical culture and outstanding leadership commitment, meriting a high Leadership Quotient score."
+}

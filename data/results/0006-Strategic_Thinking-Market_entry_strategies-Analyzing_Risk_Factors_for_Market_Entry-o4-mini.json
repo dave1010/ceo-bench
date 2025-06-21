@@ -1,0 +1,14 @@
+{
+  "question_id": "0006-Strategic_Thinking-Market_entry_strategies-Analyzing_Risk_Factors_for_Market_Entry",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"risk_identification\":130,\"prioritization\":135,\"mitigation_strategies\":130,\"overall_score\":132.0,\"comments\":\"The answer provides a comprehensive identification of all relevant risks\u2014including regulatory, political, market, cultural, currency, operational, legal, and talent risks\u2014demonstrating an excellent understanding of the challenges in entering new international markets. Prioritization is logical and clearly articulated, accurately focusing on the highest priority risks first and explaining the reasoning well. Mitigation strategies are practical, detailed, and actionable across all categories, indicating strong strategic thinking and real-world application. Overall, the response reflects a high-level CEO capability with insightful leadership qualities.\"}",
+  "scores": {
+    "Risk Identification": 130,
+    "Prioritization": 135,
+    "Mitigation Strategies": 130
+  },
+  "total": 132.0,
+  "comments": "The answer provides a comprehensive identification of all relevant risks\u2014including regulatory, political, market, cultural, currency, operational, legal, and talent risks\u2014demonstrating an excellent understanding of the challenges in entering new international markets. Prioritization is logical and clearly articulated, accurately focusing on the highest priority risks first and explaining the reasoning well. Mitigation strategies are practical, detailed, and actionable across all categories, indicating strong strategic thinking and real-world application. Overall, the response reflects a high-level CEO capability with insightful leadership qualities."
+}

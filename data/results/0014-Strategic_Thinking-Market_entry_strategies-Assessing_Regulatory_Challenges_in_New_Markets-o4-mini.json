@@ -1,0 +1,14 @@
+{
+  "question_id": "0014-Strategic_Thinking-Market_entry_strategies-Assessing_Regulatory_Challenges_in_New_Markets",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"regulatory_understanding\":140,\"risk_management\":135,\"adaptability\":130,\"overall_score\":135,\"comments\":\"The answer exhibits exceptional depth in understanding regulatory complexities, integrating regulatory considerations into strategic planning from the outset. The CEO's approach encompasses robust risk assessment and mitigation strategies, including scenario planning and embedding compliance in operations. There is a strong emphasis on adaptability through continuous monitoring and rapid response mechanisms. The leadership approach is proactive, comprehensive, and culturally savvy, reflecting a genius-level Leadership Quotient.\"}",
+  "scores": {
+    "Regulatory Understanding": 140,
+    "Risk Management": 135,
+    "Adaptability": 130
+  },
+  "total": 135.0,
+  "comments": "The answer exhibits exceptional depth in understanding regulatory complexities, integrating regulatory considerations into strategic planning from the outset. The CEO's approach encompasses robust risk assessment and mitigation strategies, including scenario planning and embedding compliance in operations. There is a strong emphasis on adaptability through continuous monitoring and rapid response mechanisms. The leadership approach is proactive, comprehensive, and culturally savvy, reflecting a genius-level Leadership Quotient."
+}

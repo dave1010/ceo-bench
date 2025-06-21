@@ -1,0 +1,14 @@
+{
+  "question_id": "0057-Leadership_&_Communication-Stakeholder_management-Building_Stakeholder_Trust",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder management",
+  "raw": "{\"engagement_strategies\":130,\"consistency_and_reliability\":135,\"relationship_development\":125,\"overall_score\":130,\"comments\":\"The answer thoroughly addresses proactive engagement strategies with detailed examples of open communication, two-way feedback mechanisms, and co-creation initiatives, earning a high score in 'Engagement Strategies.' It emphasizes maintaining transparency consistently, including during crises, demonstrating reliability and fulfillment of commitments, justifying a top score in 'Consistency and Reliability.' The focus on stakeholder councils, strategic partnerships, and alignment of incentives shows strong capabilities in developing deep stakeholder relationships, reflected in the high 'Relationship Development' score. Overall, the response displays exceptional understanding and application of trust-building and transparency, meriting an overall score well above average.\"}",
+  "scores": {
+    "Engagement Strategies": 130,
+    "Consistency and Reliability": 135,
+    "Relationship Development": 125
+  },
+  "total": 130.0,
+  "comments": "The answer thoroughly addresses proactive engagement strategies with detailed examples of open communication, two-way feedback mechanisms, and co-creation initiatives, earning a high score in 'Engagement Strategies.' It emphasizes maintaining transparency consistently, including during crises, demonstrating reliability and fulfillment of commitments, justifying a top score in 'Consistency and Reliability.' The focus on stakeholder councils, strategic partnerships, and alignment of incentives shows strong capabilities in developing deep stakeholder relationships, reflected in the high 'Relationship Development' score. Overall, the response displays exceptional understanding and application of trust-building and transparency, meriting an overall score well above average."
+}

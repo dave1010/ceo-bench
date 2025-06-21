@@ -1,0 +1,14 @@
+{
+  "question_id": "0116-Financial_Acumen-Financial_Reporting_&_Transparency-Communicating_Financial_Performance",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Reporting & Transparency",
+  "raw": "{\"clarity_and_accuracy\":130,\"regular_communication\":125,\"ethical_standards\":135,\"overall_score\":130,\"comments\":\"The answer comprehensively covers how a CEO promotes transparency via strong governance, ethical culture, accurate reporting standards, and clear communication. It emphasizes adherence to IFRS/GAAP and timely, plain-language disclosures, reflecting high clarity and accuracy. The CEO\u2019s role in providing consistent updates through various channels and proactive stakeholder engagement addresses regular communication effectively. Ethical standards are strongly upheld by championing integrity, accountability, whistleblower protections, and opposing aggressive accounting practices, indicating an exceptional ethical framework. Overall, the response aligns with a high-caliber CEO's approach to promoting transparency in financial reporting, warranting a score well above average.\"}",
+  "scores": {
+    "Clarity and accuracy": 130,
+    "Regular communication": 125,
+    "Ethical standards": 135
+  },
+  "total": 130.0,
+  "comments": "The answer comprehensively covers how a CEO promotes transparency via strong governance, ethical culture, accurate reporting standards, and clear communication. It emphasizes adherence to IFRS/GAAP and timely, plain-language disclosures, reflecting high clarity and accuracy. The CEO\u2019s role in providing consistent updates through various channels and proactive stakeholder engagement addresses regular communication effectively. Ethical standards are strongly upheld by championing integrity, accountability, whistleblower protections, and opposing aggressive accounting practices, indicating an exceptional ethical framework. Overall, the response aligns with a high-caliber CEO's approach to promoting transparency in financial reporting, warranting a score well above average."
+}

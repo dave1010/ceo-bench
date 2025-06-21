@@ -1,0 +1,14 @@
+{
+  "question_id": "0101-Innovation_&_Growth-M&A_evaluation-Leadership_in_Due_Diligence_Processes",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"decision-making_clarity\":135,\"risk_management\":140,\"stakeholder_engagement\":130,\"overall_score\":135,\"comments\":\"The CEO demonstrates exceptional decision-making clarity by structuring the due diligence process around clear value-creation hypotheses and rigorous playbooks. Risk management is proactive and comprehensive, with detailed risk registers, mitigation plans, and integration into Day-One roadmaps. Stakeholder engagement is strong, evidenced by the creation of a cross-functional steering committee and frequent findings reviews. The approach reflects a disciplined, hypothesis-driven leadership style that uncovers the vast majority of risks and validates synergy assumptions before deal closure.\"}",
+  "scores": {
+    "Decision-Making Clarity": 135,
+    "Risk Management": 140,
+    "Stakeholder Engagement": 130
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates exceptional decision-making clarity by structuring the due diligence process around clear value-creation hypotheses and rigorous playbooks. Risk management is proactive and comprehensive, with detailed risk registers, mitigation plans, and integration into Day-One roadmaps. Stakeholder engagement is strong, evidenced by the creation of a cross-functional steering committee and frequent findings reviews. The approach reflects a disciplined, hypothesis-driven leadership style that uncovers the vast majority of risks and validates synergy assumptions before deal closure."
+}

@@ -1,0 +1,38 @@
+Here’s a structured evaluation you can adapt for your CEO‐Bench response:
+
+1. Overall Rating (1–5)  
+   • 5 – Exceptionally effective  
+   • 4 – Very effective  
+   • 3 – Moderately effective  
+   • 2 – Somewhat ineffective  
+   • 1 – Ineffective  
+
+2. Rationale for the Rating  
+   • Clarity of Strategic Priorities  
+     – Does the CEO articulate a small number (3–5) of top‐priority goals with clear, measurable outcomes?  
+   • Budgeting & Resource Allocation Process  
+     – Is there a formal, transparent process (annual budget + rolling forecasts) that ties funding and head count to those priorities?  
+   • Ongoing Review & Rebalancing  
+     – Are resources (people, capital, tech) regularly reallocated based on performance data and changing market conditions?  
+   • Cross‐Functional Alignment  
+     – Does the CEO break down silos by convening cross‐departmental forums to resolve conflicts over scarce resources?  
+   • Accountability & Metrics  
+     – Do leaders have scorecards that link their unit’s KPIs back to strategic objectives—and face real consequences if targets aren’t met?
+
+3. Example Strengths (if you rated 4–5)  
+   • The CEO drove a zero‐based budgeting exercise that freed up 15% of the R&D budget for high-priority innovation projects.  
+   • Quarterly portfolio‐review meetings surface underperformers and enable swift redeployment of talent and capital.  
+   • Investment in a dashboard tied every line-item spend to one of the company’s five strategic pillars, boosting transparency and cutting non-strategic spend by 20%.
+
+4. Example Gaps (if you rated 2–3)  
+   • Resource requests outside core priorities sometimes get “fast-tracked” without clear ROI criteria.  
+   • Silos persist—marketing and product teams compete for the same head count, slowing down execution.  
+   • Mid-year reallocations happen informally, causing confusion over who owns which budget.
+
+5. Recommendations for Improvement  
+   • Formalize a rolling reforecast process (e.g., quarterly “resource rebalancing” reviews)  
+   • Introduce a clear decision-rights framework—who decides when to deploy extra capital or shift head count  
+   • Tie 20–30% of senior leaders’ compensation to the successful realignment of resources behind top strategic goals  
+   • Deploy a portfolio-management tool that visually maps current investments against strategic priorities
+
+Using that structure, you can succinctly justify your rating and show how well (or poorly) the CEO aligns resources to strategic aims to drive productivity and impact.

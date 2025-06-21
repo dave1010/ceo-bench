@@ -1,0 +1,13 @@
+{
+  "question_id": "0085-Risk_&_Ethics-Risk_mitigation-Proactive_Identification_of_Emerging_Risks",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"proactivity_in_risk_detection\":140,\"integration_with_organizational_processes\":135,\"responsiveness_and_follow_through\":140,\"overall_score\":138,\"comments\":\"The CEO demonstrates exceptional leadership in proactively identifying emerging risks through a comprehensive Enterprise-Wide Risk Management Framework and multiple proactive mechanisms such as horizon scanning, early-warning indicators, scenario planning, and continuous monitoring with AI analytics. The integration of risk processes across various organizational functions, strategic planning, budgeting, and operational reviews highlights deep embedding of risk management in the organization's DNA. Responsiveness is ensured via rapid triage of reports, live dashboards triggering automatic reviews, and frequent cross-functional workshops, demonstrating thorough follow-through. The approach reflects a best-practice, dynamic risk culture at an extraordinary level, justifying scores near the top of the LQ scale.\"}",
+  "scores": {
+    "Proactivity in Risk Detection": 140,
+    "Integration with Organizational Processes": 135
+  },
+  "total": 138.0,
+  "comments": "The CEO demonstrates exceptional leadership in proactively identifying emerging risks through a comprehensive Enterprise-Wide Risk Management Framework and multiple proactive mechanisms such as horizon scanning, early-warning indicators, scenario planning, and continuous monitoring with AI analytics. The integration of risk processes across various organizational functions, strategic planning, budgeting, and operational reviews highlights deep embedding of risk management in the organization's DNA. Responsiveness is ensured via rapid triage of reports, live dashboards triggering automatic reviews, and frequent cross-functional workshops, demonstrating thorough follow-through. The approach reflects a best-practice, dynamic risk culture at an extraordinary level, justifying scores near the top of the LQ scale."
+}

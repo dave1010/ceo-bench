@@ -1,0 +1,14 @@
+{
+  "question_id": "0078-Risk_&_Ethics-Ethical_Leadership_&_Decision-Making-Embedding_Ethics_in_Leadership",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical Leadership & Decision-Making",
+  "raw": "{\"decision_frameworks\":135,\"transparency_and_accountability\":130,\"cultural_promotion\":125,\"overall_score\":130,\"comments\":\"The answer thoroughly outlines multiple well-established ethical decision frameworks including utilitarian, rights-based, and justice-based perspectives, showing a sophisticated approach to ethical decision-making (Decision Frameworks: 135). It emphasizes transparency and accountability through communication of ethical rationales internally and externally, clear ownership of monitoring, and post-decision ethics reviews (Transparency and Accountability: 130). Additionally, it details cultural promotion by embedding values into daily operations, socializing ethics through ongoing communication, and fostering continuous improvement and learning (Cultural Promotion: 125). Overall, the CEO demonstrates exceptional leadership in integrating ethics comprehensively into high-stakes decisions.\"}",
+  "scores": {
+    "Decision Frameworks": 135,
+    "Transparency and Accountability": 130,
+    "Cultural Promotion": 125
+  },
+  "total": 130.0,
+  "comments": "The answer thoroughly outlines multiple well-established ethical decision frameworks including utilitarian, rights-based, and justice-based perspectives, showing a sophisticated approach to ethical decision-making (Decision Frameworks: 135). It emphasizes transparency and accountability through communication of ethical rationales internally and externally, clear ownership of monitoring, and post-decision ethics reviews (Transparency and Accountability: 130). Additionally, it details cultural promotion by embedding values into daily operations, socializing ethics through ongoing communication, and fostering continuous improvement and learning (Cultural Promotion: 125). Overall, the CEO demonstrates exceptional leadership in integrating ethics comprehensively into high-stakes decisions."
+}

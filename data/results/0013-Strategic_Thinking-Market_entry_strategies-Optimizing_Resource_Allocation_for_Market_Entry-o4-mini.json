@@ -1,0 +1,14 @@
+{
+  "question_id": "0013-Strategic_Thinking-Market_entry_strategies-Optimizing_Resource_Allocation_for_Market_Entry",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"resource_prioritization\":135,\"strategic_alignment\":130,\"risk_mitigation\":125,\"overall_score\":130,\"comments\":\"The answer provides a comprehensive, well-structured framework for prioritizing and allocating resources with precise percentages and roles designated, indicating exceptional resource prioritization. Strategic alignment is evident through clear objectives tied directly to business goals, and the governance mechanisms ensure coherence. Risk mitigation is robust, featuring contingency budgets, agile sprint cycles for swift pivots, continuous feedback loops, and decision discipline. Overall, this demonstrates an outstanding level of leadership insight suitable for a high-performing CEO.\"}",
+  "scores": {
+    "Resource prioritization": 135,
+    "Strategic alignment": 130,
+    "Risk mitigation": 125
+  },
+  "total": 130.0,
+  "comments": "The answer provides a comprehensive, well-structured framework for prioritizing and allocating resources with precise percentages and roles designated, indicating exceptional resource prioritization. Strategic alignment is evident through clear objectives tied directly to business goals, and the governance mechanisms ensure coherence. Risk mitigation is robust, featuring contingency budgets, agile sprint cycles for swift pivots, continuous feedback loops, and decision discipline. Overall, this demonstrates an outstanding level of leadership insight suitable for a high-performing CEO."
+}

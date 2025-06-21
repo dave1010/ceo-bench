@@ -1,0 +1,14 @@
+{
+  "question_id": "0112-Leadership_&_Communication-Crisis_communication-Adapting_Messaging_in_Rapidly_Evolving_Situations",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"responsiveness\":120,\"clarity\":130,\"empathy\":125,\"overall_score\":125,\"comments\":\"The answer comprehensively addresses how a CEO can tailor communication during a crisis, covering responsiveness through timely updates and adapting to audiences, clarity via structured and simple messaging, and strong empathy by acknowledging emotions and providing reassurance. The approach is detailed and practical, demonstrating superior understanding and application of effective leadership communication in crisis situations.\"}",
+  "scores": {
+    "Responsiveness": 120,
+    "Clarity": 130,
+    "Empathy": 125
+  },
+  "total": 125.0,
+  "comments": "The answer comprehensively addresses how a CEO can tailor communication during a crisis, covering responsiveness through timely updates and adapting to audiences, clarity via structured and simple messaging, and strong empathy by acknowledging emotions and providing reassurance. The approach is detailed and practical, demonstrating superior understanding and application of effective leadership communication in crisis situations."
+}

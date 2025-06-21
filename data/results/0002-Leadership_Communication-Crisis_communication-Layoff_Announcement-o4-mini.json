@@ -1,0 +1,14 @@
+{
+  "question_id": "0002-Leadership_Communication-Crisis_communication-Layoff_Announcement",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"empathy\":130,\"transparency\":125,\"tone\":130,\"overall_score\":128,\"comments\":\"The statement demonstrates strong empathy by acknowledging the difficulty of the decision and expressing respect and support for impacted employees. Transparency is high as it clearly explains the rationale for the workforce reduction and outlines next steps, including support measures and future plans. The tone is respectful and motivating, maintaining trust and encouraging unity and focus moving forward. Overall, the message reflects a high level of leadership acumen appropriate for a CEO in a challenging situation.\"}",
+  "scores": {
+    "Empathy": 130,
+    "Transparency": 125,
+    "Tone": 130
+  },
+  "total": 128.0,
+  "comments": "The statement demonstrates strong empathy by acknowledging the difficulty of the decision and expressing respect and support for impacted employees. Transparency is high as it clearly explains the rationale for the workforce reduction and outlines next steps, including support measures and future plans. The tone is respectful and motivating, maintaining trust and encouraging unity and focus moving forward. Overall, the message reflects a high level of leadership acumen appropriate for a CEO in a challenging situation."
+}

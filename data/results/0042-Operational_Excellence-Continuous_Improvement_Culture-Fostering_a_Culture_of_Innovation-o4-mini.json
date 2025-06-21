@@ -1,0 +1,14 @@
+{
+  "question_id": "0042-Operational_Excellence-Continuous_Improvement_Culture-Fostering_a_Culture_of_Innovation",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Continuous Improvement Culture",
+  "raw": "{\"leadership_engagement\":135,\"employee_empowerment\":130,\"process_integration\":130,\"overall_score\":132,\"comments\":\"The answer reflects exceptional leadership engagement by detailing the CEO's personal involvement and clear communication of vision. Employee empowerment is strongly addressed through encouragement of bottom-up ideas, psychological safety, and resource allocation. Process integration is comprehensively covered with agile methodologies, innovation metrics, and continuous auditing. The holistic and detailed approach indicates a genius-level understanding of fostering a culture of continuous improvement and innovation.\"}",
+  "scores": {
+    "Leadership Engagement": 135,
+    "Employee Empowerment": 130,
+    "Process Integration": 130
+  },
+  "total": 132.0,
+  "comments": "The answer reflects exceptional leadership engagement by detailing the CEO's personal involvement and clear communication of vision. Employee empowerment is strongly addressed through encouragement of bottom-up ideas, psychological safety, and resource allocation. Process integration is comprehensively covered with agile methodologies, innovation metrics, and continuous auditing. The holistic and detailed approach indicates a genius-level understanding of fostering a culture of continuous improvement and innovation."
+}

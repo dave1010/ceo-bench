@@ -1,0 +1,14 @@
+{
+  "question_id": "0029-Operational_Excellence-Process_improvement-Identifying_Bottlenecks_in_Workflow",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"proactive_detection\":130,\"problem_solving\":125,\"continuous_improvement\":140,\"overall_score\":131.7,\"comments\":\"The answer demonstrates exceptional understanding of proactive detection by emphasizing real-time monitoring, leading indicators, and comprehensive process visibility. Problem solving is robust with rapid root-cause analysis and targeted pilot interventions ensuring timely and effective responses. Continuous improvement is strongly embodied through fostering a culture of Kaizen, standardized work, and transparent feedback mechanisms. Overall, this reflects a high-level CEO capability in managing operational bottlenecks proactively and sustainably.\"}",
+  "scores": {
+    "Proactive Detection": 130,
+    "Problem Solving": 125,
+    "Continuous Improvement": 140
+  },
+  "total": 131.7,
+  "comments": "The answer demonstrates exceptional understanding of proactive detection by emphasizing real-time monitoring, leading indicators, and comprehensive process visibility. Problem solving is robust with rapid root-cause analysis and targeted pilot interventions ensuring timely and effective responses. Continuous improvement is strongly embodied through fostering a culture of Kaizen, standardized work, and transparent feedback mechanisms. Overall, this reflects a high-level CEO capability in managing operational bottlenecks proactively and sustainably."
+}

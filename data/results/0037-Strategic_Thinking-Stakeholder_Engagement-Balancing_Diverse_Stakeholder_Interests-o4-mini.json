@@ -1,0 +1,14 @@
+{
+  "question_id": "0037-Strategic_Thinking-Stakeholder_Engagement-Balancing_Diverse_Stakeholder_Interests",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder Engagement",
+  "raw": "{\"listening_and_empathy\":130,\"strategic_negotiation\":135,\"transparency\":140,\"overall_score\":135,\"comments\":\"The answer demonstrates a deep understanding of aligning diverse stakeholders by actively engaging their perspectives (listening_and_empathy), skillfully negotiating common objectives and incentive structures (strategic_negotiation), and maintaining comprehensive, open communication across the board (transparency). The detailed, multi-faceted approach indicates exceptional CEO leadership with a strong long-term strategic vision and execution plan, justifying high scores across all dimensions.\"}",
+  "scores": {
+    "Listening and Empathy": 130,
+    "Strategic Negotiation": 135,
+    "Transparency": 140
+  },
+  "total": 135.0,
+  "comments": "The answer demonstrates a deep understanding of aligning diverse stakeholders by actively engaging their perspectives (listening_and_empathy), skillfully negotiating common objectives and incentive structures (strategic_negotiation), and maintaining comprehensive, open communication across the board (transparency). The detailed, multi-faceted approach indicates exceptional CEO leadership with a strong long-term strategic vision and execution plan, justifying high scores across all dimensions."
+}

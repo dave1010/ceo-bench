@@ -1,0 +1,25 @@
+Overall Rating: 4 out of 5  
+
+1. Risk-Governance Framework  
+  • The CEO has put in place a formal enterprise‐risk management (ERM) framework, with clear ownership, escalation paths and quarterly reviews at the executive and board levels.  
+  • A cross‐functional Risk & Resilience Committee meets monthly to update a centralized risk register and confirm that mitigations are on track.  
+
+2. Proactive Risk Identification  
+  • Strategic‐foresight exercises (including “war-gaming” and scenario planning) are held annually to surface emerging geopolitical, regulatory, competitive and technology risks.  
+  • External advisors (e.g., industry analysts, legal counsel, sustainability experts) are engaged to challenge internal blind spots.  
+
+3. Early Warning and Monitoring  
+  • The CEO sponsors a real‐time risk dashboard that pulls data from finance, supply‐chain, operations and cyber‐security systems to flag anomalies.  
+  • Quarterly “deep dives” on top‐10 risks ensure the executive team stays focused on highest-impact threats.  
+
+4. Crisis Preparedness and Response  
+  • Business continuity and crisis‐response plans exist for key sites and functions; tabletop exercises are run twice a year.  
+  • A dedicated Crisis Communications Team reports directly to the CEO to ensure rapid, coordinated stakeholder messaging.  
+
+5. Areas for Strengthening  
+  • Integrate advanced analytics or AI tools to detect early signals of market or reputational risk.  
+  • Expand the scope of scenario planning to include longer-term, non-linear risks (e.g., climate shocks, talent shortages).  
+  • Conduct an annual third-party audit of the ERM process to validate assumptions and stress-test controls.  
+
+Conclusion  
+The CEO demonstrates a solid, structured approach to identifying and preparing for risks—balancing internal processes with external validation and regular board engagement. With deeper investment in predictive analytics and periodic third-party reviews, the organization’s resilience and forward-looking readiness could reach best-in-class levels.

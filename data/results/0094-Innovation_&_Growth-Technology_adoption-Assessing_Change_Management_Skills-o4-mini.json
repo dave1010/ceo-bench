@@ -1,0 +1,14 @@
+{
+  "question_id": "0094-Innovation_&_Growth-Technology_adoption-Assessing_Change_Management_Skills",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"leadership_in_change\":130,\"employee_engagement\":125,\"implementation_agility\":120,\"overall_score\":125,\"comments\":\"The CEO exemplifies exceptional leadership in guiding technological change with a clear vision, inclusive governance, and effective communication strategies. High adoption rates, minimal downtime, and strong employee engagement metrics evidence successful buy-in and proactive resistance management. The structured training, hands-on support, and real-time feedback culture reflect notable implementation agility, ensuring operational continuity and continuous improvement. Minor opportunities remain to enhance real-time analytics and peer coaching, but overall, the approach significantly outperforms typical standards, justifying scores well above average.\"}",
+  "scores": {
+    "Leadership in change": 130,
+    "Employee engagement": 125,
+    "Implementation agility": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO exemplifies exceptional leadership in guiding technological change with a clear vision, inclusive governance, and effective communication strategies. High adoption rates, minimal downtime, and strong employee engagement metrics evidence successful buy-in and proactive resistance management. The structured training, hands-on support, and real-time feedback culture reflect notable implementation agility, ensuring operational continuity and continuous improvement. Minor opportunities remain to enhance real-time analytics and peer coaching, but overall, the approach significantly outperforms typical standards, justifying scores well above average."
+}

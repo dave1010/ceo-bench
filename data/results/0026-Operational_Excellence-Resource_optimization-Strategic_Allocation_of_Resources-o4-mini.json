@@ -1,0 +1,14 @@
+{
+  "question_id": "0026-Operational_Excellence-Resource_optimization-Strategic_Allocation_of_Resources",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"alignment_with_strategic_goals\":115,\"efficiency_of_use\":110,\"flexibility_and_adaptability\":105,\"overall_score\":110,\"comments\":\"The CEO shows strong alignment of resources with strategic priorities through clear goal-setting and transparent budgeting processes. The use of zero-based budgeting and portfolio reviews indicates efficient utilization of resources, reducing non-strategic spend. There is evidence of flexibility via quarterly reallocation meetings, although occasional fast-tracking of non-core requests suggests room for improvement. Overall, performance demonstrates capable leadership with effective resource alignment and management.\"}",
+  "scores": {
+    "Alignment with Strategic Goals": 115,
+    "Efficiency of Use": 110,
+    "Flexibility and Adaptability": 105
+  },
+  "total": 110.0,
+  "comments": "The CEO shows strong alignment of resources with strategic priorities through clear goal-setting and transparent budgeting processes. The use of zero-based budgeting and portfolio reviews indicates efficient utilization of resources, reducing non-strategic spend. There is evidence of flexibility via quarterly reallocation meetings, although occasional fast-tracking of non-core requests suggests room for improvement. Overall, performance demonstrates capable leadership with effective resource alignment and management."
+}

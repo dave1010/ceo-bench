@@ -1,0 +1,14 @@
+{
+  "question_id": "0114-Financial_Acumen-Financial_modeling-Evaluating_Scenario_Planning_Skills",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial modeling",
+  "raw": "{\"scenario_inclusion\":135,\"assumption_transparency\":130,\"decision_support\":140,\"overall_score\":135,\"comments\":\"The CEO demonstrates exceptional capability in incorporating multiple relevant scenarios, including base, upside, downside, and stress cases, and uses probability weightings effectively. Assumptions are clearly documented and regularly updated with a strong feedback loop enhancing transparency. The modeling insights are deeply integrated into strategic decision-making with structured dashboards and decision gates, supporting highly informed choices. Areas such as inter-scenario correlations and cross-functional stress-testing present opportunities for further enhancement, but overall the performance is outstanding.\"}",
+  "scores": {
+    "Scenario Inclusion": 135,
+    "Assumption Transparency": 130,
+    "Decision Support": 140
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates exceptional capability in incorporating multiple relevant scenarios, including base, upside, downside, and stress cases, and uses probability weightings effectively. Assumptions are clearly documented and regularly updated with a strong feedback loop enhancing transparency. The modeling insights are deeply integrated into strategic decision-making with structured dashboards and decision gates, supporting highly informed choices. Areas such as inter-scenario correlations and cross-functional stress-testing present opportunities for further enhancement, but overall the performance is outstanding."
+}

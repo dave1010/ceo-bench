@@ -1,0 +1,14 @@
+{
+  "question_id": "0060-Leadership_&_Communication-Crisis_communication-Navigating_Unexpected_Challenges",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"proactivity\":140,\"clarity_of_communication\":135,\"stakeholder_confidence\":130,\"overall_score\":135,\"comments\":\"The CEO demonstrates exceptional proactivity by embedding enterprise-wide risk sensing, conducting scenario-planning workshops, and maintaining crisis-response structures. Communication strategies are clear and transparent, with consistent, honest messaging both internally and externally. Stakeholder confidence is strongly maintained through proactive briefings and trustworthy updates. Overall, this response reflects a genius-level approach, well beyond typical CEO performance.\"}",
+  "scores": {
+    "Proactivity": 140,
+    "Clarity of Communication": 135,
+    "Stakeholder Confidence": 130
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates exceptional proactivity by embedding enterprise-wide risk sensing, conducting scenario-planning workshops, and maintaining crisis-response structures. Communication strategies are clear and transparent, with consistent, honest messaging both internally and externally. Stakeholder confidence is strongly maintained through proactive briefings and trustworthy updates. Overall, this response reflects a genius-level approach, well beyond typical CEO performance."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0035-Strategic_Thinking-Competitive_analysis-Learning_from_Competitors",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive analysis",
+  "raw": "{\"insight_extraction\":135,\"benchmarking_practices\":130,\"open_innovation\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates a sophisticated and structured approach to learning from competitors, viewing them as a 'living laboratory' and employing diverse, complementary methods to extract actionable insights. The CEO's emphasis on analysis and application in bi-monthly strategic reviews shows exceptional insight extraction ability. The use of formal benchmarking tools and regular reviews reflects strong benchmarking practices. The encouragement of open innovation is evident in adopting competitor lessons and engaging external networks and resources. Overall, this reflects a high level of leadership competence likely to yield extraordinary organizational performance.\"}",
+  "scores": {
+    "Insight Extraction": 135,
+    "Benchmarking Practices": 130,
+    "Open Innovation": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a sophisticated and structured approach to learning from competitors, viewing them as a 'living laboratory' and employing diverse, complementary methods to extract actionable insights. The CEO's emphasis on analysis and application in bi-monthly strategic reviews shows exceptional insight extraction ability. The use of formal benchmarking tools and regular reviews reflects strong benchmarking practices. The encouragement of open innovation is evident in adopting competitor lessons and engaging external networks and resources. Overall, this reflects a high level of leadership competence likely to yield extraordinary organizational performance."
+}

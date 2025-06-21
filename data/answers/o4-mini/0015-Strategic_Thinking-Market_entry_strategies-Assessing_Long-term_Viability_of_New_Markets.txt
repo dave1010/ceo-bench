@@ -1,0 +1,29 @@
+To ensure we only enter markets that can sustain us—and grow—over the long haul, we’ve built a multi-stage, cross-functional screening and validation process that looks roughly like this:
+
+1. Initial Market Screening  
+   • High-level filters on market size (current & forecast CAGR), regulatory complexity, ease of doing business, currency and political stability.  
+   • Quick-win “red flags” (e.g., trade restrictions, unscalable distribution channels, prohibitive tax regimes).
+
+2. In-Depth Due Diligence  
+   • PESTEL and Porters Five Forces analyses to map competitive dynamics, supplier power, buyer power, threat of new entrants/substitutes, and regulatory risk.  
+   • Macro-economic forecasting (GDP growth, urbanization, digital adoption curves) plus demographic and consumer-behavior studies.  
+   • Primary research—surveys, focus groups, expert interviews—to validate willingness to pay, unmet needs, price sensitivity.
+
+3. Financial & Scenario Modeling  
+   • Detailed three-year (minimum) P&L, cash-flow, and balance-sheet projections, stress-tested under best-/base-/worst-case scenarios.  
+   • Key metrics: IRR, NPV, payback period, margin sensitivity vs. volume, and required CapEx/Opex.  
+   • Monte Carlo or sensitivity analyses on critical assumptions (e.g., adoption rate, churn, price erosion).
+
+4. Pilot or “Minimum Viable Launch”  
+   • Small-scale market test or limited‐scope partnership to validate distribution, pricing, channel economics, and customer acquisition costs in real time.  
+   • Rapid-cycle learnings built back into models and go/no-go criteria.
+
+5. Formal Stage-Gate Governance  
+   • Each of the four steps above culminates in a “gate review” by our Global Market‐Entry Council (cross‐functional execs from finance, legal, operations, sales, R&D and risk).  
+   • Standardized scorecard: strategic fit, financial returns vs. hurdle rate, risk appetite, organizational readiness.
+
+6. Post-Entry Monitoring & Adaptation  
+   • KPIs tracked on a dashboard (market share, unit economics, regulatory changes, local competitive moves).  
+   • Quarterly “health checks” that can trigger go-fast, pause, or exit strategies if underlying assumptions shift.
+
+By layering quantitative models with real-world pilots and rigorous governance gates, we ensure every market decision rests on hard data, realistic forecasts and clear, predefined criteria for sustainability and growth.

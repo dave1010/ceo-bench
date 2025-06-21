@@ -1,0 +1,14 @@
+{
+  "question_id": "0017-Strategic_Thinking-Long-term_Planning-Visionary_Strategy_Development",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Planning",
+  "raw": "{\"clarity_of_vision\":130,\"engagement\":125,\"adaptability\":120,\"overall_score\":125,\"comments\":\"The CEO outlines a comprehensive, clearly articulated vision-setting process grounded in data and purpose, demonstrating exceptional clarity of vision. The approach emphasizes extensive stakeholder engagement and multiple communication channels to inspire and gain commitment, reflecting high engagement. Furthermore, the process includes regular reviews, feedback solicitation, and transparent course corrections, showcasing adaptability to changing market conditions. Overall, this reflects an outstanding leadership approach to crafting and communicating a long-term vision.\"}",
+  "scores": {
+    "Clarity of vision": 130,
+    "Engagement": 125,
+    "Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO outlines a comprehensive, clearly articulated vision-setting process grounded in data and purpose, demonstrating exceptional clarity of vision. The approach emphasizes extensive stakeholder engagement and multiple communication channels to inspire and gain commitment, reflecting high engagement. Furthermore, the process includes regular reviews, feedback solicitation, and transparent course corrections, showcasing adaptability to changing market conditions. Overall, this reflects an outstanding leadership approach to crafting and communicating a long-term vision."
+}

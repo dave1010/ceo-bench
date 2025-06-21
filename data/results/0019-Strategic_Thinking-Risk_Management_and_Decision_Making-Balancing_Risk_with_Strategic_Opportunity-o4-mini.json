@@ -1,0 +1,14 @@
+{
+  "question_id": "0019-Strategic_Thinking-Risk_Management_and_Decision_Making-Balancing_Risk_with_Strategic_Opportunity",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management and Decision Making",
+  "raw": "{\"analytical_frameworks\":135,\"balance_of_risk_and_reward\":130,\"flexibility_and_adaptability\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates a highly sophisticated and structured approach to risk assessment, employing multiple analytical tools such as scenario analysis, Monte Carlo simulations, and decision trees. It balances risk and reward effectively through a clear risk appetite and governance framework, prioritization, pilot testing, and contingency planning. Flexibility is evident in ongoing monitoring, adaptive governance, and fostering an informed-risk culture that embraces learning and adjustment. Overall, this reflects a CEO leadership style that is both visionary and prudent, meriting a high Leadership Quotient score.\"}",
+  "scores": {
+    "Analytical Frameworks": 135,
+    "Balance of Risk and Reward": 130,
+    "Flexibility and Adaptability": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a highly sophisticated and structured approach to risk assessment, employing multiple analytical tools such as scenario analysis, Monte Carlo simulations, and decision trees. It balances risk and reward effectively through a clear risk appetite and governance framework, prioritization, pilot testing, and contingency planning. Flexibility is evident in ongoing monitoring, adaptive governance, and fostering an informed-risk culture that embraces learning and adjustment. Overall, this reflects a CEO leadership style that is both visionary and prudent, meriting a high Leadership Quotient score."
+}

@@ -1,0 +1,71 @@
+Below is a high‐level roadmap your SaaS business should follow to align with the latest GDPR expectations:
+
+1. Data Inventory & Mapping  
+   • Catalog every category of personal data you collect, process or store.  
+   • Document data flows (collection points, transfers, third-party processors, storage locations).  
+
+2. Define Lawful Bases  
+   • For each processing activity, record your legal basis (consent, contract-performance, legitimate interest, legal obligation, vital interests or public task).  
+   • If you rely on “legitimate interest,” complete and document a balancing test.  
+
+3. Update Privacy Notices  
+   • Publish a clear, concise privacy policy covering:  
+     – Categories of data collected  
+     – Purposes of processing  
+     – Data retention periods  
+     – User rights and how to exercise them  
+     – International transfer safeguards  
+
+4. Consent Management  
+   • Where consent is your basis, ensure it is freely given, specific, informed and unambiguous (opt-in).  
+   • Maintain granular records of consent (who, when, for what).  
+   • Provide easy mechanisms for withdrawal.  
+
+5. Appointment of a Data Protection Officer (if required)  
+   • Mandated if you are a public authority, carry out large-scale sensitive data processing, or core-process data subjects’ rights  
+   • Otherwise designate a knowledgeable privacy lead and publicize contact details  
+
+6. Conduct DPIAs (Data Protection Impact Assessments)  
+   • Trigger when any processing is “high risk” (e.g., profiling, large-scale monitoring, new technologies).  
+   • Identify and mitigate privacy risks before launch.  
+
+7. Data Subject Rights Management  
+   • Implement processes and tools to handle requests for:  
+     – Access, rectification, erasure (the “right to be forgotten”)  
+     – Restriction or objection to processing  
+     – Data portability  
+   • Respond within one month of request (two months max if complex).  
+
+8. Vendor & Subprocessor Controls  
+   • Vet all third-party processors for GDPR compliance.  
+   • Execute or update Data Processing Agreements (DPAs) including EU Standard Contractual Clauses or equivalent safeguards.  
+   • Maintain an up-to-date subprocessor list and notify customers of changes.  
+
+9. International Data Transfers  
+   • Rely on EU adequacy decisions, Standard Contractual Clauses, Binding Corporate Rules or approved Codes of Conduct.  
+   • Document transfer mechanisms in your records of processing activities.  
+
+10. Technical & Organizational Security Measures  
+   • Apply “privacy by design and by default.”  
+   • Adopt encryption, pseudonymization, role-based access control, intrusion detection, logging and regular vulnerability testing.  
+   • Maintain an information-security management program and audit it regularly.  
+
+11. Breach Response & Notification  
+   • Establish an incident-response plan.  
+   • Notify the lead Supervisory Authority within 72 hours of becoming aware of a personal-data breach.  
+   • Inform affected data subjects without undue delay if there is a high risk to their rights and freedoms.  
+
+12. Data Retention & Deletion Policies  
+   • Define retention schedules for each data category.  
+   • Automate secure deletion or anonymization when data is no longer required.  
+
+13. Employee Training & Awareness  
+   • Regularly train staff on GDPR fundamentals, security best practices and breach-reporting procedures.  
+   • Reinforce a privacy-first culture at all levels.  
+
+14. Ongoing Monitoring & Governance  
+   • Maintain a comprehensive Record of Processing Activities (RoPA).  
+   • Periodically audit compliance, review policies and update risk assessments.  
+   • Keep abreast of new guidelines from the EDPB and national Supervisory Authorities.
+
+By embedding these steps into your product development lifecycle, vendor management, HR and incident-response processes, your SaaS company will be in strong shape to meet GDPR’s transparency, accountability and data-subject-rights requirements.

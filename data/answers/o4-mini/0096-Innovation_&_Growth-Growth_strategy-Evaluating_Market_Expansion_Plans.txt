@@ -1,0 +1,44 @@
+A CEO’s job isn’t simply to chase every “hot” idea, but to build a repeatable, disciplined way of finding, sizing and sequencing the few new markets that will move the needle on long-term value.  Below is a high-level playbook most CEOs follow to assess and prioritize new opportunities for sustainable growth:
+
+1. Clarify Strategic Frame  
+   • Revisit the company’s North Star (vision, mission, core competencies, and purpose)  
+   • Define the investment horizon (Horizon 1: defend core; Horizon 2: expand adjacencies; Horizon 3: explore new bets)  
+
+2. Screen & Filter  
+   • Macro-environment scan (PESTEL, global trade, regulatory, technology trends)  
+   • Portfolio map (existing businesses vs. adjacent or transformational)  
+   • “Must-have” filters (e.g. market size > $X bn; growth rate > Y%; regulatory feasibility; minimum acceptable margin)  
+
+3. Quantify Market Attractiveness  
+   • Total Addressable Market (TAM), Serviceable Available Market (SAM) and Serviceable Obtainable Market (SOM)  
+   • Growth trajectory, competitive intensity (Porter’s Five Forces), and customer willingness to pay  
+   • Profit pools and business model scalability  
+
+4. Assess Internal Fit & Risk  
+   • Capability gap analysis (R&D, sales channels, supply chain, technology)  
+   • Resource requirements (capital, talent, partnerships) and opportunity cost vs. defending core business  
+   • Key risks (regulatory, geopolitical, execution, currency, ESG) and mitigation plans  
+
+5. Build the Business Case  
+   • High-level P&L, cash-flow and risk-adjusted NPV or IRR  
+   • Scenario planning (best, base, worst)  
+   • Pilot/Kick-starter design or fast-follower strategy to test assumptions  
+
+6. Prioritize via a Scoring Model  
+   • Weighted-criteria matrix: strategic fit, value potential, speed to market, ease of execution, risk level  
+   • Rank opportunities:  
+      – A-bets (high value, low risk, quick wins)  
+      – B-bets (solid value but require capability building)  
+      – C-bets (transformational but high risk or longer horizon)  
+
+7. Resource Allocation & Stage-Gate Governance  
+   • Set clear stage-gate milestones (proof of concept, MVP, scale-up)  
+   • Assign cross-functional sponsorship and accountability  
+   • Tie funding to milestone reviews—re-allocate capital as learnings emerge  
+
+8. Institutionalize the Feedback Loop  
+   • Agile performance dashboards and leading KPIs (customer acquisition cost, adoption rates, churn, unit economics)  
+   • Quarterly strategy reviews to re-score and re-prioritize the pipeline  
+   • Lessons-learned forums to capture best practices and update the screening criteria  
+
+By embedding this structured, data-driven process into the leadership rhythm, the CEO ensures that new market entries aren’t one-off gambles but deliberate, continuously optimized drivers of sustainable, long-term growth.

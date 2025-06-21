@@ -1,0 +1,14 @@
+{
+  "question_id": "0120-Risk_&_Ethics-Risk_mitigation-Building_a_Risk_Awareness_Culture",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"leadership_in_risk_culture\":135,\"employee_engagement\":130,\"continuous_improvement\":130,\"overall_score\":132,\"comments\":\"The answer comprehensively addresses the CEO's role in fostering risk awareness by setting the tone, establishing clear governance, empowering employees, ensuring psychological safety, and reinforcing accountability. It demonstrates strong leadership by actively promoting transparency and accountability (Leadership in Risk Culture: 135). Employee engagement is thoroughly covered through training, reporting channels, and recognition programs, empowering all staff levels to identify and communicate risks (Employee Engagement: 130). Continuous improvement is well integrated through blameless lessons learned sessions and updating processes based on feedback, indicating a mature risk culture (Continuous Improvement: 130). Overall, the response reflects an exceptional understanding and execution potential for fostering a robust risk culture, meriting a high overall score.\"}",
+  "scores": {
+    "Leadership in Risk Culture": 135,
+    "Employee Engagement": 130,
+    "Continuous Improvement": 130
+  },
+  "total": 132.0,
+  "comments": "The answer comprehensively addresses the CEO's role in fostering risk awareness by setting the tone, establishing clear governance, empowering employees, ensuring psychological safety, and reinforcing accountability. It demonstrates strong leadership by actively promoting transparency and accountability (Leadership in Risk Culture: 135). Employee engagement is thoroughly covered through training, reporting channels, and recognition programs, empowering all staff levels to identify and communicate risks (Employee Engagement: 130). Continuous improvement is well integrated through blameless lessons learned sessions and updating processes based on feedback, indicating a mature risk culture (Continuous Improvement: 130). Overall, the response reflects an exceptional understanding and execution potential for fostering a robust risk culture, meriting a high overall score."
+}

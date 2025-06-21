@@ -1,0 +1,14 @@
+{
+  "question_id": "0055-Leadership_&_Communication-Change_Management-Leading_Organizational_Change",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Change Management",
+  "raw": "{\"communication_strategy\":135,\"employee_engagement\":130,\"adaptability\":128,\"overall_score\":131,\"comments\":\"The CEO excels in communication strategy by consistently providing clear, vision-driven messaging and employing multi-channel communication approaches. Employee engagement is strong, as evidenced by strategic involvement of various organizational levels and regular feedback mechanisms. Adaptability is also high, with demonstrated willingness to pivot tactics based on feedback. Opportunities exist to enhance engagement with middle managers earlier and to tailor messaging further, suggesting a path to even greater effectiveness.\"}",
+  "scores": {
+    "Communication Strategy": 135,
+    "Employee Engagement": 130,
+    "Adaptability": 128
+  },
+  "total": 131.0,
+  "comments": "The CEO excels in communication strategy by consistently providing clear, vision-driven messaging and employing multi-channel communication approaches. Employee engagement is strong, as evidenced by strategic involvement of various organizational levels and regular feedback mechanisms. Adaptability is also high, with demonstrated willingness to pivot tactics based on feedback. Opportunities exist to enhance engagement with middle managers earlier and to tailor messaging further, suggesting a path to even greater effectiveness."
+}

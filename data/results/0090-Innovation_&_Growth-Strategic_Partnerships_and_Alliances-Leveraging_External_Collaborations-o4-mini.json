@@ -1,0 +1,14 @@
+{
+  "question_id": "0090-Innovation_&_Growth-Strategic_Partnerships_and_Alliances-Leveraging_External_Collaborations",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Strategic Partnerships and Alliances",
+  "raw": "{\"partnership_strategy\":135,\"value_creation\":130,\"relationship_management\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates a deep and systematic understanding of cultivating strategic partnerships aligned with innovation and growth objectives. It outlines a comprehensive approach from strategy framing through partner selection, mutual value creation, agile collaboration, governance, ecosystem leverage, organizational embedding, and disciplined scaling or exit. The CEO's active involvement and emphasis on mutual trust, measurable outcomes, and culture embedment are clearly articulated, reflecting high-level leadership capabilities likely to drive exceptional organizational performance.\"}",
+  "scores": {
+    "Partnership Strategy": 135,
+    "Value Creation": 130,
+    "Relationship Management": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a deep and systematic understanding of cultivating strategic partnerships aligned with innovation and growth objectives. It outlines a comprehensive approach from strategy framing through partner selection, mutual value creation, agile collaboration, governance, ecosystem leverage, organizational embedding, and disciplined scaling or exit. The CEO's active involvement and emphasis on mutual trust, measurable outcomes, and culture embedment are clearly articulated, reflecting high-level leadership capabilities likely to drive exceptional organizational performance."
+}

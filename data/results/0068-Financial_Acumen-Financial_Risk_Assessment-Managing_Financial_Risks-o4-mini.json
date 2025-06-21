@@ -1,0 +1,14 @@
+{
+  "question_id": "0068-Financial_Acumen-Financial_Risk_Assessment-Managing_Financial_Risks",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Risk Assessment",
+  "raw": "{\"risk_identification\":135,\"mitigation_strategies\":130,\"monitoring_&_adaptation\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates exceptional ability in identifying financial risks proactively through scenario analysis, early warning signals, and cross-functional collaboration, reflected in a high Risk Identification score. Their design and execution of comprehensive mitigation strategies, including formal ERM structures, layered internal controls, and tactical cash protections, merit a similarly strong score. Continuous monitoring through risk huddles, dynamic liquidity management, and active board engagement demonstrates adaptability and vigilance, warranting a slightly lower but still excellent score. The overall performance is exceptional, close to 'genius' level, indicating strong leadership in financial risk management with minor areas identified for future enhancement.\"}",
+  "scores": {
+    "Risk Identification": 135,
+    "Mitigation Strategies": 130,
+    "Monitoring & Adaptation": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional ability in identifying financial risks proactively through scenario analysis, early warning signals, and cross-functional collaboration, reflected in a high Risk Identification score. Their design and execution of comprehensive mitigation strategies, including formal ERM structures, layered internal controls, and tactical cash protections, merit a similarly strong score. Continuous monitoring through risk huddles, dynamic liquidity management, and active board engagement demonstrates adaptability and vigilance, warranting a slightly lower but still excellent score. The overall performance is exceptional, close to 'genius' level, indicating strong leadership in financial risk management with minor areas identified for future enhancement."
+}

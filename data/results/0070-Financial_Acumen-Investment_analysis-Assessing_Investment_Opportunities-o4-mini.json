@@ -1,0 +1,14 @@
+{
+  "question_id": "0070-Financial_Acumen-Investment_analysis-Assessing_Investment_Opportunities",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment analysis",
+  "raw": "{\"risk_assessment\":130,\"return_projections\":125,\"strategic_fit\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a thorough and structured approach to evaluating risks, including identifying various types of risks, using a scoring matrix, and integrating mitigation strategies. The financial return projections are comprehensive, employing detailed modeling techniques and sensitivity analyses. Strategic fit is well addressed through aligning investments with long-term objectives and cultural considerations. Overall, the response reflects high-level CEO thinking with robust integration of quantitative and qualitative factors, warranting a strong leadership quotient.\"}",
+  "scores": {
+    "Risk Assessment": 130,
+    "Return Projections": 125,
+    "Strategic Fit": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a thorough and structured approach to evaluating risks, including identifying various types of risks, using a scoring matrix, and integrating mitigation strategies. The financial return projections are comprehensive, employing detailed modeling techniques and sensitivity analyses. Strategic fit is well addressed through aligning investments with long-term objectives and cultural considerations. Overall, the response reflects high-level CEO thinking with robust integration of quantitative and qualitative factors, warranting a strong leadership quotient."
+}

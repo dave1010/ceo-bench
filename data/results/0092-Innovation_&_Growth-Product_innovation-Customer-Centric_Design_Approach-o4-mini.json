@@ -1,0 +1,14 @@
+{
+  "question_id": "0092-Innovation_&_Growth-Product_innovation-Customer-Centric_Design_Approach",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Product innovation",
+  "raw": "{\"customer_engagement\":135,\"integration_of_feedback\":140,\"outcome_focus\":130,\"overall_score\":135.0,\"comments\":\"The answer outlines a comprehensive and systematic approach for embedding customer feedback into product development. The CEO actively engages with customers through various channels and direct interactions, ensuring continuous input (Customer Engagement: 135). Feedback is centrally collected and integrated into agile processes, with dedicated roles and metrics ensuring systematic incorporation into product design (Integration of Feedback: 140). Clear emphasis on linking features to customer impact metrics and public accountability demonstrates strong alignment with customer needs, indicating enhanced user satisfaction (Outcome Focus: 130). Overall, the response reflects an exceptional leadership approach to leveraging customer insights for product innovation.\"}",
+  "scores": {
+    "Customer Engagement": 135,
+    "Integration of Feedback": 140,
+    "Outcome Focus": 130
+  },
+  "total": 135.0,
+  "comments": "The answer outlines a comprehensive and systematic approach for embedding customer feedback into product development. The CEO actively engages with customers through various channels and direct interactions, ensuring continuous input (Customer Engagement: 135). Feedback is centrally collected and integrated into agile processes, with dedicated roles and metrics ensuring systematic incorporation into product design (Integration of Feedback: 140). Clear emphasis on linking features to customer impact metrics and public accountability demonstrates strong alignment with customer needs, indicating enhanced user satisfaction (Outcome Focus: 130). Overall, the response reflects an exceptional leadership approach to leveraging customer insights for product innovation."
+}

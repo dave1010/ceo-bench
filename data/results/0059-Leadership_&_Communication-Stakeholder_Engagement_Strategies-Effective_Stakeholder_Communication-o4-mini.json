@@ -1,0 +1,14 @@
+{
+  "question_id": "0059-Leadership_&_Communication-Stakeholder_Engagement_Strategies-Effective_Stakeholder_Communication",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder Engagement Strategies",
+  "raw": "{\"communication_clarity\":135,\"engagement_frequency\":130,\"responsiveness\":125,\"overall_score\":130.0,\"comments\":\"The CEO demonstrates exceptional communication clarity by crafting a unifying narrative and tailoring messages to diverse stakeholder groups. Engagement frequency is outstanding with a structured multi-channel cadence including town halls, newsletters, and outreach events. Responsiveness is strong, embedding two-way feedback mechanisms and actively following up on concerns. The comprehensive, iterative approach reflects an exceptional standard of leadership communication, fostering alignment and collaboration across stakeholders.\"}",
+  "scores": {
+    "Communication Clarity": 135,
+    "Engagement Frequency": 130,
+    "Responsiveness": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional communication clarity by crafting a unifying narrative and tailoring messages to diverse stakeholder groups. Engagement frequency is outstanding with a structured multi-channel cadence including town halls, newsletters, and outreach events. Responsiveness is strong, embedding two-way feedback mechanisms and actively following up on concerns. The comprehensive, iterative approach reflects an exceptional standard of leadership communication, fostering alignment and collaboration across stakeholders."
+}

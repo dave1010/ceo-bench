@@ -1,0 +1,14 @@
+{
+  "question_id": "0061-Leadership_&_Communication-Crisis_communication-Building_Trust_During_Turmoil",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"transparency\":135,\"empathy\":130,\"consistency\":128,\"overall_score\":131,\"comments\":\"The answer comprehensively addresses the criteria, emphasizing proactive transparency through honest and timely communication, strong empathy via acknowledging harm and ongoing dialogue, and ensuring consistency with unified messaging across functions. The detailed, multi-faceted approach reflects high-level leadership qualities that would build substantial stakeholder trust during crises.\"}",
+  "scores": {
+    "Transparency": 135,
+    "Empathy": 130,
+    "Consistency": 128
+  },
+  "total": 131.0,
+  "comments": "The answer comprehensively addresses the criteria, emphasizing proactive transparency through honest and timely communication, strong empathy via acknowledging harm and ongoing dialogue, and ensuring consistency with unified messaging across functions. The detailed, multi-faceted approach reflects high-level leadership qualities that would build substantial stakeholder trust during crises."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0001-Strategic_Thinking-Market_entry_strategies-European_Expansion",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"strategic_depth\":135,\"feasibility\":130,\"clarity\":140,\"overall_score\":135,\"comments\":\"The plan exhibits exceptional strategic depth with detailed consideration of market dynamics, regulations, customer insights, and entry options. Feasibility is high, with actionable, phased milestones and realistic resource allocation. Clarity is outstanding, with a clear, structured timeline that is easy to follow and comprehensive in scope. Overall, this reflects a genius-level CEO approach to European expansion.\"}",
+  "scores": {
+    "Strategic Depth": 135,
+    "Feasibility": 130,
+    "Clarity": 140
+  },
+  "total": 135.0,
+  "comments": "The plan exhibits exceptional strategic depth with detailed consideration of market dynamics, regulations, customer insights, and entry options. Feasibility is high, with actionable, phased milestones and realistic resource allocation. Clarity is outstanding, with a clear, structured timeline that is easy to follow and comprehensive in scope. Overall, this reflects a genius-level CEO approach to European expansion."
+}

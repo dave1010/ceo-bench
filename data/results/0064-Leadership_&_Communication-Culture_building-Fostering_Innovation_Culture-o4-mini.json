@@ -1,0 +1,14 @@
+{
+  "question_id": "0064-Leadership_&_Communication-Culture_building-Fostering_Innovation_Culture",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"leadership_commitment\":135,\"employee_engagement\":130,\"cultural_norms\":138,\"overall_score\":134.3,\"comments\":\"The answer comprehensively addresses leadership commitment through active CEO involvement, resource allocation, and strategic prioritization of innovation. Employee engagement is well-covered via frontline pitching, cross-functional teams, and encouragement of idea sharing and participation. The cultural norms are strongly fostered by emphasizing psychological safety, celebrating experimentation, tolerating risk, and rewarding innovative behaviors. Overall, the response reflects a high level of leadership quotient, indicating exceptional capability to embed innovation in organizational culture.\"}",
+  "scores": {
+    "Leadership commitment": 135,
+    "Employee engagement": 130,
+    "Cultural norms": 138
+  },
+  "total": 134.3,
+  "comments": "The answer comprehensively addresses leadership commitment through active CEO involvement, resource allocation, and strategic prioritization of innovation. Employee engagement is well-covered via frontline pitching, cross-functional teams, and encouragement of idea sharing and participation. The cultural norms are strongly fostered by emphasizing psychological safety, celebrating experimentation, tolerating risk, and rewarding innovative behaviors. Overall, the response reflects a high level of leadership quotient, indicating exceptional capability to embed innovation in organizational culture."
+}

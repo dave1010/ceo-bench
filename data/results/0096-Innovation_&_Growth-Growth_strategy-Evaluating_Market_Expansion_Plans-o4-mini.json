@@ -1,0 +1,14 @@
+{
+  "question_id": "0096-Innovation_&_Growth-Growth_strategy-Evaluating_Market_Expansion_Plans",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"market_analysis\":130,\"strategic_alignment\":135,\"risk_management\":125,\"overall_score\":130.0,\"comments\":\"The CEO demonstrates a comprehensive and structured approach to assessing new market opportunities, including detailed market analysis through macro-environment scanning, competitive assessment, and clear quantification of market attractiveness. The strategic alignment is strong, with clear connection to the company's vision, mission, and investment horizons. Risk management is thorough, with identification of various risks and explicit mitigation strategies and governance mechanisms. Overall, the answer reflects an exceptionally proficient CEO capable of driving sustainable growth through disciplined and data-driven decision-making.\"}",
+  "scores": {
+    "Market Analysis": 130,
+    "Strategic Alignment": 135,
+    "Risk Management": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates a comprehensive and structured approach to assessing new market opportunities, including detailed market analysis through macro-environment scanning, competitive assessment, and clear quantification of market attractiveness. The strategic alignment is strong, with clear connection to the company's vision, mission, and investment horizons. Risk management is thorough, with identification of various risks and explicit mitigation strategies and governance mechanisms. Overall, the answer reflects an exceptionally proficient CEO capable of driving sustainable growth through disciplined and data-driven decision-making."
+}

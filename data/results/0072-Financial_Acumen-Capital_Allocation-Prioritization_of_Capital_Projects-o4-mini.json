@@ -1,0 +1,14 @@
+{
+  "question_id": "0072-Financial_Acumen-Capital_Allocation-Prioritization_of_Capital_Projects",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Capital Allocation",
+  "raw": "{\"valuation_and_roi\":130,\"risk_consideration\":125,\"strategic_fit\":135,\"overall_score\":130,\"comments\":\"The answer demonstrates a deep understanding of capital allocation by emphasizing risk-adjusted returns, clear financial metrics like NPV and IRR, and the importance of strategic priorities. It integrates risk considerations well through hurdle rates and scenario analyses, ensuring alignment with risk appetite. Strategic fit is strongly addressed by prioritizing projects that advance core business and new growth initiatives. The comprehensive and disciplined framework indicates an exceptional level of leadership insight meriting a high Leadership Quotient score.\"}",
+  "scores": {
+    "Valuation and ROI": 130,
+    "Risk Consideration": 125,
+    "Strategic Fit": 135
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a deep understanding of capital allocation by emphasizing risk-adjusted returns, clear financial metrics like NPV and IRR, and the importance of strategic priorities. It integrates risk considerations well through hurdle rates and scenario analyses, ensuring alignment with risk appetite. Strategic fit is strongly addressed by prioritizing projects that advance core business and new growth initiatives. The comprehensive and disciplined framework indicates an exceptional level of leadership insight meriting a high Leadership Quotient score."
+}

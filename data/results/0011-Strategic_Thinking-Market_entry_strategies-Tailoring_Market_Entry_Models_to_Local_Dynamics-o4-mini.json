@@ -1,0 +1,14 @@
+{
+  "question_id": "0011-Strategic_Thinking-Market_entry_strategies-Tailoring_Market_Entry_Models_to_Local_Dynamics",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"cultural_adaptation\":135,\"regulatory_compliance\":140,\"economic_context\":130,\"overall_score\":135,\"comments\":\"The answer presents a comprehensive and structured approach to adapting market entry models, with strong emphasis on cultural sensitivity through ethnographic research and local leadership hiring. Regulatory compliance is thoroughly addressed with engagement of local advisors, checklists, and contingency planning. Economic factors are well integrated via PESTEL analysis, product localization, and strategic partner selection. The response demonstrates exceptional insight and actionable strategies, reflecting genius-level leadership capability in this domain.\"}",
+  "scores": {
+    "Cultural Adaptation": 135,
+    "Regulatory Compliance": 140,
+    "Economic Context": 130
+  },
+  "total": 135.0,
+  "comments": "The answer presents a comprehensive and structured approach to adapting market entry models, with strong emphasis on cultural sensitivity through ethnographic research and local leadership hiring. Regulatory compliance is thoroughly addressed with engagement of local advisors, checklists, and contingency planning. Economic factors are well integrated via PESTEL analysis, product localization, and strategic partner selection. The response demonstrates exceptional insight and actionable strategies, reflecting genius-level leadership capability in this domain."
+}

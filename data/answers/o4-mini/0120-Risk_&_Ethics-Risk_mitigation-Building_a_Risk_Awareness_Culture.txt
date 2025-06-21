@@ -1,0 +1,27 @@
+A CEO who really “owns” enterprise-wide risk awareness does four things in concert: sets the tone, builds structures, equips people, and reinforces the right behaviors.  Here’s how that plays out in practice:
+
+1. Tone-at-the-Top:  
+  • Publicly declare “risk spotting” as part of everyone’s job.  At town halls and in all-hands memos, the CEO reiterates that identifying threats—whether financial, operational, regulatory or reputational—is as valued as driving sales or cutting costs.  
+  • Personally share stories of near-misses or small failures you wish had been caught sooner, to normalize speaking up.
+
+2. Governance & Clear Roles:  
+  • Embed risk-identification responsibilities into every leader’s charter and job description.  Department heads know they are measured not just on what they deliver, but how proactively they surface and manage potential blockages.  
+  • Establish a lightweight, cross-functional Risk Council or “war-room” that meets regularly to triage new issues.  Each function names a “risk champion” who feeds real-time alerts upward.
+
+3. Training & Tools:  
+  • Roll out brief, scenario-based workshops so that front-line staff can recognize common red flags in their day-to-day work.  
+  • Provide simple, low-friction channels—an anonymous hotline, a digital “risk-chat” feed or an app button—to report concerns as soon as they arise.
+
+4. Psychological Safety & Rewards:  
+  • Make it safe to be the “bad‐news bearer.”  Insist that no one is penalized for asking awkward questions or identifying a problem first.  
+  • Actively recognize and publicly thank individuals or teams who surface risks early.  Consider small spot bonuses, “risk-sheriff” awards, or special shout-outs in leadership briefings.
+
+5. Accountability & Follow-Up:  
+  • Track all reported risks in a central register, assign clear owners and deadlines for mitigation plans, and review status weekly at the executive level.  
+  • Close the feedback loop: every reporter should hear back within a defined timeframe on what action was taken and why.
+
+6. Continuous Learning:  
+  • After any significant incident—whether a near-miss or a full-blown crisis—run a blameless “lessons-learned” session and share the findings broadly.  
+  • Update training, checklists and reporting tools based on what you learn so the organization becomes more vigilant over time.
+
+By combining visible leadership, clear governance, the right enablers (training and tech), and an unwavering commitment to psychological safety and recognition, a CEO can turn every employee into a vigilant sentry who flags risks immediately—ensuring the company stays agile and protected against emerging threats.

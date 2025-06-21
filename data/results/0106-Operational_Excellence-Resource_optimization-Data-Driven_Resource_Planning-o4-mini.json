@@ -1,0 +1,14 @@
+{
+  "question_id": "0106-Operational_Excellence-Resource_optimization-Data-Driven_Resource_Planning",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"data_integration\":130,\"proactive_planning\":125,\"decision_impact\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates strong data integration with a robust analytics infrastructure and predictive AI pilots, scoring high in this dimension. Proactive planning is evident through regular rolling forecasts, scenario planning, and cross-functional data councils, meriting a high score. Decision impact is solid given data-driven resource allocation aligned with strategic priorities and incentive plans, though some room for improvement in real-time integration is noted. Overall, the CEO exhibits excellent leadership in utilizing data analytics for resource planning and organizational alignment.\"}",
+  "scores": {
+    "Data Integration": 130,
+    "Proactive Planning": 125,
+    "Decision Impact": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates strong data integration with a robust analytics infrastructure and predictive AI pilots, scoring high in this dimension. Proactive planning is evident through regular rolling forecasts, scenario planning, and cross-functional data councils, meriting a high score. Decision impact is solid given data-driven resource allocation aligned with strategic priorities and incentive plans, though some room for improvement in real-time integration is noted. Overall, the CEO exhibits excellent leadership in utilizing data analytics for resource planning and organizational alignment."
+}

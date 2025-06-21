@@ -1,0 +1,14 @@
+{
+  "question_id": "0122-Innovation_&_Growth-Product_Innovation-Leveraging_Emerging_Technologies",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Product Innovation",
+  "raw": "{\"vision_for_technology_adoption\":135,\"strategic_implementation\":130,\"innovation_culture\":140,\"overall_score\":135,\"comments\":\"The CEO exhibits an exceptionally clear and comprehensive vision for adopting emerging technologies, backed by a strategic and systematic approach. The detailed four-discipline framework reflects deep strategic insight into technology scouting, rigorous evaluation, agile experimentation, and integration. Furthermore, the emphasis on culture, cross-functional teams, and measurable KPIs demonstrates an extraordinary ability to foster innovation throughout the organization, positioning the company for sustained competitive advantage and product innovation.\"}",
+  "scores": {
+    "Vision for Technology Adoption": 135,
+    "Strategic Implementation": 130,
+    "Innovation Culture": 140
+  },
+  "total": 135.0,
+  "comments": "The CEO exhibits an exceptionally clear and comprehensive vision for adopting emerging technologies, backed by a strategic and systematic approach. The detailed four-discipline framework reflects deep strategic insight into technology scouting, rigorous evaluation, agile experimentation, and integration. Furthermore, the emphasis on culture, cross-functional teams, and measurable KPIs demonstrates an extraordinary ability to foster innovation throughout the organization, positioning the company for sustained competitive advantage and product innovation."
+}

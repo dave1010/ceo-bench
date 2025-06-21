@@ -1,0 +1,14 @@
+{
+  "question_id": "0117-Financial_Acumen-Profitability_analysis-Enhancing_Profit_Margins",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Profitability analysis",
+  "raw": "{\"analytical_rigor\":135,\"strategic_adjustments\":130,\"continuous_monitoring\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates exceptional analytical rigor by detailing comprehensive financial analyses, including segmented reporting, activity-based costing, and benchmarking. Strategic adjustments are robustly addressed through pricing optimization, cost reduction, portfolio management, and growth initiatives. Continuous monitoring is emphasized via live dashboards, rolling forecasts, and regular performance reviews, ensuring sustained focus on profitability. Overall, this reflects a high-level, nuanced approach expected of top CEOs, meriting a strong Leadership Quotient score.\"}",
+  "scores": {
+    "Analytical rigor": 135,
+    "Strategic adjustments": 130,
+    "Continuous monitoring": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates exceptional analytical rigor by detailing comprehensive financial analyses, including segmented reporting, activity-based costing, and benchmarking. Strategic adjustments are robustly addressed through pricing optimization, cost reduction, portfolio management, and growth initiatives. Continuous monitoring is emphasized via live dashboards, rolling forecasts, and regular performance reviews, ensuring sustained focus on profitability. Overall, this reflects a high-level, nuanced approach expected of top CEOs, meriting a strong Leadership Quotient score."
+}

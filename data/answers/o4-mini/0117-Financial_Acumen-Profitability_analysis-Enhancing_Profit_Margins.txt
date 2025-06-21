@@ -1,0 +1,47 @@
+Here’s a high-level summary of the sorts of tactics & processes a CEO will typically put in place to both diagnose and then lift profitability across different business units:
+
+1. Segmented Financial Reporting & KPI Dashboards  
+   • Break out P&L by business unit, region, product line or customer segment  
+   • Track key metrics such as contribution margin, EBITDA margin, ROIC, working-capital turns  
+   • Use live dashboards or rolling forecasts so underperformance shows up immediately  
+
+2. Deep-dive Profitability Analysis  
+   • Activity-Based Costing (ABC) to allocate overhead more accurately to products or services  
+   • Contribution-Margin and Cost-Volume-Profit (CVP) analyses to understand breakeven and leverage points  
+   • Benchmark each unit against peers (internal or external) on cost per unit, gross margin, sales-to-headcount ratios  
+
+3. Zero-Based Budgeting & Rolling Forecasts  
+   • Challenge every line item each year (no “last year plus X%”)  
+   • Continually update forecasts month to month as volumes, mix, pricing or input costs shift  
+
+4. Portfolio Management & Capital Allocation  
+   • Rank business units or product lines by ROI, strategic fit and growth potential  
+   • Divest or harvest low-return / non-strategic units; re-invest proceeds where returns exceed the company’s cost of capital  
+   • Use stage-gate investment processes so every big capital outlay has a clear business case and payback timetable  
+
+5. Pricing & Mix Optimization  
+   • Introduce value-based or dynamic pricing models rather than cost-plus  
+   • Use analytics (e.g. price‐elasticity studies, A/B tests) to find the ideal price points for key segments  
+   • Shift sales efforts toward higher-margin products or services  
+
+6. Cost Reduction & Process Improvement  
+   • Deploy Lean, Six Sigma or other continuous‐improvement programs to cut waste and cycle times  
+   • Centralize or outsource non‐core “back-office” functions (IT, procurement, finance shared services)  
+   • Renegotiate supplier contracts in volume or consortium deals  
+
+7. Incentives & Accountability  
+   • Tie BU-leader compensation (bonuses, LTIPs) explicitly to their unit’s P&L, cash flow or ROI targets  
+   • Hold monthly or quarterly performance reviews with BU heads, using a standardized scorecard  
+   • Escalate support or corrective action quickly if any unit falls below defined “guardrails”  
+
+8. Cross-Unit Synergies & Best-Practice Sharing  
+   • Set up “Centres of Excellence” for sales, operations or R&D to spread high-impact practices across units  
+   • Bundle procurement or R&D to exploit scale economies  
+   • Encourage cross-selling between business units to lift average revenue per customer  
+
+9. Strategic Growth Initiatives  
+   • Invest in digital transformation, automation or new tech that both improves margins and scales with minimal incremental cost  
+   • Pursue M&A in pockets of attractive returns; integrate rapidly to capture synergies  
+   • Develop new higher‐margin offerings (services, solutions, aftermarket contracts) around core products  
+
+By layering these tactics—rigorous, driver-based analysis up front, followed by disciplined budgeting, portfolio optimization, pricing leverage, cost containment and incentive alignment—the CEO can continuously monitor each business unit’s health and rapidly redeploy capital or management attention toward the most profitable opportunities.

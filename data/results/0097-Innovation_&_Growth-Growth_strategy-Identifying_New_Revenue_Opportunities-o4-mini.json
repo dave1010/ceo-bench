@@ -1,0 +1,14 @@
+{
+  "question_id": "0097-Innovation_&_Growth-Growth_strategy-Identifying_New_Revenue_Opportunities",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"opportunity_identification\":130,\"strategic_prioritization\":135,\"execution_planning\":130,\"overall_score\":132,\"comments\":\"The answer demonstrates a highly proactive and systematic approach to identifying new revenue streams through continuous market scanning and customer insight processes. The prioritization includes rigorous stage-gate evaluations and strategic alignment scoring, indicating strong evaluative capabilities. Execution planning is detailed with agile pilots, clear success metrics, portfolio management, governance, and incentives, reflecting thorough actionable planning. Overall, this reflects an exceptional CEO capability in sustaining company growth through disciplined innovation management.\"}",
+  "scores": {
+    "Opportunity Identification": 130,
+    "Strategic Prioritization": 135,
+    "Execution Planning": 130
+  },
+  "total": 132.0,
+  "comments": "The answer demonstrates a highly proactive and systematic approach to identifying new revenue streams through continuous market scanning and customer insight processes. The prioritization includes rigorous stage-gate evaluations and strategic alignment scoring, indicating strong evaluative capabilities. Execution planning is detailed with agile pilots, clear success metrics, portfolio management, governance, and incentives, reflecting thorough actionable planning. Overall, this reflects an exceptional CEO capability in sustaining company growth through disciplined innovation management."
+}

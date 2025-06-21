@@ -1,0 +1,14 @@
+{
+  "question_id": "0091-Innovation_&_Growth-Digital_Transformation-Leading_Digital_Initiatives",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Digital Transformation",
+  "raw": "{\"strategic_vision\":130,\"change_management\":125,\"innovation_adoption\":135,\"overall_score\":130,\"comments\":\"The CEO demonstrates an exceptional level of strategic vision by creating and communicating a clear digital roadmap aligned with business goals. Change management is strong, evidenced by effective governance structures (Digital Council), cultural initiatives (Digital Skills Days), and cross-functional collaboration. Innovation adoption is outstanding, with notable advancements in automation, AI-driven personalization, cloud migration, and strategic partnerships that have produced substantial operational and customer engagement gains. Overall, the CEO's leadership in digital transformation is at a 'genius' level, translating into significant organizational performance improvements.\"}",
+  "scores": {
+    "Strategic Vision": 130,
+    "Change Management": 125,
+    "Innovation Adoption": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates an exceptional level of strategic vision by creating and communicating a clear digital roadmap aligned with business goals. Change management is strong, evidenced by effective governance structures (Digital Council), cultural initiatives (Digital Skills Days), and cross-functional collaboration. Innovation adoption is outstanding, with notable advancements in automation, AI-driven personalization, cloud migration, and strategic partnerships that have produced substantial operational and customer engagement gains. Overall, the CEO's leadership in digital transformation is at a 'genius' level, translating into significant organizational performance improvements."
+}

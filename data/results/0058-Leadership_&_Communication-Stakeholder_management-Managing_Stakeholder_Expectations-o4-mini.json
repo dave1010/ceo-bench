@@ -1,0 +1,14 @@
+{
+  "question_id": "0058-Leadership_&_Communication-Stakeholder_management-Managing_Stakeholder_Expectations",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder management",
+  "raw": "{\"communication_approach\":130,\"expectation_alignment\":135,\"responsiveness\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates an exceptional communication approach by detailing clear, stage-specific methods for engaging and informing stakeholders. The expectation alignment is thoroughly addressed through proactive stakeholder mapping, regular reviews, and transparent metrics, showing an active and precise management of expectations. Responsiveness is implied through rapid escalation pathways and formal change-control processes, indicating prompt and decisive action to stakeholder concerns. Overall, the response reflects a highly capable CEO's approach that would foster strong strategic alignment and organizational success.\"}",
+  "scores": {
+    "Communication Approach": 130,
+    "Expectation Alignment": 135,
+    "Responsiveness": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates an exceptional communication approach by detailing clear, stage-specific methods for engaging and informing stakeholders. The expectation alignment is thoroughly addressed through proactive stakeholder mapping, regular reviews, and transparent metrics, showing an active and precise management of expectations. Responsiveness is implied through rapid escalation pathways and formal change-control processes, indicating prompt and decisive action to stakeholder concerns. Overall, the response reflects a highly capable CEO's approach that would foster strong strategic alignment and organizational success."
+}

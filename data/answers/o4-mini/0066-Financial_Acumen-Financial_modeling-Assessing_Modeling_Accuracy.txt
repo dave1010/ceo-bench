@@ -1,0 +1,35 @@
+As CEO, I never take a financial model at face-value. Before letting it guide major strategic bets, I work with our CFO and finance team to put every model through a rigorous “reality check” process. The key steps are:  
+
+1. Clarify Purpose and Scope  
+   – What question is this model trying to answer?  
+   – Which time horizon, business units or product lines are in scope—and which are deliberately excluded?  
+
+2. Validate Inputs and Assumptions  
+   – Trace each line-item back to an auditable source (historical P&Ls, audited financial statements, industry databases, contracts, market reports).  
+   – Challenge key assumptions (growth rates, margin improvements, capital expenditures, working-capital cycles) against both internal history and external benchmarks.  
+   – Insist on written documentation for every macro assumption (e.g. “We assume 5% GDP growth because Oxford Economics projects X”) and each customer or cost driver.  
+
+3. Test Model Logic and Integrity  
+   – Run “sanity checks”: do totals roll up correctly? Are there circular references that could obscure errors?  
+   – Embed error flags—automatic alerts if line items go negative, if ratios stray outside reasonable ranges, or if balance‐sheet items fail to reconcile.  
+   – Perform a peer code review (often a senior FP&A analyst or an external consultant) to catch formula mistakes and hard-coding.  
+
+4. Conduct Sensitivity and Scenario Analyses  
+   – Vary the top three to five value drivers (“What if our churn is 3 points higher? What if capex overruns by 10%?”).  
+   – Build best-case, base-case and worst-case scenarios—and a stress case for “black swan” events.  
+   – Map out decision triggers: “If EBITDA dips below X, we pause expansion.”  
+
+5. Back-Test and Benchmark  
+   – Compare prior forecasts against actual results. Identify systematic biases (were we overly optimistic on volume, too conservative on pricing?).  
+   – Benchmark key metrics (margin, growth, ROIC) against peers and public company data.  
+
+6. Institute Model Governance and Sign-Off  
+   – Maintain version control and a clear audit trail of all changes.  
+   – Require sign-off by the CFO and head of Risk (or an external model auditor for high-stakes deals).  
+   – Establish a quarterly “model review” to update assumptions and to recalibrate based on year-to-date performance.  
+
+7. Continuously Monitor and Refine  
+   – After a decision is made, I track actual performance versus model forecasts. Any variance over a pre-set threshold triggers a root-cause analysis and model refinement.  
+   – This feedback loop ensures our models learn from reality and steadily improve.  
+
+By demanding transparency, testing rigorously, and building in independent review and ongoing feedback, I can have confidence that the financial models underpinning our strategic decisions are both accurate and reliable.

@@ -1,0 +1,14 @@
+{
+  "question_id": "0009-Strategic_Thinking-Market_entry_strategies-Designing_Partnerships_for_Market_Entry",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"partnership_selection_criteria\":130,\"risk_and_benefit_analysis\":125,\"integration_and_collaboration_strategy\":135,\"overall_score\":130,\"comments\":\"The answer thoroughly covers partnership selection criteria by detailing market objectives, partner ecosystem mapping, and strategic/cultural fit assessments. It deeply analyzes risks and benefits throughout the due diligence and pilot stages, emphasizing risk mitigation and value creation. The integration and collaboration strategy is exceptionally clear, covering governance, KPIs, communication cadences, and continuous improvement. Overall, the answer demonstrates genius-level insight into strategic partnerships for international market entry.\"}",
+  "scores": {
+    "Partnership selection criteria": 130,
+    "Risk and benefit analysis": 125,
+    "Integration and collaboration strategy": 135
+  },
+  "total": 130.0,
+  "comments": "The answer thoroughly covers partnership selection criteria by detailing market objectives, partner ecosystem mapping, and strategic/cultural fit assessments. It deeply analyzes risks and benefits throughout the due diligence and pilot stages, emphasizing risk mitigation and value creation. The integration and collaboration strategy is exceptionally clear, covering governance, KPIs, communication cadences, and continuous improvement. Overall, the answer demonstrates genius-level insight into strategic partnerships for international market entry."
+}

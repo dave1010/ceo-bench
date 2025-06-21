@@ -1,0 +1,14 @@
+{
+  "question_id": "0024-Strategic_Thinking-Stakeholder_Alignment-Aligning_Stakeholder_Expectations",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder Alignment",
+  "raw": "{\"communication_clarity\":125,\"negotiation_skill\":130,\"relationship_building\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates exceptional communication clarity through regular, varied forums ensuring all stakeholders understand the company's strategic direction. Their negotiation skills are strong, evident in effective governance structures balancing diverse interests with transparent trade-offs. Relationship building is robust, fostering trust with advisory councils and integrating multiple stakeholder voices in decision-making. Areas for improvement do not significantly detract from overall high proficiency, indicating a strong leadership capability in aligning diverse stakeholder interests.\"}",
+  "scores": {
+    "Communication Clarity": 125,
+    "Negotiation Skill": 130,
+    "Relationship Building": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates exceptional communication clarity through regular, varied forums ensuring all stakeholders understand the company's strategic direction. Their negotiation skills are strong, evident in effective governance structures balancing diverse interests with transparent trade-offs. Relationship building is robust, fostering trust with advisory councils and integrating multiple stakeholder voices in decision-making. Areas for improvement do not significantly detract from overall high proficiency, indicating a strong leadership capability in aligning diverse stakeholder interests."
+}

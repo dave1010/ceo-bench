@@ -1,0 +1,40 @@
+A CEO who takes a disciplined, strategic view of portfolio diversification will treat the company’s balance sheet—or any investment portfolio—much as she treats the business as a whole: as a set of distinct but interacting bets whose combined risk/return profile must fit the company’s overall objectives and risk appetite.  Below is a high-level framework for how a CEO might organize that approach:
+
+1. Clarify objectives and constraints  
+   • Define total return goals (absolute, relative or hurdle-rate based) and time horizon  
+   • Establish a clear risk-appetite statement (e.g. value-at-risk or stress-loss limits)  
+   • Identify liquidity needs, regulatory or covenant constraints, currency and capital-structure parameters  
+
+2. Set a strategic allocation “anchor”  
+   • Allocate capital across broad asset classes (equities, fixed income, alternatives, cash) in line with long-term objectives  
+   • Use a core-satellite model if desired:  
+     – Core: low-volatility, highly liquid holdings sized to match target return  
+     – Satellite: higher-alpha or thematic bets (emerging markets, private equity, real assets) sized to the CEO’s comfort with idiosyncratic risk  
+
+3. Employ risk budgeting and correlation analysis  
+   • Assign each asset class or business unit a risk budget (e.g. 30% equity, 10% credit, 5% commodities) rather than a capital budget  
+   • Analyze historical and forward‐looking correlations to ensure that no single risk factor dominates  
+   • Stress‐test the portfolio under macro scenarios (rate shocks, commodity swings, currency moves)  
+
+4. Layer in tactical (short‐term) tilts  
+   • Based on macro views, valuation gaps or thematic convictions, tilt modestly around the strategic anchor—but cap the scope of any single tactical call  
+   • Use scenario‐planning to estimate contribution to overall volatility and potential drawdowns  
+
+5. Maintain disciplined rebalancing and governance  
+   • Define clear rebalancing bands (e.g. ±2–3% around the strategic weights) and automated triggers  
+   • Review performance attribution and risk contributions at regular intervals (monthly or quarterly)  
+   • Escalate material breaches of risk-limit or concentration limits to a risk committee or the Board  
+
+6. Monitor and manage “hidden” exposures  
+   • Factor in currency, interest-rate, credit and commodity sensitivities even if assets are internally diversified  
+   • Overlay hedges selectively (options, swaps, forwards) when those factor exposures move beyond policy limits  
+
+7. Optimize cost and execution  
+   • Where passive beta suffices, minimize fees and tracking error  
+   • For active/satellite positions, hold managers to clear performance benchmarks, risk metrics and liquidity commitments  
+
+8. Iterate and learn  
+   • Conduct post-mortems on major deviations (both winners and losers) to refine assumptions and improve future allocations  
+   • Adapt the strategic framework as the company’s capital structure, competitive position or external environment shifts  
+
+By treating diversification as a living process—one that combines strategic anchors, risk budgets, tactical flexibility and disciplined governance—a CEO can systematically optimize returns while capping drawdowns and unwanted concentrations of exposure.

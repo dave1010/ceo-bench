@@ -1,0 +1,55 @@
+Primary risks when entering a new international market typically fall into six broad categories.  Below is how I’d rank them by urgency—and the core mitigations I’d put in place first.
+
+1. Regulatory & Political Risk  (High Priority)  
+   • What can go wrong?  – Sudden law changes, licensing delays, trade barriers, expropriation risks.  
+   • Mitigation steps:  
+     – Deep legal due diligence (local counsel, trade-compliance experts)  
+     – Engage government relations early (embassies, trade associations)  
+     – Structure investment for flexibility (joint ventures, staged roll-outs, local partner shareholdings)
+
+2. Market & Cultural Risk  (High Priority)  
+   • What can go wrong?  – Poor product-market fit; misreading local tastes, distribution channels, or buying behavior.  
+   • Mitigation steps:  
+     – Rigorous primary research (focus groups, small-scale pilots)  
+     – Hire or partner with local marketing experts  
+     – Adapt packaging, pricing, messaging and sales model to local norms  
+
+3. Currency & Economic Risk  (Medium–High Priority)  
+   • What can go wrong?  – Exchange-rate swings, inflation spikes, repatriation restrictions.  
+   • Mitigation steps:  
+     – Natural hedges via local revenue vs. costs  
+     – Financial hedging (forwards, options)  
+     – Stress-test P&L under various macro scenarios  
+
+4. Operational & Supply-Chain Risk  (Medium Priority)  
+   • What can go wrong?  – Unreliable logistics, infrastructure gaps, quality control breakdowns.  
+   • Mitigation steps:  
+     – Map multiple suppliers and logistics routes  
+     – Build in safety stock or local warehousing  
+     – Implement local quality-assurance protocols  
+
+5. Legal & Compliance Risk  (Medium Priority)  
+   • What can go wrong?  – Intellectual property theft, non-compliant contracts, differing labor and tax laws.  
+   • Mitigation steps:  
+     – Register and enforce IP locally  
+     – Standardize contracts but tailor to local regulations  
+     – Engage experienced local HR and tax professionals  
+
+6. Talent & Organizational Risk  (Lower–Medium Priority)  
+   • What can go wrong?  – Difficulty hiring or retaining qualified local managers; misaligned incentives.  
+   • Mitigation steps:  
+     – Blend expatriate leadership with local hires for cultural balance  
+     – Design compensation and career paths that reflect local norms  
+     – Invest in local training and leadership development  
+
+Prioritization logic:  
+– First, secure your right to operate (regulatory/legal).  
+– Second, validate there’s real demand (market/cultural).  
+– Third, protect your economics (currency, tax).  
+– Then build robust delivery (supply chain, operations).  
+– Finally, scale sustainably with the right people and governance.
+
+Ongoing governance:  
+• A bi-monthly risk review with local leadership and HQ.  
+• Early-warning KPIs (regulatory filings, pilot-market sales trends, cash-flow sensitivity).  
+• A contingency “kill-switch” or staged investment plan if any critical assumptions fail.

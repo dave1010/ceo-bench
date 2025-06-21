@@ -1,0 +1,29 @@
+I treat every new proposal as an exercise in disciplined trade-offs—reward always carries risk, and my job is to make sure the upside justifies the downside, and that we have a clear plan to monitor and mitigate issues as they arise.  In practice my approach looks like this:
+
+1. Clarify strategic fit and risk appetite  
+   •  Align the investment with our 3–5-year strategic objectives (growth, margin expansion, market entry, technology leadership, etc.)  
+   •  Confirm where it sits on our internal risk spectrum—core, adjacent, or transformational—and set an appropriate hurdle rate  
+
+2. Quantify reward and downside  
+   •  Build a financial model to estimate revenues, margins, cash flow, NPV, IRR and payback under base, upside, and downside scenarios  
+   •  Run sensitivity analyses on the 3–5 most critical assumptions (e.g., market growth, price, penetration, cost overruns)  
+   •  If the investment is large or complex, layer in Monte Carlo or real-options analysis to capture distribution of outcomes  
+
+3. Identify and score key risks  
+   •  Categorize risks by type: market (demand, competition), execution (technology, staffing, partners), financial (FX, interest rates), regulatory, and reputational  
+   •  Use a simple risk-matrix (likelihood × impact) to highlight the 5–7 highest-exposure items  
+
+4. Develop mitigation and governance plans  
+   •  For each material risk, define a mitigation action (e.g., pilot program, contractual protection, hedges, insurance, flexible phasing)  
+   •  Set clear “kill” or “pivot” criteria (e.g., cost overrun beyond 15%, slow‐growth rate, missed milestones)  
+   •  Assign owners, establish steering-committee checkpoints, and require monthly or quarterly risk-reporting  
+
+5. Calculate a risk-adjusted ROI and compare to alternatives  
+   •  Apply a risk premium or adjust the discount rate to reflect residual risks we can’t fully mitigate  
+   •  Benchmark against other uses of capital—internal projects, M&A targets, share buybacks—to ensure we’re deploying limited funds where we get the best risk-adjusted return  
+
+6. Make a go/no-go decision, then monitor relentlessly  
+   •  If the projected reward fails to clear our hurdle (after mitigation), we walk away or ask for a redesign  
+   •  If we proceed, we lock in governance, report actual vs. forecast regularly, and revisit our risk scoring at each milestone  
+
+By combining disciplined financial modeling with a structured risk-management framework—and by insisting on clear go/no-go gates and ownership of mitigation actions—I can ensure we only undertake investments whose upside genuinely exceeds their expected downsides, in line with our strategic priorities and risk tolerance.

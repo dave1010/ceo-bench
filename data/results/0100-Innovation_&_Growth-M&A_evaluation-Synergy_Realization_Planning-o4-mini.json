@@ -1,0 +1,14 @@
+{
+  "question_id": "0100-Innovation_&_Growth-M&A_evaluation-Synergy_Realization_Planning",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"strategic_alignment\":110,\"due_diligence_rigor\":120,\"integration_roadmap\":115,\"overall_score\":115,\"comments\":\"The CEO demonstrates strong strategic alignment by identifying clear synergies that complement the business objectives. Due diligence is rigorous, employing cross-functional teams and quantified synergy models. The integration roadmap is detailed, featuring an empowered IMO and transparent accountability. Areas for improvement include enhanced revenue synergy execution, cultural integration metrics, and stress-testing scenarios, which if addressed could further improve synergy realization.\"}",
+  "scores": {
+    "Strategic Alignment": 110,
+    "Due Diligence Rigor": 120,
+    "Integration Roadmap": 115
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates strong strategic alignment by identifying clear synergies that complement the business objectives. Due diligence is rigorous, employing cross-functional teams and quantified synergy models. The integration roadmap is detailed, featuring an empowered IMO and transparent accountability. Areas for improvement include enhanced revenue synergy execution, cultural integration metrics, and stress-testing scenarios, which if addressed could further improve synergy realization."
+}
