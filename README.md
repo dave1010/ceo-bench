@@ -73,6 +73,11 @@ Run the Python tests with:
 ```bash
 pytest
 ```
+Run lint checks:
+```bash
+flake8 --exclude node_modules .
+```
+No JS tests yet.
 
 ## Next.js Web Site
 
@@ -81,6 +86,8 @@ The `app/` directory contains a small Next.js project that displays the leaderbo
 ```bash
 npm install
 npm run dev
+npm run lint
+npm run build
 ```
 
 The site is deployed via Vercel and is updated whenever the `main` branch changes.
