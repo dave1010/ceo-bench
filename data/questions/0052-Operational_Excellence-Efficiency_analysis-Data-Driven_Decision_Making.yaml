@@ -1,0 +1,15 @@
+topic: Operational Excellence
+subtopic: Efficiency analysis
+title: Data-Driven Decision Making
+question: "How effectively does the CEO utilize operational data to identify inefficiencies\
+  \ and drive improvements across the organization?  \n"
+rubric:
+- dimension: Data Utilization
+  ideal: The CEO consistently leverages comprehensive data insights to inform critical
+    operational decisions.
+- dimension: Analytical Skills
+  ideal: They demonstrate strong analytical capabilities, translating data into actionable
+    strategies.
+- dimension: Impact on Performance
+  ideal: Their data-driven approach results in measurable enhancements in efficiency
+    and productivity.

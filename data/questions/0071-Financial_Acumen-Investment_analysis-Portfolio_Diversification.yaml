@@ -1,0 +1,16 @@
+topic: Financial Acumen
+subtopic: Investment analysis
+title: Portfolio Diversification
+question: 'How does the CEO approach portfolio diversification to optimize returns
+  and manage exposure?
+
+  '
+rubric:
+- dimension: Diversification Strategy
+  ideal: Constructs a balanced portfolio across different sectors and asset classes.
+- dimension: Risk-Return Balance
+  ideal: Ensures diversification aligns with the organization's risk appetite and
+    return objectives.
+- dimension: Ongoing Review
+  ideal: Regularly reviews and adjusts the portfolio based on market developments
+    and performance metrics.

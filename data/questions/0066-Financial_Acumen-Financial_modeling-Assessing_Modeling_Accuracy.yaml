@@ -1,0 +1,15 @@
+topic: Financial Acumen
+subtopic: Financial modeling
+title: Assessing Modeling Accuracy
+question: "How does the CEO evaluate the accuracy and reliability of financial models\
+  \ before making strategic decisions?  \n"
+rubric:
+- dimension: Model Validation Process
+  ideal: The CEO reviews validation procedures, including stress testing and scenario
+    analysis, to ensure model robustness.
+- dimension: Data Quality and Assumptions
+  ideal: The CEO emphasizes the importance of high-quality data and scrutinizes the
+    assumptions underlying the models.
+- dimension: Communication of Findings
+  ideal: The CEO effectively communicates model insights and limitations to stakeholders
+    to facilitate informed decision-making.

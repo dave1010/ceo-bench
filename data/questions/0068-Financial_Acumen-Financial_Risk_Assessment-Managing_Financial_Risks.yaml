@@ -1,0 +1,14 @@
+topic: Financial Acumen
+subtopic: Financial Risk Assessment
+title: Managing Financial Risks
+question: 'How capable is the CEO in recognizing financial risks and implementing
+  controls to mitigate their impact on the organization?
+
+  '
+rubric:
+- dimension: Risk Identification
+  ideal: Effectively identifies key financial risks relevant to the organization
+- dimension: Mitigation Strategies
+  ideal: Designs and oversees appropriate risk mitigation measures
+- dimension: Monitoring & Adaptation
+  ideal: Continuously monitors risk factors and adapts controls as needed

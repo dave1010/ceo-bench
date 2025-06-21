@@ -1,0 +1,14 @@
+topic: Operational Excellence
+subtopic: Process improvement
+title: Identifying Bottlenecks in Workflow
+question: "How do you proactively identify and address bottlenecks in operational\
+  \ processes to enhance efficiency?  \n"
+rubric:
+- dimension: Proactive Detection
+  ideal: Uses data and process analysis to continuously monitor workflow for potential
+    issues before they escalate.
+- dimension: Problem Solving
+  ideal: Implements timely and effective solutions to minimize impact on overall performance.
+- dimension: Continuous Improvement
+  ideal: Encourages ongoing review and refinement of processes to maintain optimal
+    efficiency.
