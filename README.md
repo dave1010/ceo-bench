@@ -58,6 +58,11 @@ They use `llm` to create questions, produce model answers and grade them.
 #### Generating questions
 
 `generate_questions.py` can be run offline to create placeholder questions from `dev/topics.yaml`. Questions are written to `data/questions/`.
+Use `regenerate_question.py` to redo a single question if generation failed:
+
+```bash
+python scripts/regenerate_question.py 42 --model gpt-4.1-mini
+```
 
 #### Running an evaluition
 

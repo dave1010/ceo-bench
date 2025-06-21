@@ -1,0 +1,17 @@
+topic: Financial Acumen
+subtopic: Financial Modeling
+title: Evaluating Scenario Analysis
+question: 'How effectively does the CEO incorporate scenario analysis to anticipate
+  potential financial outcomes and adjust strategies accordingly?
+
+  '
+rubric:
+- dimension: Scenario Planning Integration
+  ideal: Demonstrates thorough incorporation of multiple scenarios, considering both
+    optimistic and pessimistic outcomes to inform decision-making.
+- dimension: Analytical Rigor
+  ideal: Applies rigorous analytical methods to test model resilience and validity
+    across different scenarios.
+- dimension: Strategic Adaptability
+  ideal: Uses scenario insights to adapt strategies proactively, guiding the organization
+    through uncertainties effectively.

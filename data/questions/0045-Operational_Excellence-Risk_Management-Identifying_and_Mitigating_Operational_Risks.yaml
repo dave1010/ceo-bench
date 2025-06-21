@@ -1,0 +1,14 @@
+topic: Operational Excellence
+subtopic: Risk Management
+title: Identifying and Mitigating Operational Risks
+question: 'How do you proactively identify potential operational risks and develop
+  strategies to mitigate them?
+
+  '
+rubric:
+- dimension: Risk Assessment Methodology
+  ideal: Uses comprehensive and systematic approaches to identify risks
+- dimension: Mitigation Planning
+  ideal: Develops robust plans to prevent or minimize impact of risks
+- dimension: Monitoring & Review
+  ideal: Regularly reviews risk landscape and adjusts strategies accordingly
