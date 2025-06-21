@@ -47,8 +47,8 @@ export default function OverallBarChart({ rows }: Props) {
   datasets.push({
     label: 'Human CEO',
     data: [100],
-    backgroundColor: colors[datasets.length % colors.length],
-    borderColor: 'black',
+    backgroundColor: '#888',
+    borderColor: '#888',
     borderWidth: 2,
   } as ChartDataset<'bar', number[]>)
 
