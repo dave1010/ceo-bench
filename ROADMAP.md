@@ -45,7 +45,7 @@ TODO: everything not already marked DONE below
 
 * DONE write script to turn results into leaderboard data
 * make leaderboard display in Next.js app, updating on deploy
-* make fancy chart, including human baseline range
+* make fancy charts (bar chart and IQ curve), including human baseline range
 
 ### phase 5 Analysis / evaluation of findings / interpretation
 
