@@ -26,6 +26,7 @@ DATA_DIR = Path("data")
 RESULTS_DIR = DATA_DIR / "results"
 LEADERBOARD_PATH = DATA_DIR / "leaderboard" / "leaderboard.csv"
 TOPICS_FILE = DATA_DIR / "topics.yaml"
+MODEL_NAMES_FILE = DATA_DIR / "model_names.yaml"
 
 
 def load_results():
@@ -42,7 +43,17 @@ def load_topics():
     return [t.get("name") for t in data.get("topics", [])]
 
 
-def aggregate(records, topics):
+def load_model_names():
+    if MODEL_NAMES_FILE.exists():
+        data = yaml.safe_load(MODEL_NAMES_FILE.read_text())
+        if isinstance(data, dict):
+            return data.get("model_names", {})
+    return {}
+
+
+def aggregate(records, topics, model_names=None):
+    if model_names is None:
+        model_names = {}
     overall = defaultdict(list)
     by_topic = defaultdict(lambda: defaultdict(list))
 
@@ -57,7 +68,12 @@ def aggregate(records, topics):
 
     rows = []
     for model, vals in overall.items():
-        row = {"model": model, "overall": round(sum(vals) / len(vals), 3), "n": len(vals)}
+        row = {
+            "model": model,
+            "model_name": model_names.get(model, model),
+            "overall": round(sum(vals) / len(vals), 3),
+            "n": len(vals),
+        }
         for t in topics:
             tvals = by_topic[model].get(t)
             if tvals:
@@ -70,7 +86,7 @@ def aggregate(records, topics):
 
 def write_csv(rows, topics):
     LEADERBOARD_PATH.parent.mkdir(exist_ok=True)
-    fieldnames = ["model", "overall", "n"] + topics
+    fieldnames = ["model", "model_name", "overall", "n"] + topics
     with LEADERBOARD_PATH.open("w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -80,7 +96,8 @@ def write_csv(rows, topics):
 def main():
     records = load_results()
     topics = load_topics()
-    rows = aggregate(records, topics)
+    model_names = load_model_names()
+    rows = aggregate(records, topics, model_names)
     write_csv(rows, topics)
     print(f"Wrote {LEADERBOARD_PATH}")
 

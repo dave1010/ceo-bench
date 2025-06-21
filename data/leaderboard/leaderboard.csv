@@ -1,4 +1,4 @@
-model,overall,n,Strategic Thinking,Operational Excellence,Leadership & Communication,Financial Acumen,Risk & Ethics,Innovation & Growth
-gpt-4.1-nano,115.975,125,114.176,118.005,115.788,117.869,115.506,117.269
-gpt-4.1-mini,121.464,125,122.222,120.08,119.941,120.25,122.759,122.581
-gpt-4.1,120.0,1,120.0,,,,,
+model,model_name,overall,n,Strategic Thinking,Operational Excellence,Leadership & Communication,Financial Acumen,Risk & Ethics,Innovation & Growth
+gpt-4.1-nano,Open AI GPT-4.1 Nano,115.975,125,114.176,118.005,115.788,117.869,115.506,117.269
+gpt-4.1-mini,Open AI GPT-4.1 Mini,121.464,125,122.222,120.08,119.941,120.25,122.759,122.581
+gpt-4.1,Open AI GPT-4.1,120.0,1,120.0,,,,,
