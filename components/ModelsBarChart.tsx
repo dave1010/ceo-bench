@@ -22,11 +22,13 @@ export default function ModelsBarChart({ rows }: Props) {
   const topics = Object.keys(rows[0]).filter(k => !['model','model_name','overall','n'].includes(k))
   const labels = ['Overall', ...topics]
 
+  const colors = ['#4dc9f6', '#f67019', '#f53794', '#537bc4', '#acc236']
+
   const datasets: ChartDataset<'bar' | 'line', number[]>[] = rows.map((row, idx) => {
     const dataset: ChartDataset<'bar', number[]> = {
       label: row.model_name || row.model,
       data: [Number(row.overall), ...topics.map(t => Number(row[t]))],
-      backgroundColor: `var(--color-chart-${(idx % 5) + 1})`,
+      backgroundColor: colors[idx % colors.length],
       borderColor: 'black',
       borderWidth: (ctx: ScriptableContext<'bar'>) =>
         ctx.dataIndex === 0 ? 2 : 0,
