@@ -1,0 +1,1 @@
+Python linting via flake8 shows many errors in scripts and tests. JS has no test suite yet.
