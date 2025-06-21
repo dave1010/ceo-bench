@@ -12,6 +12,8 @@ import argparse
 import subprocess
 from pathlib import Path
 
+from model_utils import encode_model_name
+
 DATA_DIR = Path("data")
 
 from make_question_prompt import build_prompt, DEFAULT_TEMPLATE
@@ -44,7 +46,8 @@ def main() -> None:
     prompt = build_prompt(args.question, DEFAULT_TEMPLATE)
     response = call_llm(prompt, args.model)
 
-    model_dir = ANSWERS_DIR / args.model
+    safe_model = encode_model_name(args.model)
+    model_dir = ANSWERS_DIR / safe_model
     model_dir.mkdir(parents=True, exist_ok=True)
     outfile = model_dir / (args.question.stem + ".txt")
     outfile.write_text(response)
