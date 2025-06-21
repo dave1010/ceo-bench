@@ -1,0 +1,14 @@
+{
+  "question_id": "0030-Strategic_Thinking-Market_entry_strategies-Evaluating_Exit_Strategies_for_Market_Entry",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"strategic_foresight\":130,\"risk_management\":120,\"market_dynamics_awareness\":125,\"overall_score\":125,\"comments\":\"The answer shows strong strategic foresight by outlining multiple exit options and emphasizing goal alignment. It addresses risk management adequately through thorough due diligence and operational flexibility, anticipating legal, financial, and organizational risks. Market dynamics awareness is well captured by recommending ongoing monitoring and adaptability to industry shifts. Overall, the response reflects a high level of thoughtful planning consistent with an effective CEO.\"}",
+  "scores": {
+    "Strategic foresight": 130,
+    "Risk management": 120,
+    "Market dynamics awareness": 125
+  },
+  "total": 125.0,
+  "comments": "The answer shows strong strategic foresight by outlining multiple exit options and emphasizing goal alignment. It addresses risk management adequately through thorough due diligence and operational flexibility, anticipating legal, financial, and organizational risks. Market dynamics awareness is well captured by recommending ongoing monitoring and adaptability to industry shifts. Overall, the response reflects a high level of thoughtful planning consistent with an effective CEO."
+}

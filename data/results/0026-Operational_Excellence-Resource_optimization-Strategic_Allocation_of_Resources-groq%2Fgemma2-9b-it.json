@@ -1,0 +1,14 @@
+{
+  "question_id": "0026-Operational_Excellence-Resource_optimization-Strategic_Allocation_of_Resources",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"alignment_with_strategic_goals\":110,\"efficiency_of_use\":105,\"flexibility_and_adaptability\":110,\"overall_score\":108.3,\"comments\":\"The response demonstrates a strong conceptual understanding of how a CEO should align resources with strategic priorities, emphasizing clear vision, prioritization, data-driven decision-making, and communication. It outlines tools and approaches that support strategic alignment and resource efficiency. Flexibility and adaptability are also well covered with references to adjusting allocation based on changing conditions. However, the answer is theoretical and lacks concrete examples or demonstration of direct leadership actions, which slightly limits its impact compared to top-tier powerhouse CEOs scoring above 120.\"}",
+  "scores": {
+    "Alignment with Strategic Goals": 110,
+    "Efficiency of Use": 105,
+    "Flexibility and Adaptability": 110
+  },
+  "total": 108.3,
+  "comments": "The response demonstrates a strong conceptual understanding of how a CEO should align resources with strategic priorities, emphasizing clear vision, prioritization, data-driven decision-making, and communication. It outlines tools and approaches that support strategic alignment and resource efficiency. Flexibility and adaptability are also well covered with references to adjusting allocation based on changing conditions. However, the answer is theoretical and lacks concrete examples or demonstration of direct leadership actions, which slightly limits its impact compared to top-tier powerhouse CEOs scoring above 120."
+}

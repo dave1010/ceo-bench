@@ -1,0 +1,14 @@
+{
+  "question_id": "0027-Operational_Excellence-Resource_optimization-Effective_Utilization_of_Asset_Management",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"asset_management_strategy\":115,\"continuous_improvement\":120,\"cross-functional_coordination\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates a thorough and structured approach to asset management, emphasizing data-driven strategies, preventative maintenance, and strategic allocation. Continuous improvement is well-addressed through regular reviews and process enhancements. Cross-functional coordination is evident through collaboration and flexible resource deployment, aligning asset use with company goals. Overall, the answer reflects above-average capability indicative of a strong, effective leadership approach.\"}",
+  "scores": {
+    "Asset Management Strategy": 115,
+    "Continuous Improvement": 120,
+    "Cross-Functional Coordination": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates a thorough and structured approach to asset management, emphasizing data-driven strategies, preventative maintenance, and strategic allocation. Continuous improvement is well-addressed through regular reviews and process enhancements. Cross-functional coordination is evident through collaboration and flexible resource deployment, aligning asset use with company goals. Overall, the answer reflects above-average capability indicative of a strong, effective leadership approach."
+}

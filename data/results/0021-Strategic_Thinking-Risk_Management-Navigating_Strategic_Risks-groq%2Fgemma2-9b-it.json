@@ -1,0 +1,14 @@
+{
+  "question_id": "0021-Strategic_Thinking-Risk_Management-Navigating_Strategic_Risks",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_identification\":120,\"evaluation_and_prioritization\":115,\"mitigation_strategies\":120,\"overall_score\":118.3,\"comments\":\"The CEO demonstrates a comprehensive and proactive approach to strategic risk management. Risk identification is robust, employing continuous monitoring, scenario planning, and open communication to detect internal and external risks early. Evaluation and prioritization are systematic, using risk matrices and both qualitative and quantitative assessments, augmented by expert collaboration. Mitigation strategies are well-developed, including tailored risk responses, contingency planning, and ongoing performance monitoring ensuring adaptability and resilience. This comprehensive strategy reflects leadership well above average, contributing strongly to company stability and success.\"}",
+  "scores": {
+    "Risk Identification": 120,
+    "Evaluation and Prioritization": 115,
+    "Mitigation Strategies": 120
+  },
+  "total": 118.3,
+  "comments": "The CEO demonstrates a comprehensive and proactive approach to strategic risk management. Risk identification is robust, employing continuous monitoring, scenario planning, and open communication to detect internal and external risks early. Evaluation and prioritization are systematic, using risk matrices and both qualitative and quantitative assessments, augmented by expert collaboration. Mitigation strategies are well-developed, including tailored risk responses, contingency planning, and ongoing performance monitoring ensuring adaptability and resilience. This comprehensive strategy reflects leadership well above average, contributing strongly to company stability and success."
+}

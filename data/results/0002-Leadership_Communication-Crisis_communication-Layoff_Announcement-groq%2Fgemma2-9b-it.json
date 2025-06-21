@@ -1,0 +1,14 @@
+{
+  "question_id": "0002-Leadership_Communication-Crisis_communication-Layoff_Announcement",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"empathy\":115,\"transparency\":120,\"tone\":110,\"overall_score\":115,\"comments\":\"The announcement demonstrates a strong balance of empathy and transparency by acknowledging the difficulty of the decision, expressing gratitude, and outlining support measures clearly. The tone is professional yet compassionate, maintaining trust and motivation among employees. The explanation of rationale is straightforward and appropriate, fostering understanding during a challenging time.\"}",
+  "scores": {
+    "Empathy": 115,
+    "Transparency": 120,
+    "Tone": 110
+  },
+  "total": 115.0,
+  "comments": "The announcement demonstrates a strong balance of empathy and transparency by acknowledging the difficulty of the decision, expressing gratitude, and outlining support measures clearly. The tone is professional yet compassionate, maintaining trust and motivation among employees. The explanation of rationale is straightforward and appropriate, fostering understanding during a challenging time."
+}

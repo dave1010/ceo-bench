@@ -1,0 +1,14 @@
+{
+  "question_id": "0011-Strategic_Thinking-Market_entry_strategies-Tailoring_Market_Entry_Models_to_Local_Dynamics",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"cultural_adaptation\":130,\"regulatory_compliance\":125,\"economic_context\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates exceptional insight into adapting to unique cultural factors through deep ethnographic research and local talent acquisition, reflecting a high Cultural Adaptation score. The regulatory compliance dimension is thoroughly addressed by highlighting the need for local legal counsel and detailed regulatory analysis. Economic context is well considered by assessing macroeconomic indicators and aligning pricing and funding strategies accordingly. The comprehensive, agile, and tailored approach justifies high scores across all dimensions, reflecting a strong leadership quotient in market entry strategy.\"}",
+  "scores": {
+    "Cultural Adaptation": 130,
+    "Regulatory Compliance": 125,
+    "Economic Context": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates exceptional insight into adapting to unique cultural factors through deep ethnographic research and local talent acquisition, reflecting a high Cultural Adaptation score. The regulatory compliance dimension is thoroughly addressed by highlighting the need for local legal counsel and detailed regulatory analysis. Economic context is well considered by assessing macroeconomic indicators and aligning pricing and funding strategies accordingly. The comprehensive, agile, and tailored approach justifies high scores across all dimensions, reflecting a strong leadership quotient in market entry strategy."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0016-Strategic_Thinking-Market_entry_strategies-Assessing_Cultural_Adaptation_Needs",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"cultural_awareness\":135,\"flexibility_in_approach\":130,\"stakeholder_engagement\":128,\"overall_score\":131,\"comments\":\"The answer demonstrates an exceptional level of cultural awareness, clearly outlining detailed research and ongoing adaptation to local customs and consumer behaviors. Flexibility is shown through tailored product and communication strategies that respect cultural sensitivities. Stakeholder engagement is strong, with emphasis on local partnerships and inclusive team building. Overall, the response reflects a highly strategic and nuanced approach that would likely lead to exceptional organizational performance in new markets.\"}",
+  "scores": {
+    "Cultural Awareness": 135,
+    "Flexibility in Approach": 130,
+    "Stakeholder Engagement": 128
+  },
+  "total": 131.0,
+  "comments": "The answer demonstrates an exceptional level of cultural awareness, clearly outlining detailed research and ongoing adaptation to local customs and consumer behaviors. Flexibility is shown through tailored product and communication strategies that respect cultural sensitivities. Stakeholder engagement is strong, with emphasis on local partnerships and inclusive team building. Overall, the response reflects a highly strategic and nuanced approach that would likely lead to exceptional organizational performance in new markets."
+}

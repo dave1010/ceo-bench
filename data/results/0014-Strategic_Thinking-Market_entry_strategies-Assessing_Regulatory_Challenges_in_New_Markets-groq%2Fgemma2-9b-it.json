@@ -1,0 +1,14 @@
+{
+  "question_id": "0014-Strategic_Thinking-Market_entry_strategies-Assessing_Regulatory_Challenges_in_New_Markets",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"regulatory_understanding\":130,\"risk_management\":125,\"adaptability\":120,\"overall_score\":125,\"comments\":\"The answer exhibits a thorough and sophisticated understanding of regulatory requirements and proactive engagement with relevant stakeholders, reflecting a high level of regulatory knowledge. The described comprehensive risk management strategies, including legal due diligence and internal compliance frameworks, indicate strong risk mitigation capabilities. The emphasis on continuous monitoring and fostering a culture of flexibility and innovation demonstrates solid adaptability to changing regulatory landscapes. Overall, this response reflects an above-average to exceptional leadership capability in managing regulatory challenges during market entry.\"}",
+  "scores": {
+    "Regulatory Understanding": 130,
+    "Risk Management": 125,
+    "Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The answer exhibits a thorough and sophisticated understanding of regulatory requirements and proactive engagement with relevant stakeholders, reflecting a high level of regulatory knowledge. The described comprehensive risk management strategies, including legal due diligence and internal compliance frameworks, indicate strong risk mitigation capabilities. The emphasis on continuous monitoring and fostering a culture of flexibility and innovation demonstrates solid adaptability to changing regulatory landscapes. Overall, this response reflects an above-average to exceptional leadership capability in managing regulatory challenges during market entry."
+}

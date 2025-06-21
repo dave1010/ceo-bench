@@ -1,0 +1,14 @@
+{
+  "question_id": "0006-Strategic_Thinking-Market_entry_strategies-Analyzing_Risk_Factors_for_Market_Entry",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"risk_identification\":120,\"prioritization\":110,\"mitigation_strategies\":120,\"overall_score\":117,\"comments\":\"The answer thoroughly identifies a broad and relevant set of risks including political, economic, cultural, legal, competitive, logistical, and operational. The prioritization reflects a strategic approach emphasizing due diligence and phased entry, demonstrating solid understanding though could benefit from clearer ranking by risk severity. The mitigation strategies are practical, comprehensive, and well-aligned with identified risks, including partnerships, localization, robust legal compliance, and contingency planning. Overall, the response shows strong leadership insight suitable for effective international market entry risk management.\"}",
+  "scores": {
+    "Risk Identification": 120,
+    "Prioritization": 110,
+    "Mitigation Strategies": 120
+  },
+  "total": 117.0,
+  "comments": "The answer thoroughly identifies a broad and relevant set of risks including political, economic, cultural, legal, competitive, logistical, and operational. The prioritization reflects a strategic approach emphasizing due diligence and phased entry, demonstrating solid understanding though could benefit from clearer ranking by risk severity. The mitigation strategies are practical, comprehensive, and well-aligned with identified risks, including partnerships, localization, robust legal compliance, and contingency planning. Overall, the response shows strong leadership insight suitable for effective international market entry risk management."
+}
