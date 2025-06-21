@@ -5,7 +5,6 @@ import { Chart } from 'react-chartjs-2'
 import {
   Chart as ChartJS,
   registerables,
-  type ScriptableContext,
   type ChartDataset,
   type ChartData,
   type ChartOptions,
