@@ -1,0 +1,15 @@
+topic: Operational Excellence
+subtopic: Efficiency analysis
+title: Identifying Bottlenecks in Workflow
+question: "How does the CEO proactively identify and address bottlenecks within organizational\
+  \ processes to enhance overall efficiency?  \n"
+rubric:
+- dimension: Problem Identification
+  ideal: The CEO uses data analytics and cross-departmental feedback to pinpoint specific
+    process delays or inefficiencies.
+- dimension: Solution Development
+  ideal: The CEO devises targeted interventions, such as process re-engineering or
+    technology adoption, to eliminate bottlenecks.
+- dimension: Implementation & Follow-Up
+  ideal: The CEO ensures effective implementation of solutions and monitors outcomes
+    for continuous improvement.
