@@ -1,12 +1,7 @@
-import fs from 'fs/promises'
-import path from 'path'
+import { loadLeaderboard } from '@/lib/leaderboard'
 import { Badge } from "@/components/ui/badge"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { BarChart3, Trophy } from "lucide-react"
-
-interface Row {
-  [key: string]: string
-}
 
 const TOPIC_LABELS: Record<string, string> = {
   'Strategic Thinking': 'Strategy',
@@ -17,20 +12,6 @@ const TOPIC_LABELS: Record<string, string> = {
   'Innovation & Growth': 'Innovation',
 }
 
-async function loadCsv(): Promise<Row[]> {
-  const csvPath = path.join(process.cwd(), 'data/leaderboard/leaderboard.csv')
-  const text = await fs.readFile(csvPath, 'utf8')
-  const lines = text.trim().split(/\r?\n/)
-  const headers = lines[0].split(',').map(h => h.trim())
-  return lines.slice(1).map(line => {
-    const values = line.split(',').map(v => v.trim())
-    const row: Row = {}
-    headers.forEach((h, i) => {
-      row[h] = values[i] ?? ''
-    })
-    return row
-  })
-}
 
 function format(val?: string) {
   if (!val) return '–'
@@ -39,7 +20,7 @@ function format(val?: string) {
 }
 
 export default async function Leaderboard() {
-  const rows = await loadCsv()
+  const rows = await loadLeaderboard()
   const topics = rows[0]
     ? Object.keys(rows[0]).filter(
         k => !['model', 'model_name', 'overall', 'n'].includes(k)

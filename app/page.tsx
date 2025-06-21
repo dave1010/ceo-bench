@@ -4,8 +4,17 @@ import { Badge } from "@/components/ui/badge"
 import { Github, FileText, Trophy, BarChart3, Users, Target, ArrowRight } from "lucide-react"
 import Link from "next/link"
 import Leaderboard from "@/components/Leaderboard"
+import { loadLeaderboard } from '@/lib/leaderboard'
 
 export default async function Component() {
+  const rows = await loadLeaderboard()
+  const scenarioCount = rows.reduce((m, r) => Math.max(m, Number(r.n)), 0)
+  const llmCount = rows.length
+  const topicKeys = rows[0]
+    ? Object.keys(rows[0]).filter(k => !['model', 'model_name', 'overall', 'n'].includes(k))
+    : []
+  const compCount = topicKeys.length
+  const topScore = rows.reduce((m, r) => Math.max(m, Number(r.overall)), 0)
 
   return (
     <div className="flex flex-col min-h-screen bg-white">
@@ -91,19 +100,19 @@ export default async function Component() {
           <div className="container px-4 md:px-6">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto">
               <div className="text-center">
-                <div className="text-3xl md:text-4xl font-bold text-slate-900">500+</div>
+                <div className="text-3xl md:text-4xl font-bold text-slate-900">{scenarioCount}</div>
                 <div className="text-sm text-slate-600 mt-1">Executive Scenarios</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl md:text-4xl font-bold text-slate-900">12</div>
+                <div className="text-3xl md:text-4xl font-bold text-slate-900">{llmCount}</div>
                 <div className="text-sm text-slate-600 mt-1">Leading LLMs Tested</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl md:text-4xl font-bold text-slate-900">4</div>
+                <div className="text-3xl md:text-4xl font-bold text-slate-900">{compCount}</div>
                 <div className="text-sm text-slate-600 mt-1">Core Competencies</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl md:text-4xl font-bold text-slate-900">TBC</div>
+                <div className="text-3xl md:text-4xl font-bold text-slate-900">{topScore.toFixed(1)}</div>
                 <div className="text-sm text-slate-600 mt-1">Top Model Score</div>
               </div>
             </div>
