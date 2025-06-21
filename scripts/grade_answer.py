@@ -1,7 +1,8 @@
 """Grade an answer using llm and store JSON results.
 
 Usage:
-    python grade_answers.py question.yaml answer.txt --model gpt-4.1-mini
+    python grade_answer.py question.yaml answer.txt \
+        --model MODEL_NAME [--grading-model gpt-4.1-mini]
 """
 
 import argparse
@@ -41,7 +42,12 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Grade an answer using llm")
     parser.add_argument("question", type=Path, help="Question YAML file")
     parser.add_argument("answer", type=Path, help="Answer text file")
-    parser.add_argument("--model", default="gpt-4.1-mini", help="Model name")
+    parser.add_argument("--model", required=True, help="Model being evaluated")
+    parser.add_argument(
+        "--grading-model",
+        default="gpt-4.1-mini",
+        help="Model used to grade the answer",
+    )
     args = parser.parse_args()
 
     qdata = yaml.safe_load(args.question.read_text())
@@ -49,7 +55,7 @@ def main() -> None:
 
     prompt = build_prompt(args.question, args.answer, DEFAULT_TEMPLATE)
     schema = build_schema(dimensions)
-    grading_text = call_llm(prompt, args.model, schema)
+    grading_text = call_llm(prompt, args.grading_model, schema)
 
     try:
         parsed = json.loads(grading_text)

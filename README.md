@@ -37,7 +37,7 @@ Important directories:
 - `templates/` – prompt templates and rubrics
 - `scripts/` – Python scripts for generation, evaluation and grading
   - `generate_answers.py` calls `llm` to produce an answer for a question
-  - `grade_answers.py` grades an answer with `llm` using a JSON schema so
+  - `grade_answer.py` grades an answer with `llm` using a JSON schema so
     results include parsed scores
 - `data/questions/` – generated question YAML files
 - `data/answers/` – model responses to prompts
@@ -65,7 +65,7 @@ This isa done in 2 parts:
 
 `generate_answers.py` uses the `llm` CLI to fetch a model answer and stores it under `data/answers/<model>/`.
 
-`grade_answers.py` runs the grading prompt with `llm` using a JSON schema so the scores are parsed and written to `data/results`.
+`grade_answer.py` runs the grading prompt with `llm` using a JSON schema so the scores are parsed and written to `data/results`.
 
 #### Running the full pipeline
 
@@ -76,7 +76,8 @@ updates the leaderboard.
 Example:
 
 ```bash
-python scripts/run_full_evals.py --models gpt-4.1-nano gpt-4.1-mini
+python scripts/run_full_evals.py --models gpt-4.1-nano gpt-4.1-mini \
+    --grading-model gpt-4.1-mini
 ```
 
 Use `--rerun-answer` or `--rerun-grade` to force regeneration.
