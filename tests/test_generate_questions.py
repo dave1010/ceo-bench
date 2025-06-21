@@ -3,7 +3,10 @@ from pathlib import Path
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 
-from scripts.generate_questions import build_filename, create_question  # noqa: E402
+from scripts.generate_questions import (  # noqa: E402
+    build_filename,
+    create_question,
+)
 
 
 def test_build_filename_structure():

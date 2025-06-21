@@ -25,4 +25,3 @@ def test_build_prompt_missing_file():
             Path('data/questions/path-to-missing-file-should-error'),
             Path('templates/question_prompt.txt'),
         )
-
