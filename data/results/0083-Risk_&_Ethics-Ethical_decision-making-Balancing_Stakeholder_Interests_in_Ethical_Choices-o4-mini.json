@@ -1,0 +1,14 @@
+{
+  "question_id": "0083-Risk_&_Ethics-Ethical_decision-making-Balancing_Stakeholder_Interests_in_Ethical_Choices",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"stakeholder_consideration\":135,\"ethical_principles_application\":140,\"transparency_and_communication\":135,\"overall_score\":137,\"comments\":\"The answer thoroughly addresses the CEO's role in balancing diverse stakeholder interests by outlining a structured, comprehensive ethical framework. It emphasizes precise stakeholder analysis, embedding ethics into governance, and maintaining open communication channels. The consistent application of ethical principles such as fairness, accountability, and transparency is evident throughout the approach. Transparency mechanisms, including reporting and dialogue forums, are well-articulated, enhancing stakeholder trust. Overall, the response reflects exceptional leadership qualities aligned with a high-level CEO, meriting scores near the 'genius' threshold.\"}",
+  "scores": {
+    "Stakeholder Consideration": 135,
+    "Ethical Principles Application": 140,
+    "Transparency and Communication": 135
+  },
+  "total": 137.0,
+  "comments": "The answer thoroughly addresses the CEO's role in balancing diverse stakeholder interests by outlining a structured, comprehensive ethical framework. It emphasizes precise stakeholder analysis, embedding ethics into governance, and maintaining open communication channels. The consistent application of ethical principles such as fairness, accountability, and transparency is evident throughout the approach. Transparency mechanisms, including reporting and dialogue forums, are well-articulated, enhancing stakeholder trust. Overall, the response reflects exceptional leadership qualities aligned with a high-level CEO, meriting scores near the 'genius' threshold."
+}

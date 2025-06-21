@@ -1,0 +1,14 @@
+{
+  "question_id": "0105-Strategic_Thinking-Vision_articulation-Embedding_Core_Values",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Vision articulation",
+  "raw": "{\"integration\":130,\"leadership_consistency\":135,\"cultural_influence\":132,\"overall_score\":132.33,\"comments\":\"The answer demonstrates an exceptional understanding of how to embed core values into all aspects of an organization, outlining comprehensive and measurable frameworks across strategy, operations, communication, reinforcement, and external validation. The CEO's role is characterized by consistent leadership modeling and positive cultural influence, surpassing average expectations and reflecting a genius-level leadership approach.\"}",
+  "scores": {
+    "Integration": 130,
+    "Leadership consistency": 135,
+    "Cultural influence": 132
+  },
+  "total": 132.33,
+  "comments": "The answer demonstrates an exceptional understanding of how to embed core values into all aspects of an organization, outlining comprehensive and measurable frameworks across strategy, operations, communication, reinforcement, and external validation. The CEO's role is characterized by consistent leadership modeling and positive cultural influence, surpassing average expectations and reflecting a genius-level leadership approach."
+}

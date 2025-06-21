@@ -1,0 +1,14 @@
+{
+  "question_id": "0063-Leadership_&_Communication-Culture_building-Driving_Organizational_Values",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"integration_of_values\":115,\"employee_engagement\":110,\"cultural_influence\":112,\"overall_score\":112.3,\"comments\":\"The CEO effectively integrates core values into daily operations through leadership example, structured decision processes, and performance management, demonstrating strong value embedding. Employee engagement is high with storytelling, recognition programs, and onboarding initiatives encouraging alignment and participation. Cultural influence is solid but some opportunities remain to deepen impact through more frequent value checks, compensation linkage, grassroots storytelling, and metrics tracking. Scores reflect a very effective embedding of values with room for enhancement to reach exceptional genius-level impact.\"}",
+  "scores": {
+    "Integration of values": 115,
+    "Employee engagement": 110,
+    "Cultural influence": 112
+  },
+  "total": 112.3,
+  "comments": "The CEO effectively integrates core values into daily operations through leadership example, structured decision processes, and performance management, demonstrating strong value embedding. Employee engagement is high with storytelling, recognition programs, and onboarding initiatives encouraging alignment and participation. Cultural influence is solid but some opportunities remain to deepen impact through more frequent value checks, compensation linkage, grassroots storytelling, and metrics tracking. Scores reflect a very effective embedding of values with room for enhancement to reach exceptional genius-level impact."
+}

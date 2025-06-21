@@ -1,0 +1,14 @@
+{
+  "question_id": "0028-Operational_Excellence-Resource_optimization-Cross-Functional_Collaboration_Efficiency",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"collaboration_leadership\":130,\"resource_alignment\":125,\"innovation_in_resource_use\":115,\"overall_score\":123.3,\"comments\":\"The CEO demonstrates strong leadership in fostering collaboration through governance structures, shared tools, and cultural incentives, earning a high score in Collaboration Leadership. Resource alignment is effectively managed via cross-functional reviews and committees, showing clear oversight and strategic prioritization. Innovation is evident through the implementation of transparency tools, incentive realignment, and measurable impact statistics; while impactful, there remains room for further innovation as noted. Overall, the CEO surpasses average leadership performance by effectively breaking down silos, optimizing resource use, and driving measurable improvements, meriting an above-average overall score.\"}",
+  "scores": {
+    "Collaboration Leadership": 130,
+    "Resource Alignment": 125,
+    "Innovation in Resource Use": 115
+  },
+  "total": 123.3,
+  "comments": "The CEO demonstrates strong leadership in fostering collaboration through governance structures, shared tools, and cultural incentives, earning a high score in Collaboration Leadership. Resource alignment is effectively managed via cross-functional reviews and committees, showing clear oversight and strategic prioritization. Innovation is evident through the implementation of transparency tools, incentive realignment, and measurable impact statistics; while impactful, there remains room for further innovation as noted. Overall, the CEO surpasses average leadership performance by effectively breaking down silos, optimizing resource use, and driving measurable improvements, meriting an above-average overall score."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0123-Innovation_&_Growth-Partnerships_&_Ecosystems-Building_Innovation_Ecosystems",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Partnerships & Ecosystems",
+  "raw": "{\"external_collaboration\":135,\"ecosystem_engagement\":140,\"value_creation\":130,\"overall_score\":135,\"comments\":\"The CEO demonstrates an exceptional understanding and execution of leveraging external partnerships and ecosystems to drive innovation. The answer covers a breadth of strategic approaches\u2014corporate venturing, joint R&D, open innovation, technology alliances, industry consortia, customer and supplier co-innovation, and innovation hubs\u2014showing deep maturity in ecosystem engagement. Clear governance, measurable impact metrics, and continuous alignment with strategy amplify the effectiveness of these collaborations. This comprehensive, structured, and measurable approach would significantly enhance company innovation capabilities, warranting a 'genius' level score on all rubric dimensions.\"}",
+  "scores": {
+    "External Collaboration": 135,
+    "Ecosystem Engagement": 140,
+    "Value Creation": 130
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates an exceptional understanding and execution of leveraging external partnerships and ecosystems to drive innovation. The answer covers a breadth of strategic approaches\u2014corporate venturing, joint R&D, open innovation, technology alliances, industry consortia, customer and supplier co-innovation, and innovation hubs\u2014showing deep maturity in ecosystem engagement. Clear governance, measurable impact metrics, and continuous alignment with strategy amplify the effectiveness of these collaborations. This comprehensive, structured, and measurable approach would significantly enhance company innovation capabilities, warranting a 'genius' level score on all rubric dimensions."
+}

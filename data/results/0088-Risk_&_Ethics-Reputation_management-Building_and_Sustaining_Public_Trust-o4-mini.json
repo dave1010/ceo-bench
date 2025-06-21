@@ -1,0 +1,14 @@
+{
+  "question_id": "0088-Risk_&_Ethics-Reputation_management-Building_and_Sustaining_Public_Trust",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"transparency\":130,\"consistency\":125,\"engagement\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates an exceptionally comprehensive and proactive approach to fostering transparency, with clear practices for open and honest communication. Consistency is well addressed through uniform messaging and multiple communication channels ensuring alignment and coherence. Engagement is robustly covered with feedback loops and active listening mechanisms that promote meaningful interactions with stakeholders. The detailed, practical strategies indicate a leadership style likely to build strong, sustained public trust.\"}",
+  "scores": {
+    "Transparency": 130,
+    "Consistency": 125,
+    "Engagement": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates an exceptionally comprehensive and proactive approach to fostering transparency, with clear practices for open and honest communication. Consistency is well addressed through uniform messaging and multiple communication channels ensuring alignment and coherence. Engagement is robustly covered with feedback loops and active listening mechanisms that promote meaningful interactions with stakeholders. The detailed, practical strategies indicate a leadership style likely to build strong, sustained public trust."
+}

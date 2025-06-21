@@ -1,0 +1,14 @@
+{
+  "question_id": "0074-Financial_Acumen-Investment_Decisions-Evaluating_Strategic_Investment_Opportunities",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment Decisions",
+  "raw": "{\"due_diligence_and_analysis\":135,\"portfolio_perspective\":130,\"post-investment_review\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates exceptional leadership in investment assessment by outlining a comprehensive, disciplined approach to due diligence, including rigorous financial and risk analysis. The portfolio perspective is strong, with clear emphasis on balancing risk, return, and time horizons across a diverse set of initiatives. Post-investment review practices are well articulated, ensuring continuous learning and adjustment. These elements collectively reflect a high-level CEO leadership capability well above average, justifying scores in the 'genius' range.\"}",
+  "scores": {
+    "Due Diligence and Analysis": 135,
+    "Portfolio Perspective": 130,
+    "Post-Investment Review": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates exceptional leadership in investment assessment by outlining a comprehensive, disciplined approach to due diligence, including rigorous financial and risk analysis. The portfolio perspective is strong, with clear emphasis on balancing risk, return, and time horizons across a diverse set of initiatives. Post-investment review practices are well articulated, ensuring continuous learning and adjustment. These elements collectively reflect a high-level CEO leadership capability well above average, justifying scores in the 'genius' range."
+}

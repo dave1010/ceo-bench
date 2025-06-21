@@ -1,0 +1,14 @@
+{
+  "question_id": "0027-Operational_Excellence-Resource_optimization-Effective_Utilization_of_Asset_Management",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"asset_management_strategy\":130,\"continuous_improvement\":125,\"cross-functional_coordination\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates a sophisticated and comprehensive approach to asset management, covering strategic alignment, rigorous governance, performance monitoring, operational excellence, and cultural ownership. Continuous improvement is emphasized through methodologies like Six Sigma and ongoing portfolio rebalancing. Cross-functional coordination is clearly present via capital allocation committees, accountability structures, and integrated analytics. The answer reflects a high-level leadership quality indicative of exceptional CEO performance.\"}",
+  "scores": {
+    "Asset Management Strategy": 130,
+    "Continuous Improvement": 125,
+    "Cross-Functional Coordination": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a sophisticated and comprehensive approach to asset management, covering strategic alignment, rigorous governance, performance monitoring, operational excellence, and cultural ownership. Continuous improvement is emphasized through methodologies like Six Sigma and ongoing portfolio rebalancing. Cross-functional coordination is clearly present via capital allocation committees, accountability structures, and integrated analytics. The answer reflects a high-level leadership quality indicative of exceptional CEO performance."
+}

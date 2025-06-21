@@ -1,0 +1,14 @@
+{
+  "question_id": "0075-Financial_Acumen-Financial_reporting_and_transparency-Enhancing_Financial_Communication",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial reporting and transparency",
+  "raw": "{\"data_accuracy_and_integrity\":135,\"transparency_and_clarity\":130,\"stakeholder_engagement\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates exemplary leadership in ensuring financial report accuracy by implementing strong governance, robust controls, and engaging expert finance teams, resulting in a high data accuracy and integrity score. Transparency and clarity are achieved through comprehensive disclosures, narrative explanations, and timely corrections, warranting a top-tier rating in this dimension. Stakeholder engagement is proactive and multifaceted, including direct communication through earnings calls and investor roadshows, fostering trust and understanding. Overall, the CEO's approach represents an exceptional standard expected of a top-performing CEO.\"}",
+  "scores": {
+    "Data accuracy and integrity": 135,
+    "Transparency and clarity": 130,
+    "Stakeholder engagement": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exemplary leadership in ensuring financial report accuracy by implementing strong governance, robust controls, and engaging expert finance teams, resulting in a high data accuracy and integrity score. Transparency and clarity are achieved through comprehensive disclosures, narrative explanations, and timely corrections, warranting a top-tier rating in this dimension. Stakeholder engagement is proactive and multifaceted, including direct communication through earnings calls and investor roadshows, fostering trust and understanding. Overall, the CEO's approach represents an exceptional standard expected of a top-performing CEO."
+}

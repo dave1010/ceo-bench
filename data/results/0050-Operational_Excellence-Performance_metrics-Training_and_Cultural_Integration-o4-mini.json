@@ -1,0 +1,14 @@
+{
+  "question_id": "0050-Operational_Excellence-Performance_metrics-Training_and_Cultural_Integration",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"cultural_leadership\":135,\"training_and_development\":120,\"recognition_and_incentives\":130,\"overall_score\":128.3,\"comments\":\"The answer provides a comprehensive and insightful rationale highlighting the CEO's pivotal role in embedding a culture centered on accurate measurement and continuous improvement. It thoroughly covers cultural leadership, emphasizing clear vision, transparency, and accountability, which warrant a genius-level score. Training and development are well addressed through investments in analytical skill-building and Lean/Six Sigma methods, meriting a high score. Recognition and incentives are thoughtfully discussed with clear linkage to compensation and public acknowledgment, also rated excellently. Overall, the response shows exceptional understanding and would likely drive extraordinary organizational performance.\"}",
+  "scores": {
+    "Cultural Leadership": 135,
+    "Training and Development": 120,
+    "Recognition and Incentives": 130
+  },
+  "total": 128.3,
+  "comments": "The answer provides a comprehensive and insightful rationale highlighting the CEO's pivotal role in embedding a culture centered on accurate measurement and continuous improvement. It thoroughly covers cultural leadership, emphasizing clear vision, transparency, and accountability, which warrant a genius-level score. Training and development are well addressed through investments in analytical skill-building and Lean/Six Sigma methods, meriting a high score. Recognition and incentives are thoughtfully discussed with clear linkage to compensation and public acknowledgment, also rated excellently. Overall, the response shows exceptional understanding and would likely drive extraordinary organizational performance."
+}

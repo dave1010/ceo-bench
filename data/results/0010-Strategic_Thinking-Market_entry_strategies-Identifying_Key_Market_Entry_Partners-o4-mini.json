@@ -1,0 +1,14 @@
+{
+  "question_id": "0010-Strategic_Thinking-Market_entry_strategies-Identifying_Key_Market_Entry_Partners",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"partner_relevance\":120,\"strategic_fit\":115,\"risk_management\":120,\"overall_score\":118,\"comments\":\"The answer presents a comprehensive and methodical approach to identifying and evaluating partners, addressing crucial factors such as alignment with strategic objectives, operational compatibility, and cultural fit, thereby demonstrating strong partner relevance. It thoroughly examines how a partner complements capabilities and assists in overcoming market entry barriers, showing excellent strategic fit. Furthermore, it proactively addresses multiple risk factors including financial stability, regulatory compliance, and exit strategies, reflecting robust risk management. Overall, the response indicates high-level leadership acumen appropriate for effective CEO decision-making.\"}",
+  "scores": {
+    "Partner relevance": 120,
+    "Strategic fit": 115,
+    "Risk management": 120
+  },
+  "total": 118.0,
+  "comments": "The answer presents a comprehensive and methodical approach to identifying and evaluating partners, addressing crucial factors such as alignment with strategic objectives, operational compatibility, and cultural fit, thereby demonstrating strong partner relevance. It thoroughly examines how a partner complements capabilities and assists in overcoming market entry barriers, showing excellent strategic fit. Furthermore, it proactively addresses multiple risk factors including financial stability, regulatory compliance, and exit strategies, reflecting robust risk management. Overall, the response indicates high-level leadership acumen appropriate for effective CEO decision-making."
+}

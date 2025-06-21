@@ -1,0 +1,14 @@
+{
+  "question_id": "0115-Financial_Acumen-Investment_analysis-Evaluating_Risk-Reward_Trade-offs",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment analysis",
+  "raw": "{\"risk_assessment\":135,\"reward_potential\":130,\"decision_justification\":135,\"overall_score\":133.3,\"comments\":\"The answer demonstrates a comprehensive and methodical approach to balancing risks and rewards in investment proposals. The candidate clearly outlines a detailed risk assessment process, including risk categorization, scoring, and mitigation plans, warranting a high score in Risk Assessment. The articulation of expected returns through financial modeling aligned with strategic objectives supports a strong Reward Potential score. The logical, step-by-step decision framework with go/no-go criteria and ongoing monitoring underscores a well-justified decision-making process, justifying an excellent Decision Justification score. Overall, this reflects an exceptional leadership capacity in investment analysis.\"}",
+  "scores": {
+    "Risk Assessment": 135,
+    "Reward Potential": 130,
+    "Decision Justification": 135
+  },
+  "total": 133.3,
+  "comments": "The answer demonstrates a comprehensive and methodical approach to balancing risks and rewards in investment proposals. The candidate clearly outlines a detailed risk assessment process, including risk categorization, scoring, and mitigation plans, warranting a high score in Risk Assessment. The articulation of expected returns through financial modeling aligned with strategic objectives supports a strong Reward Potential score. The logical, step-by-step decision framework with go/no-go criteria and ongoing monitoring underscores a well-justified decision-making process, justifying an excellent Decision Justification score. Overall, this reflects an exceptional leadership capacity in investment analysis."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0023-Ethical_Leadership-Corporate_Responsibility-Embedding_Ethics_in_Business_Strategy",
+  "model": "o4-mini",
+  "topic": "Ethical Leadership",
+  "subtopic": "Corporate Responsibility",
+  "raw": "{\"ethical_framework\":138,\"policy_integration\":136,\"leadership_example\":135,\"overall_score\":136.3,\"comments\":\"The answer comprehensively addresses the CEO's role in embedding ethics and corporate responsibility, detailing systemic integration across governance, strategy, risk management, incentives, and culture. The emphasis on 'tone at the top' and continuous communication highlights strong ethical leadership. The detailed mechanisms for policy integration, including ESG criteria, risk assessments, performance metrics, and transparent reporting, demonstrate deep embedding of ethics into organizational processes. The leadership example is exemplified by the CEO's active engagement in culture building, training, and continuous improvement. Scores near 135 reflect an exceptional and thorough understanding aligned with best practices for ethically-driven leadership.\"}",
+  "scores": {
+    "Ethical Framework": 138,
+    "Policy Integration": 136,
+    "Leadership Example": 135
+  },
+  "total": 136.3,
+  "comments": "The answer comprehensively addresses the CEO's role in embedding ethics and corporate responsibility, detailing systemic integration across governance, strategy, risk management, incentives, and culture. The emphasis on 'tone at the top' and continuous communication highlights strong ethical leadership. The detailed mechanisms for policy integration, including ESG criteria, risk assessments, performance metrics, and transparent reporting, demonstrate deep embedding of ethics into organizational processes. The leadership example is exemplified by the CEO's active engagement in culture building, training, and continuous improvement. Scores near 135 reflect an exceptional and thorough understanding aligned with best practices for ethically-driven leadership."
+}

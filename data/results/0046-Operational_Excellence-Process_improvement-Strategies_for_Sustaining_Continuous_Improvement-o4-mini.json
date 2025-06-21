@@ -1,0 +1,14 @@
+{
+  "question_id": "0046-Operational_Excellence-Process_improvement-Strategies_for_Sustaining_Continuous_Improvement",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"strategy_development\":135,\"change_management\":130,\"measurement_and_feedback\":140,\"overall_score\":135,\"comments\":\"The answer provides a comprehensive, detailed, and actionable strategy for embedding continuous process improvement within organizational culture. It clearly aligns initiatives with company goals and encourages ongoing involvement at all levels. The emphasis on leadership commitment, communication, rewards, and structured governance demonstrates deep understanding of change management principles. The integration of measurement through KPIs, dashboards, and regular reviews shows strong focus on continuous feedback and refinement. Overall, this response reflects exceptional leadership insight and maturity, indicating a high leadership quotient.\"}",
+  "scores": {
+    "Strategy Development": 135,
+    "Change Management": 130,
+    "Measurement and Feedback": 140
+  },
+  "total": 135.0,
+  "comments": "The answer provides a comprehensive, detailed, and actionable strategy for embedding continuous process improvement within organizational culture. It clearly aligns initiatives with company goals and encourages ongoing involvement at all levels. The emphasis on leadership commitment, communication, rewards, and structured governance demonstrates deep understanding of change management principles. The integration of measurement through KPIs, dashboards, and regular reviews shows strong focus on continuous feedback and refinement. Overall, this response reflects exceptional leadership insight and maturity, indicating a high leadership quotient."
+}

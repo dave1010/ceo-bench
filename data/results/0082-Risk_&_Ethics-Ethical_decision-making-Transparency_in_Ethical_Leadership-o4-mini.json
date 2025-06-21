@@ -1,0 +1,14 @@
+{
+  "question_id": "0082-Risk_&_Ethics-Ethical_decision-making-Transparency_in_Ethical_Leadership",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"openness\":130,\"integrity\":125,\"accountability\":135,\"overall_score\":130,\"comments\":\"The answer comprehensively addresses transparency by outlining proactive, clear communication and inviting stakeholder input, demonstrating strong openness. It shows consistent adherence to ethical standards through clear frameworks and independent reviews, reflecting high integrity. Accountability is highlighted with responsibility assignment, progress tracking, whistleblower protections, and learning processes, indicating excellent accountability. Overall, the response reflects a highly capable CEO's approach to ethical challenges, meriting an exceptional leadership quotient.\"}",
+  "scores": {
+    "Openness": 130,
+    "Integrity": 125,
+    "Accountability": 135
+  },
+  "total": 130.0,
+  "comments": "The answer comprehensively addresses transparency by outlining proactive, clear communication and inviting stakeholder input, demonstrating strong openness. It shows consistent adherence to ethical standards through clear frameworks and independent reviews, reflecting high integrity. Accountability is highlighted with responsibility assignment, progress tracking, whistleblower protections, and learning processes, indicating excellent accountability. Overall, the response reflects a highly capable CEO's approach to ethical challenges, meriting an exceptional leadership quotient."
+}

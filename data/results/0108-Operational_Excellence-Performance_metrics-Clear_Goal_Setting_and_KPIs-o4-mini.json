@@ -1,0 +1,13 @@
+{
+  "question_id": "0108-Operational_Excellence-Performance_metrics-Clear_Goal_Setting_and_KPIs",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"clarity_and_alignment\":130,\"engagement_and_buy_in\":120,\"monitoring_and_adjustment\":125,\"overall_score\":125,\"comments\":\"The answer demonstrates exceptional clarity and alignment by rigorously defining SMART metrics tied directly to strategic objectives and establishing comprehensive data definitions. The process emphasizes transparent communication and embedding metrics into organizational plans and tools. Engagement and buy-in are strongly addressed through stakeholder involvement, cross-functional reviews, and tying KPIs to incentives and recognition, fostering accountability and ownership. Monitoring and adjustment are well-covered by regular leadership huddles, real-time dashboards, quarterly reviews, and iterative refinement of KPIs based on insights and changing strategies. Overall, the approach reflects a high level of leadership acumen likely to drive extraordinary organizational performance.\"}",
+  "scores": {
+    "Clarity and Alignment": 130,
+    "Monitoring and Adjustment": 125
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates exceptional clarity and alignment by rigorously defining SMART metrics tied directly to strategic objectives and establishing comprehensive data definitions. The process emphasizes transparent communication and embedding metrics into organizational plans and tools. Engagement and buy-in are strongly addressed through stakeholder involvement, cross-functional reviews, and tying KPIs to incentives and recognition, fostering accountability and ownership. Monitoring and adjustment are well-covered by regular leadership huddles, real-time dashboards, quarterly reviews, and iterative refinement of KPIs based on insights and changing strategies. Overall, the approach reflects a high level of leadership acumen likely to drive extraordinary organizational performance."
+}

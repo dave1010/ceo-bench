@@ -1,0 +1,14 @@
+{
+  "question_id": "0040-Strategic_Thinking-Innovation_and_Adaptability-Embracing_Change_for_Strategic_Advantage",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Innovation and Adaptability",
+  "raw": "{\"encouragement_of_innovation\":135,\"flexibility_in_strategy\":130,\"change_management_skills\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates a comprehensive and well-articulated approach to fostering innovation via clear vision, role modelling, and systematic processes that encourage experimentation and risk-taking. It outlines robust mechanisms for flexibility in strategy, including scenario planning, data-driven early warning systems, and agile execution frameworks, showing a strong capacity to pivot as conditions change. Change management is well addressed through structured organizational capabilities, continuous environmental scanning, regular strategic reviews, and the mobilization of dedicated teams to scale successful initiatives. The depth and integration of these elements indicates an exceptional leadership capability, warranting scores in the 'genius' range across all dimensions.\"}",
+  "scores": {
+    "Encouragement of innovation": 135,
+    "Flexibility in strategy": 130,
+    "Change management skills": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a comprehensive and well-articulated approach to fostering innovation via clear vision, role modelling, and systematic processes that encourage experimentation and risk-taking. It outlines robust mechanisms for flexibility in strategy, including scenario planning, data-driven early warning systems, and agile execution frameworks, showing a strong capacity to pivot as conditions change. Change management is well addressed through structured organizational capabilities, continuous environmental scanning, regular strategic reviews, and the mobilization of dedicated teams to scale successful initiatives. The depth and integration of these elements indicates an exceptional leadership capability, warranting scores in the 'genius' range across all dimensions."
+}

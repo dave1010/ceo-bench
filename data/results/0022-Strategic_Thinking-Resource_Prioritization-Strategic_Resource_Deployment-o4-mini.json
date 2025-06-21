@@ -1,0 +1,14 @@
+{
+  "question_id": "0022-Strategic_Thinking-Resource_Prioritization-Strategic_Resource_Deployment",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Resource Prioritization",
+  "raw": "{\"prioritization_skills\":130,\"decision-making_process\":135,\"outcome_focus\":132,\"overall_score\":132.33,\"comments\":\"The answer demonstrates exceptional prioritization skills by detailing a rigorous scoring and ranking system for initiatives to identify high-impact work. It also outlines a comprehensive, data-driven decision-making process involving KPIs, ROI assessments, risk evaluation, stage gates, and governance structures that incorporate stakeholder oversight. The outcome focus is strong, emphasizing transparency through dashboards, accountability via ownership, and frequent reviews to ensure resource deployment drives measurable results. Overall, the response reflects a highly sophisticated and systematic approach deserving of a genius-level LQ score.\"}",
+  "scores": {
+    "Prioritization Skills": 130,
+    "Decision-Making Process": 135,
+    "Outcome Focus": 132
+  },
+  "total": 132.33,
+  "comments": "The answer demonstrates exceptional prioritization skills by detailing a rigorous scoring and ranking system for initiatives to identify high-impact work. It also outlines a comprehensive, data-driven decision-making process involving KPIs, ROI assessments, risk evaluation, stage gates, and governance structures that incorporate stakeholder oversight. The outcome focus is strong, emphasizing transparency through dashboards, accountability via ownership, and frequent reviews to ensure resource deployment drives measurable results. Overall, the response reflects a highly sophisticated and systematic approach deserving of a genius-level LQ score."
+}

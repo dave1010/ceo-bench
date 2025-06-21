@@ -1,0 +1,14 @@
+{
+  "question_id": "0015-Strategic_Thinking-Market_entry_strategies-Assessing_Long-term_Viability_of_New_Markets",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"evaluation_framework\":130,\"data_and_forecasting\":135,\"adaptability_planning\":125,\"overall_score\":130,\"comments\":\"The answer presents a comprehensive and structured evaluation framework comprising multiple robust analytical tools such as PESTEL, Porter's Five Forces, and financial scenario modeling, demonstrating deep domain knowledge and systematic approach (Evaluation Framework: 130). It integrates diverse quantitative and qualitative data sources, including macroeconomic forecasting, primary research, and Monte Carlo simulations, reflecting sophisticated forecasting capabilities (Data and Forecasting: 135). Adaptability is well addressed through pilot testing, stage-gate governance, and ongoing post-entry monitoring allowing for iterative learning and agile decision-making (Adaptability Planning: 125). Overall, the response reflects a highly capable CEO approach with strong potential for sustainable market entry decisions.\"}",
+  "scores": {
+    "Evaluation Framework": 130,
+    "Data and Forecasting": 135,
+    "Adaptability Planning": 125
+  },
+  "total": 130.0,
+  "comments": "The answer presents a comprehensive and structured evaluation framework comprising multiple robust analytical tools such as PESTEL, Porter's Five Forces, and financial scenario modeling, demonstrating deep domain knowledge and systematic approach (Evaluation Framework: 130). It integrates diverse quantitative and qualitative data sources, including macroeconomic forecasting, primary research, and Monte Carlo simulations, reflecting sophisticated forecasting capabilities (Data and Forecasting: 135). Adaptability is well addressed through pilot testing, stage-gate governance, and ongoing post-entry monitoring allowing for iterative learning and agile decision-making (Adaptability Planning: 125). Overall, the response reflects a highly capable CEO approach with strong potential for sustainable market entry decisions."
+}

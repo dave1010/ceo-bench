@@ -1,0 +1,14 @@
+{
+  "question_id": "0048-Operational_Excellence-Performance_metrics-Strategic_Alignment_of_Metrics",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"clarity_of_strategic_alignment\":130,\"implementation_effectiveness\":135,\"continuous_improvement\":130,\"overall_score\":132.5,\"comments\":\"The CEO demonstrates exceptional clarity in linking performance metrics directly to strategic goals, ensuring all teams understand their contributions. Implementation is highly effective, with regular reviews, data-driven decision-making, and accountability mechanisms that keep the organization aligned and proactive. Continuous improvement is well embedded in the process, with routine metric refinement and agility to adapt to changing circumstances. Overall, the approach reflects a 'genius' level of leadership performance, positioning the company for extraordinary success.\"}",
+  "scores": {
+    "Clarity of strategic alignment": 130,
+    "Implementation effectiveness": 135,
+    "Continuous improvement": 130
+  },
+  "total": 132.5,
+  "comments": "The CEO demonstrates exceptional clarity in linking performance metrics directly to strategic goals, ensuring all teams understand their contributions. Implementation is highly effective, with regular reviews, data-driven decision-making, and accountability mechanisms that keep the organization aligned and proactive. Continuous improvement is well embedded in the process, with routine metric refinement and agility to adapt to changing circumstances. Overall, the approach reflects a 'genius' level of leadership performance, positioning the company for extraordinary success."
+}

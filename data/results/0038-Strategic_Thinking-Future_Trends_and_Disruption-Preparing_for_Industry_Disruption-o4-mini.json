@@ -1,0 +1,14 @@
+{
+  "question_id": "0038-Strategic_Thinking-Future_Trends_and_Disruption-Preparing_for_Industry_Disruption",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Future Trends and Disruption",
+  "raw": "{\"environmental_scanning\":135,\"proactive_planning\":140,\"leadership_in_change\":138,\"overall_score\":138,\"comments\":\"The CEO demonstrates exceptional foresight and strategic discipline in anticipating industry disruptions. Continuous horizon-scanning practices are comprehensive, covering multiple sources and engagement methods, exceeding typical expectations (score:135). Proactive planning is exemplary, incorporating rigorous scenario planning, stress-testing, and contingency playbooks that prepare the organization thoroughly for various potential futures (score:140). Leadership in change is shown through an adaptive organizational model, a culture fostering innovation and agility, and proactive partnerships and investments, highlighting strong guidance through transformation (score:138). Overall, this reflects 'genius' level leadership that would likely produce extraordinary organizational resilience and opportunity capture.\"}",
+  "scores": {
+    "Environmental Scanning": 135,
+    "Proactive Planning": 140,
+    "Leadership in Change": 138
+  },
+  "total": 138.0,
+  "comments": "The CEO demonstrates exceptional foresight and strategic discipline in anticipating industry disruptions. Continuous horizon-scanning practices are comprehensive, covering multiple sources and engagement methods, exceeding typical expectations (score:135). Proactive planning is exemplary, incorporating rigorous scenario planning, stress-testing, and contingency playbooks that prepare the organization thoroughly for various potential futures (score:140). Leadership in change is shown through an adaptive organizational model, a culture fostering innovation and agility, and proactive partnerships and investments, highlighting strong guidance through transformation (score:138). Overall, this reflects 'genius' level leadership that would likely produce extraordinary organizational resilience and opportunity capture."
+}

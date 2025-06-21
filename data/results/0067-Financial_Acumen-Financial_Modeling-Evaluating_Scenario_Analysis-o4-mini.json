@@ -1,0 +1,14 @@
+{
+  "question_id": "0067-Financial_Acumen-Financial_Modeling-Evaluating_Scenario_Analysis",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Modeling",
+  "raw": "{\"scenario_planning_integration\":130,\"analytical_rigor\":125,\"strategic_adaptability\":135,\"overall_score\":130,\"comments\":\"The CEO exhibits strong integration of scenario planning, incorporating multiple and diverse scenarios into decision-making. Analytical rigor is high, with structured, cross-functional scenario modeling and stress testing. Strategic adaptability is excellent, as evidenced by rapid responses to market changes and preemptive measures to mitigate risks. Minor areas for improvement\u2014like linking triggers to real-time monitoring and expanding scenario scope\u2014suggest potential to reach an even higher benchmark. Overall, performance is well above average and demonstrates exceptional leadership in scenario analysis and strategic agility.\"}",
+  "scores": {
+    "Scenario Planning Integration": 130,
+    "Analytical Rigor": 125,
+    "Strategic Adaptability": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO exhibits strong integration of scenario planning, incorporating multiple and diverse scenarios into decision-making. Analytical rigor is high, with structured, cross-functional scenario modeling and stress testing. Strategic adaptability is excellent, as evidenced by rapid responses to market changes and preemptive measures to mitigate risks. Minor areas for improvement\u2014like linking triggers to real-time monitoring and expanding scenario scope\u2014suggest potential to reach an even higher benchmark. Overall, performance is well above average and demonstrates exceptional leadership in scenario analysis and strategic agility."
+}

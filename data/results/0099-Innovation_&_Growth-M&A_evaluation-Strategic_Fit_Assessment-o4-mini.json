@@ -1,0 +1,14 @@
+{
+  "question_id": "0099-Innovation_&_Growth-M&A_evaluation-Strategic_Fit_Assessment",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"strategic_alignment\":140,\"due_diligence_rigor\":140,\"decision-making_confidence\":135,\"overall_score\":138.3,\"comments\":\"The CEO demonstrates exceptional capability in aligning M&A activities with strategic imperatives through a well-structured, repeatable process. The due diligence is comprehensive, involving multi-disciplinary teams and rigorous assessment of financial, operational, cultural, and technological dimensions, which minimizes risk and ensures synergy realization. Decision-making is supported by strong governance, risk assessment (including red-team exercises), and continuous monitoring, reflecting high confidence and clarity. Evidence of strong outcomes and continuous improvement further supports an outstanding leadership quotient.\"}",
+  "scores": {
+    "Strategic Alignment": 140,
+    "Due Diligence Rigor": 140,
+    "Decision-Making Confidence": 135
+  },
+  "total": 138.3,
+  "comments": "The CEO demonstrates exceptional capability in aligning M&A activities with strategic imperatives through a well-structured, repeatable process. The due diligence is comprehensive, involving multi-disciplinary teams and rigorous assessment of financial, operational, cultural, and technological dimensions, which minimizes risk and ensures synergy realization. Decision-making is supported by strong governance, risk assessment (including red-team exercises), and continuous monitoring, reflecting high confidence and clarity. Evidence of strong outcomes and continuous improvement further supports an outstanding leadership quotient."
+}

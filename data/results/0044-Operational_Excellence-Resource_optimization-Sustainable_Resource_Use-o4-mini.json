@@ -1,0 +1,14 @@
+{
+  "question_id": "0044-Operational_Excellence-Resource_optimization-Sustainable_Resource_Use",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"policy_development\":135,\"employee_engagement\":130,\"outcome_tracking\":140,\"overall_score\":135,\"comments\":\"The CEO demonstrates exceptional leadership by deeply embedding sustainability into strategy, governance, and culture. Clear, ambitious policies are set with measurable KPIs. Employee engagement is robust, leveraging leadership example, training, and inclusive initiatives. Outcome tracking is thorough and transparent, with rigorous reporting aligned to best practices. The integrated approach ensures sustainability drives innovation and long-term value, reflecting a genius-level performance in sustainability leadership.\"}",
+  "scores": {
+    "Policy Development": 135,
+    "Employee Engagement": 130,
+    "Outcome Tracking": 140
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates exceptional leadership by deeply embedding sustainability into strategy, governance, and culture. Clear, ambitious policies are set with measurable KPIs. Employee engagement is robust, leveraging leadership example, training, and inclusive initiatives. Outcome tracking is thorough and transparent, with rigorous reporting aligned to best practices. The integrated approach ensures sustainability drives innovation and long-term value, reflecting a genius-level performance in sustainability leadership."
+}

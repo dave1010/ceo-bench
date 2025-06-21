@@ -1,0 +1,14 @@
+{
+  "question_id": "0032-Strategic_Thinking-Market_entry_strategies-Managing_Cross-functional_Teams_During_Expansion",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"leadership_communication\":135,\"resource_management\":130,\"performance_monitoring\":135,\"overall_score\":133.33,\"comments\":\"The response demonstrates exceptional leadership communication by clearly articulating a compelling vision and structured roles that encourage collaboration across functions. Resource management is addressed thoroughly by appointing senior sponsors, allocating decision rights, and providing escalation paths that ensure teams have adequate support. Performance monitoring is strongly emphasized through the use of RACI charts, OKRs, governance cadence, and transparent communication tools, enabling real-time feedback and continuous iteration. Overall, the answer reflects a comprehensive, high-level approach indicative of extraordinary CEO performance.\"}",
+  "scores": {
+    "Leadership communication": 135,
+    "Resource management": 130,
+    "Performance monitoring": 135
+  },
+  "total": 133.33,
+  "comments": "The response demonstrates exceptional leadership communication by clearly articulating a compelling vision and structured roles that encourage collaboration across functions. Resource management is addressed thoroughly by appointing senior sponsors, allocating decision rights, and providing escalation paths that ensure teams have adequate support. Performance monitoring is strongly emphasized through the use of RACI charts, OKRs, governance cadence, and transparent communication tools, enabling real-time feedback and continuous iteration. Overall, the answer reflects a comprehensive, high-level approach indicative of extraordinary CEO performance."
+}

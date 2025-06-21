@@ -1,0 +1,14 @@
+{
+  "question_id": "0080-Risk_&_Ethics-Conflict_of_Interest_Management-Identifying_and_Addressing_Conflicts_of_Interest",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Conflict of Interest Management",
+  "raw": "{\"disclosure_processes\":130,\"resolution_strategies\":135,\"leadership_example\":120,\"overall_score\":128,\"comments\":\"The CEO demonstrates a comprehensive and systematic approach to proactively identifying and managing conflicts of interest, including establishing clear policies, disclosure requirements, and maintaining a centralized registry. The resolution strategies are thorough, with formal recusal plans, mitigation agreements, and enforcement protocols, indicating strong conflict management. Leadership example is evidenced by active communication on ethics, personal involvement in culture-setting, and integration of compliance in performance reviews. The approach is advanced and aligned with best practices, warranting high scores across all dimensions.\"}",
+  "scores": {
+    "Disclosure Processes": 130,
+    "Resolution Strategies": 135,
+    "Leadership Example": 120
+  },
+  "total": 128.0,
+  "comments": "The CEO demonstrates a comprehensive and systematic approach to proactively identifying and managing conflicts of interest, including establishing clear policies, disclosure requirements, and maintaining a centralized registry. The resolution strategies are thorough, with formal recusal plans, mitigation agreements, and enforcement protocols, indicating strong conflict management. Leadership example is evidenced by active communication on ethics, personal involvement in culture-setting, and integration of compliance in performance reviews. The approach is advanced and aligned with best practices, warranting high scores across all dimensions."
+}

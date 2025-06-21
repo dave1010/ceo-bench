@@ -1,0 +1,14 @@
+{
+  "question_id": "0049-Operational_Excellence-Performance_metrics-Data-Driven_Decision_Making",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"alignment_of_metrics_with_strategic_goals\":135,\"use_of_data_to_identify_opportunities\":130,\"actionability_of_insights\":135,\"overall_score\":133.3,\"comments\":\"The CEO demonstrates an exceptional ability to align KPIs with strategic goals, ensuring clear linkage from top-level objectives to front-line execution. Their proactive use of data reveals insightful opportunities for investment and operational improvements, including reallocating marketing budgets and streamlining manufacturing processes. Furthermore, the CEO drives actionable insights with discipline, leading focused problem-solving and implementing predictive analytics tools. Areas for improvement are thoughtfully identified, suggesting a reflective leadership style aimed at continuous enhancement. Overall, this represents genius-level mastery of performance metrics to inform strategic and operational decision-making.\"}",
+  "scores": {
+    "Alignment of metrics with strategic goals": 135,
+    "Use of data to identify opportunities": 130,
+    "Actionability of insights": 135
+  },
+  "total": 133.3,
+  "comments": "The CEO demonstrates an exceptional ability to align KPIs with strategic goals, ensuring clear linkage from top-level objectives to front-line execution. Their proactive use of data reveals insightful opportunities for investment and operational improvements, including reallocating marketing budgets and streamlining manufacturing processes. Furthermore, the CEO drives actionable insights with discipline, leading focused problem-solving and implementing predictive analytics tools. Areas for improvement are thoughtfully identified, suggesting a reflective leadership style aimed at continuous enhancement. Overall, this represents genius-level mastery of performance metrics to inform strategic and operational decision-making."
+}

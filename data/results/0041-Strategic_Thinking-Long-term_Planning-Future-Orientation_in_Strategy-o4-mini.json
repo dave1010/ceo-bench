@@ -1,0 +1,14 @@
+{
+  "question_id": "0041-Strategic_Thinking-Long-term_Planning-Future-Orientation_in_Strategy",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Planning",
+  "raw": "{\"visionary_planning\":135,\"sustainability_focus\":140,\"stakeholder_engagement\":130,\"overall_score\":135,\"comments\":\"The answer demonstrates exceptional visionary planning by outlining a clear and structured multi-year vision tied to measurable outcomes and iterative review processes. Sustainability focus is outstanding, with strong emphasis on integrating ESG metrics and sustainability goals into strategy, budgeting, and performance. Stakeholder engagement is well-covered through inclusive communication with board members, investors, customers, regulators, and community leaders, ensuring alignment and buy-in. Overall, the response reflects a genius-level CEO approach that fosters resilience, purpose, and sustainable growth.\"}",
+  "scores": {
+    "Visionary Planning": 135,
+    "Sustainability Focus": 140,
+    "Stakeholder Engagement": 130
+  },
+  "total": 135.0,
+  "comments": "The answer demonstrates exceptional visionary planning by outlining a clear and structured multi-year vision tied to measurable outcomes and iterative review processes. Sustainability focus is outstanding, with strong emphasis on integrating ESG metrics and sustainability goals into strategy, budgeting, and performance. Stakeholder engagement is well-covered through inclusive communication with board members, investors, customers, regulators, and community leaders, ensuring alignment and buy-in. Overall, the response reflects a genius-level CEO approach that fosters resilience, purpose, and sustainable growth."
+}

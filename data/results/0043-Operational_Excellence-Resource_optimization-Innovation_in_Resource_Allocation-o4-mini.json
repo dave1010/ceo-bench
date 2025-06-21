@@ -1,0 +1,14 @@
+{
+  "question_id": "0043-Operational_Excellence-Resource_optimization-Innovation_in_Resource_Allocation",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"strategic_planning\":135,\"efficiency_gains\":140,\"change_management\":130,\"overall_score\":135,\"comments\":\"The CEO demonstrates exceptional strategic planning through innovative, data-driven resource allocation combining analytics, agile teams, and centers of excellence. Measurable efficiency gains are impressive, including a 15% reduction in overhead and 87% utilization. Change management is strongly evidenced by embedded Lean Six Sigma champions, culture of accountability, and transparency mechanisms, showing effective organizational adoption. Scores reflect exceptional CEO leadership with extraordinary organizational performance.\"}",
+  "scores": {
+    "Strategic Planning": 135,
+    "Efficiency Gains": 140,
+    "Change Management": 130
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates exceptional strategic planning through innovative, data-driven resource allocation combining analytics, agile teams, and centers of excellence. Measurable efficiency gains are impressive, including a 15% reduction in overhead and 87% utilization. Change management is strongly evidenced by embedded Lean Six Sigma champions, culture of accountability, and transparency mechanisms, showing effective organizational adoption. Scores reflect exceptional CEO leadership with extraordinary organizational performance."
+}

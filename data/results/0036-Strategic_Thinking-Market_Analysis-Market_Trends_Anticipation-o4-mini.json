@@ -1,0 +1,14 @@
+{
+  "question_id": "0036-Strategic_Thinking-Market_Analysis-Market_Trends_Anticipation",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market Analysis",
+  "raw": "{\"awareness_of_market_dynamics\":130,\"integration_of_insights\":135,\"proactiveness\":128,\"overall_score\":131,\"comments\":\"The answer demonstrates exceptional awareness of market dynamics through diverse, proactive information sources including direct customer engagement, competitor intelligence, and internal signals. Insights are systematically integrated into planning via structured reviews, scenario planning, and alignment of OKRs, showing thorough and disciplined strategic processes. The CEO's proactiveness is evident in fast-tracking investments, continuous learning initiatives, and rapid-response mechanisms, indicating a forward-looking leadership approach. Overall, the response reflects superior CEO capabilities in navigating complex markets and driving organizational agility.\"}",
+  "scores": {
+    "Awareness of Market Dynamics": 130,
+    "Integration of Insights": 135,
+    "Proactiveness": 128
+  },
+  "total": 131.0,
+  "comments": "The answer demonstrates exceptional awareness of market dynamics through diverse, proactive information sources including direct customer engagement, competitor intelligence, and internal signals. Insights are systematically integrated into planning via structured reviews, scenario planning, and alignment of OKRs, showing thorough and disciplined strategic processes. The CEO's proactiveness is evident in fast-tracking investments, continuous learning initiatives, and rapid-response mechanisms, indicating a forward-looking leadership approach. Overall, the response reflects superior CEO capabilities in navigating complex markets and driving organizational agility."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0118-Risk_&_Ethics-Regulatory_compliance-Navigating_Shifting_Regulatory_Landscapes",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Regulatory compliance",
+  "raw": "{\"strategic_foresight\":130,\"operational_implementation\":125,\"risk_management\":130,\"overall_score\":128.3,\"comments\":\"The answer demonstrates exceptional strategic foresight by proactively integrating global regulatory monitoring and adaptive compliance through governance structures and technology. Operationally, it provides comprehensive, detailed processes and training mechanisms that ensure consistent implementation across jurisdictions. Risk management is thorough, with early identification, prioritization, and mitigation of compliance risks using technology and organizational controls. Overall, this reflects a highly sophisticated and effective approach to compliance in complex environments, exceeding average CEO expectations significantly.\"}",
+  "scores": {
+    "Strategic Foresight": 130,
+    "Operational Implementation": 125,
+    "Risk Management": 130
+  },
+  "total": 128.3,
+  "comments": "The answer demonstrates exceptional strategic foresight by proactively integrating global regulatory monitoring and adaptive compliance through governance structures and technology. Operationally, it provides comprehensive, detailed processes and training mechanisms that ensure consistent implementation across jurisdictions. Risk management is thorough, with early identification, prioritization, and mitigation of compliance risks using technology and organizational controls. Overall, this reflects a highly sophisticated and effective approach to compliance in complex environments, exceeding average CEO expectations significantly."
+}

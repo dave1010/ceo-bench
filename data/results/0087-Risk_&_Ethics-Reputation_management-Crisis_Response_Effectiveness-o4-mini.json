@@ -1,0 +1,14 @@
+{
+  "question_id": "0087-Risk_&_Ethics-Reputation_management-Crisis_Response_Effectiveness",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"response_timeliness\":120,\"transparency_and_honesty\":130,\"restoration_of_trust\":125,\"overall_score\":125,\"comments\":\"The answer comprehensively covers all aspects of timely response through a robust crisis framework and quick action; it demonstrates outstanding transparency by detailing consistent, truthful communication strategies; and it offers well-structured methods to restore trust via accountability, remedial actions, and ongoing engagement. The thoughtfulness and depth position it well above average CEO competency.\"}",
+  "scores": {
+    "Response timeliness": 120,
+    "Transparency and honesty": 130,
+    "Restoration of trust": 125
+  },
+  "total": 125.0,
+  "comments": "The answer comprehensively covers all aspects of timely response through a robust crisis framework and quick action; it demonstrates outstanding transparency by detailing consistent, truthful communication strategies; and it offers well-structured methods to restore trust via accountability, remedial actions, and ongoing engagement. The thoughtfulness and depth position it well above average CEO competency."
+}

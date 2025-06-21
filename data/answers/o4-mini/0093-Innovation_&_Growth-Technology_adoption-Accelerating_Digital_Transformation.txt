@@ -1,0 +1,38 @@
+To answer this question you want to look at both “what the CEO says” (vision, priorities) and “what the CEO does” (decisions, governance, resourcing, culture) across the life-cycle of your digital agenda.  Below is a simple rubric you can use to gauge effectiveness, followed by a short checklist of best-practice behaviors.  
+
+1. Rubric for CEO Digital-Transformation Leadership  
+   1 = No clear strategy or sponsorship  
+   2 = Ad-hoc projects; few linkages to broader business goals  
+   3 = Formal digital roadmap exists; some centralized oversight but uneven execution  
+   4 = Integrated digital portfolio; cross-functional governance; active performance metrics  
+   5 = Industry-leading innovator; continuous scanning and rapid, scaled adoption of emerging tech  
+
+2. Key Criteria and Evidence  
+ A. Vision & Prioritization  
+   • Has the CEO clearly articulated a digital ambition aligned to core business objectives?  
+   • Is there a transparent, value-based framework (e.g., revenue uplift, cost reduction, customer impact) guiding which initiatives get first attention?  
+
+ B. Governance & Resourcing  
+   • Did the CEO establish (or empower) a dedicated digital-transformation office or steering committee?  
+   • Are budget, talent and executive sponsorship ring-fenced for high-priority digital programs?  
+
+ C. Agile Execution & Speed to Value  
+   • Does the organization use agile pilots and sprints to prototype emerging technologies (AI/ML, IoT, blockchain)?  
+   • Does the CEO insist on rapid learning cycles and “fail fast, learn fast” so that winners get scaled within weeks or months, not years?  
+
+ D. Culture & Capability Building  
+   • Is the CEO visibly championing a culture of experimentation and continuous learning?  
+   • Have digital skills become a board-level agenda item (training programs, external hires, partnerships, M&A)?  
+
+ E. Measurement & Course Correction  
+   • Are clear KPIs (time-to-market, adoption rates, ROI) in place, reviewed regularly with the CEO and the board?  
+   • When projects stall or underperform, does the CEO reallocate resources or adjust priorities swiftly?  
+
+3. Behaviors of a Highly Effective CEO  
+ • Talks about digital both externally (investors, analysts) and internally (all-hands, town halls) in the same breath as core strategy.  
+ • Insists on a rolling 12–18-month roadmap with quarterly reviews, rather than a static multi-year plan.  
+ • Personally sponsors flagship initiatives (e.g. center-of-excellence for AI, digital twin pilots) to signal top-team commitment.  
+ • Builds an ecosystem of start-up partnerships, academic alliances and technology vendors to maintain early access to emerging tools.  
+ • Rewards business leaders not for staying “safe” but for moving the organization up the digital-maturity curve—even if some experiments fail.  
+
+Using the rubric and criteria above, you can place your CEO on a 1–5 scale. A score of 4 or 5 indicates strong, effective prioritization and leadership in digital transformation; anything below 3 suggests either strategy, funding or execution gaps that need urgent attention.

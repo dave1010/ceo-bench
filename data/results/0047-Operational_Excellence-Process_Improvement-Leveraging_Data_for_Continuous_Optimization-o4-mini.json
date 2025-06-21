@@ -1,0 +1,14 @@
+{
+  "question_id": "0047-Operational_Excellence-Process_Improvement-Leveraging_Data_for_Continuous_Optimization",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Process Improvement",
+  "raw": "{\"data-driven_decision_making\":135,\"stakeholder_engagement\":130,\"culture_of_continuous_improvement\":140,\"overall_score\":135,\"comments\":\"The answer comprehensively addresses all dimensions of the rubric with a strong emphasis on embedding analytics into decision-making and process improvements. The CEO's role is clearly defined in setting vision, governance, methodology integration, and incentives, demonstrating exceptional leadership in data-driven culture, cross-functional collaboration, and continuous improvement mindset. The inclusion of advanced tools, talent development, and regular performance reviews exemplifies an outstanding approach likely to result in extraordinary organizational performance.\"}",
+  "scores": {
+    "Data-Driven Decision Making": 135,
+    "Stakeholder Engagement": 130,
+    "Culture of Continuous Improvement": 140
+  },
+  "total": 135.0,
+  "comments": "The answer comprehensively addresses all dimensions of the rubric with a strong emphasis on embedding analytics into decision-making and process improvements. The CEO's role is clearly defined in setting vision, governance, methodology integration, and incentives, demonstrating exceptional leadership in data-driven culture, cross-functional collaboration, and continuous improvement mindset. The inclusion of advanced tools, talent development, and regular performance reviews exemplifies an outstanding approach likely to result in extraordinary organizational performance."
+}

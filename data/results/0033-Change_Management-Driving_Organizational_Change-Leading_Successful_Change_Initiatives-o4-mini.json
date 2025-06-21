@@ -1,0 +1,14 @@
+{
+  "question_id": "0033-Change_Management-Driving_Organizational_Change-Leading_Successful_Change_Initiatives",
+  "model": "o4-mini",
+  "topic": "Change Management",
+  "subtopic": "Driving Organizational Change",
+  "raw": "{\"communication_strategy\":135,\"stakeholder_engagement\":135,\"monitoring_and_adjustment\":130,\"overall_score\":133.3,\"comments\":\"The answer excels in Communication Strategy by detailing a comprehensive multi-channel approach to articulate the vision and benefits, ensuring transparency and engagement. Stakeholder Engagement is thoroughly addressed through leadership coalition activation, change champions, stakeholder analysis, and co-creation, highlighting inclusive participation. Monitoring and Adjustment are robustly covered with KPIs, governance structures, iteration, and institutionalization plans to ensure continuous improvement. The response demonstrates exceptional understanding and application of organizational change principles, meriting a high Leadership Quotient score indicative of a top-tier CEO capability.\"}",
+  "scores": {
+    "Communication Strategy": 135,
+    "Stakeholder Engagement": 135,
+    "Monitoring and Adjustment": 130
+  },
+  "total": 133.3,
+  "comments": "The answer excels in Communication Strategy by detailing a comprehensive multi-channel approach to articulate the vision and benefits, ensuring transparency and engagement. Stakeholder Engagement is thoroughly addressed through leadership coalition activation, change champions, stakeholder analysis, and co-creation, highlighting inclusive participation. Monitoring and Adjustment are robustly covered with KPIs, governance structures, iteration, and institutionalization plans to ensure continuous improvement. The response demonstrates exceptional understanding and application of organizational change principles, meriting a high Leadership Quotient score indicative of a top-tier CEO capability."
+}

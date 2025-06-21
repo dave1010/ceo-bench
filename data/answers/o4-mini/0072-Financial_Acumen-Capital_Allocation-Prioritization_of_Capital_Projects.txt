@@ -1,0 +1,27 @@
+A CEO’s goal in allocating scarce capital is always the same: deploy it where it will earn the highest risk-adjusted returns over time and/or advance the company’s strategic objectives, thereby driving sustainable growth in per-share value.  In practice that means putting in place a consistent, disciplined process to evaluate, rank and fund every use of capital—internal projects, acquisitions, buybacks, dividends or debt pay-down—and then holding each allocation accountable for delivering the promised returns.
+
+Here is a typical five-step approach:
+
+1. Define the strategic framework and financial hurdles  
+   • Clarify your top strategic priorities (e.g., core-business reinvestment, new markets, technology leadership).  
+   • Establish minimum return thresholds tied to the company’s weighted average cost of capital (WACC), adjusted for project risk (higher hurdle for riskier bets).
+
+2. Generate and vet capital proposals  
+   • Require every major project to submit a business case with key metrics: net present value (NPV), internal rate of return (IRR), payback period, margin contribution, strategic fit, and key risks.  
+   • Include “off-ramps” or stage-gates so that projects get incremental funding only as they clear milestones.
+
+3. Rank competing requests on a common basis  
+   • Create a “capital scorecard” that weights financial returns, strategic alignment, risk profile, resource requirements and timing.  
+   • Stress-test assumptions with sensitivity and scenario analyses (e.g., commodity swings, regulatory changes).
+
+4. Allocate the scarce pool of capital  
+   • First fund the projects with the highest risk-adjusted returns that also advance the strategy.  
+   • Then consider alternative uses of cash—share buybacks if stock is undervalued, dividends for mature cash cows, debt reduction if leverage is above target, or acquisitions for adjacency growth.  
+   • Maintain flexibility—reserve a buffer for opportunistic investments or downturns.
+
+5. Rigorously monitor, re-prioritize and recycle capital  
+   • Hold project leaders to agreed milestones and financial targets; reallocate funding away from underperformers.  
+   • Conduct periodic portfolio reviews; harvest gains and redeploy cash from lower-return activities into higher-return initiatives.  
+   • Communicate results to the board and investors in terms of value created (e.g., IRR vs. hurdle, incremental free cash flow, total shareholder return impact).
+
+By applying this discipline—tying every dollar to a clear, risk-adjusted return expectation, insisting on strategic relevance, and enforcing stage-gate accountability—the CEO ensures capital flows to the highest-value opportunities, continuously optimizing the portfolio and maximizing long-term shareholder value.

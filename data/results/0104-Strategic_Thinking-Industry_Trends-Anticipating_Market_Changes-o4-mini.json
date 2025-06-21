@@ -1,0 +1,14 @@
+{
+  "question_id": "0104-Strategic_Thinking-Industry_Trends-Anticipating_Market_Changes",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Industry Trends",
+  "raw": "{\"market_awareness\":135,\"proactiveness\":140,\"strategic_preparedness\":138,\"overall_score\":137.7,\"comments\":\"The answer provides a comprehensive and detailed approach showcasing exceptional understanding and anticipation of industry shifts. The CEO demonstrates superior market awareness through constant environmental scanning and leveraging diverse analytical frameworks. Proactiveness is evidenced by systematized signal detection, innovation initiatives, and external ecosystem engagement well ahead of competitors. Strategic preparedness is well-addressed via scenario planning, dynamic resource allocation, adaptive budgeting, and governance structures ensuring timely and effective responses. Overall, the response exemplifies a 'genius' level CEO capability for maintaining competitive advantage in rapidly evolving industries.\"}",
+  "scores": {
+    "Market Awareness": 135,
+    "Proactiveness": 140,
+    "Strategic Preparedness": 138
+  },
+  "total": 137.7,
+  "comments": "The answer provides a comprehensive and detailed approach showcasing exceptional understanding and anticipation of industry shifts. The CEO demonstrates superior market awareness through constant environmental scanning and leveraging diverse analytical frameworks. Proactiveness is evidenced by systematized signal detection, innovation initiatives, and external ecosystem engagement well ahead of competitors. Strategic preparedness is well-addressed via scenario planning, dynamic resource allocation, adaptive budgeting, and governance structures ensuring timely and effective responses. Overall, the response exemplifies a 'genius' level CEO capability for maintaining competitive advantage in rapidly evolving industries."
+}

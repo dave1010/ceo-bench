@@ -1,0 +1,14 @@
+{
+  "question_id": "0020-Strategic_Thinking-Market_Trends_Analysis-Industry_Landscape_Awareness",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market Trends Analysis",
+  "raw": "{\"environmental_scanning\":135,\"adaptability\":130,\"forward-looking_perspective\":140,\"overall_score\":135,\"comments\":\"The answer comprehensively covers systematic and multi-faceted environmental scanning approaches, including AI tools, real-time dashboards, and external networks, warranting a very high score for Environmental Scanning. It outlines agile investment, governance mechanisms, and incentives that enable quick strategic pivots, reflecting strong Adaptability. Forward-looking Perspective is exceptionally demonstrated through scenario planning, strategic forums, continuous learning culture, and foresight integration. Overall, this is a near-ideal CEO approach showcasing genius-level leadership characteristics.\"}",
+  "scores": {
+    "Environmental Scanning": 135,
+    "Adaptability": 130,
+    "Forward-looking Perspective": 140
+  },
+  "total": 135.0,
+  "comments": "The answer comprehensively covers systematic and multi-faceted environmental scanning approaches, including AI tools, real-time dashboards, and external networks, warranting a very high score for Environmental Scanning. It outlines agile investment, governance mechanisms, and incentives that enable quick strategic pivots, reflecting strong Adaptability. Forward-looking Perspective is exceptionally demonstrated through scenario planning, strategic forums, continuous learning culture, and foresight integration. Overall, this is a near-ideal CEO approach showcasing genius-level leadership characteristics."
+}

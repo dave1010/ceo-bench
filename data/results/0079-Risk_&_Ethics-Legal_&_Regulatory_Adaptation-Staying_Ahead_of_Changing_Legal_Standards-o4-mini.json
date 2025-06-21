@@ -1,0 +1,14 @@
+{
+  "question_id": "0079-Risk_&_Ethics-Legal_&_Regulatory_Adaptation-Staying_Ahead_of_Changing_Legal_Standards",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Legal & Regulatory Adaptation",
+  "raw": "{\"monitoring_systems\":130,\"strategic_planning\":125,\"external_partnerships\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a sophisticated and comprehensive approach to adapting proactively to legal and regulatory changes. It details robust monitoring systems, including real-time alerts, risk assessments, and technology-enabled compliance tracking, warranting a high score in monitoring systems. Strategic planning is deeply embedded through governance mechanisms, scenario planning, and integrating compliance into broader enterprise risk management, leading to a top-tier score in strategic planning. The CEO's cultivation of external partnerships is strong, maintaining dialogues with regulators, involving external counsel, and benchmarking compliance programs, meriting very good but slightly lower than internal systems and planning. Overall, the answer reflects exceptional leadership quality in regulatory adaptation.\"}",
+  "scores": {
+    "Monitoring systems": 130,
+    "Strategic planning": 125,
+    "External partnerships": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a sophisticated and comprehensive approach to adapting proactively to legal and regulatory changes. It details robust monitoring systems, including real-time alerts, risk assessments, and technology-enabled compliance tracking, warranting a high score in monitoring systems. Strategic planning is deeply embedded through governance mechanisms, scenario planning, and integrating compliance into broader enterprise risk management, leading to a top-tier score in strategic planning. The CEO's cultivation of external partnerships is strong, maintaining dialogues with regulators, involving external counsel, and benchmarking compliance programs, meriting very good but slightly lower than internal systems and planning. Overall, the answer reflects exceptional leadership quality in regulatory adaptation."
+}

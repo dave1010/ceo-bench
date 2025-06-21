@@ -1,0 +1,14 @@
+{
+  "question_id": "0021-Strategic_Thinking-Risk_Management-Navigating_Strategic_Risks",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_identification\":130,\"evaluation_and_prioritization\":135,\"mitigation_strategies\":140,\"overall_score\":135,\"comments\":\"The answer demonstrates a thorough and structured approach to strategic risk management. It reflects advanced practices in early risk detection through environmental scanning and cross-functional inputs. The evaluation process combines quantitative and qualitative techniques with prioritization, showing high analytical acuity. Mitigation strategies are comprehensive, including board-aligned risk appetite, concrete action plans, transfers, and robust governance enhancements. Continuous monitoring and adaptation further underscore exceptional strategic agility. Overall, this models a highly effective CEO risk leadership approach, worth a high Leadership Quotient score.\"}",
+  "scores": {
+    "Risk Identification": 130,
+    "Evaluation and Prioritization": 135,
+    "Mitigation Strategies": 140
+  },
+  "total": 135.0,
+  "comments": "The answer demonstrates a thorough and structured approach to strategic risk management. It reflects advanced practices in early risk detection through environmental scanning and cross-functional inputs. The evaluation process combines quantitative and qualitative techniques with prioritization, showing high analytical acuity. Mitigation strategies are comprehensive, including board-aligned risk appetite, concrete action plans, transfers, and robust governance enhancements. Continuous monitoring and adaptation further underscore exceptional strategic agility. Overall, this models a highly effective CEO risk leadership approach, worth a high Leadership Quotient score."
+}

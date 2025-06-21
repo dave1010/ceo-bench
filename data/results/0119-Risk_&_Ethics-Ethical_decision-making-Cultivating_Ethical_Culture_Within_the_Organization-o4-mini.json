@@ -1,0 +1,14 @@
+{
+  "question_id": "0119-Risk_&_Ethics-Ethical_decision-making-Cultivating_Ethical_Culture_Within_the_Organization",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"leadership_commitment\":135,\"communication_and_awareness\":140,\"accountability_and_reinforcement\":135,\"overall_score\":137,\"comments\":\"The answer displays exceptional leadership commitment by modeling ethical behavior and embedding ethics throughout organizational processes. Communication is robust, with comprehensive ongoing education, town halls, and transparent reporting. Accountability is well enforced with multiple mechanisms for reporting, investigation, incentives, and governance oversight. This comprehensive, integrated approach justifies scores at the high end of the scale, reflecting extraordinary organizational impact.\"}",
+  "scores": {
+    "Leadership Commitment": 135,
+    "Communication and Awareness": 140,
+    "Accountability and Reinforcement": 135
+  },
+  "total": 137.0,
+  "comments": "The answer displays exceptional leadership commitment by modeling ethical behavior and embedding ethics throughout organizational processes. Communication is robust, with comprehensive ongoing education, town halls, and transparent reporting. Accountability is well enforced with multiple mechanisms for reporting, investigation, incentives, and governance oversight. This comprehensive, integrated approach justifies scores at the high end of the scale, reflecting extraordinary organizational impact."
+}

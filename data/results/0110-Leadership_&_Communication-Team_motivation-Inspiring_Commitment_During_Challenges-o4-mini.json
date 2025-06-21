@@ -1,0 +1,14 @@
+{
+  "question_id": "0110-Leadership_&_Communication-Team_motivation-Inspiring_Commitment_During_Challenges",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Team motivation",
+  "raw": "{\"empathy_and_support\":135,\"communication_clarity\":130,\"action_and_accountability\":140,\"overall_score\":135,\"comments\":\"The answer demonstrates exceptional empathy by acknowledging team emotions and burnout, and proposing personalized support and recognition. Communication clarity is strong, with clear articulation of challenges and a shared mission to align the team. The actions described involve concrete strategies such as transparency, breaking challenges into micro-wins, empowering problem-solving, and investing in growth\u2014reflecting high accountability. Overall, the approach is comprehensive and reflects a genius-level leadership approach that would elevate team motivation effectively under significant organizational setbacks.\"}",
+  "scores": {
+    "Empathy and Support": 135,
+    "Communication Clarity": 130,
+    "Action and Accountability": 140
+  },
+  "total": 135.0,
+  "comments": "The answer demonstrates exceptional empathy by acknowledging team emotions and burnout, and proposing personalized support and recognition. Communication clarity is strong, with clear articulation of challenges and a shared mission to align the team. The actions described involve concrete strategies such as transparency, breaking challenges into micro-wins, empowering problem-solving, and investing in growth\u2014reflecting high accountability. Overall, the approach is comprehensive and reflects a genius-level leadership approach that would elevate team motivation effectively under significant organizational setbacks."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0056-Leadership_&_Communication-Feedback_&_Recognition-Cultivating_a_Culture_of_Appreciation",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Feedback & Recognition",
+  "raw": "{\"frequency\":125,\"recognition\":130,\"authenticity\":120,\"overall_score\":125,\"comments\":\"The response comprehensively addresses the CEO's role in promoting continuous feedback and recognition, detailing a variety of effective practices such as leading by example, formalizing feedback loops, equipping managers, peer recognition, and transparent follow-up. The depth and thoughtfulness reflect a strong commitment to authentic, frequent, and meaningful recognition, exceeding typical expectations and demonstrating exceptional leadership understanding.\"}",
+  "scores": {
+    "Frequency": 125,
+    "Recognition": 130,
+    "Authenticity": 120
+  },
+  "total": 125.0,
+  "comments": "The response comprehensively addresses the CEO's role in promoting continuous feedback and recognition, detailing a variety of effective practices such as leading by example, formalizing feedback loops, equipping managers, peer recognition, and transparent follow-up. The depth and thoughtfulness reflect a strong commitment to authentic, frequent, and meaningful recognition, exceeding typical expectations and demonstrating exceptional leadership understanding."
+}

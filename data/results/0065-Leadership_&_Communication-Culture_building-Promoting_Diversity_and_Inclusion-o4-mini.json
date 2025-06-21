@@ -1,0 +1,14 @@
+{
+  "question_id": "0065-Leadership_&_Communication-Culture_building-Promoting_Diversity_and_Inclusion",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"commitment_to_diversity\":135,\"leadership_action\":130,\"impact_on_culture\":125,\"overall_score\":130.0,\"comments\":\"The CEO demonstrates exceptional commitment to diversity through clear goals, accountability mechanisms, and sustained resource allocation. Leadership action is strong, with active personal involvement in ERG events, training, and open dialogues, signaling advocacy at all levels. Impact on culture is evident via measurable improvements, regular communication, cultural embedding of inclusion, and transparent reporting. The comprehensive, multi-faceted approach reflects a high Leadership Quotient indicative of outstanding executive leadership in diversity and inclusion.\"}",
+  "scores": {
+    "Commitment to Diversity": 135,
+    "Leadership Action": 130,
+    "Impact on Culture": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional commitment to diversity through clear goals, accountability mechanisms, and sustained resource allocation. Leadership action is strong, with active personal involvement in ERG events, training, and open dialogues, signaling advocacy at all levels. Impact on culture is evident via measurable improvements, regular communication, cultural embedding of inclusion, and transparent reporting. The comprehensive, multi-faceted approach reflects a high Leadership Quotient indicative of outstanding executive leadership in diversity and inclusion."
+}

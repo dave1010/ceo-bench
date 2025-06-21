@@ -1,0 +1,14 @@
+{
+  "question_id": "0073-Financial_Acumen-Revenue_Growth-Driving_Sustainable_Revenue_Expansion",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Revenue Growth",
+  "raw": "{\"market_insight\":130,\"innovation_and_diversification\":135,\"risk-balanced_approach\":125,\"overall_score\":130,\"comments\":\"The answer showcases exceptional market insight through systematic scanning and trend analysis. Innovation is strongly emphasized with open ecosystem sourcing and agile execution squads. The risk-balanced approach is solid, leveraging stage-gate frameworks and cross-functional boards to balance financial, technical, and sustainability risks. The embedding of sustainability as a business driver adds a forward-thinking layer. Overall, this is a highly competent and strategic CEO approach, deserving a score well above average.\"}",
+  "scores": {
+    "Market Insight": 130,
+    "Innovation and Diversification": 135,
+    "Risk-Balanced Approach": 125
+  },
+  "total": 130.0,
+  "comments": "The answer showcases exceptional market insight through systematic scanning and trend analysis. Innovation is strongly emphasized with open ecosystem sourcing and agile execution squads. The risk-balanced approach is solid, leveraging stage-gate frameworks and cross-functional boards to balance financial, technical, and sustainability risks. The embedding of sustainability as a business driver adds a forward-thinking layer. Overall, this is a highly competent and strategic CEO approach, deserving a score well above average."
+}

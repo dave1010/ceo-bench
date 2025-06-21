@@ -1,0 +1,14 @@
+{
+  "question_id": "0093-Innovation_&_Growth-Technology_adoption-Accelerating_Digital_Transformation",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"leadership_in_technology_adoption\":115,\"strategy_alignment\":110,\"change_management\":112,\"overall_score\":112.33,\"comments\":\"The answer provides a clear and structured rubric for evaluating CEO digital transformation leadership across multiple dimensions. It emphasizes articulation of vision, governance, agile execution, culture, and measurement, aligning well with the rubric criteria. This indicates strong leadership in technology adoption, effective strategy alignment, and managing change. While comprehensive, it does not reach exceptional genius-level insight or novel frameworks, so scores are strong but within the typical capable CEO range.\"}",
+  "scores": {
+    "Leadership in Technology Adoption": 115,
+    "Strategy Alignment": 110,
+    "Change Management": 112
+  },
+  "total": 112.33,
+  "comments": "The answer provides a clear and structured rubric for evaluating CEO digital transformation leadership across multiple dimensions. It emphasizes articulation of vision, governance, agile execution, culture, and measurement, aligning well with the rubric criteria. This indicates strong leadership in technology adoption, effective strategy alignment, and managing change. While comprehensive, it does not reach exceptional genius-level insight or novel frameworks, so scores are strong but within the typical capable CEO range."
+}

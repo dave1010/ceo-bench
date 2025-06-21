@@ -1,0 +1,14 @@
+{
+  "question_id": "0111-Leadership_&_Communication-Building_Stakeholder_Loyalty-Cultivating_Long-Term_Stakeholder_Relationships",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Building Stakeholder Loyalty",
+  "raw": "{\"relationship_management\":130,\"value_creation\":125,\"responsiveness\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates exceptional capabilities in relationship management by employing personalized, transparent, and empathetic engagement strategies, which foster trust and loyalty. Their value creation approach is thorough, addressing diverse stakeholder needs through tailored incentives and consistent delivery on commitments. Responsiveness is well-covered through regular two-way dialogues, feedback mechanisms, and proactive communication during crises, reflecting prompt and effective stakeholder issue management. Overall, this answer reflects a high-level leadership quotient indicative of an outstanding CEO.\"}",
+  "scores": {
+    "Relationship Management": 130,
+    "Value Creation": 125,
+    "Responsiveness": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates exceptional capabilities in relationship management by employing personalized, transparent, and empathetic engagement strategies, which foster trust and loyalty. Their value creation approach is thorough, addressing diverse stakeholder needs through tailored incentives and consistent delivery on commitments. Responsiveness is well-covered through regular two-way dialogues, feedback mechanisms, and proactive communication during crises, reflecting prompt and effective stakeholder issue management. Overall, this answer reflects a high-level leadership quotient indicative of an outstanding CEO."
+}

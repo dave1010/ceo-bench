@@ -1,0 +1,14 @@
+{
+  "question_id": "0089-Risk_&_Ethics-Reputation_management-Navigating_Stakeholder_Perceptions",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"stakeholder_communication\":130,\"alignment_of_actions_and_values\":135,\"crisis_preparedness\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates exceptional skill in continuously shaping and communicating company values, ensuring ongoing alignment between actions and stated ethics. The emphasis on transparent, two-way communication and embedding values into decision-making frameworks illustrates strong crisis preparedness. This approach not only maintains but strengthens the company's reputation during uncertainty, reflecting a leadership style that goes beyond average performance.\"}",
+  "scores": {
+    "Stakeholder Communication": 130,
+    "Alignment of Actions and Values": 135,
+    "Crisis Preparedness": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional skill in continuously shaping and communicating company values, ensuring ongoing alignment between actions and stated ethics. The emphasis on transparent, two-way communication and embedding values into decision-making frameworks illustrates strong crisis preparedness. This approach not only maintains but strengthens the company's reputation during uncertainty, reflecting a leadership style that goes beyond average performance."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0095-Innovation_&_Growth-Technology_adoption-Embracing_Emerging_Technologies",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"strategic_vision\":135,\"implementation_capability\":130,\"impact_measurement\":120,\"overall_score\":128.3,\"comments\":\"The CEO shows exceptional strategic vision by proactively scouting and integrating emerging technologies aligned with business goals, evidenced by a comprehensive 3-year roadmap and robust partnerships. Implementation capability is strong with significant R&D investment, innovation squads, and venture initiatives accelerating adoption cycles. Impact measurement is good but has room for improvement, as early-stage pilots lack formal ROI tracking and company-wide adoption is uneven. Overall, the CEO demonstrates outstanding leadership in technology-driven innovation with clear areas to enhance organizational uptake and outcome assessment.\"}",
+  "scores": {
+    "Strategic Vision": 135,
+    "Implementation Capability": 130,
+    "Impact Measurement": 120
+  },
+  "total": 128.3,
+  "comments": "The CEO shows exceptional strategic vision by proactively scouting and integrating emerging technologies aligned with business goals, evidenced by a comprehensive 3-year roadmap and robust partnerships. Implementation capability is strong with significant R&D investment, innovation squads, and venture initiatives accelerating adoption cycles. Impact measurement is good but has room for improvement, as early-stage pilots lack formal ROI tracking and company-wide adoption is uneven. Overall, the CEO demonstrates outstanding leadership in technology-driven innovation with clear areas to enhance organizational uptake and outcome assessment."
+}

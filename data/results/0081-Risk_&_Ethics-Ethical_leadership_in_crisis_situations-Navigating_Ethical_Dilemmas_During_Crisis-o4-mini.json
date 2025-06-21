@@ -1,0 +1,14 @@
+{
+  "question_id": "0081-Risk_&_Ethics-Ethical_leadership_in_crisis_situations-Navigating_Ethical_Dilemmas_During_Crisis",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical leadership in crisis situations",
+  "raw": "{\"crisis_response_integrity\":135,\"stakeholder_consideration\":130,\"personal_accountability\":140,\"overall_score\":135,\"comments\":\"The answer excellently details how the CEO upholds ethical leadership during crises by grounding decisions in core values, ensuring transparency with stakeholders, and consulting ethical advisors to avoid rash actions. The emphasis on shared sacrifice and consistent application of fairness reinforces integrity under pressure. Moreover, the CEO's practice of openly owning outcomes and adjusting decisions demonstrates strong personal accountability. These comprehensive and thoughtful approaches showcase leadership at an exceptional level well above the average, hence the high scores across all dimensions.\"}",
+  "scores": {
+    "Crisis response integrity": 135,
+    "Stakeholder consideration": 130,
+    "Personal accountability": 140
+  },
+  "total": 135.0,
+  "comments": "The answer excellently details how the CEO upholds ethical leadership during crises by grounding decisions in core values, ensuring transparency with stakeholders, and consulting ethical advisors to avoid rash actions. The emphasis on shared sacrifice and consistent application of fairness reinforces integrity under pressure. Moreover, the CEO's practice of openly owning outcomes and adjusting decisions demonstrates strong personal accountability. These comprehensive and thoughtful approaches showcase leadership at an exceptional level well above the average, hence the high scores across all dimensions."
+}

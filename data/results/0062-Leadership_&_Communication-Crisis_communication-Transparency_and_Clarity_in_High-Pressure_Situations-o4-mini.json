@@ -1,0 +1,14 @@
+{
+  "question_id": "0062-Leadership_&_Communication-Crisis_communication-Transparency_and_Clarity_in_High-Pressure_Situations",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"clarity_of_message\":130,\"stakeholder_engagement\":125,\"emotional_intelligence\":120,\"overall_score\":125,\"comments\":\"The answer provides a comprehensive and well-structured plan for transparent communication during a crisis. The clarity of message is strong, with specific steps to ensure consistency and accessibility across stakeholder groups. Stakeholder engagement is addressed thoroughly, including two-way communication and tailored outreach. Emotional intelligence is demonstrated through acknowledgment of uncertainty, open dialogue, and commitment to trust-building. Overall, the response evidences exceptional leadership qualities expected of a high-performing CEO in crisis management.\"}",
+  "scores": {
+    "Clarity of Message": 130,
+    "Stakeholder Engagement": 125,
+    "Emotional Intelligence": 120
+  },
+  "total": 125.0,
+  "comments": "The answer provides a comprehensive and well-structured plan for transparent communication during a crisis. The clarity of message is strong, with specific steps to ensure consistency and accessibility across stakeholder groups. Stakeholder engagement is addressed thoroughly, including two-way communication and tailored outreach. Emotional intelligence is demonstrated through acknowledgment of uncertainty, open dialogue, and commitment to trust-building. Overall, the response evidences exceptional leadership qualities expected of a high-performing CEO in crisis management."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0071-Financial_Acumen-Investment_analysis-Portfolio_Diversification",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment analysis",
+  "raw": "{\"diversification_strategy\":130,\"risk-return_balance\":135,\"ongoing_review\":125,\"overall_score\":130,\"comments\":\"The CEO's approach demonstrates a comprehensive and disciplined diversification strategy, effectively balancing risk and return through strategic allocation, risk budgeting, and tactical adjustments. The emphasis on ongoing performance review, governance, and iterative learning reflects a high level of sophistication and adaptability indicative of an exceptional CEO performance.\"}",
+  "scores": {
+    "Diversification Strategy": 130,
+    "Risk-Return Balance": 135,
+    "Ongoing Review": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO's approach demonstrates a comprehensive and disciplined diversification strategy, effectively balancing risk and return through strategic allocation, risk budgeting, and tactical adjustments. The emphasis on ongoing performance review, governance, and iterative learning reflects a high level of sophistication and adaptability indicative of an exceptional CEO performance."
+}

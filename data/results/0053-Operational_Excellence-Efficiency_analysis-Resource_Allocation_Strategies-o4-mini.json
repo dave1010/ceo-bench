@@ -1,0 +1,14 @@
+{
+  "question_id": "0053-Operational_Excellence-Efficiency_analysis-Resource_Allocation_Strategies",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Efficiency analysis",
+  "raw": "{\"strategic_planning\":135,\"flexibility\":130,\"performance_monitoring\":140,\"overall_score\":135,\"comments\":\"The answer demonstrates exceptional strategic planning by detailing data-driven budgeting, prioritized investments, and clear KPIs aligned with organizational goals. Flexibility is emphasized through rolling forecasts, scenario planning, rapid-response teams, and quarterly resource rebalancing, showcasing dynamic adaptability. Performance monitoring is outstanding with real-time dashboards, structured escalation protocols, regular audits, and incentive alignment. Overall, the comprehensive and coherent approach indicates a genius-level leadership capability.\"}",
+  "scores": {
+    "Strategic Planning": 135,
+    "Flexibility": 130,
+    "Performance Monitoring": 140
+  },
+  "total": 135.0,
+  "comments": "The answer demonstrates exceptional strategic planning by detailing data-driven budgeting, prioritized investments, and clear KPIs aligned with organizational goals. Flexibility is emphasized through rolling forecasts, scenario planning, rapid-response teams, and quarterly resource rebalancing, showcasing dynamic adaptability. Performance monitoring is outstanding with real-time dashboards, structured escalation protocols, regular audits, and incentive alignment. Overall, the comprehensive and coherent approach indicates a genius-level leadership capability."
+}

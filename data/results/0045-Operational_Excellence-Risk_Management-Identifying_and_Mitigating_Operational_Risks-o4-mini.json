@@ -1,0 +1,14 @@
+{
+  "question_id": "0045-Operational_Excellence-Risk_Management-Identifying_and_Mitigating_Operational_Risks",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment_methodology\":135,\"mitigation_planning\":130,\"monitoring_&_review\":128,\"overall_score\":131,\"comments\":\"The answer demonstrates an exceptional and comprehensive approach to operational risk management. The risk assessment methodology is highly systematic, using workshops, data-driven indicators, scenario planning, and benchmarking to proactively identify risks. Mitigation planning is robust, covering preventive, detective, contingency, and transfer strategies in detail. Monitoring and review processes are continuous, involving key risk indicators, regular reviews, incident learning, and fostering a risk-smart culture. Overall, the response reflects a high level of leadership acumen expected from an outstanding CEO.\"}",
+  "scores": {
+    "Risk Assessment Methodology": 135,
+    "Mitigation Planning": 130,
+    "Monitoring & Review": 128
+  },
+  "total": 131.0,
+  "comments": "The answer demonstrates an exceptional and comprehensive approach to operational risk management. The risk assessment methodology is highly systematic, using workshops, data-driven indicators, scenario planning, and benchmarking to proactively identify risks. Mitigation planning is robust, covering preventive, detective, contingency, and transfer strategies in detail. Monitoring and review processes are continuous, involving key risk indicators, regular reviews, incident learning, and fostering a risk-smart culture. Overall, the response reflects a high level of leadership acumen expected from an outstanding CEO."
+}

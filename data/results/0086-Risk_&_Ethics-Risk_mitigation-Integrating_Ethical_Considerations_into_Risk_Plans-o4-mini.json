@@ -1,0 +1,14 @@
+{
+  "question_id": "0086-Risk_&_Ethics-Risk_mitigation-Integrating_Ethical_Considerations_into_Risk_Plans",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"ethical_awareness\":138,\"integration\":135,\"influence\":132,\"overall_score\":135,\"comments\":\"The CEO shows exceptional ethical awareness with a codified Code of Conduct and a proactive ethics council that ensures a thorough assessment of risks including social and environmental impacts. Ethical considerations are deeply embedded into decision-making processes, such as incorporating ethical impact scores alongside financial metrics and enforcing standards during crises. The influence is strong, creating a culture through training, accountability tied to incentives, and transparent reporting. Opportunities for further improvement, such as establishing algorithm audits and stakeholder forums, indicate continuous commitment. Overall, the CEO demonstrates a genius-level aptitude in incorporating ethics into risk mitigation.\"}",
+  "scores": {
+    "Ethical Awareness": 138,
+    "Integration": 135,
+    "Influence": 132
+  },
+  "total": 135.0,
+  "comments": "The CEO shows exceptional ethical awareness with a codified Code of Conduct and a proactive ethics council that ensures a thorough assessment of risks including social and environmental impacts. Ethical considerations are deeply embedded into decision-making processes, such as incorporating ethical impact scores alongside financial metrics and enforcing standards during crises. The influence is strong, creating a culture through training, accountability tied to incentives, and transparent reporting. Opportunities for further improvement, such as establishing algorithm audits and stakeholder forums, indicate continuous commitment. Overall, the CEO demonstrates a genius-level aptitude in incorporating ethics into risk mitigation."
+}

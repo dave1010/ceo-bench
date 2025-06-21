@@ -1,0 +1,14 @@
+{
+  "question_id": "0031-Strategic_Thinking-Market_entry_strategies-Evaluating_Post-Entry_Growth_Potential",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"strategic_adaptability\":135,\"growth_forecasting\":130,\"resource_planning\":128,\"overall_score\":131,\"comments\":\"The answer exhibits exceptional strategic adaptability through continuous innovation, real-time data feedback, and agile governance structures, ensuring nimble adjustments to market shifts. Growth forecasting is robust, leveraging phased market expansion, adjacent sectors, and tiered product launches, all grounded in measurable KPIs. Resource planning is comprehensive, addressing operational scaling with lean teams, automation, strategic partnerships, and financial discipline, clearly aligned to support sustainable growth. Overall, this reflects a highly capable CEO-level approach, exceeding standard expectations.\"}",
+  "scores": {
+    "Strategic Adaptability": 135,
+    "Growth Forecasting": 130,
+    "Resource Planning": 128
+  },
+  "total": 131.0,
+  "comments": "The answer exhibits exceptional strategic adaptability through continuous innovation, real-time data feedback, and agile governance structures, ensuring nimble adjustments to market shifts. Growth forecasting is robust, leveraging phased market expansion, adjacent sectors, and tiered product launches, all grounded in measurable KPIs. Resource planning is comprehensive, addressing operational scaling with lean teams, automation, strategic partnerships, and financial discipline, clearly aligned to support sustainable growth. Overall, this reflects a highly capable CEO-level approach, exceeding standard expectations."
+}

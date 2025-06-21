@@ -1,0 +1,14 @@
+{
+  "question_id": "0107-Operational_Excellence-Process_improvement-Cultivating_a_Culture_of_Continuous_Innovation",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"leadership\":130,\"engagement\":125,\"sustainability\":135,\"overall_score\":130,\"comments\":\"The answer comprehensively addresses leadership by emphasizing empowerment and recognition of innovative ideas. It fosters engagement through various collaborative platforms like innovation huddles and suggestion boards. Sustainability is well-covered by integrating continuous improvement into performance reviews, career paths, and ongoing metrics tracking, ensuring lasting organizational change. Scores reflect a strong, well-rounded approach with practical and strategic insights.\"}",
+  "scores": {
+    "Leadership": 130,
+    "Engagement": 125,
+    "Sustainability": 135
+  },
+  "total": 130.0,
+  "comments": "The answer comprehensively addresses leadership by emphasizing empowerment and recognition of innovative ideas. It fosters engagement through various collaborative platforms like innovation huddles and suggestion boards. Sustainability is well-covered by integrating continuous improvement into performance reviews, career paths, and ongoing metrics tracking, ensuring lasting organizational change. Scores reflect a strong, well-rounded approach with practical and strategic insights."
+}

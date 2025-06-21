@@ -1,0 +1,14 @@
+{
+  "question_id": "0004-Strategic_Thinking-Market_entry_strategies-Evaluating_Market_Selection_Criteria",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"market_analysis\":115,\"strategic_alignment\":120,\"risk_assessment\":110,\"overall_score\":115,\"comments\":\"The answer comprehensively covers key market factors including size, growth, competition, and regulatory environment, demonstrating strong market analysis. It effectively ties market entry criteria to the company's core competencies, brand positioning, and strategic synergies, showcasing excellent strategic alignment. The response thoughtfully addresses political, cultural, and operational risks with consideration of mitigation and exit strategies, reflecting a solid risk assessment. Overall, the evaluation is detailed, well-structured, and aligned with strong CEO decision-making standards.\"}",
+  "scores": {
+    "Market Analysis": 115,
+    "Strategic Alignment": 120,
+    "Risk Assessment": 110
+  },
+  "total": 115.0,
+  "comments": "The answer comprehensively covers key market factors including size, growth, competition, and regulatory environment, demonstrating strong market analysis. It effectively ties market entry criteria to the company's core competencies, brand positioning, and strategic synergies, showcasing excellent strategic alignment. The response thoughtfully addresses political, cultural, and operational risks with consideration of mitigation and exit strategies, reflecting a solid risk assessment. Overall, the evaluation is detailed, well-structured, and aligned with strong CEO decision-making standards."
+}
