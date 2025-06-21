@@ -1,0 +1,15 @@
+topic: Financial Acumen
+subtopic: Financial modeling
+title: Evaluating Scenario Planning Skills
+question: 'How effectively does the CEO incorporate multiple potential scenarios into
+  financial models to support strategic decision-making?
+
+  '
+rubric:
+- dimension: Scenario Inclusion
+  ideal: Consistently integrates a comprehensive range of relevant scenarios to anticipate
+    potential outcomes.
+- dimension: Assumption Transparency
+  ideal: Clearly documents assumptions and rationale behind model inputs for transparency.
+- dimension: Decision Support
+  ideal: Uses modeling insights effectively to inform and guide strategic choices.

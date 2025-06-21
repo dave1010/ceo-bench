@@ -8,18 +8,16 @@
    ```bash
    pip install -r requirements.txt
    ```
-2. Generate question YAML files from `data/topics.yaml` (optional if they already exist):
-   ```bash
-   python scripts/generate_questions.py --model gpt-4.1-mini
-   ```
-3. Run the full pipeline for one or more models. Missing answers will be generated, graded and then aggregated into the leaderboard CSV.
+2. Run the full pipeline for one or more models. Missing answers will be generated, graded and then aggregated into the leaderboard CSV.
    ```bash
    python scripts/run_full_evals.py --models gpt-4.1-nano gpt-4.1-mini --grading-model gpt-4.1-mini
    ```
-4. You can also run the steps individually:
-   - `generate_answers.py` – fetch an answer for a single question.
-   - `grade_answer.py` – score an answer with the grading model.
-   - `aggregate_results.py` – build `data/leaderboard/leaderboard.csv` from result JSON files.
+
+You can also run the steps individually:
+
+- `generate_answers.py` – fetch an answer for a single question.
+- `grade_answer.py` – score an answer with the grading model.
+- `aggregate_results.py` – build `data/leaderboard/leaderboard.csv` from result JSON files.
 
 Data produced by the pipeline lives under the `data/` directory in `questions/`, `answers/`, `results/` and `leaderboard/`.
 
@@ -55,7 +53,9 @@ tests/        Pytest unit tests
 dev/          Development notes and WIP documents
 ```
 
-`ROADMAP.md` tracks ongoing implementation tasks. Run the Python tests with:
+`ROADMAP.md` tracks ongoing implementation tasks.
+
+Run the Python tests with:
 
 ```bash
 pytest

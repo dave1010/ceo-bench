@@ -1,0 +1,16 @@
+topic: Operational Excellence
+subtopic: Resource optimization
+title: Data-Driven Resource Planning
+question: 'How effectively does the CEO utilize data analytics to anticipate resource
+  needs and align them with organizational goals?
+
+  '
+rubric:
+- dimension: Data Integration
+  ideal: The CEO uses integrated data systems to forecast resource requirements accurately.
+- dimension: Proactive Planning
+  ideal: The CEO demonstrates proactive planning to prevent resource shortages or
+    wastage.
+- dimension: Decision Impact
+  ideal: Resource planning decisions positively impact operational efficiency and
+    cost management.
