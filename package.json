@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "tsx --test tests_js/*.ts"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.3",
@@ -29,6 +30,8 @@
     "eslint": "^9",
     "eslint-config-next": "15.2.4",
     "tailwindcss": "^4",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.3",
     "tw-animate-css": "^1.3.4",
     "typescript": "^5"
   }
