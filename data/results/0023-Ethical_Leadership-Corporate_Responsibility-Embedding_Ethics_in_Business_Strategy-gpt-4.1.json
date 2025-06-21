@@ -1,0 +1,14 @@
+{
+  "question_id": "0023-Ethical_Leadership-Corporate_Responsibility-Embedding_Ethics_in_Business_Strategy",
+  "model": "gpt-4.1",
+  "topic": "Ethical Leadership",
+  "subtopic": "Corporate Responsibility",
+  "raw": "{\"ethical_framework\":130,\"policy_integration\":125,\"leadership_example\":135,\"overall_score\":130,\"comments\":\"The answer comprehensively addresses the integration of ethics and corporate responsibility into strategic decisions. It emphasizes modeling ethical behavior at the top, embedding ethics into core values and strategy, aligning incentives with ethical outcomes, and ensuring accountability through governance and transparent reporting. The CEO's role as a visible ethical leader and the institutionalization of practices to embed ethics and responsibility are well-covered, indicating a strong ethical framework, thorough policy integration, and exemplary leadership. Scores reflect a high level of competence and understanding expected at the CEO level.\"}",
+  "scores": {
+    "Ethical Framework": 130,
+    "Policy Integration": 125,
+    "Leadership Example": 135
+  },
+  "total": 130.0,
+  "comments": "The answer comprehensively addresses the integration of ethics and corporate responsibility into strategic decisions. It emphasizes modeling ethical behavior at the top, embedding ethics into core values and strategy, aligning incentives with ethical outcomes, and ensuring accountability through governance and transparent reporting. The CEO's role as a visible ethical leader and the institutionalization of practices to embed ethics and responsibility are well-covered, indicating a strong ethical framework, thorough policy integration, and exemplary leadership. Scores reflect a high level of competence and understanding expected at the CEO level."
+}

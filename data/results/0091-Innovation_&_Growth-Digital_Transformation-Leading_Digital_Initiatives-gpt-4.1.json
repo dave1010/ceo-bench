@@ -1,0 +1,14 @@
+{
+  "question_id": "0091-Innovation_&_Growth-Digital_Transformation-Leading_Digital_Initiatives",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "Digital Transformation",
+  "raw": "{\"strategic_vision\":130,\"change_management\":125,\"innovation_adoption\":130,\"overall_score\":128.3,\"comments\":\"The CEO demonstrates a clear and compelling digital strategy closely aligned with business objectives, showcasing strong strategic vision. Their proactive advocacy for digital upskilling and effective management of stakeholder feedback highlight excellent change management capabilities. Encouraging the adoption of advanced technologies such as automation and data analytics reflects a high level of innovation adoption. Overall, this indicates exceptional leadership driving successful digital transformation.\"}",
+  "scores": {
+    "Strategic Vision": 130,
+    "Change Management": 125,
+    "Innovation Adoption": 130
+  },
+  "total": 128.3,
+  "comments": "The CEO demonstrates a clear and compelling digital strategy closely aligned with business objectives, showcasing strong strategic vision. Their proactive advocacy for digital upskilling and effective management of stakeholder feedback highlight excellent change management capabilities. Encouraging the adoption of advanced technologies such as automation and data analytics reflects a high level of innovation adoption. Overall, this indicates exceptional leadership driving successful digital transformation."
+}

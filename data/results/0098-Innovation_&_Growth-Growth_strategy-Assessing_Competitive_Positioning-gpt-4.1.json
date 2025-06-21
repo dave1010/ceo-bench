@@ -1,0 +1,14 @@
+{
+  "question_id": "0098-Innovation_&_Growth-Growth_strategy-Assessing_Competitive_Positioning",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"strategic_differentiation\":130,\"market_analysis\":125,\"innovation_integration\":120,\"overall_score\":125,\"comments\":\"The answer provides a comprehensive approach to differentiation, emphasizing unique value propositions and alignment across the organization, which reflects strong strategic differentiation skills. The emphasis on continuous competitor analysis and market needs demonstrates excellent market analysis capabilities. Promotion of innovation and building barriers to imitation show a solid integration of innovation within growth strategy. Overall, the response reveals a high-level CEO perspective, meriting scores significantly above average.\"}",
+  "scores": {
+    "Strategic Differentiation": 130,
+    "Market Analysis": 125,
+    "Innovation Integration": 120
+  },
+  "total": 125.0,
+  "comments": "The answer provides a comprehensive approach to differentiation, emphasizing unique value propositions and alignment across the organization, which reflects strong strategic differentiation skills. The emphasis on continuous competitor analysis and market needs demonstrates excellent market analysis capabilities. Promotion of innovation and building barriers to imitation show a solid integration of innovation within growth strategy. Overall, the response reveals a high-level CEO perspective, meriting scores significantly above average."
+}

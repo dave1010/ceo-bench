@@ -1,0 +1,14 @@
+{
+  "question_id": "0080-Risk_&_Ethics-Conflict_of_Interest_Management-Identifying_and_Addressing_Conflicts_of_Interest",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Conflict of Interest Management",
+  "raw": "{\"disclosure_processes\":115,\"resolution_strategies\":120,\"leadership_example\":110,\"overall_score\":115,\"comments\":\"The answer comprehensively covers clear policies, open disclosure culture, and confidential reporting mechanisms, showcasing robust disclosure processes. It outlines thoughtful resolution strategies including recusal and independent oversight, indicating strong conflict mitigation. The CEO's commitment to leading by example further reinforces integrity and ethical standards. Overall, the response demonstrates a high level of proactive leadership in managing conflicts of interest, well above average but not quite at genius level.\"}",
+  "scores": {
+    "Disclosure Processes": 115,
+    "Resolution Strategies": 120,
+    "Leadership Example": 110
+  },
+  "total": 115.0,
+  "comments": "The answer comprehensively covers clear policies, open disclosure culture, and confidential reporting mechanisms, showcasing robust disclosure processes. It outlines thoughtful resolution strategies including recusal and independent oversight, indicating strong conflict mitigation. The CEO's commitment to leading by example further reinforces integrity and ethical standards. Overall, the response demonstrates a high level of proactive leadership in managing conflicts of interest, well above average but not quite at genius level."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0087-Risk_&_Ethics-Reputation_management-Crisis_Response_Effectiveness",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"response_timeliness\":120,\"transparency_and_honesty\":130,\"restoration_of_trust\":125,\"overall_score\":125,\"comments\":\"The answer demonstrates a comprehensive and strategic approach to managing reputational challenges. It highlights the importance of swift action, transparency, accountability, stakeholder engagement, and learning from crises\u2014all key qualities of effective leadership. The CEO's proactive establishment of frameworks and ongoing communication reflects above-average capability, aligning with a high Leadership Quotient. The focus on long-term improvements and adaptation indicates a deep understanding of trust restoration.\"}",
+  "scores": {
+    "Response timeliness": 120,
+    "Transparency and honesty": 130,
+    "Restoration of trust": 125
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a comprehensive and strategic approach to managing reputational challenges. It highlights the importance of swift action, transparency, accountability, stakeholder engagement, and learning from crises\u2014all key qualities of effective leadership. The CEO's proactive establishment of frameworks and ongoing communication reflects above-average capability, aligning with a high Leadership Quotient. The focus on long-term improvements and adaptation indicates a deep understanding of trust restoration."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0067-Financial_Acumen-Financial_Modeling-Evaluating_Scenario_Analysis",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Modeling",
+  "raw": "{\"scenario_planning_integration\":130,\"analytical_rigor\":120,\"strategic_adaptability\":135,\"overall_score\":128.3,\"comments\":\"The CEO's approach showcases exceptional incorporation of scenario planning, including best-case to worst-case scenarios, backed by real-time data and market trends. Analytical rigor is strong with continuous refinement and data-informed modeling, though explicit mentions of model validation techniques could strengthen it further. Strategic adaptability is demonstrated by proactive strategy adjustments and clear communication to stakeholders, indicating advanced leadership. Overall, the response illustrates a highly capable CEO employing sophisticated scenario analysis and strategic foresight.\"}",
+  "scores": {
+    "Scenario Planning Integration": 130,
+    "Analytical Rigor": 120,
+    "Strategic Adaptability": 135
+  },
+  "total": 128.3,
+  "comments": "The CEO's approach showcases exceptional incorporation of scenario planning, including best-case to worst-case scenarios, backed by real-time data and market trends. Analytical rigor is strong with continuous refinement and data-informed modeling, though explicit mentions of model validation techniques could strengthen it further. Strategic adaptability is demonstrated by proactive strategy adjustments and clear communication to stakeholders, indicating advanced leadership. Overall, the response illustrates a highly capable CEO employing sophisticated scenario analysis and strategic foresight."
+}

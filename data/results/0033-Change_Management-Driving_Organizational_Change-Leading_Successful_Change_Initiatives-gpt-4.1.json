@@ -1,0 +1,14 @@
+{
+  "question_id": "0033-Change_Management-Driving_Organizational_Change-Leading_Successful_Change_Initiatives",
+  "model": "gpt-4.1",
+  "topic": "Change Management",
+  "subtopic": "Driving Organizational Change",
+  "raw": "{\"communication_strategy\":130,\"stakeholder_engagement\":125,\"monitoring_and_adjustment\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a comprehensive and nuanced approach to organizational change, clearly articulating the vision and impact which strongly supports Communication Strategy (130). It emphasizes engaging key stakeholders early and throughout, highlighting involvement and support which merits a high score in Stakeholder Engagement (125). While the answer includes feedback loops and adaptability indicating Monitoring and Adjustment capabilities, it lacks explicit mention of metrics or quantitative progress tracking, resulting in a slightly lower but still strong score (120). Overall, the response reflects a high level of leadership maturity and effectiveness in managing change.\"}",
+  "scores": {
+    "Communication Strategy": 130,
+    "Stakeholder Engagement": 125,
+    "Monitoring and Adjustment": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a comprehensive and nuanced approach to organizational change, clearly articulating the vision and impact which strongly supports Communication Strategy (130). It emphasizes engaging key stakeholders early and throughout, highlighting involvement and support which merits a high score in Stakeholder Engagement (125). While the answer includes feedback loops and adaptability indicating Monitoring and Adjustment capabilities, it lacks explicit mention of metrics or quantitative progress tracking, resulting in a slightly lower but still strong score (120). Overall, the response reflects a high level of leadership maturity and effectiveness in managing change."
+}

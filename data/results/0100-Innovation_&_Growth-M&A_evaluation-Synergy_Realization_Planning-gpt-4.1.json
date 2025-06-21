@@ -1,0 +1,14 @@
+{
+  "question_id": "0100-Innovation_&_Growth-M&A_evaluation-Synergy_Realization_Planning",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"strategic_alignment\":120,\"due_diligence_rigor\":130,\"integration_roadmap\":130,\"overall_score\":127,\"comments\":\"The CEO demonstrates strong strategic alignment by focusing on how the target complements and enhances business objectives, as well as rigorous due diligence that extends beyond financial metrics to capture a wide range of potential synergies. The integration roadmap is robust, with early planning, clear milestones, and metrics for tracking synergy realization. The comprehensive and thoughtful approach indicates exceptional leadership capabilities in maximizing M&A value.\"}",
+  "scores": {
+    "Strategic Alignment": 120,
+    "Due Diligence Rigor": 130,
+    "Integration Roadmap": 130
+  },
+  "total": 127.0,
+  "comments": "The CEO demonstrates strong strategic alignment by focusing on how the target complements and enhances business objectives, as well as rigorous due diligence that extends beyond financial metrics to capture a wide range of potential synergies. The integration roadmap is robust, with early planning, clear milestones, and metrics for tracking synergy realization. The comprehensive and thoughtful approach indicates exceptional leadership capabilities in maximizing M&A value."
+}

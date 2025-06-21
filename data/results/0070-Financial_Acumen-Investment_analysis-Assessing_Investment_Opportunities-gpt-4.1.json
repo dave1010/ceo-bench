@@ -1,0 +1,14 @@
+{
+  "question_id": "0070-Financial_Acumen-Investment_analysis-Assessing_Investment_Opportunities",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment analysis",
+  "raw": "{\"risk_assessment\":120,\"return_projections\":115,\"strategic_fit\":125,\"overall_score\":120.0,\"comments\":\"The answer demonstrates a thorough and systematic approach to evaluating risks by identifying multiple risk categories and proposing mitigation strategies, scoring above average at 120. It covers comprehensive financial modeling including NPV, IRR, and scenario analyses for return projections, earning a strong score of 115. The candidate also deeply assesses strategic alignment with long-term goals and resource fit, reflecting an exceptional understanding, meriting a 125. Overall, the response shows a well-rounded, sophisticated approach to investment evaluation consistent with high Leadership Quotient performance.\"}",
+  "scores": {
+    "Risk Assessment": 120,
+    "Return Projections": 115,
+    "Strategic Fit": 125
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates a thorough and systematic approach to evaluating risks by identifying multiple risk categories and proposing mitigation strategies, scoring above average at 120. It covers comprehensive financial modeling including NPV, IRR, and scenario analyses for return projections, earning a strong score of 115. The candidate also deeply assesses strategic alignment with long-term goals and resource fit, reflecting an exceptional understanding, meriting a 125. Overall, the response shows a well-rounded, sophisticated approach to investment evaluation consistent with high Leadership Quotient performance."
+}

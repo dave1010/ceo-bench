@@ -1,0 +1,14 @@
+{
+  "question_id": "0037-Strategic_Thinking-Stakeholder_Engagement-Balancing_Diverse_Stakeholder_Interests",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder Engagement",
+  "raw": "{\"listening_and_empathy\":125,\"strategic_negotiation\":115,\"transparency\":120,\"overall_score\":120,\"comments\":\"The answer demonstrates a strong understanding of aligning stakeholder interests, highlighting active engagement and consultation with stakeholders (listening and empathy). It covers designing incentive structures and balancing value creation, indicating effective strategic negotiation among competing interests. Transparent communication, ethical leadership, and performance measurement reflect strong transparency. Overall, the response reflects a highly capable and nuanced approach to stakeholder alignment for long-term strategy.\"}",
+  "scores": {
+    "Listening and Empathy": 125,
+    "Strategic Negotiation": 115,
+    "Transparency": 120
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates a strong understanding of aligning stakeholder interests, highlighting active engagement and consultation with stakeholders (listening and empathy). It covers designing incentive structures and balancing value creation, indicating effective strategic negotiation among competing interests. Transparent communication, ethical leadership, and performance measurement reflect strong transparency. Overall, the response reflects a highly capable and nuanced approach to stakeholder alignment for long-term strategy."
+}

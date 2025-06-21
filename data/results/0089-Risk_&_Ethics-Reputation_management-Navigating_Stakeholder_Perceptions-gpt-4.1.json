@@ -1,0 +1,14 @@
+{
+  "question_id": "0089-Risk_&_Ethics-Reputation_management-Navigating_Stakeholder_Perceptions",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"stakeholder_communication\":135,\"alignment_of_actions_and_values\":140,\"crisis_preparedness\":125,\"overall_score\":133.3,\"comments\":\"The answer provides a comprehensive and insightful approach to how a CEO proactively shapes and communicates company values during uncertainty. It emphasizes transparent, frequent, and two-way communication with stakeholders, underscoring trust-building and managing perceptions effectively (Stakeholder Communication). The leadership behavior outlined aligns closely with core values integrated consistently into decision-making and modeled across the leadership, reinforcing reputation integrity (Alignment of Actions and Values). While crisis preparedness aspects are present through proactive engagement, recalibrating values, and addressing concerns before escalation, the details on explicit risk mitigation strategies are somewhat less pronounced than other areas but still strong. Overall, this reflects exceptional CEO-level leadership performance.\"}",
+  "scores": {
+    "Stakeholder Communication": 135,
+    "Alignment of Actions and Values": 140,
+    "Crisis Preparedness": 125
+  },
+  "total": 133.3,
+  "comments": "The answer provides a comprehensive and insightful approach to how a CEO proactively shapes and communicates company values during uncertainty. It emphasizes transparent, frequent, and two-way communication with stakeholders, underscoring trust-building and managing perceptions effectively (Stakeholder Communication). The leadership behavior outlined aligns closely with core values integrated consistently into decision-making and modeled across the leadership, reinforcing reputation integrity (Alignment of Actions and Values). While crisis preparedness aspects are present through proactive engagement, recalibrating values, and addressing concerns before escalation, the details on explicit risk mitigation strategies are somewhat less pronounced than other areas but still strong. Overall, this reflects exceptional CEO-level leadership performance."
+}

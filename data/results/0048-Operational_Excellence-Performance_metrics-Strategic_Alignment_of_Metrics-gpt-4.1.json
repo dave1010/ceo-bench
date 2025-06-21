@@ -1,0 +1,14 @@
+{
+  "question_id": "0048-Operational_Excellence-Performance_metrics-Strategic_Alignment_of_Metrics",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"clarity_of_strategic_alignment\":120,\"implementation_effectiveness\":115,\"continuous_improvement\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong understanding of aligning performance metrics with strategic goals through clear communication and transparent linkage of KPIs. It emphasizes effective use of metrics to inform decisions and improve performance, and highlights continuous review processes and cultural reinforcement for ongoing improvements. The rationale and details suggest a capable CEO approach with slight room for elevation towards exceptional genius level.\"}",
+  "scores": {
+    "Clarity of strategic alignment": 120,
+    "Implementation effectiveness": 115,
+    "Continuous improvement": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong understanding of aligning performance metrics with strategic goals through clear communication and transparent linkage of KPIs. It emphasizes effective use of metrics to inform decisions and improve performance, and highlights continuous review processes and cultural reinforcement for ongoing improvements. The rationale and details suggest a capable CEO approach with slight room for elevation towards exceptional genius level."
+}

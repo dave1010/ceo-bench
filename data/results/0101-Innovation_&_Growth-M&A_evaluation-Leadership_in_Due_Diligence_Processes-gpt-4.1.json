@@ -1,0 +1,14 @@
+{
+  "question_id": "0101-Innovation_&_Growth-M&A_evaluation-Leadership_in_Due_Diligence_Processes",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"decision-making_clarity\":115,\"risk_management\":120,\"stakeholder_engagement\":118,\"overall_score\":117.7,\"comments\":\"The answer demonstrates a strong grasp of the CEO's role in leading due diligence with clarity in decision-making, highlighting strategic oversight and fact-based assessments. It shows exceptional risk management by emphasizing proactive identification and transparent communication of risks. Stakeholder engagement is well-covered through coordination across multiple departments and fostering open dialogue. Overall, the response aligns well with best practices and the rubric criteria, reflecting a high Leadership Quotient.\"}",
+  "scores": {
+    "Decision-Making Clarity": 115,
+    "Risk Management": 120,
+    "Stakeholder Engagement": 118
+  },
+  "total": 117.7,
+  "comments": "The answer demonstrates a strong grasp of the CEO's role in leading due diligence with clarity in decision-making, highlighting strategic oversight and fact-based assessments. It shows exceptional risk management by emphasizing proactive identification and transparent communication of risks. Stakeholder engagement is well-covered through coordination across multiple departments and fostering open dialogue. Overall, the response aligns well with best practices and the rubric criteria, reflecting a high Leadership Quotient."
+}

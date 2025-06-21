@@ -1,0 +1,14 @@
+{
+  "question_id": "0029-Operational_Excellence-Process_improvement-Identifying_Bottlenecks_in_Workflow",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"proactive_detection\":120,\"problem_solving\":115,\"continuous_improvement\":118,\"overall_score\":118,\"comments\":\"The answer demonstrates a strong, structured approach to proactively identifying bottlenecks using data, KPIs, and frontline feedback, reflecting a high Proactive Detection score. The problem-solving methods including root cause analysis and prioritization of impactful solutions show an effective and timely response to issues. Also, fostering a continuous improvement culture and iterative audits exemplifies commitment to ongoing refinement. Overall, the response shows capabilities beyond average, indicative of a highly competent CEO leadership approach.\"}",
+  "scores": {
+    "Proactive Detection": 120,
+    "Problem Solving": 115,
+    "Continuous Improvement": 118
+  },
+  "total": 118.0,
+  "comments": "The answer demonstrates a strong, structured approach to proactively identifying bottlenecks using data, KPIs, and frontline feedback, reflecting a high Proactive Detection score. The problem-solving methods including root cause analysis and prioritization of impactful solutions show an effective and timely response to issues. Also, fostering a continuous improvement culture and iterative audits exemplifies commitment to ongoing refinement. Overall, the response shows capabilities beyond average, indicative of a highly competent CEO leadership approach."
+}

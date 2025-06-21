@@ -1,0 +1,14 @@
+{
+  "question_id": "0027-Operational_Excellence-Resource_optimization-Effective_Utilization_of_Asset_Management",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"asset_management_strategy\":115,\"continuous_improvement\":110,\"cross-functional_coordination\":105,\"overall_score\":110,\"comments\":\"The answer demonstrates a strong grasp of asset management strategy through clear strategic prioritization, resource allocation, and performance metrics. Continuous improvement is well addressed via operational excellence and regular asset audits. Cross-functional coordination is implied through empowerment and alignment of management teams and balancing short-term and long-term organizational goals. Scores reflect a capable, well-rounded CEO approach, slightly above average for strong organizational performance.\"}",
+  "scores": {
+    "Asset Management Strategy": 115,
+    "Continuous Improvement": 110,
+    "Cross-Functional Coordination": 105
+  },
+  "total": 110.0,
+  "comments": "The answer demonstrates a strong grasp of asset management strategy through clear strategic prioritization, resource allocation, and performance metrics. Continuous improvement is well addressed via operational excellence and regular asset audits. Cross-functional coordination is implied through empowerment and alignment of management teams and balancing short-term and long-term organizational goals. Scores reflect a capable, well-rounded CEO approach, slightly above average for strong organizational performance."
+}

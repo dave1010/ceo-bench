@@ -1,0 +1,14 @@
+{
+  "question_id": "0065-Leadership_&_Communication-Culture_building-Promoting_Diversity_and_Inclusion",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"commitment_to_diversity\":130,\"leadership_action\":135,\"impact_on_culture\":130,\"overall_score\":132,\"comments\":\"The answer demonstrates a comprehensive and strategic approach to promoting diversity and inclusion, showing strong leadership commitment, clear actions taken by the CEO, and measurable impact on organizational culture. The initiatives are well-integrated into company strategy and operations, indicating a high level of capability and effectiveness in this domain.\"}",
+  "scores": {
+    "Commitment to Diversity": 130,
+    "Leadership Action": 135,
+    "Impact on Culture": 130
+  },
+  "total": 132.0,
+  "comments": "The answer demonstrates a comprehensive and strategic approach to promoting diversity and inclusion, showing strong leadership commitment, clear actions taken by the CEO, and measurable impact on organizational culture. The initiatives are well-integrated into company strategy and operations, indicating a high level of capability and effectiveness in this domain."
+}

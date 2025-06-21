@@ -1,0 +1,14 @@
+{
+  "question_id": "0044-Operational_Excellence-Resource_optimization-Sustainable_Resource_Use",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"policy_development\":135,\"employee_engagement\":130,\"outcome_tracking\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates exceptional leadership by embedding sustainability into core values and establishing clear, measurable goals. Policies are well-developed and comprehensive, covering procurement, energy, and waste management. Employee engagement is strong with active collaboration and leading by example, fostering a culture of participation. Outcome tracking is robust with monitoring, transparent reporting, and reward systems to sustain progress. Scores reflect a near-genius level in driving environmental responsibility effectively.\"}",
+  "scores": {
+    "Policy Development": 135,
+    "Employee Engagement": 130,
+    "Outcome Tracking": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional leadership by embedding sustainability into core values and establishing clear, measurable goals. Policies are well-developed and comprehensive, covering procurement, energy, and waste management. Employee engagement is strong with active collaboration and leading by example, fostering a culture of participation. Outcome tracking is robust with monitoring, transparent reporting, and reward systems to sustain progress. Scores reflect a near-genius level in driving environmental responsibility effectively."
+}

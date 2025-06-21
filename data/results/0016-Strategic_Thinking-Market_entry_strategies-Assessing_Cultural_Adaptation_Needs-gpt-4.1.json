@@ -1,0 +1,14 @@
+{
+  "question_id": "0016-Strategic_Thinking-Market_entry_strategies-Assessing_Cultural_Adaptation_Needs",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"cultural_awareness\":130,\"flexibility_in_approach\":125,\"stakeholder_engagement\":130,\"overall_score\":128.3,\"comments\":\"The answer demonstrates deep cultural awareness by identifying local customs, values, and consumer behavior through thorough research. It reflects strong flexibility by customizing products, branding, and marketing strategies to align with cultural contexts. Stakeholder engagement is robust, emphasizing local partnerships and inclusion of local hires to bridge cultural gaps. The approach is comprehensive, systematic, and anticipatory, indicating a high level of leadership competency in cultural integration for market entry.\"}",
+  "scores": {
+    "Cultural Awareness": 130,
+    "Flexibility in Approach": 125,
+    "Stakeholder Engagement": 130
+  },
+  "total": 128.3,
+  "comments": "The answer demonstrates deep cultural awareness by identifying local customs, values, and consumer behavior through thorough research. It reflects strong flexibility by customizing products, branding, and marketing strategies to align with cultural contexts. Stakeholder engagement is robust, emphasizing local partnerships and inclusion of local hires to bridge cultural gaps. The approach is comprehensive, systematic, and anticipatory, indicating a high level of leadership competency in cultural integration for market entry."
+}

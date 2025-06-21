@@ -1,0 +1,14 @@
+{
+  "question_id": "0025-Strategic_Thinking-Stakeholder_engagement-Building_Strategic_Alliances",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder engagement",
+  "raw": "{\"relationship_cultivation\":120,\"collaborative_mindset\":115,\"alignment_of_interests\":120,\"overall_score\":118,\"comments\":\"The answer thoroughly addresses key components of fostering strategic partnerships. It emphasizes building trust, transparent communication, and active relationship development, reflecting strong relationship cultivation. It clearly demonstrates a collaborative mindset through negotiation of win-win agreements and joint governance structures. The focus on ensuring alignment with the company's mission, strategic priorities, and long-term goals indicates a solid alignment of interests. Overall, the response is comprehensive and detailed, exceeding typical expectations.\"}",
+  "scores": {
+    "Relationship cultivation": 120,
+    "Collaborative mindset": 115,
+    "Alignment of interests": 120
+  },
+  "total": 118.0,
+  "comments": "The answer thoroughly addresses key components of fostering strategic partnerships. It emphasizes building trust, transparent communication, and active relationship development, reflecting strong relationship cultivation. It clearly demonstrates a collaborative mindset through negotiation of win-win agreements and joint governance structures. The focus on ensuring alignment with the company's mission, strategic priorities, and long-term goals indicates a solid alignment of interests. Overall, the response is comprehensive and detailed, exceeding typical expectations."
+}

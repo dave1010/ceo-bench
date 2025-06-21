@@ -1,0 +1,14 @@
+{
+  "question_id": "0063-Leadership_&_Communication-Culture_building-Driving_Organizational_Values",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"integration_of_values\":130,\"employee_engagement\":125,\"cultural_influence\":130,\"overall_score\":128.3,\"comments\":\"The answer thoroughly addresses how the CEO models, integrates, communicates, and reinforces core values, demonstrating strong integration of values. The focus on empowering leaders and feedback mechanisms shows a clear path to high employee engagement. The approach fosters a positive and resilient culture aligned with strategy, indicating a powerful cultural influence. Scores are just above the 'genius' threshold, reflecting an exceptional understanding and application of embedding values to drive organizational culture effectively.\"}",
+  "scores": {
+    "Integration of values": 130,
+    "Employee engagement": 125,
+    "Cultural influence": 130
+  },
+  "total": 128.3,
+  "comments": "The answer thoroughly addresses how the CEO models, integrates, communicates, and reinforces core values, demonstrating strong integration of values. The focus on empowering leaders and feedback mechanisms shows a clear path to high employee engagement. The approach fosters a positive and resilient culture aligned with strategy, indicating a powerful cultural influence. Scores are just above the 'genius' threshold, reflecting an exceptional understanding and application of embedding values to drive organizational culture effectively."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0108-Operational_Excellence-Performance_metrics-Clear_Goal_Setting_and_KPIs",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"clarity_and_alignment\":115,\"engagement_and_buy-in\":110,\"monitoring_and_adjustment\":110,\"overall_score\":112,\"comments\":\"The answer demonstrates a strong understanding of defining and aligning KPIs with organizational goals, emphasizing transparent communication. It highlights CEO engagement with teams to foster buy-in and ownership effectively. The commitment to continuous review and refinement of metrics shows excellent monitoring and adjustment practices. Overall, the response reflects a high-level leadership approach consistent with successful CEO performance.\"}",
+  "scores": {
+    "Clarity and Alignment": 115,
+    "Engagement and Buy-in": 110,
+    "Monitoring and Adjustment": 110
+  },
+  "total": 112.0,
+  "comments": "The answer demonstrates a strong understanding of defining and aligning KPIs with organizational goals, emphasizing transparent communication. It highlights CEO engagement with teams to foster buy-in and ownership effectively. The commitment to continuous review and refinement of metrics shows excellent monitoring and adjustment practices. Overall, the response reflects a high-level leadership approach consistent with successful CEO performance."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0124-Innovation_&_Growth-Growth_strategy-Prioritizing_Strategic_Investments",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"decision-making\":130,\"market_awareness\":125,\"resource_allocation\":120,\"overall_score\":125,\"comments\":\"The answer outlines a comprehensive and structured decision-making framework, integrating multiple relevant criteria such as strategic alignment, ROI, risk assessment, and iterative learning, demonstrating a high-level, nuanced understanding suitable for a CEO. Market awareness is well-covered through analysis of trends, customer needs, and competitive landscapes, reflecting strong situational insight. Resource allocation is thoughtfully addressed, considering organizational capabilities and balanced investment portfolios, showcasing prudent and strategic deployment of resources. Overall, the response reflects sophisticated leadership thinking and practical acumen expected of a top-tier CEO.\"}",
+  "scores": {
+    "Decision-making": 130,
+    "Market awareness": 125,
+    "Resource allocation": 120
+  },
+  "total": 125.0,
+  "comments": "The answer outlines a comprehensive and structured decision-making framework, integrating multiple relevant criteria such as strategic alignment, ROI, risk assessment, and iterative learning, demonstrating a high-level, nuanced understanding suitable for a CEO. Market awareness is well-covered through analysis of trends, customer needs, and competitive landscapes, reflecting strong situational insight. Resource allocation is thoughtfully addressed, considering organizational capabilities and balanced investment portfolios, showcasing prudent and strategic deployment of resources. Overall, the response reflects sophisticated leadership thinking and practical acumen expected of a top-tier CEO."
+}

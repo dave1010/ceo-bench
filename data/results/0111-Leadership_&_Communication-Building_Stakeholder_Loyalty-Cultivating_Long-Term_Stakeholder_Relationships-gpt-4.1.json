@@ -1,0 +1,14 @@
+{
+  "question_id": "0111-Leadership_&_Communication-Building_Stakeholder_Loyalty-Cultivating_Long-Term_Stakeholder_Relationships",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Building Stakeholder Loyalty",
+  "raw": "{\"relationship_management\":135,\"value_creation\":130,\"responsiveness\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates exceptional relationship management by actively engaging stakeholders and building trust through personalized interactions. Value creation is strongly addressed by consistently delivering on promises and aligning interests with stakeholders. Responsiveness is evident through fostering adaptability and a culture of continuous improvement based on feedback, showing prompt and effective reactions to stakeholder needs. Overall, the answer reflects a high level of leadership acumen likely to sustain and grow organizational loyalty significantly.\"}",
+  "scores": {
+    "Relationship Management": 135,
+    "Value Creation": 130,
+    "Responsiveness": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional relationship management by actively engaging stakeholders and building trust through personalized interactions. Value creation is strongly addressed by consistently delivering on promises and aligning interests with stakeholders. Responsiveness is evident through fostering adaptability and a culture of continuous improvement based on feedback, showing prompt and effective reactions to stakeholder needs. Overall, the answer reflects a high level of leadership acumen likely to sustain and grow organizational loyalty significantly."
+}

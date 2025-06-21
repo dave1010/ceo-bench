@@ -1,0 +1,14 @@
+{
+  "question_id": "0009-Strategic_Thinking-Market_entry_strategies-Designing_Partnerships_for_Market_Entry",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"partnership_selection_criteria\":120,\"risk_and_benefit_analysis\":115,\"integration_and_collaboration_strategy\":120,\"overall_score\":118,\"comments\":\"The answer comprehensively addresses partnership selection by defining clear criteria that include alignment, capabilities, reputation, and local knowledge. It thoughtfully weighs risks such as dependency and legal issues against benefits like market access and resource sharing, demonstrating a strong risk-benefit analysis. Additionally, the integration strategy is well detailed, covering communication, governance, KPIs, conflict resolution, and pilot projects to validate partnerships. Overall, this reflects a highly capable CEO-level response with practical, structured, and thorough insights likely to facilitate successful market entry and sustainable partnership management.\"}",
+  "scores": {
+    "Partnership selection criteria": 120,
+    "Risk and benefit analysis": 115,
+    "Integration and collaboration strategy": 120
+  },
+  "total": 118.0,
+  "comments": "The answer comprehensively addresses partnership selection by defining clear criteria that include alignment, capabilities, reputation, and local knowledge. It thoughtfully weighs risks such as dependency and legal issues against benefits like market access and resource sharing, demonstrating a strong risk-benefit analysis. Additionally, the integration strategy is well detailed, covering communication, governance, KPIs, conflict resolution, and pilot projects to validate partnerships. Overall, this reflects a highly capable CEO-level response with practical, structured, and thorough insights likely to facilitate successful market entry and sustainable partnership management."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0104-Strategic_Thinking-Industry_Trends-Anticipating_Market_Changes",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Industry Trends",
+  "raw": "{\"market_awareness\":135,\"proactiveness\":130,\"strategic_preparedness\":135,\"overall_score\":133.3,\"comments\":\"The answer reflects exceptional understanding of market dynamics, illustrating comprehensive scanning of trends and stakeholder perspectives indicating high market awareness. It emphasizes proactive measures like scenario planning, innovation investment, and talent development, showcasing strong proactiveness. Strategic preparedness is clearly addressed through agile organizational design and contingency planning, positioning the company advantageously for future shifts. Scores reflect a 'genius' level response, likely to drive extraordinary organizational performance.\"}",
+  "scores": {
+    "Market Awareness": 135,
+    "Proactiveness": 130,
+    "Strategic Preparedness": 135
+  },
+  "total": 133.3,
+  "comments": "The answer reflects exceptional understanding of market dynamics, illustrating comprehensive scanning of trends and stakeholder perspectives indicating high market awareness. It emphasizes proactive measures like scenario planning, innovation investment, and talent development, showcasing strong proactiveness. Strategic preparedness is clearly addressed through agile organizational design and contingency planning, positioning the company advantageously for future shifts. Scores reflect a 'genius' level response, likely to drive extraordinary organizational performance."
+}

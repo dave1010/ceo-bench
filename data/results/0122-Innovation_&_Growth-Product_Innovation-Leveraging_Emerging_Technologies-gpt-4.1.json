@@ -1,0 +1,14 @@
+{
+  "question_id": "0122-Innovation_&_Growth-Product_Innovation-Leveraging_Emerging_Technologies",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "Product Innovation",
+  "raw": "{\"vision_for_technology_adoption\":130,\"strategic_implementation\":125,\"innovation_culture\":135,\"overall_score\":130,\"comments\":\"The answer clearly articulates a comprehensive vision for technology adoption, detailing continuous scanning and strategic alignment with company goals. It demonstrates strong strategic implementation by outlining structures such as R&D teams and partnerships, as well as the use of KPIs to measure impact. The response highlights fostering a robust innovation culture through test-and-learn environments and support for experimentation. The example of Satya Nadella at Microsoft enhances credibility. Overall, the answer reflects exceptional CEO leadership qualities in driving innovation through emerging technologies.\"}",
+  "scores": {
+    "Vision for Technology Adoption": 130,
+    "Strategic Implementation": 125,
+    "Innovation Culture": 135
+  },
+  "total": 130.0,
+  "comments": "The answer clearly articulates a comprehensive vision for technology adoption, detailing continuous scanning and strategic alignment with company goals. It demonstrates strong strategic implementation by outlining structures such as R&D teams and partnerships, as well as the use of KPIs to measure impact. The response highlights fostering a robust innovation culture through test-and-learn environments and support for experimentation. The example of Satya Nadella at Microsoft enhances credibility. Overall, the answer reflects exceptional CEO leadership qualities in driving innovation through emerging technologies."
+}

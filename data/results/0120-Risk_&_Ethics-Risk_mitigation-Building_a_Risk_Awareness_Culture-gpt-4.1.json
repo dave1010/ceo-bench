@@ -1,0 +1,14 @@
+{
+  "question_id": "0120-Risk_&_Ethics-Risk_mitigation-Building_a_Risk_Awareness_Culture",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"leadership_in_risk_culture\":130,\"employee_engagement\":125,\"continuous_improvement\":120,\"overall_score\":125,\"comments\":\"The CEO exhibits exceptional leadership in fostering a risk-aware culture by leading by example, promoting transparency, and establishing clear communication channels. Employee engagement is high due to empowerment, psychological safety, and recognition strategies. Continuous improvement is well addressed through training, integration into workflows, and feedback mechanisms, reflecting a mature approach to evolving risk management practices.\"}",
+  "scores": {
+    "Leadership in Risk Culture": 130,
+    "Employee Engagement": 125,
+    "Continuous Improvement": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO exhibits exceptional leadership in fostering a risk-aware culture by leading by example, promoting transparency, and establishing clear communication channels. Employee engagement is high due to empowerment, psychological safety, and recognition strategies. Continuous improvement is well addressed through training, integration into workflows, and feedback mechanisms, reflecting a mature approach to evolving risk management practices."
+}

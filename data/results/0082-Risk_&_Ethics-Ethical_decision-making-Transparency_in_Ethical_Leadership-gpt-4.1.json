@@ -1,0 +1,14 @@
+{
+  "question_id": "0082-Risk_&_Ethics-Ethical_decision-making-Transparency_in_Ethical_Leadership",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"openness\":115,\"integrity\":120,\"accountability\":118,\"overall_score\":117.7,\"comments\":\"The answer clearly articulates the CEO's role in transparent communication, emphasizing stakeholder engagement, open disclosure of processes, and admission of uncertainty, which aligns well with the Openness dimension. It strongly reflects Integrity through commitment to honesty and consistent application of ethical standards during complex challenges. Accountability is thoroughly addressed by emphasizing responsibility for outcomes, acknowledgment of missteps, and corrective actions. Overall, the response demonstrates a comprehensive understanding of effective leadership in ethical transparency, scoring notably above average.\"}",
+  "scores": {
+    "Openness": 115,
+    "Integrity": 120,
+    "Accountability": 118
+  },
+  "total": 117.7,
+  "comments": "The answer clearly articulates the CEO's role in transparent communication, emphasizing stakeholder engagement, open disclosure of processes, and admission of uncertainty, which aligns well with the Openness dimension. It strongly reflects Integrity through commitment to honesty and consistent application of ethical standards during complex challenges. Accountability is thoroughly addressed by emphasizing responsibility for outcomes, acknowledgment of missteps, and corrective actions. Overall, the response demonstrates a comprehensive understanding of effective leadership in ethical transparency, scoring notably above average."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0072-Financial_Acumen-Capital_Allocation-Prioritization_of_Capital_Projects",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Capital Allocation",
+  "raw": "{\"valuation_and_roi\":120,\"risk_consideration\":115,\"strategic_fit\":120,\"overall_score\":118.3,\"comments\":\"The answer comprehensively addresses capital allocation with a clear focus on financial metrics like NPV, IRR, and ROIC, demonstrating strong valuation and ROI considerations. It explicitly discusses risk assessment, including market and execution risks, showing effective risk management. Strategic fit is emphasized through alignment with long-term strategy and competitive advantage. The response also highlights portfolio diversification and flexibility, indicating advanced understanding, resulting in a high overall score typical of strong CEO performance.\"}",
+  "scores": {
+    "Valuation and ROI": 120,
+    "Risk Consideration": 115,
+    "Strategic Fit": 120
+  },
+  "total": 118.3,
+  "comments": "The answer comprehensively addresses capital allocation with a clear focus on financial metrics like NPV, IRR, and ROIC, demonstrating strong valuation and ROI considerations. It explicitly discusses risk assessment, including market and execution risks, showing effective risk management. Strategic fit is emphasized through alignment with long-term strategy and competitive advantage. The response also highlights portfolio diversification and flexibility, indicating advanced understanding, resulting in a high overall score typical of strong CEO performance."
+}

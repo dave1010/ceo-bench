@@ -1,0 +1,14 @@
+{
+  "question_id": "0112-Leadership_&_Communication-Crisis_communication-Adapting_Messaging_in_Rapidly_Evolving_Situations",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"responsiveness\":130,\"clarity\":135,\"empathy\":125,\"overall_score\":130,\"comments\":\"The answer comprehensively addresses how a CEO should tailor messaging during a crisis by emphasizing proactive, transparent, and frequent communication that adapts to evolving circumstances (Responsiveness: 130). The response prioritizes clarity through simple, jargon-free language and a structured approach to messaging (Clarity: 135). It strongly highlights empathy, including authentic reassurance and acknowledgement of stakeholders' concerns (Empathy: 125). Overall, the answer demonstrates a high level of leadership acumen exceeding typical expectations for crisis communication, justifying an above-average overall score.\"}",
+  "scores": {
+    "Responsiveness": 130,
+    "Clarity": 135,
+    "Empathy": 125
+  },
+  "total": 130.0,
+  "comments": "The answer comprehensively addresses how a CEO should tailor messaging during a crisis by emphasizing proactive, transparent, and frequent communication that adapts to evolving circumstances (Responsiveness: 130). The response prioritizes clarity through simple, jargon-free language and a structured approach to messaging (Clarity: 135). It strongly highlights empathy, including authentic reassurance and acknowledgement of stakeholders' concerns (Empathy: 125). Overall, the answer demonstrates a high level of leadership acumen exceeding typical expectations for crisis communication, justifying an above-average overall score."
+}

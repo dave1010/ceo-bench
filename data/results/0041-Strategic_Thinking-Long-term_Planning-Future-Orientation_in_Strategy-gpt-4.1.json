@@ -1,0 +1,14 @@
+{
+  "question_id": "0041-Strategic_Thinking-Long-term_Planning-Future-Orientation_in_Strategy",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Planning",
+  "raw": "{\"visionary_planning\":130,\"sustainability_focus\":125,\"stakeholder_engagement\":120,\"overall_score\":125,\"comments\":\"The answer comprehensively addresses all rubric dimensions with strong emphasis on visionary planning by outlining clear long-term goals, integrates sustainability deeply through ESG and risk management, and highlights thoughtful stakeholder engagement. The articulation goes beyond average expectations, demonstrating an exceptional understanding of embedding long-term vision and sustainable growth into strategic planning.\"}",
+  "scores": {
+    "Visionary Planning": 130,
+    "Sustainability Focus": 125,
+    "Stakeholder Engagement": 120
+  },
+  "total": 125.0,
+  "comments": "The answer comprehensively addresses all rubric dimensions with strong emphasis on visionary planning by outlining clear long-term goals, integrates sustainability deeply through ESG and risk management, and highlights thoughtful stakeholder engagement. The articulation goes beyond average expectations, demonstrating an exceptional understanding of embedding long-term vision and sustainable growth into strategic planning."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0032-Strategic_Thinking-Market_entry_strategies-Managing_Cross-functional_Teams_During_Expansion",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"leadership_communication\":130,\"resource_management\":120,\"performance_monitoring\":125,\"overall_score\":125,\"comments\":\"The answer clearly articulates a strong vision and strategy, fostering cross-functional alignment with clear communication, which demonstrates excellent leadership communication (130). It emphasizes empowering teams, providing resources, and removing obstacles, reflecting strong resource management (120). The use of shared metrics, dashboards, and continuous feedback indicates robust performance monitoring (125). Overall, this response reflects a highly capable CEO approach with an integrated, disciplined strategy leading to excellent organizational alignment.\"}",
+  "scores": {
+    "Leadership communication": 130,
+    "Resource management": 120,
+    "Performance monitoring": 125
+  },
+  "total": 125.0,
+  "comments": "The answer clearly articulates a strong vision and strategy, fostering cross-functional alignment with clear communication, which demonstrates excellent leadership communication (130). It emphasizes empowering teams, providing resources, and removing obstacles, reflecting strong resource management (120). The use of shared metrics, dashboards, and continuous feedback indicates robust performance monitoring (125). Overall, this response reflects a highly capable CEO approach with an integrated, disciplined strategy leading to excellent organizational alignment."
+}

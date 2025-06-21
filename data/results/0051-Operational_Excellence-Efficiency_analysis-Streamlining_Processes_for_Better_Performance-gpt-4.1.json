@@ -1,0 +1,14 @@
+{
+  "question_id": "0051-Operational_Excellence-Efficiency_analysis-Streamlining_Processes_for_Better_Performance",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Efficiency analysis",
+  "raw": "{\"identification_of_inefficiencies\":120,\"implementation_strategies\":125,\"impact_measurement\":120,\"overall_score\":122,\"comments\":\"The answer provides a comprehensive and structured approach to identifying inefficiencies including data gathering, process mapping, and stakeholder engagement. Implementation strategies are robust, referencing Lean, Six Sigma, Agile, pilot programs, and communication plans. Impact measurement is clear with KPIs, feedback loops, and continuous monitoring. The inclusion of a real-world example demonstrates practical application. Overall, this reflects a highly capable CEO with effective leadership and operational insight.\"}",
+  "scores": {
+    "Identification of inefficiencies": 120,
+    "Implementation strategies": 125,
+    "Impact measurement": 120
+  },
+  "total": 122.0,
+  "comments": "The answer provides a comprehensive and structured approach to identifying inefficiencies including data gathering, process mapping, and stakeholder engagement. Implementation strategies are robust, referencing Lean, Six Sigma, Agile, pilot programs, and communication plans. Impact measurement is clear with KPIs, feedback loops, and continuous monitoring. The inclusion of a real-world example demonstrates practical application. Overall, this reflects a highly capable CEO with effective leadership and operational insight."
+}

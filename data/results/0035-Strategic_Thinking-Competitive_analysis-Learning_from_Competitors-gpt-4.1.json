@@ -1,0 +1,14 @@
+{
+  "question_id": "0035-Strategic_Thinking-Competitive_analysis-Learning_from_Competitors",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive analysis",
+  "raw": "{\"insight_extraction\":130,\"benchmarking_practices\":125,\"open_innovation\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates a deep understanding of competitors as sources of learning, employing a comprehensive suite of methods to extract actionable insights. Insight extraction is strong, with analysis of successes and failures highlighted. Benchmarking is explicitly noted and well-integrated, while open innovation is embraced through a culture of continuous improvement and talent recruitment from competitors. Scores reflect an above-average, highly competent leadership approach aligned with the rubric criteria.\"}",
+  "scores": {
+    "Insight Extraction": 130,
+    "Benchmarking Practices": 125,
+    "Open Innovation": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a deep understanding of competitors as sources of learning, employing a comprehensive suite of methods to extract actionable insights. Insight extraction is strong, with analysis of successes and failures highlighted. Benchmarking is explicitly noted and well-integrated, while open innovation is embraced through a culture of continuous improvement and talent recruitment from competitors. Scores reflect an above-average, highly competent leadership approach aligned with the rubric criteria."
+}

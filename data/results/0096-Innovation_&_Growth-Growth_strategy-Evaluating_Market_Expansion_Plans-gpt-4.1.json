@@ -1,0 +1,14 @@
+{
+  "question_id": "0096-Innovation_&_Growth-Growth_strategy-Evaluating_Market_Expansion_Plans",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"market_analysis\":125,\"strategic_alignment\":130,\"risk_management\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates a comprehensive approach to assessing new market opportunities with thorough market research, clear alignment to strategic objectives, and detailed risk assessment with mitigation strategies. The use of frameworks and iterative testing further strengthens risk management and strategic decision-making. Scores reflect a strong leadership quotient in these dimensions, indicating exceptional CEO performance.\"}",
+  "scores": {
+    "Market Analysis": 125,
+    "Strategic Alignment": 130,
+    "Risk Management": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a comprehensive approach to assessing new market opportunities with thorough market research, clear alignment to strategic objectives, and detailed risk assessment with mitigation strategies. The use of frameworks and iterative testing further strengthens risk management and strategic decision-making. Scores reflect a strong leadership quotient in these dimensions, indicating exceptional CEO performance."
+}

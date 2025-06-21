@@ -1,0 +1,14 @@
+{
+  "question_id": "0047-Operational_Excellence-Process_Improvement-Leveraging_Data_for_Continuous_Optimization",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Process Improvement",
+  "raw": "{\"data-driven_decision_making\":130,\"stakeholder_engagement\":125,\"culture_of_continuous_improvement\":135,\"overall_score\":130,\"comments\":\"The CEO's answer thoroughly addresses the integration of data analytics by setting a clear data-driven vision, investing in infrastructure, and embedding analytics into continuous improvement methodologies. The emphasis on KPIs, governance, and leadership by example demonstrates a strong commitment to data-driven decision making. Cross-functional collaboration and upskilling for data literacy show excellent stakeholder engagement. The focus on continuous improvement frameworks and fostering an analytical culture reflects a deep appreciation of iterative optimization. Overall, this is a highly effective and comprehensive approach indicative of superior leadership capability.\"}",
+  "scores": {
+    "Data-Driven Decision Making": 130,
+    "Stakeholder Engagement": 125,
+    "Culture of Continuous Improvement": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO's answer thoroughly addresses the integration of data analytics by setting a clear data-driven vision, investing in infrastructure, and embedding analytics into continuous improvement methodologies. The emphasis on KPIs, governance, and leadership by example demonstrates a strong commitment to data-driven decision making. Cross-functional collaboration and upskilling for data literacy show excellent stakeholder engagement. The focus on continuous improvement frameworks and fostering an analytical culture reflects a deep appreciation of iterative optimization. Overall, this is a highly effective and comprehensive approach indicative of superior leadership capability."
+}

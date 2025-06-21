@@ -1,0 +1,14 @@
+{
+  "question_id": "0042-Operational_Excellence-Continuous_Improvement_Culture-Fostering_a_Culture_of_Innovation",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Continuous Improvement Culture",
+  "raw": "{\"leadership_engagement\":130,\"employee_empowerment\":125,\"process_integration\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates strong leadership by clearly setting vision, modeling innovative behavior, and allocating resources dedicatedly, which scores high on leadership engagement. Employees are empowered through decentralized decision-making and mechanisms to contribute ideas, showing robust employee empowerment. Continuous improvement is well integrated into the organization via metrics, reward systems, and cross-functional collaboration, indicating solid process integration. Overall, the answer reflects an exceptional grasp of fostering a culture of innovation and continuous improvement.\"}",
+  "scores": {
+    "Leadership Engagement": 130,
+    "Employee Empowerment": 125,
+    "Process Integration": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates strong leadership by clearly setting vision, modeling innovative behavior, and allocating resources dedicatedly, which scores high on leadership engagement. Employees are empowered through decentralized decision-making and mechanisms to contribute ideas, showing robust employee empowerment. Continuous improvement is well integrated into the organization via metrics, reward systems, and cross-functional collaboration, indicating solid process integration. Overall, the answer reflects an exceptional grasp of fostering a culture of innovation and continuous improvement."
+}

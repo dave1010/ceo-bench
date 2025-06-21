@@ -1,0 +1,14 @@
+{
+  "question_id": "0006-Strategic_Thinking-Market_entry_strategies-Analyzing_Risk_Factors_for_Market_Entry",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"risk_identification\":130,\"prioritization\":135,\"mitigation_strategies\":130,\"overall_score\":132,\"comments\":\"The answer demonstrates a comprehensive and detailed identification of key risks covering financial, regulatory, cultural, and operational dimensions. The prioritization is logical and well justified, sequencing risks from existential regulatory threats to reputational considerations with clear rationale. Mitigation strategies are practical, specific, and actionable, showing a strong understanding of how to manage complex international market entry risks. Overall, this reflects exceptional leadership insight and a high level of strategic acumen.\"}",
+  "scores": {
+    "Risk Identification": 130,
+    "Prioritization": 135,
+    "Mitigation Strategies": 130
+  },
+  "total": 132.0,
+  "comments": "The answer demonstrates a comprehensive and detailed identification of key risks covering financial, regulatory, cultural, and operational dimensions. The prioritization is logical and well justified, sequencing risks from existential regulatory threats to reputational considerations with clear rationale. Mitigation strategies are practical, specific, and actionable, showing a strong understanding of how to manage complex international market entry risks. Overall, this reflects exceptional leadership insight and a high level of strategic acumen."
+}

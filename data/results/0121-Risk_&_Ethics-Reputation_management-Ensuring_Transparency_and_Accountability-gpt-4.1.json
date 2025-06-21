@@ -1,0 +1,14 @@
+{
+  "question_id": "0121-Risk_&_Ethics-Reputation_management-Ensuring_Transparency_and_Accountability",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"transparency_initiatives\":120,\"accountability_culture\":125,\"response_to_challenges\":130,\"overall_score\":125,\"comments\":\"The CEO's approach is comprehensive and proactive, incorporating multiple clear policies and communication strategies that foster transparency. The emphasis on leading by example and creating two-way dialogues strongly supports a culture of accountability. The response to challenges is well-managed with regular updates, stakeholder engagement, and learning post-crisis, demonstrating an exceptional ability to maintain trust and uphold the company\u2019s reputation during difficult times.\"}",
+  "scores": {
+    "Transparency Initiatives": 120,
+    "Accountability Culture": 125,
+    "Response to Challenges": 130
+  },
+  "total": 125.0,
+  "comments": "The CEO's approach is comprehensive and proactive, incorporating multiple clear policies and communication strategies that foster transparency. The emphasis on leading by example and creating two-way dialogues strongly supports a culture of accountability. The response to challenges is well-managed with regular updates, stakeholder engagement, and learning post-crisis, demonstrating an exceptional ability to maintain trust and uphold the company\u2019s reputation during difficult times."
+}

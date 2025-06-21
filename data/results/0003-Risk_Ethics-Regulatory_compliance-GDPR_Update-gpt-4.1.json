@@ -1,0 +1,14 @@
+{
+  "question_id": "0003-Risk_Ethics-Regulatory_compliance-GDPR_Update",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Regulatory compliance",
+  "raw": "{\"completeness\":130,\"practicality\":125,\"conciseness\":100,\"overall_score\":118.3,\"comments\":\"The answer is highly comprehensive, covering all crucial GDPR compliance steps relevant to a SaaS company, including data inventory, lawful processing bases, user rights, security measures, contracts, international transfers, breach management, and training. The guidance is practical and actionable for both engineering and legal teams, demonstrating clear processes and tools to implement. While thorough, the response is somewhat detailed rather than brief, impacting conciseness slightly, but richness in content justifies the length. Overall, the response reflects strong leadership understanding appropriate for effective GDPR compliance management.\"}",
+  "scores": {
+    "Completeness": 130,
+    "Practicality": 125,
+    "Conciseness": 100
+  },
+  "total": 118.3,
+  "comments": "The answer is highly comprehensive, covering all crucial GDPR compliance steps relevant to a SaaS company, including data inventory, lawful processing bases, user rights, security measures, contracts, international transfers, breach management, and training. The guidance is practical and actionable for both engineering and legal teams, demonstrating clear processes and tools to implement. While thorough, the response is somewhat detailed rather than brief, impacting conciseness slightly, but richness in content justifies the length. Overall, the response reflects strong leadership understanding appropriate for effective GDPR compliance management."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0103-Strategic_Thinking-Competitive_Analysis-Market_Positioning_Insights",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive Analysis",
+  "raw": "{\"market_awareness\":135,\"adaptability\":130,\"strategic_implementation\":132,\"overall_score\":132.3,\"comments\":\"The answer demonstrates exceptional market awareness through continuous intelligence gathering and engagement. Adaptability is strong, emphasizing agility, scenario planning, and flexibility to evolving scenarios. Strategic implementation is robust, detailing actionable plans including regular reviews, innovation fostering, and communication. Overall, this response reflects a high leadership quotient suitable for a top-performing CEO.\"}",
+  "scores": {
+    "Market Awareness": 135,
+    "Adaptability": 130,
+    "Strategic Implementation": 132
+  },
+  "total": 132.3,
+  "comments": "The answer demonstrates exceptional market awareness through continuous intelligence gathering and engagement. Adaptability is strong, emphasizing agility, scenario planning, and flexibility to evolving scenarios. Strategic implementation is robust, detailing actionable plans including regular reviews, innovation fostering, and communication. Overall, this response reflects a high leadership quotient suitable for a top-performing CEO."
+}

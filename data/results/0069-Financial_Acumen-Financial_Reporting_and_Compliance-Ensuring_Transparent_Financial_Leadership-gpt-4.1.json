@@ -1,0 +1,14 @@
+{
+  "question_id": "0069-Financial_Acumen-Financial_Reporting_and_Compliance-Ensuring_Transparent_Financial_Leadership",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Reporting and Compliance",
+  "raw": "{\"accuracy_and_integrity\":130,\"stakeholder_engagement\":125,\"regulatory_compliance\":130,\"overall_score\":128.3,\"comments\":\"The answer comprehensively addresses all rubric dimensions with high detail and clarity. It highlights strong internal controls, ethical culture, audit practices, and CEO involvement that ensure accuracy and integrity beyond standard expectations, warranting a score above average. Stakeholder engagement is robustly covered, emphasizing transparent communication and open dialogue, fostering trust. Regulatory compliance is fully addressed, with explicit reference to adherence to GAAP/IFRS and audit collaboration. Overall, the response reflects a high-level CEO performance with an exceptional Leadership Quotient.\"}",
+  "scores": {
+    "Accuracy and Integrity": 130,
+    "Stakeholder Engagement": 125,
+    "Regulatory Compliance": 130
+  },
+  "total": 128.3,
+  "comments": "The answer comprehensively addresses all rubric dimensions with high detail and clarity. It highlights strong internal controls, ethical culture, audit practices, and CEO involvement that ensure accuracy and integrity beyond standard expectations, warranting a score above average. Stakeholder engagement is robustly covered, emphasizing transparent communication and open dialogue, fostering trust. Regulatory compliance is fully addressed, with explicit reference to adherence to GAAP/IFRS and audit collaboration. Overall, the response reflects a high-level CEO performance with an exceptional Leadership Quotient."
+}

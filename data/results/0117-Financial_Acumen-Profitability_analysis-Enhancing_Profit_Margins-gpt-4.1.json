@@ -1,0 +1,14 @@
+{
+  "question_id": "0117-Financial_Acumen-Profitability_analysis-Enhancing_Profit_Margins",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Profitability analysis",
+  "raw": "{\"analytical_rigor\":130,\"strategic_adjustments\":125,\"continuous_monitoring\":120,\"overall_score\":125,\"comments\":\"The CEO's approach demonstrates exceptional analytical rigor through comprehensive financial reviews, benchmarking, and data-driven decision making. Strategic adjustments are well-covered with cost optimization, resource allocation, pricing strategies, and operational excellence initiatives. Continuous monitoring is strongly emphasized via frequent business reviews and leadership accountability mechanisms. Overall, this response reflects a high level of strategic leadership enabling sustained profitability improvements.\"}",
+  "scores": {
+    "Analytical rigor": 130,
+    "Strategic adjustments": 125,
+    "Continuous monitoring": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO's approach demonstrates exceptional analytical rigor through comprehensive financial reviews, benchmarking, and data-driven decision making. Strategic adjustments are well-covered with cost optimization, resource allocation, pricing strategies, and operational excellence initiatives. Continuous monitoring is strongly emphasized via frequent business reviews and leadership accountability mechanisms. Overall, this response reflects a high level of strategic leadership enabling sustained profitability improvements."
+}

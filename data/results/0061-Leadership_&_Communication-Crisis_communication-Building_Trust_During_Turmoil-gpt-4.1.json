@@ -1,0 +1,14 @@
+{
+  "question_id": "0061-Leadership_&_Communication-Crisis_communication-Building_Trust_During_Turmoil",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"transparency\":130,\"empathy\":125,\"consistency\":120,\"overall_score\":125.0,\"comments\":\"The answer comprehensively addresses the CEO's approach to maintaining trust during a crisis. It emphasizes transparent and frequent communication, honesty about uncertainties, and accountability, demonstrating strong transparency (score:130). It highlights empathy by recognizing concerns, acknowledging mistakes, and committing to stakeholder well-being (score:125). Consistency is well covered through aligning actions with core values, providing clear action plans, engaging stakeholders directly for consistent two-way communication, and committing to regular follow-up and updates (score:120). Overall, the response reflects exceptional leadership qualities well above average, meriting a high overall score.\"}",
+  "scores": {
+    "Transparency": 130,
+    "Empathy": 125,
+    "Consistency": 120
+  },
+  "total": 125.0,
+  "comments": "The answer comprehensively addresses the CEO's approach to maintaining trust during a crisis. It emphasizes transparent and frequent communication, honesty about uncertainties, and accountability, demonstrating strong transparency (score:130). It highlights empathy by recognizing concerns, acknowledging mistakes, and committing to stakeholder well-being (score:125). Consistency is well covered through aligning actions with core values, providing clear action plans, engaging stakeholders directly for consistent two-way communication, and committing to regular follow-up and updates (score:120). Overall, the response reflects exceptional leadership qualities well above average, meriting a high overall score."
+}

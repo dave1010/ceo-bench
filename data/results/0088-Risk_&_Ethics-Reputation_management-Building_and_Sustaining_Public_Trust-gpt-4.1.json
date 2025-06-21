@@ -1,0 +1,14 @@
+{
+  "question_id": "0088-Risk_&_Ethics-Reputation_management-Building_and_Sustaining_Public_Trust",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"transparency\":120,\"consistency\":115,\"engagement\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong understanding of transparency by emphasizing open sharing of both successes and challenges, including admitting mistakes and ethical standards. Consistency is well covered through the focus on aligned messaging across all levels and regular communication channels. Engagement is addressed via proactive stakeholder feedback mechanisms and fostering open dialogue. Overall, the response reflects a high leadership quotient in managing communication to build trust.\"}",
+  "scores": {
+    "Transparency": 120,
+    "Consistency": 115,
+    "Engagement": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong understanding of transparency by emphasizing open sharing of both successes and challenges, including admitting mistakes and ethical standards. Consistency is well covered through the focus on aligned messaging across all levels and regular communication channels. Engagement is addressed via proactive stakeholder feedback mechanisms and fostering open dialogue. Overall, the response reflects a high leadership quotient in managing communication to build trust."
+}

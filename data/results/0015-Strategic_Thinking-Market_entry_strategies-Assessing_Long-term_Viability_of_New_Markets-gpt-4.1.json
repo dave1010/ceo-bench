@@ -1,0 +1,14 @@
+{
+  "question_id": "0015-Strategic_Thinking-Market_entry_strategies-Assessing_Long-term_Viability_of_New_Markets",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"evaluation_framework\":130,\"data_and_forecasting\":125,\"adaptability_planning\":115,\"overall_score\":123,\"comments\":\"The answer demonstrates a comprehensive evaluation framework by incorporating multiple recognized models like PESTEL and Porter's Five Forces, as well as regulatory and risk analyses, scoring high on Evaluation Framework. It effectively integrates both qualitative insights and quantitative forecasts including financial modeling and scenario/stress testing, indicating strong Data and Forecasting capabilities. Adaptability Planning is addressed through stakeholder engagement, pilot programs, and go/no-go decision frameworks, showing consideration for flexibility and contingencies, though these aspects could be emphasized somewhat more. Overall, the response shows a well-rounded, thoughtful approach with strong leadership insight.\"}",
+  "scores": {
+    "Evaluation Framework": 130,
+    "Data and Forecasting": 125,
+    "Adaptability Planning": 115
+  },
+  "total": 123.0,
+  "comments": "The answer demonstrates a comprehensive evaluation framework by incorporating multiple recognized models like PESTEL and Porter's Five Forces, as well as regulatory and risk analyses, scoring high on Evaluation Framework. It effectively integrates both qualitative insights and quantitative forecasts including financial modeling and scenario/stress testing, indicating strong Data and Forecasting capabilities. Adaptability Planning is addressed through stakeholder engagement, pilot programs, and go/no-go decision frameworks, showing consideration for flexibility and contingencies, though these aspects could be emphasized somewhat more. Overall, the response shows a well-rounded, thoughtful approach with strong leadership insight."
+}

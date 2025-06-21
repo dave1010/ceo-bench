@@ -1,0 +1,14 @@
+{
+  "question_id": "0099-Innovation_&_Growth-M&A_evaluation-Strategic_Fit_Assessment",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"strategic_alignment\":130,\"due_diligence_rigor\":130,\"decision-making_confidence\":125,\"overall_score\":128.3,\"comments\":\"The answer thoroughly covers strategic alignment by emphasizing rigorous assessment of target fit with company goals, including product, customer base, and growth plans. Due diligence is comprehensively addressed, covering financial, operational, legal, and cultural aspects tied closely to strategic objectives, showing depth and rigor. The decision-making confidence is inferred from leadership in stakeholder alignment, synergy evaluation, and clear integration planning, demonstrating confident, clear decision processes. Overall, the response reflects an exceptional, high-level CEO approach to M&A evaluation.\"}",
+  "scores": {
+    "Strategic Alignment": 130,
+    "Due Diligence Rigor": 130,
+    "Decision-Making Confidence": 125
+  },
+  "total": 128.3,
+  "comments": "The answer thoroughly covers strategic alignment by emphasizing rigorous assessment of target fit with company goals, including product, customer base, and growth plans. Due diligence is comprehensively addressed, covering financial, operational, legal, and cultural aspects tied closely to strategic objectives, showing depth and rigor. The decision-making confidence is inferred from leadership in stakeholder alignment, synergy evaluation, and clear integration planning, demonstrating confident, clear decision processes. Overall, the response reflects an exceptional, high-level CEO approach to M&A evaluation."
+}

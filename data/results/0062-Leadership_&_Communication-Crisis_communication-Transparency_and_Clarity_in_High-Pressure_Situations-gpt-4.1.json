@@ -1,0 +1,14 @@
+{
+  "question_id": "0062-Leadership_&_Communication-Crisis_communication-Transparency_and_Clarity_in_High-Pressure_Situations",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"clarity_of_message\":135,\"stakeholder_engagement\":130,\"emotional_intelligence\":125,\"overall_score\":130,\"comments\":\"The answer provides a comprehensive, clear, and structured approach to crisis communication, ensuring that messages are transparent and tailored to different stakeholder groups. It emphasizes early, honest, and frequent communication, establishing two-way channels, and monitoring misinformation, showcasing strong stakeholder engagement. Additionally, it highlights the importance of leadership presence and empathy, reflecting high emotional intelligence. Overall, the response aligns well with exemplary CEO leadership standards during a crisis.\"}",
+  "scores": {
+    "Clarity of Message": 135,
+    "Stakeholder Engagement": 130,
+    "Emotional Intelligence": 125
+  },
+  "total": 130.0,
+  "comments": "The answer provides a comprehensive, clear, and structured approach to crisis communication, ensuring that messages are transparent and tailored to different stakeholder groups. It emphasizes early, honest, and frequent communication, establishing two-way channels, and monitoring misinformation, showcasing strong stakeholder engagement. Additionally, it highlights the importance of leadership presence and empathy, reflecting high emotional intelligence. Overall, the response aligns well with exemplary CEO leadership standards during a crisis."
+}

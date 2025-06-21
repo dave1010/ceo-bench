@@ -1,0 +1,14 @@
+{
+  "question_id": "0045-Operational_Excellence-Risk_Management-Identifying_and_Mitigating_Operational_Risks",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment_methodology\":125,\"mitigation_planning\":130,\"monitoring_&_review\":128,\"overall_score\":128,\"comments\":\"The answer demonstrates a thorough and systematic approach to identifying operational risks, incorporating diverse methods such as SWOT analysis, risk registers, cross-functional collaboration, and environmental scanning, which show a high level of sophistication in risk assessment methodology. Mitigation planning is robust, with actionable strategies including process redesign, training, and business continuity, reflecting strong foresight and preparedness. Monitoring and review are consistently emphasized via audits, key indicators, feedback loops, and testing, highlighting a commitment to continuous improvement and adaptability. Overall, the response reflects an advanced leadership quality in operational risk management, warranting a high LQ score across all dimensions.\"}",
+  "scores": {
+    "Risk Assessment Methodology": 125,
+    "Mitigation Planning": 130,
+    "Monitoring & Review": 128
+  },
+  "total": 128.0,
+  "comments": "The answer demonstrates a thorough and systematic approach to identifying operational risks, incorporating diverse methods such as SWOT analysis, risk registers, cross-functional collaboration, and environmental scanning, which show a high level of sophistication in risk assessment methodology. Mitigation planning is robust, with actionable strategies including process redesign, training, and business continuity, reflecting strong foresight and preparedness. Monitoring and review are consistently emphasized via audits, key indicators, feedback loops, and testing, highlighting a commitment to continuous improvement and adaptability. Overall, the response reflects an advanced leadership quality in operational risk management, warranting a high LQ score across all dimensions."
+}

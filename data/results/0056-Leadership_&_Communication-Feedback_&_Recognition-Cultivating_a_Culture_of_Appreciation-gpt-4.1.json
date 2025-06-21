@@ -1,0 +1,14 @@
+{
+  "question_id": "0056-Leadership_&_Communication-Feedback_&_Recognition-Cultivating_a_Culture_of_Appreciation",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Feedback & Recognition",
+  "raw": "{\"frequency\":120,\"recognition\":115,\"authenticity\":120,\"overall_score\":118,\"comments\":\"The answer demonstrates a comprehensive understanding of promoting continuous feedback and recognition. It details regular, structured feedback mechanisms, emphasizing a CEO's role in modeling open communication. Recognition is described both formally and informally, linking achievements to company values which reinforces authenticity. The CEO's commitment to training and accessible tools further supports a sustainable culture. Overall, it reflects strong leadership practices well above average.\"}",
+  "scores": {
+    "Frequency": 120,
+    "Recognition": 115,
+    "Authenticity": 120
+  },
+  "total": 118.0,
+  "comments": "The answer demonstrates a comprehensive understanding of promoting continuous feedback and recognition. It details regular, structured feedback mechanisms, emphasizing a CEO's role in modeling open communication. Recognition is described both formally and informally, linking achievements to company values which reinforces authenticity. The CEO's commitment to training and accessible tools further supports a sustainable culture. Overall, it reflects strong leadership practices well above average."
+}

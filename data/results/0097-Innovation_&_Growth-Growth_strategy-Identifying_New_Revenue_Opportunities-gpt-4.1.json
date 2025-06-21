@@ -1,0 +1,14 @@
+{
+  "question_id": "0097-Innovation_&_Growth-Growth_strategy-Identifying_New_Revenue_Opportunities",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"opportunity_identification\":120,\"strategic_prioritization\":115,\"execution_planning\":110,\"overall_score\":115,\"comments\":\"The answer comprehensively addresses how a CEO proactively identifies and prioritizes new revenue streams. It demonstrates strong opportunity identification through market analysis, customer insights, and cross-functional collaboration. Strategic prioritization is well covered by discussing alignment with company vision, evaluation criteria, and portfolio management. Execution planning is adequately addressed via rapid experimentation, M&A scanning, resource allocation, and performance tracking. The detailed, structured approach reflects a high Leadership Quotient consistent with successful CEOs.\"}",
+  "scores": {
+    "Opportunity Identification": 120,
+    "Strategic Prioritization": 115,
+    "Execution Planning": 110
+  },
+  "total": 115.0,
+  "comments": "The answer comprehensively addresses how a CEO proactively identifies and prioritizes new revenue streams. It demonstrates strong opportunity identification through market analysis, customer insights, and cross-functional collaboration. Strategic prioritization is well covered by discussing alignment with company vision, evaluation criteria, and portfolio management. Execution planning is adequately addressed via rapid experimentation, M&A scanning, resource allocation, and performance tracking. The detailed, structured approach reflects a high Leadership Quotient consistent with successful CEOs."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0107-Operational_Excellence-Process_improvement-Cultivating_a_Culture_of_Continuous_Innovation",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"leadership\":125,\"engagement\":120,\"sustainability\":118,\"overall_score\":121,\"comments\":\"The response strongly demonstrates leadership by focusing on empowerment and recognition, fostering engagement through open communication channels and collaboration, and ensuring sustainability via training, continuous feedback, and alignment with goals. Scores reflect a well-structured and comprehensive approach likely to achieve excellent organizational outcomes.\"}",
+  "scores": {
+    "Leadership": 125,
+    "Engagement": 120,
+    "Sustainability": 118
+  },
+  "total": 121.0,
+  "comments": "The response strongly demonstrates leadership by focusing on empowerment and recognition, fostering engagement through open communication channels and collaboration, and ensuring sustainability via training, continuous feedback, and alignment with goals. Scores reflect a well-structured and comprehensive approach likely to achieve excellent organizational outcomes."
+}

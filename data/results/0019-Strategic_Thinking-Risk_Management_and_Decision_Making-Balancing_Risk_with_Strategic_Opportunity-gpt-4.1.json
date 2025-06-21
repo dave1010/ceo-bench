@@ -1,0 +1,14 @@
+{
+  "question_id": "0019-Strategic_Thinking-Risk_Management_and_Decision_Making-Balancing_Risk_with_Strategic_Opportunity",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management and Decision Making",
+  "raw": "{\"analytical_frameworks\":130,\"balance_of_risk_and_reward\":135,\"flexibility_and_adaptability\":125,\"overall_score\":130,\"comments\":\"The answer showcases a highly effective CEO approach incorporating comprehensive analytical frameworks (quantitative and qualitative data, SWOT, scenario planning), demonstrating a strong ability to balance risk and reward through structured assessment and mitigation strategies. The emphasis on cross-functional collaboration and agile, flexible decision-making underscores adaptability. The high scores reflect a sophisticated and actionable leadership style that aligns with exceptional organizational performance.\"}",
+  "scores": {
+    "Analytical Frameworks": 130,
+    "Balance of Risk and Reward": 135,
+    "Flexibility and Adaptability": 125
+  },
+  "total": 130.0,
+  "comments": "The answer showcases a highly effective CEO approach incorporating comprehensive analytical frameworks (quantitative and qualitative data, SWOT, scenario planning), demonstrating a strong ability to balance risk and reward through structured assessment and mitigation strategies. The emphasis on cross-functional collaboration and agile, flexible decision-making underscores adaptability. The high scores reflect a sophisticated and actionable leadership style that aligns with exceptional organizational performance."
+}

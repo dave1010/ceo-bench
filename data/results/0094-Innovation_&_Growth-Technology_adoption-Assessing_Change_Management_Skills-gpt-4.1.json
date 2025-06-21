@@ -1,0 +1,14 @@
+{
+  "question_id": "0094-Innovation_&_Growth-Technology_adoption-Assessing_Change_Management_Skills",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"leadership_in_change\":130,\"employee_engagement\":125,\"implementation_agility\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates proactive and clear leadership, effectively guiding the organization through technological change. Employee engagement is strong, with comprehensive involvement and addressing resistance through feedback mechanisms. Implementation agility is evident in phased rollouts and continuous adjustments. Overall, the response indicates a high level of competence resulting in smooth transitions and high technology adoption.\"}",
+  "scores": {
+    "Leadership in change": 130,
+    "Employee engagement": 125,
+    "Implementation agility": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates proactive and clear leadership, effectively guiding the organization through technological change. Employee engagement is strong, with comprehensive involvement and addressing resistance through feedback mechanisms. Implementation agility is evident in phased rollouts and continuous adjustments. Overall, the response indicates a high level of competence resulting in smooth transitions and high technology adoption."
+}

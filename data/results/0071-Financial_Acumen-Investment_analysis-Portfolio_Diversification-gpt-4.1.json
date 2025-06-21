@@ -1,0 +1,14 @@
+{
+  "question_id": "0071-Financial_Acumen-Investment_analysis-Portfolio_Diversification",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment analysis",
+  "raw": "{\"diversification_strategy\":120,\"risk-return_balance\":115,\"ongoing_review\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong, well-rounded leadership approach to portfolio diversification. The CEO constructs a balanced and strategic portfolio, aligns diversification with risk-return objectives, and emphasizes dynamic, ongoing review and governance. Scores reflect an above-average, thoughtful leadership mindset that would support sustainable organizational success.\"}",
+  "scores": {
+    "Diversification Strategy": 120,
+    "Risk-Return Balance": 115,
+    "Ongoing Review": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong, well-rounded leadership approach to portfolio diversification. The CEO constructs a balanced and strategic portfolio, aligns diversification with risk-return objectives, and emphasizes dynamic, ongoing review and governance. Scores reflect an above-average, thoughtful leadership mindset that would support sustainable organizational success."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0092-Innovation_&_Growth-Product_innovation-Customer-Centric_Design_Approach",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "Product innovation",
+  "raw": "{\"customer_engagement\":130,\"integration_of_feedback\":135,\"outcome_focus\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates a comprehensive, well-structured approach to embedding customer feedback into product development, showcasing high leadership capability. The CEO is portrayed as deeply engaged with customers and drives a culture that systematically gathers, analyzes, and integrates feedback into decision-making, ensuring products are aligned with customer needs and satisfaction is prioritized. This reflects a high level of outcome focus and exceptional leadership in fostering customer-centric innovation.\"}",
+  "scores": {
+    "Customer Engagement": 130,
+    "Integration of Feedback": 135,
+    "Outcome Focus": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a comprehensive, well-structured approach to embedding customer feedback into product development, showcasing high leadership capability. The CEO is portrayed as deeply engaged with customers and drives a culture that systematically gathers, analyzes, and integrates feedback into decision-making, ensuring products are aligned with customer needs and satisfaction is prioritized. This reflects a high level of outcome focus and exceptional leadership in fostering customer-centric innovation."
+}

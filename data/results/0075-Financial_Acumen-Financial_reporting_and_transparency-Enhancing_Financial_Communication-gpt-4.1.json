@@ -1,0 +1,14 @@
+{
+  "question_id": "0075-Financial_Acumen-Financial_reporting_and_transparency-Enhancing_Financial_Communication",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial reporting and transparency",
+  "raw": "{\"data_accuracy_and_integrity\":130,\"transparency_and_clarity\":125,\"stakeholder_engagement\":115,\"overall_score\":123.3,\"comments\":\"The answer thoroughly addresses data accuracy and integrity by emphasizing strong internal controls, qualified financial leadership, external audits, and adherence to regulatory standards, reflecting high rigor in validation processes. Transparency and clarity are well-covered through recommendations for clear, consistent communication and contextual explanations in investor presentations and earnings calls. Stakeholder engagement is addressed through regular board oversight and proactive communication methods that keep stakeholders informed. Overall, the response demonstrates strong leadership across all dimensions, with slightly less focus on direct interactive engagement with stakeholders beyond formal communications, resulting in a very solid overall score.\"}",
+  "scores": {
+    "Data accuracy and integrity": 130,
+    "Transparency and clarity": 125,
+    "Stakeholder engagement": 115
+  },
+  "total": 123.3,
+  "comments": "The answer thoroughly addresses data accuracy and integrity by emphasizing strong internal controls, qualified financial leadership, external audits, and adherence to regulatory standards, reflecting high rigor in validation processes. Transparency and clarity are well-covered through recommendations for clear, consistent communication and contextual explanations in investor presentations and earnings calls. Stakeholder engagement is addressed through regular board oversight and proactive communication methods that keep stakeholders informed. Overall, the response demonstrates strong leadership across all dimensions, with slightly less focus on direct interactive engagement with stakeholders beyond formal communications, resulting in a very solid overall score."
+}

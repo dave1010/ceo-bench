@@ -1,0 +1,14 @@
+{
+  "question_id": "0113-Leadership_&_Communication-Culture_building-Embedding_Ethical_Standards",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"ethical_leadership\":130,\"organizational_influence\":125,\"employee_engagement\":120,\"overall_score\":125,\"comments\":\"This answer demonstrates a comprehensive understanding of ethical leadership by highlighting key CEO behaviors such as setting clear values, leading by example, and ensuring accountability. It reflects strong organizational influence through policies like whistleblower protections and ethical training programs. Employee engagement is well-covered with emphasis on open communication and recognition of ethical behavior, fostering trust. The high scores reflect an advanced, thoughtful approach that a highly effective CEO would adopt to embed ethics into organizational culture.\"}",
+  "scores": {
+    "Ethical Leadership": 130,
+    "Organizational Influence": 125,
+    "Employee Engagement": 120
+  },
+  "total": 125.0,
+  "comments": "This answer demonstrates a comprehensive understanding of ethical leadership by highlighting key CEO behaviors such as setting clear values, leading by example, and ensuring accountability. It reflects strong organizational influence through policies like whistleblower protections and ethical training programs. Employee engagement is well-covered with emphasis on open communication and recognition of ethical behavior, fostering trust. The high scores reflect an advanced, thoughtful approach that a highly effective CEO would adopt to embed ethics into organizational culture."
+}

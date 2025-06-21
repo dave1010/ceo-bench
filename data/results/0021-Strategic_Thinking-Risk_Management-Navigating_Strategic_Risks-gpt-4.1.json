@@ -1,0 +1,14 @@
+{
+  "question_id": "0021-Strategic_Thinking-Risk_Management-Navigating_Strategic_Risks",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_identification\":130,\"evaluation_and_prioritization\":135,\"mitigation_strategies\":132,\"overall_score\":132.33,\"comments\":\"The response comprehensively addresses each rubric dimension with a detailed and methodical approach. Risk identification covers diverse sources and proactive engagement. Evaluation employs both qualitative and quantitative tools, incorporating stakeholder and expert inputs. Mitigation is robust, integrating strategic planning, accountability, monitoring, and crisis readiness. This demonstrates an exceptional, 'genius'-level understanding suitable for high-caliber CEO leadership.\"}",
+  "scores": {
+    "Risk Identification": 130,
+    "Evaluation and Prioritization": 135,
+    "Mitigation Strategies": 132
+  },
+  "total": 132.33,
+  "comments": "The response comprehensively addresses each rubric dimension with a detailed and methodical approach. Risk identification covers diverse sources and proactive engagement. Evaluation employs both qualitative and quantitative tools, incorporating stakeholder and expert inputs. Mitigation is robust, integrating strategic planning, accountability, monitoring, and crisis readiness. This demonstrates an exceptional, 'genius'-level understanding suitable for high-caliber CEO leadership."
+}

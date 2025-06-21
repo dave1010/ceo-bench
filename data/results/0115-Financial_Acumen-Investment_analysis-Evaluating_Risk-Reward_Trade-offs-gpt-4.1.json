@@ -1,0 +1,14 @@
+{
+  "question_id": "0115-Financial_Acumen-Investment_analysis-Evaluating_Risk-Reward_Trade-offs",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment analysis",
+  "raw": "{\"risk_assessment\":130,\"reward_potential\":125,\"decision_justification\":130,\"overall_score\":128.3,\"comments\":\"The answer exhibits a comprehensive and structured approach to risk assessment, including both quantitative and qualitative factors, and detailed risk mitigation strategies, justifying a high Risk Assessment score. It articulates expected returns clearly with alignment to strategic objectives, earning a strong Reward Potential score. The decision justification is logical, well-reasoned, and incorporates portfolio context and risk appetite, deserving a high score. Overall, the response reflects exceptional leadership qualities in investment analysis.\"}",
+  "scores": {
+    "Risk Assessment": 130,
+    "Reward Potential": 125,
+    "Decision Justification": 130
+  },
+  "total": 128.3,
+  "comments": "The answer exhibits a comprehensive and structured approach to risk assessment, including both quantitative and qualitative factors, and detailed risk mitigation strategies, justifying a high Risk Assessment score. It articulates expected returns clearly with alignment to strategic objectives, earning a strong Reward Potential score. The decision justification is logical, well-reasoned, and incorporates portfolio context and risk appetite, deserving a high score. Overall, the response reflects exceptional leadership qualities in investment analysis."
+}

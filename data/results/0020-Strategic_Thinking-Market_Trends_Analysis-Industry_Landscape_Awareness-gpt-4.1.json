@@ -1,0 +1,14 @@
+{
+  "question_id": "0020-Strategic_Thinking-Market_Trends_Analysis-Industry_Landscape_Awareness",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market Trends Analysis",
+  "raw": "{\"environmental_scanning\":115,\"adaptability\":110,\"forward-looking_perspective\":112,\"overall_score\":112.3,\"comments\":\"The answer thoroughly covers systematic environmental scanning through continuous research, stakeholder engagement, and leveraging internal and external expertise, scoring well above average. Adaptability is well addressed by promoting a culture of agility and innovation with clear processes for responding swiftly to changes. Forward-looking perspective is demonstrated through strategic planning, scenario analysis, and embedding foresight in organizational practices. Overall, a strong, comprehensive response indicative of a capable and proactive CEO.\"}",
+  "scores": {
+    "Environmental Scanning": 115,
+    "Adaptability": 110,
+    "Forward-looking Perspective": 112
+  },
+  "total": 112.3,
+  "comments": "The answer thoroughly covers systematic environmental scanning through continuous research, stakeholder engagement, and leveraging internal and external expertise, scoring well above average. Adaptability is well addressed by promoting a culture of agility and innovation with clear processes for responding swiftly to changes. Forward-looking perspective is demonstrated through strategic planning, scenario analysis, and embedding foresight in organizational practices. Overall, a strong, comprehensive response indicative of a capable and proactive CEO."
+}

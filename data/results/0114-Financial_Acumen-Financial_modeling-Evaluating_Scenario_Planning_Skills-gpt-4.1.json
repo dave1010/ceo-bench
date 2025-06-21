@@ -1,0 +1,14 @@
+{
+  "question_id": "0114-Financial_Acumen-Financial_modeling-Evaluating_Scenario_Planning_Skills",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial modeling",
+  "raw": "{\"scenario_inclusion\":120,\"assumption_transparency\":115,\"decision_support\":120,\"overall_score\":118.3,\"comments\":\"The response thoroughly addresses the inclusion of multiple relevant scenarios in financial models, demonstrating proactive identification of diverse outcomes. It emphasizes clear documentation of assumptions and variable inputs, reflecting strong transparency. The answer makes clear how scenario-based financial models support strategic decision-making and risk mitigation. Overall, the explanation is comprehensive and reflects high-level CEO capabilities in scenario integration, assumption clarity, and decision support, meriting a score well above average but just shy of 'genius' due to general nature rather than company-specific depth.\"}",
+  "scores": {
+    "Scenario Inclusion": 120,
+    "Assumption Transparency": 115,
+    "Decision Support": 120
+  },
+  "total": 118.3,
+  "comments": "The response thoroughly addresses the inclusion of multiple relevant scenarios in financial models, demonstrating proactive identification of diverse outcomes. It emphasizes clear documentation of assumptions and variable inputs, reflecting strong transparency. The answer makes clear how scenario-based financial models support strategic decision-making and risk mitigation. Overall, the explanation is comprehensive and reflects high-level CEO capabilities in scenario integration, assumption clarity, and decision support, meriting a score well above average but just shy of 'genius' due to general nature rather than company-specific depth."
+}

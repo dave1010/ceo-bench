@@ -1,0 +1,14 @@
+{
+  "question_id": "0040-Strategic_Thinking-Innovation_and_Adaptability-Embracing_Change_for_Strategic_Advantage",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Innovation and Adaptability",
+  "raw": "{\"encouragement_of_innovation\":130,\"flexibility_in_strategy\":125,\"change_management_skills\":120,\"overall_score\":125,\"comments\":\"The answer thoroughly addresses how a CEO fosters innovation by encouraging experimentation, supporting cross-functional collaboration, and prioritizing talent development. It also emphasizes agility and rapid decision-making to adapt strategies, demonstrating strong flexibility. The change management dimension is well covered through leading by example and embedding adaptability into culture. Scores above average reflect a comprehensive, insightful approach indicative of highly effective leadership.\"}",
+  "scores": {
+    "Encouragement of innovation": 130,
+    "Flexibility in strategy": 125,
+    "Change management skills": 120
+  },
+  "total": 125.0,
+  "comments": "The answer thoroughly addresses how a CEO fosters innovation by encouraging experimentation, supporting cross-functional collaboration, and prioritizing talent development. It also emphasizes agility and rapid decision-making to adapt strategies, demonstrating strong flexibility. The change management dimension is well covered through leading by example and embedding adaptability into culture. Scores above average reflect a comprehensive, insightful approach indicative of highly effective leadership."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0046-Operational_Excellence-Process_improvement-Strategies_for_Sustaining_Continuous_Improvement",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"strategy_development\":120,\"change_management\":115,\"measurement_and_feedback\":118,\"overall_score\":117.7,\"comments\":\"The answer provides a comprehensive and actionable strategy that aligns with organizational goals and promotes employee engagement, reflecting strong strategy development. It demonstrates an understanding of change management principles through leadership commitment, communication, and empowerment, effectively addressing resistance and sustaining momentum. The emphasis on metrics, regular feedback, and continuous refinement shows a solid grasp of measurement and feedback mechanisms. Overall, the response reflects a high level of leadership acumen in embedding continuous process improvement within organizational culture.\"}",
+  "scores": {
+    "Strategy Development": 120,
+    "Change Management": 115,
+    "Measurement and Feedback": 118
+  },
+  "total": 117.7,
+  "comments": "The answer provides a comprehensive and actionable strategy that aligns with organizational goals and promotes employee engagement, reflecting strong strategy development. It demonstrates an understanding of change management principles through leadership commitment, communication, and empowerment, effectively addressing resistance and sustaining momentum. The emphasis on metrics, regular feedback, and continuous refinement shows a solid grasp of measurement and feedback mechanisms. Overall, the response reflects a high level of leadership acumen in embedding continuous process improvement within organizational culture."
+}

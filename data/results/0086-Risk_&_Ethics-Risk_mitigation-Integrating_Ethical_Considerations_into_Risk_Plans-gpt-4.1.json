@@ -1,0 +1,14 @@
+{
+  "question_id": "0086-Risk_&_Ethics-Risk_mitigation-Integrating_Ethical_Considerations_into_Risk_Plans",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"ethical_awareness\":130,\"integration\":125,\"influence\":120,\"overall_score\":125,\"comments\":\"The CEO clearly demonstrates a strong commitment to ethical principles, actively involving diverse teams and applying ethical frameworks such as privacy impact assessments, showing high ethical awareness. Ethical considerations are well integrated into both the development and execution phases, emphasizing transparency and accountability, indicating seamless integration. The CEO also fosters a culture of integrity through ethics training and open communication channels, reflecting strong influence. Overall, the approach is proactive and balanced, promoting stakeholder trust and organizational sustainability, resulting in a high Leadership Quotient score.\"}",
+  "scores": {
+    "Ethical Awareness": 130,
+    "Integration": 125,
+    "Influence": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO clearly demonstrates a strong commitment to ethical principles, actively involving diverse teams and applying ethical frameworks such as privacy impact assessments, showing high ethical awareness. Ethical considerations are well integrated into both the development and execution phases, emphasizing transparency and accountability, indicating seamless integration. The CEO also fosters a culture of integrity through ethics training and open communication channels, reflecting strong influence. Overall, the approach is proactive and balanced, promoting stakeholder trust and organizational sustainability, resulting in a high Leadership Quotient score."
+}

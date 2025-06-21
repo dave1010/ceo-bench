@@ -1,0 +1,14 @@
+{
+  "question_id": "0083-Risk_&_Ethics-Ethical_decision-making-Balancing_Stakeholder_Interests_in_Ethical_Choices",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"stakeholder_consideration\":135,\"ethical_principles_application\":140,\"transparency_and_communication\":130,\"overall_score\":135,\"comments\":\"The answer demonstrates a highly comprehensive and nuanced understanding of stakeholder priorities, clearly emphasizing equitable solutions and long-term value creation, which justifies a score above average. It applies ethical principles systematically through multiple frameworks, such as stakeholder impact assessments and ethics committees, reflecting a consistent and principled approach to decision-making. Transparency is robustly addressed with emphasis on open communication, rationale sharing, and accountability mechanisms, fostering trust effectively. Overall, the CEO's approach outlined here reflects exceptional leadership qualities well beyond average expectations, meriting a strong Leadership Quotient.\"}",
+  "scores": {
+    "Stakeholder Consideration": 135,
+    "Ethical Principles Application": 140,
+    "Transparency and Communication": 130
+  },
+  "total": 135.0,
+  "comments": "The answer demonstrates a highly comprehensive and nuanced understanding of stakeholder priorities, clearly emphasizing equitable solutions and long-term value creation, which justifies a score above average. It applies ethical principles systematically through multiple frameworks, such as stakeholder impact assessments and ethics committees, reflecting a consistent and principled approach to decision-making. Transparency is robustly addressed with emphasis on open communication, rationale sharing, and accountability mechanisms, fostering trust effectively. Overall, the CEO's approach outlined here reflects exceptional leadership qualities well beyond average expectations, meriting a strong Leadership Quotient."
+}

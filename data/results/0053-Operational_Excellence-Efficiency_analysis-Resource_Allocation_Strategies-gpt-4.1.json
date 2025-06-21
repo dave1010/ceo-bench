@@ -1,0 +1,14 @@
+{
+  "question_id": "0053-Operational_Excellence-Efficiency_analysis-Resource_Allocation_Strategies",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Efficiency analysis",
+  "raw": "{\"strategic_planning\":120,\"flexibility\":115,\"performance_monitoring\":120,\"overall_score\":118,\"comments\":\"The response demonstrates excellent strategic planning through data-backed decisions and clear alignment with business goals. It emphasizes flexibility via cross-functional collaboration and agile reallocation based on continuous feedback. Performance monitoring is robust, with regular reviews and integration of quality and efficiency metrics. Overall, the answer reflects a high level of leadership capability in managing resources efficiently without compromising quality.\"}",
+  "scores": {
+    "Strategic Planning": 120,
+    "Flexibility": 115,
+    "Performance Monitoring": 120
+  },
+  "total": 118.0,
+  "comments": "The response demonstrates excellent strategic planning through data-backed decisions and clear alignment with business goals. It emphasizes flexibility via cross-functional collaboration and agile reallocation based on continuous feedback. Performance monitoring is robust, with regular reviews and integration of quality and efficiency metrics. Overall, the answer reflects a high level of leadership capability in managing resources efficiently without compromising quality."
+}

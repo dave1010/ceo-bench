@@ -1,0 +1,14 @@
+{
+  "question_id": "0073-Financial_Acumen-Revenue_Growth-Driving_Sustainable_Revenue_Expansion",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Revenue Growth",
+  "raw": "{\"market_insight\":120,\"innovation_and_diversification\":125,\"risk-balanced_approach\":115,\"overall_score\":120,\"comments\":\"The CEO answer reflects a strong grasp of identifying revenue opportunities through market and customer insight, supported by data-driven decision making. Innovation is well emphasized through fostering experimentation, partnerships, and pilot projects, illustrating a culture promoting diversification. Risk-balanced approach is addressed with considerations of resource demands, sustainability filters, and monitoring mechanisms, showing prudent evaluation and adaptability. Scores exceed average CEO benchmarks, indicating a notably effective leadership perspective on growth with sustainability.\"}",
+  "scores": {
+    "Market Insight": 120,
+    "Innovation and Diversification": 125,
+    "Risk-Balanced Approach": 115
+  },
+  "total": 120.0,
+  "comments": "The CEO answer reflects a strong grasp of identifying revenue opportunities through market and customer insight, supported by data-driven decision making. Innovation is well emphasized through fostering experimentation, partnerships, and pilot projects, illustrating a culture promoting diversification. Risk-balanced approach is addressed with considerations of resource demands, sustainability filters, and monitoring mechanisms, showing prudent evaluation and adaptability. Scores exceed average CEO benchmarks, indicating a notably effective leadership perspective on growth with sustainability."
+}

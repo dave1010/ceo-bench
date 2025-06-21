@@ -1,0 +1,14 @@
+{
+  "question_id": "0074-Financial_Acumen-Investment_Decisions-Evaluating_Strategic_Investment_Opportunities",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment Decisions",
+  "raw": "{\"due_diligence_and_analysis\":130,\"portfolio_perspective\":125,\"post-investment_review\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a comprehensive and nuanced approach across all rubric dimensions. The CEO prioritizes investments through meticulous due diligence, incorporating both financial metrics and broader strategic and ESG considerations, meriting a high score in Due Diligence and Analysis. The perspective treats investments as a balanced portfolio, blending risk profiles thoughtfully, which justifies a strong Portfolio Perspective score. The emphasis on ongoing monitoring and agility reflects mature Post-Investment Review practices. Overall, the response reflects exceptional leadership insight consistent with a top-tier CEO.\"}",
+  "scores": {
+    "Due Diligence and Analysis": 130,
+    "Portfolio Perspective": 125,
+    "Post-Investment Review": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a comprehensive and nuanced approach across all rubric dimensions. The CEO prioritizes investments through meticulous due diligence, incorporating both financial metrics and broader strategic and ESG considerations, meriting a high score in Due Diligence and Analysis. The perspective treats investments as a balanced portfolio, blending risk profiles thoughtfully, which justifies a strong Portfolio Perspective score. The emphasis on ongoing monitoring and agility reflects mature Post-Investment Review practices. Overall, the response reflects exceptional leadership insight consistent with a top-tier CEO."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0028-Operational_Excellence-Resource_optimization-Cross-Functional_Collaboration_Efficiency",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"collaboration_leadership\":130,\"resource_alignment\":125,\"innovation_in_resource_use\":115,\"overall_score\":123.3,\"comments\":\"The CEO exhibits strong leadership in fostering collaboration through clear communication, cross-functional teams, and cultural emphasis, scoring well above average in Collaboration Leadership (130). Resource allocation is strategically aligned with centralized planning and continuous review processes, earning a high score of 125. While innovative methods are encouraged, such as the use of centralized tools and continual improvement sessions, this dimension scores slightly lower at 115 due to less emphasis on breakthrough innovation. Overall, the CEO is highly effective in optimizing resource use and preventing duplication, demonstrating a leadership level above that of an average capable CEO.\"}",
+  "scores": {
+    "Collaboration Leadership": 130,
+    "Resource Alignment": 125,
+    "Innovation in Resource Use": 115
+  },
+  "total": 123.3,
+  "comments": "The CEO exhibits strong leadership in fostering collaboration through clear communication, cross-functional teams, and cultural emphasis, scoring well above average in Collaboration Leadership (130). Resource allocation is strategically aligned with centralized planning and continuous review processes, earning a high score of 125. While innovative methods are encouraged, such as the use of centralized tools and continual improvement sessions, this dimension scores slightly lower at 115 due to less emphasis on breakthrough innovation. Overall, the CEO is highly effective in optimizing resource use and preventing duplication, demonstrating a leadership level above that of an average capable CEO."
+}

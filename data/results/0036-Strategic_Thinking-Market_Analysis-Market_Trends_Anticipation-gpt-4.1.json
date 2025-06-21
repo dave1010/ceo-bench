@@ -1,0 +1,14 @@
+{
+  "question_id": "0036-Strategic_Thinking-Market_Analysis-Market_Trends_Anticipation",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market Analysis",
+  "raw": "{\"awareness_of_market_dynamics\":120,\"integration_of_insights\":125,\"proactiveness\":115,\"overall_score\":120,\"comments\":\"The answer demonstrates strong, multi-channel awareness of market dynamics, including external reports, customer engagement, and networking. Market insights are clearly and systematically integrated into various strategic planning stages such as scenario planning, innovation roadmaps, and agile decision-making. The CEO shows proactiveness by anticipating inflection points and enabling timely pivots, indicating a forward-thinking leadership style. Overall, this reflects a high-level CEO competency slightly above average, supporting resilient and growth-driven organizational performance.\"}",
+  "scores": {
+    "Awareness of Market Dynamics": 120,
+    "Integration of Insights": 125,
+    "Proactiveness": 115
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates strong, multi-channel awareness of market dynamics, including external reports, customer engagement, and networking. Market insights are clearly and systematically integrated into various strategic planning stages such as scenario planning, innovation roadmaps, and agile decision-making. The CEO shows proactiveness by anticipating inflection points and enabling timely pivots, indicating a forward-thinking leadership style. Overall, this reflects a high-level CEO competency slightly above average, supporting resilient and growth-driven organizational performance."
+}

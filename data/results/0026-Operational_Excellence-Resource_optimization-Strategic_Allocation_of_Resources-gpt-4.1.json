@@ -1,0 +1,14 @@
+{
+  "question_id": "0026-Operational_Excellence-Resource_optimization-Strategic_Allocation_of_Resources",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"alignment_with_strategic_goals\":120,\"efficiency_of_use\":115,\"flexibility_and_adaptability\":120,\"overall_score\":118.3,\"comments\":\"The answer effectively covers all rubric dimensions. It highlights clear alignment of resources with strategic priorities through communication and transparent processes. Efficiency is addressed through data-driven allocation and performance tracking. Flexibility and adaptability are well demonstrated by proactive strategy reviews and swift resource reallocation in response to changes. Scores reflect strong, above-average performance indicating excellent leadership in managing resources.\"}",
+  "scores": {
+    "Alignment with Strategic Goals": 120,
+    "Efficiency of Use": 115,
+    "Flexibility and Adaptability": 120
+  },
+  "total": 118.3,
+  "comments": "The answer effectively covers all rubric dimensions. It highlights clear alignment of resources with strategic priorities through communication and transparent processes. Efficiency is addressed through data-driven allocation and performance tracking. Flexibility and adaptability are well demonstrated by proactive strategy reviews and swift resource reallocation in response to changes. Scores reflect strong, above-average performance indicating excellent leadership in managing resources."
+}

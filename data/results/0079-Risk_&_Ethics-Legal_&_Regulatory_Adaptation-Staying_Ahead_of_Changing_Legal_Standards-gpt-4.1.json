@@ -1,0 +1,14 @@
+{
+  "question_id": "0079-Risk_&_Ethics-Legal_&_Regulatory_Adaptation-Staying_Ahead_of_Changing_Legal_Standards",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Legal & Regulatory Adaptation",
+  "raw": "{\"monitoring_systems\":120,\"strategic_planning\":125,\"external_partnerships\":115,\"overall_score\":120,\"comments\":\"The CEO demonstrates a strong approach to embedding compliance and agility throughout the organization, including robust governance structures, proactive scenario planning, and continuous monitoring through legal intelligence and audits. Integration of compliance into strategic planning is evident from scenario planning and adaptive policies. External partnerships and active engagement with regulators and industry groups are also well-covered. The response reflects a highly capable CEO-level strategy, earning above-average but realistic scores indicating exceptional but practical leadership.\"}",
+  "scores": {
+    "Monitoring systems": 120,
+    "Strategic planning": 125,
+    "External partnerships": 115
+  },
+  "total": 120.0,
+  "comments": "The CEO demonstrates a strong approach to embedding compliance and agility throughout the organization, including robust governance structures, proactive scenario planning, and continuous monitoring through legal intelligence and audits. Integration of compliance into strategic planning is evident from scenario planning and adaptive policies. External partnerships and active engagement with regulators and industry groups are also well-covered. The response reflects a highly capable CEO-level strategy, earning above-average but realistic scores indicating exceptional but practical leadership."
+}

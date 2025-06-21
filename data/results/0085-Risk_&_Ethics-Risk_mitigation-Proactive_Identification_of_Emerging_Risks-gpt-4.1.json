@@ -1,0 +1,14 @@
+{
+  "question_id": "0085-Risk_&_Ethics-Risk_mitigation-Proactive_Identification_of_Emerging_Risks",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"proactivity_in_risk_detection\":135,\"integration_with_organizational_processes\":130,\"responsiveness_and_follow-through\":130,\"overall_score\":132,\"comments\":\"The answer demonstrates an exceptional and comprehensive approach to proactive risk detection through establishing a risk-aware culture and advanced analytics, scoring high in proactivity. It integrates risk detection seamlessly into organizational processes like ERM frameworks, scenario planning, and governance, reflecting excellent integration. The emphasis on agile governance, rapid response teams, and continuous learning shows strong responsiveness and follow-through. Overall, this reflects a highly capable CEO with near-genius leadership in risk management.\"}",
+  "scores": {
+    "Proactivity in Risk Detection": 135,
+    "Integration with Organizational Processes": 130,
+    "Responsiveness and Follow-through": 130
+  },
+  "total": 132.0,
+  "comments": "The answer demonstrates an exceptional and comprehensive approach to proactive risk detection through establishing a risk-aware culture and advanced analytics, scoring high in proactivity. It integrates risk detection seamlessly into organizational processes like ERM frameworks, scenario planning, and governance, reflecting excellent integration. The emphasis on agile governance, rapid response teams, and continuous learning shows strong responsiveness and follow-through. Overall, this reflects a highly capable CEO with near-genius leadership in risk management."
+}

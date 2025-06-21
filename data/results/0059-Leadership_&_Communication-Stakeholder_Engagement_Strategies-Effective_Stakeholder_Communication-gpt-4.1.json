@@ -1,0 +1,14 @@
+{
+  "question_id": "0059-Leadership_&_Communication-Stakeholder_Engagement_Strategies-Effective_Stakeholder_Communication",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder Engagement Strategies",
+  "raw": "{\"communication_clarity\":120,\"engagement_frequency\":115,\"responsiveness\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a strong understanding of clear and consistent communication with diverse stakeholders. It addresses tailoring messages for clarity, establishing multiple communication channels, and emphasizes proactive engagement through regular meetings and updates. Responsiveness is well-covered through active listening and timely feedback mechanisms. The approach is comprehensive and reflects a high level of leadership capability, justifying scores above average but below genius level.\"}",
+  "scores": {
+    "Communication Clarity": 120,
+    "Engagement Frequency": 115,
+    "Responsiveness": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a strong understanding of clear and consistent communication with diverse stakeholders. It addresses tailoring messages for clarity, establishing multiple communication channels, and emphasizes proactive engagement through regular meetings and updates. Responsiveness is well-covered through active listening and timely feedback mechanisms. The approach is comprehensive and reflects a high level of leadership capability, justifying scores above average but below genius level."
+}

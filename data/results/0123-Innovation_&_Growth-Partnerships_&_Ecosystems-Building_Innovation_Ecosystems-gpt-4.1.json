@@ -1,0 +1,14 @@
+{
+  "question_id": "0123-Innovation_&_Growth-Partnerships_&_Ecosystems-Building_Innovation_Ecosystems",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "Partnerships & Ecosystems",
+  "raw": "{\"external_collaboration\":125,\"ecosystem_engagement\":120,\"value_creation\":115,\"overall_score\":120,\"comments\":\"The answer comprehensively addresses how a CEO can leverage external partnerships and ecosystems for innovation. It highlights strategic alliances, open innovation, venture investments, supplier/customer collaborations, and cultural elements, demonstrating strong external collaboration and ecosystem engagement. While the mechanisms for value creation are implied through collaboration and innovation acceleration, explicit examples of outcomes could enhance the value creation score. Overall, the response reflects a high level of leadership in fostering innovation through external engagement.\"}",
+  "scores": {
+    "External Collaboration": 125,
+    "Ecosystem Engagement": 120,
+    "Value Creation": 115
+  },
+  "total": 120.0,
+  "comments": "The answer comprehensively addresses how a CEO can leverage external partnerships and ecosystems for innovation. It highlights strategic alliances, open innovation, venture investments, supplier/customer collaborations, and cultural elements, demonstrating strong external collaboration and ecosystem engagement. While the mechanisms for value creation are implied through collaboration and innovation acceleration, explicit examples of outcomes could enhance the value creation score. Overall, the response reflects a high level of leadership in fostering innovation through external engagement."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0055-Leadership_&_Communication-Change_Management-Leading_Organizational_Change",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Change Management",
+  "raw": "{\"communication_strategy\":130,\"employee_engagement\":125,\"adaptability\":120,\"overall_score\":125,\"comments\":\"The answer thoroughly addresses all rubric dimensions with strong emphasis on clear vision, transparent communication, active employee involvement, empathy, and strategic adaptability. The detailed and structured response reflects advanced understanding and approach to leading organizational change, meriting high but not exceptional scores.\"}",
+  "scores": {
+    "Communication Strategy": 130,
+    "Employee Engagement": 125,
+    "Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The answer thoroughly addresses all rubric dimensions with strong emphasis on clear vision, transparent communication, active employee involvement, empathy, and strategic adaptability. The detailed and structured response reflects advanced understanding and approach to leading organizational change, meriting high but not exceptional scores."
+}

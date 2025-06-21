@@ -1,0 +1,14 @@
+{
+  "question_id": "0004-Strategic_Thinking-Market_entry_strategies-Evaluating_Market_Selection_Criteria",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"market_analysis\":125,\"strategic_alignment\":130,\"risk_assessment\":110,\"overall_score\":122.0,\"comments\":\"The answer thoroughly covers key market factors including size, growth potential, competition, and regulatory conditions, demonstrating strong market analysis. It clearly connects market entry criteria with the company's core competencies, product offering, and strategic goals, reflecting excellent strategic alignment. The response addresses various risks such as regulatory, political, cultural, and operational risks, though specific mitigation strategies could be more detailed. Overall, the answer shows a high level of insight appropriate for an experienced CEO.\"}",
+  "scores": {
+    "Market Analysis": 125,
+    "Strategic Alignment": 130,
+    "Risk Assessment": 110
+  },
+  "total": 122.0,
+  "comments": "The answer thoroughly covers key market factors including size, growth potential, competition, and regulatory conditions, demonstrating strong market analysis. It clearly connects market entry criteria with the company's core competencies, product offering, and strategic goals, reflecting excellent strategic alignment. The response addresses various risks such as regulatory, political, cultural, and operational risks, though specific mitigation strategies could be more detailed. Overall, the answer shows a high level of insight appropriate for an experienced CEO."
+}

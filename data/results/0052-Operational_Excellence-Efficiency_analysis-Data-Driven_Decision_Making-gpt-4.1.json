@@ -1,0 +1,14 @@
+{
+  "question_id": "0052-Operational_Excellence-Efficiency_analysis-Data-Driven_Decision_Making",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Efficiency analysis",
+  "raw": "{\"data_utilization\":130,\"analytical_skills\":130,\"impact_on_performance\":135,\"overall_score\":132,\"comments\":\"The CEO exhibits exceptional skill in utilizing operational data comprehensively, instituting robust data-driven processes and fostering a data-supportive culture. Their analytical approach is strong, turning data insights into clear, actionable strategies, which have yielded tangible improvements like reduced cycle times and enhanced customer satisfaction. This reflects a high-impact leadership performance well above average, contributing markedly to organizational success.\"}",
+  "scores": {
+    "Data Utilization": 130,
+    "Analytical Skills": 130,
+    "Impact on Performance": 135
+  },
+  "total": 132.0,
+  "comments": "The CEO exhibits exceptional skill in utilizing operational data comprehensively, instituting robust data-driven processes and fostering a data-supportive culture. Their analytical approach is strong, turning data insights into clear, actionable strategies, which have yielded tangible improvements like reduced cycle times and enhanced customer satisfaction. This reflects a high-impact leadership performance well above average, contributing markedly to organizational success."
+}

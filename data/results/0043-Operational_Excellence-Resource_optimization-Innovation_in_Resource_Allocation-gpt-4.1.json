@@ -1,0 +1,14 @@
+{
+  "question_id": "0043-Operational_Excellence-Resource_optimization-Innovation_in_Resource_Allocation",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"strategic_planning\":130,\"efficiency_gains\":135,\"change_management\":125,\"overall_score\":130,\"comments\":\"The CEO exhibits exceptional strategic planning by implementing data-driven tools and agile methodologies tailored for dynamic resource allocation. The response clearly indicates measurable efficiency gains through automation and KPI integration. Change management is well addressed by fostering collaboration, accountability, and continuous improvement, effectively embedding new practices organization-wide. Overall, this reflects a high-level leadership performance with innovative and effective approaches.\"}",
+  "scores": {
+    "Strategic Planning": 130,
+    "Efficiency Gains": 135,
+    "Change Management": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO exhibits exceptional strategic planning by implementing data-driven tools and agile methodologies tailored for dynamic resource allocation. The response clearly indicates measurable efficiency gains through automation and KPI integration. Change management is well addressed by fostering collaboration, accountability, and continuous improvement, effectively embedding new practices organization-wide. Overall, this reflects a high-level leadership performance with innovative and effective approaches."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0050-Operational_Excellence-Performance_metrics-Training_and_Cultural_Integration",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"cultural_leadership\":125,\"training_and_development\":110,\"recognition_and_incentives\":120,\"overall_score\":118.3,\"comments\":\"The answer thoroughly explains the CEO's role in setting cultural expectations and modeling continuous improvement, reflecting strong cultural leadership (125). It references training indirectly through resource allocation for systems and processes, suggesting moderate emphasis on training and development (110). The answer clearly addresses recognition and incentives through visible acknowledgement of data-driven improvements, scoring high in this area (120). Overall, the response demonstrates a sophisticated understanding of fostering a culture valuing accurate measurement and continuous improvement.\"}",
+  "scores": {
+    "Cultural Leadership": 125,
+    "Training and Development": 110,
+    "Recognition and Incentives": 120
+  },
+  "total": 118.3,
+  "comments": "The answer thoroughly explains the CEO's role in setting cultural expectations and modeling continuous improvement, reflecting strong cultural leadership (125). It references training indirectly through resource allocation for systems and processes, suggesting moderate emphasis on training and development (110). The answer clearly addresses recognition and incentives through visible acknowledgement of data-driven improvements, scoring high in this area (120). Overall, the response demonstrates a sophisticated understanding of fostering a culture valuing accurate measurement and continuous improvement."
+}

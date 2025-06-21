@@ -1,0 +1,14 @@
+{
+  "question_id": "0002-Leadership_Communication-Crisis_communication-Layoff_Announcement",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"empathy\":130,\"transparency\":120,\"tone\":125,\"overall_score\":125,\"comments\":\"The statement demonstrates strong empathy by acknowledging the difficulty of the decision and emphasizing support for affected employees. It is transparent in explaining the business rationale and next steps while maintaining a respectful and motivational tone that fosters trust and unity among the remaining workforce. Overall, the message effectively balances honesty with compassion, resulting in a high leadership quotient.\"}",
+  "scores": {
+    "Empathy": 130,
+    "Transparency": 120,
+    "Tone": 125
+  },
+  "total": 125.0,
+  "comments": "The statement demonstrates strong empathy by acknowledging the difficulty of the decision and emphasizing support for affected employees. It is transparent in explaining the business rationale and next steps while maintaining a respectful and motivational tone that fosters trust and unity among the remaining workforce. Overall, the message effectively balances honesty with compassion, resulting in a high leadership quotient."
+}

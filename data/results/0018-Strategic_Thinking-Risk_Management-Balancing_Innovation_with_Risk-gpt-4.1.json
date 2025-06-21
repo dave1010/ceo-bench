@@ -1,0 +1,14 @@
+{
+  "question_id": "0018-Strategic_Thinking-Risk_Management-Balancing_Innovation_with_Risk",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment\":120,\"decision-making_balance\":115,\"risk_mitigation_strategies\":120,\"overall_score\":118.3,\"comments\":\"The answer demonstrates a comprehensive and structured approach to risk management, highlighting thorough risk identification and assessment. It emphasizes balanced decision-making by integrating risk considerations into strategy, and outlines effective risk mitigation strategies with clear allocation of responsibility and resources. The continuous monitoring and stakeholder communication further enhance sustainable growth prospects. Overall, this response reflects strong leadership capabilities with sophistication in risk evaluation and management.\"}",
+  "scores": {
+    "Risk Assessment": 120,
+    "Decision-Making Balance": 115,
+    "Risk Mitigation Strategies": 120
+  },
+  "total": 118.3,
+  "comments": "The answer demonstrates a comprehensive and structured approach to risk management, highlighting thorough risk identification and assessment. It emphasizes balanced decision-making by integrating risk considerations into strategy, and outlines effective risk mitigation strategies with clear allocation of responsibility and resources. The continuous monitoring and stakeholder communication further enhance sustainable growth prospects. Overall, this response reflects strong leadership capabilities with sophistication in risk evaluation and management."
+}

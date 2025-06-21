@@ -1,0 +1,14 @@
+{
+  "question_id": "0058-Leadership_&_Communication-Stakeholder_management-Managing_Stakeholder_Expectations",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder management",
+  "raw": "{\"communication_approach\":130,\"expectation_alignment\":135,\"responsiveness\":130,\"overall_score\":132,\"comments\":\"The answer demonstrates a sophisticated and structured approach to stakeholder communication, emphasizing clarity, consistency, and tailoring messages to diverse stakeholder groups at every project phase, justifying a high score in Communication Approach. It thoroughly addresses expectation alignment through ongoing transparent dialogue, adaptive management, and conflict resolution strategies, meriting an excellent Expectation Alignment score. The CEO's responsiveness is highlighted by proactive engagement, two-way feedback channels, and escalation mechanisms to promptly address concerns, supporting a top-tier Responsiveness score. Overall, the comprehensive, strategic, and actionable methods proposed reflect a genius-level leadership understanding of aligning stakeholder expectations with corporate objectives.\"}",
+  "scores": {
+    "Communication Approach": 130,
+    "Expectation Alignment": 135,
+    "Responsiveness": 130
+  },
+  "total": 132.0,
+  "comments": "The answer demonstrates a sophisticated and structured approach to stakeholder communication, emphasizing clarity, consistency, and tailoring messages to diverse stakeholder groups at every project phase, justifying a high score in Communication Approach. It thoroughly addresses expectation alignment through ongoing transparent dialogue, adaptive management, and conflict resolution strategies, meriting an excellent Expectation Alignment score. The CEO's responsiveness is highlighted by proactive engagement, two-way feedback channels, and escalation mechanisms to promptly address concerns, supporting a top-tier Responsiveness score. Overall, the comprehensive, strategic, and actionable methods proposed reflect a genius-level leadership understanding of aligning stakeholder expectations with corporate objectives."
+}

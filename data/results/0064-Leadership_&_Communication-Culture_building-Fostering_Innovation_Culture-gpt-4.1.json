@@ -1,0 +1,14 @@
+{
+  "question_id": "0064-Leadership_&_Communication-Culture_building-Fostering_Innovation_Culture",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"leadership_commitment\":130,\"employee_engagement\":125,\"cultural_norms\":135,\"overall_score\":130,\"comments\":\"The answer demonstrates a high level of leadership commitment with clear vision-setting, resource allocation, and role-modeling innovation. Employee engagement is emphasized through cross-functional collaboration, diverse teams, and inclusive innovation opportunities. Cultural norms supporting experimentation, psychological safety, and risk-taking are strongly advocated. Overall, the CEO approach described is exceptionally comprehensive and indicative of a genius-level leadership quotient for embedding innovation.\"}",
+  "scores": {
+    "Leadership commitment": 130,
+    "Employee engagement": 125,
+    "Cultural norms": 135
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a high level of leadership commitment with clear vision-setting, resource allocation, and role-modeling innovation. Employee engagement is emphasized through cross-functional collaboration, diverse teams, and inclusive innovation opportunities. Cultural norms supporting experimentation, psychological safety, and risk-taking are strongly advocated. Overall, the CEO approach described is exceptionally comprehensive and indicative of a genius-level leadership quotient for embedding innovation."
+}

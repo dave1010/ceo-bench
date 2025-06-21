@@ -1,0 +1,14 @@
+{
+  "question_id": "0024-Strategic_Thinking-Stakeholder_Alignment-Aligning_Stakeholder_Expectations",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder Alignment",
+  "raw": "{\"communication_clarity\":125,\"negotiation_skill\":130,\"relationship_building\":128,\"overall_score\":127.67,\"comments\":\"The answer clearly articulates the CEO's ability to communicate strategic intent effectively across diverse stakeholder groups, reflecting strong Communication Clarity. The balancing of short-term and long-term interests along with integrating varying perspectives indicates high Negotiation Skill. The emphasis on collaboration, trust, and fostering mutual understanding demonstrates excellent Relationship Building. Overall, the CEO is portrayed as highly proficient in aligning stakeholder interests with strategic goals, warranting strong scores in all dimensions.\"}",
+  "scores": {
+    "Communication Clarity": 125,
+    "Negotiation Skill": 130,
+    "Relationship Building": 128
+  },
+  "total": 127.67,
+  "comments": "The answer clearly articulates the CEO's ability to communicate strategic intent effectively across diverse stakeholder groups, reflecting strong Communication Clarity. The balancing of short-term and long-term interests along with integrating varying perspectives indicates high Negotiation Skill. The emphasis on collaboration, trust, and fostering mutual understanding demonstrates excellent Relationship Building. Overall, the CEO is portrayed as highly proficient in aligning stakeholder interests with strategic goals, warranting strong scores in all dimensions."
+}

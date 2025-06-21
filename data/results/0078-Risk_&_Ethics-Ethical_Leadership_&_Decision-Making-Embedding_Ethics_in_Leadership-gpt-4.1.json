@@ -1,0 +1,14 @@
+{
+  "question_id": "0078-Risk_&_Ethics-Ethical_Leadership_&_Decision-Making-Embedding_Ethics_in_Leadership",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical Leadership & Decision-Making",
+  "raw": "{\"decision_frameworks\":130,\"transparency_and_accountability\":135,\"cultural_promotion\":140,\"overall_score\":135,\"comments\":\"The answer clearly illustrates the CEO's use of established ethical frameworks, consulting diverse stakeholders, and structured decision-making tools, demonstrating exceptional ethical leadership. Transparency and accountability are emphasized through clear communication, documentation, and engagement with governance bodies. The promotion of an ethical culture is strongly conveyed by modeling leadership and embedding ethics into the company's mission, values, and practices. The response reflects a high level of sophistication and insight consistent with an outstanding CEO's approach.\"}",
+  "scores": {
+    "Decision Frameworks": 130,
+    "Transparency and Accountability": 135,
+    "Cultural Promotion": 140
+  },
+  "total": 135.0,
+  "comments": "The answer clearly illustrates the CEO's use of established ethical frameworks, consulting diverse stakeholders, and structured decision-making tools, demonstrating exceptional ethical leadership. Transparency and accountability are emphasized through clear communication, documentation, and engagement with governance bodies. The promotion of an ethical culture is strongly conveyed by modeling leadership and embedding ethics into the company's mission, values, and practices. The response reflects a high level of sophistication and insight consistent with an outstanding CEO's approach."
+}

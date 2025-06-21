@@ -1,0 +1,14 @@
+{
+  "question_id": "0081-Risk_&_Ethics-Ethical_leadership_in_crisis_situations-Navigating_Ethical_Dilemmas_During_Crisis",
+  "model": "gpt-4.1",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical leadership in crisis situations",
+  "raw": "{\"crisis_response_integrity\":130,\"stakeholder_consideration\":125,\"personal_accountability\":130,\"overall_score\":128.3,\"comments\":\"The answer comprehensively covers key facets of ethical leadership during a crisis. It emphasizes transparency, integrity, fairness, and long-term adherence to ethical standards, which align well with crisis response integrity. Stakeholder consideration is thoroughly addressed, highlighting consideration of employees, customers, suppliers, and the broader community with clear communication to maintain trust. Personal accountability is well covered through responsibility-taking, openness to feedback, and willingness to course-correct. The depth and clarity of the response justify scores well above average, approaching exceptional leadership qualities.\"}",
+  "scores": {
+    "Crisis response integrity": 130,
+    "Stakeholder consideration": 125,
+    "Personal accountability": 130
+  },
+  "total": 128.3,
+  "comments": "The answer comprehensively covers key facets of ethical leadership during a crisis. It emphasizes transparency, integrity, fairness, and long-term adherence to ethical standards, which align well with crisis response integrity. Stakeholder consideration is thoroughly addressed, highlighting consideration of employees, customers, suppliers, and the broader community with clear communication to maintain trust. Personal accountability is well covered through responsibility-taking, openness to feedback, and willingness to course-correct. The depth and clarity of the response justify scores well above average, approaching exceptional leadership qualities."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0068-Financial_Acumen-Financial_Risk_Assessment-Managing_Financial_Risks",
+  "model": "gpt-4.1",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Risk Assessment",
+  "raw": "{\"risk_identification\":120,\"mitigation_strategies\":115,\"monitoring_&_adaptation\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates strong capability in identifying a broad range of financial risks relevant to an organization. It outlines comprehensive and appropriate mitigation strategies, including internal controls, cross-functional collaboration, and contingency planning. The response also addresses ongoing monitoring and communication with stakeholders, reflecting adaptability to evolving risks. Overall, this reflects a highly capable CEO with strong leadership in financial risk management.\"}",
+  "scores": {
+    "Risk Identification": 120,
+    "Mitigation Strategies": 115,
+    "Monitoring & Adaptation": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates strong capability in identifying a broad range of financial risks relevant to an organization. It outlines comprehensive and appropriate mitigation strategies, including internal controls, cross-functional collaboration, and contingency planning. The response also addresses ongoing monitoring and communication with stakeholders, reflecting adaptability to evolving risks. Overall, this reflects a highly capable CEO with strong leadership in financial risk management."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0110-Leadership_&_Communication-Team_motivation-Inspiring_Commitment_During_Challenges",
+  "model": "gpt-4.1",
+  "topic": "Leadership & Communication",
+  "subtopic": "Team motivation",
+  "raw": "{\"empathy_and_support\":130,\"communication_clarity\":135,\"action_and_accountability\":130,\"overall_score\":132.0,\"comments\":\"The answer thoroughly addresses all rubric dimensions with a strong emphasis on empathy and support, as evidenced by active listening and provision of resources. Communication is clear and transparent, effectively framing challenges as opportunities and anchoring the team to mission and values. Concrete actions are outlined to empower and involve the team, fostering accountability. Overall, this response reflects exceptional leadership capability in motivating teams through setbacks, meriting a high Leadership Quotient score.\"}",
+  "scores": {
+    "Empathy and Support": 130,
+    "Communication Clarity": 135,
+    "Action and Accountability": 130
+  },
+  "total": 132.0,
+  "comments": "The answer thoroughly addresses all rubric dimensions with a strong emphasis on empathy and support, as evidenced by active listening and provision of resources. Communication is clear and transparent, effectively framing challenges as opportunities and anchoring the team to mission and values. Concrete actions are outlined to empower and involve the team, fostering accountability. Overall, this response reflects exceptional leadership capability in motivating teams through setbacks, meriting a high Leadership Quotient score."
+}

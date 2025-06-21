@@ -1,0 +1,17 @@
+A CEO fosters a culture where all employees actively identify and communicate potential risks by implementing the following strategies:
+
+1. **Lead by Example**: The CEO openly discusses risks and lessons learned, demonstrating that risk identification is valued and not punished.
+
+2. **Clear Communication Channels**: Establishes accessible, non-hierarchical channels—such as anonymous hotlines, regular town halls, and open-door policies—so employees at all levels feel comfortable reporting concerns.
+
+3. **Empowerment and Training**: Provides regular training on risk awareness and management, ensuring employees understand the types of risks relevant to the organization and how to spot them.
+
+4. **Psychological Safety**: Creates an environment where employees are encouraged to speak up without fear of blame or retribution, emphasizing that flagging risks is a shared responsibility, not a personal failure.
+
+5. **Incentivization and Recognition**: Recognizes and rewards proactive risk identification, celebrating examples where early communication prevented issues.
+
+6. **Integration into Processes**: Embeds risk assessments into routine workflows—project planning, reviews, or daily standups—making risk identification part of everyday work, not an afterthought.
+
+7. **Follow-through and Feedback**: Acts decisively on reported risks and provides feedback to employees about how their input contributed to solutions, reinforcing the value of their vigilance.
+
+By modeling these behaviors and embedding these practices within the organization, the CEO cultivates a proactive risk culture where employees are engaged partners in risk management and organizational resilience.

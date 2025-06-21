@@ -1,0 +1,14 @@
+{
+  "question_id": "0125-Innovation_&_Growth-M&A_evaluation-Risk_Identification_in_M&A_Targets",
+  "model": "gpt-4.1",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"risk_analysis\":135,\"mitigation_planning\":130,\"decision_quality\":125,\"overall_score\":130.0,\"comments\":\"The answer provides a comprehensive and systematic framework covering all relevant risk categories including financial, operational, legal, strategic, cultural, reputational, and technological risks, scoring very high in Risk Analysis. The Mitigation Planning section is strong, emphasizing prioritization and development of mitigation strategies, with integration into deal structuring and stakeholder communication, showing excellent practical application. Decision Quality is also high, reflecting the clear synthesis of risk assessment into informed, data-driven recommendations for go/no-go decisions and integration priorities. Overall, the response demonstrates exceptional leadership insight and analytical rigor appropriate for a top-tier CEO.\"}",
+  "scores": {
+    "Risk Analysis": 135,
+    "Mitigation Planning": 130,
+    "Decision Quality": 125
+  },
+  "total": 130.0,
+  "comments": "The answer provides a comprehensive and systematic framework covering all relevant risk categories including financial, operational, legal, strategic, cultural, reputational, and technological risks, scoring very high in Risk Analysis. The Mitigation Planning section is strong, emphasizing prioritization and development of mitigation strategies, with integration into deal structuring and stakeholder communication, showing excellent practical application. Decision Quality is also high, reflecting the clear synthesis of risk assessment into informed, data-driven recommendations for go/no-go decisions and integration priorities. Overall, the response demonstrates exceptional leadership insight and analytical rigor appropriate for a top-tier CEO."
+}

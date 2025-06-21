@@ -1,0 +1,14 @@
+{
+  "question_id": "0106-Operational_Excellence-Resource_optimization-Data-Driven_Resource_Planning",
+  "model": "gpt-4.1",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"data_integration\":130,\"proactive_planning\":135,\"decision_impact\":130,\"overall_score\":132,\"comments\":\"The CEO excels in integrating data analytics across departments through robust platforms enabling real-time tracking and forecasting. Proactive planning is demonstrated via predictive analytics and scenario analysis that anticipate resource needs effectively, preventing shortages and wastage. Decision impacts are strongly positive, reflected in improved delivery times, cost reductions, and stakeholder satisfaction, indicating a high level of operational efficiency and strategic alignment with organizational goals.\"}",
+  "scores": {
+    "Data Integration": 130,
+    "Proactive Planning": 135,
+    "Decision Impact": 130
+  },
+  "total": 132.0,
+  "comments": "The CEO excels in integrating data analytics across departments through robust platforms enabling real-time tracking and forecasting. Proactive planning is demonstrated via predictive analytics and scenario analysis that anticipate resource needs effectively, preventing shortages and wastage. Decision impacts are strongly positive, reflected in improved delivery times, cost reductions, and stakeholder satisfaction, indicating a high level of operational efficiency and strategic alignment with organizational goals."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0014-Strategic_Thinking-Market_entry_strategies-Assessing_Regulatory_Challenges_in_New_Markets",
+  "model": "gpt-4.1",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"regulatory_understanding\":130,\"risk_management\":125,\"adaptability\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates deep regulatory understanding by detailing an extensive early assessment, engagement with local expertise, and sustained monitoring. It reflects strong risk management through proactive contingency planning, compliance frameworks, and stakeholder relationships. Adaptability is well-covered by emphasizing continual monitoring and rapid response to regulatory changes. Overall, the CEO exhibits an exceptional, strategic approach indicative of high leadership capability in managing complex regulatory environments.\"}",
+  "scores": {
+    "Regulatory Understanding": 130,
+    "Risk Management": 125,
+    "Adaptability": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates deep regulatory understanding by detailing an extensive early assessment, engagement with local expertise, and sustained monitoring. It reflects strong risk management through proactive contingency planning, compliance frameworks, and stakeholder relationships. Adaptability is well-covered by emphasizing continual monitoring and rapid response to regulatory changes. Overall, the CEO exhibits an exceptional, strategic approach indicative of high leadership capability in managing complex regulatory environments."
+}
