@@ -1,0 +1,14 @@
+{
+  "question_id": "0034-Strategic_Thinking-Long-term_Vision-Communicating_Future_Goals",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Vision",
+  "raw": "{\"clarity_of_vision\":110,\"inspiration\":105,\"consistency\":100,\"overall_score\":105,\"comments\":\"The answer thoroughly outlines key aspects of how a CEO can effectively communicate a long-term vision, covering clarity, inspiration, and consistency well. While theoretical and insightful, it lacks direct examples from the CEO's own experience, which slightly limits the demonstration of authentic leadership. Overall, the response shows a strong understanding aligned with the rubric dimensions.\"}",
+  "scores": {
+    "Clarity of Vision": 110,
+    "Inspiration": 105,
+    "Consistency": 100
+  },
+  "total": 105.0,
+  "comments": "The answer thoroughly outlines key aspects of how a CEO can effectively communicate a long-term vision, covering clarity, inspiration, and consistency well. While theoretical and insightful, it lacks direct examples from the CEO's own experience, which slightly limits the demonstration of authentic leadership. Overall, the response shows a strong understanding aligned with the rubric dimensions."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0083-Risk_&_Ethics-Ethical_decision-making-Balancing_Stakeholder_Interests_in_Ethical_Choices",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"stakeholder_consideration\":115,\"ethical_principles_application\":120,\"transparency_and_communication\":118,\"overall_score\":118,\"comments\":\"The CEO demonstrates a strong and comprehensive approach to balancing stakeholder interests by fostering an ethical culture and considering diverse perspectives. The application of ethical principles is thorough, with clear guidelines, regular training, and formal review processes reinforcing integrity. Transparency and communication are well addressed through open dialogue, accessible codes, and public reporting, enhancing trust. Overall, this response exemplifies capable and effective ethical leadership with slightly above-average to excellent execution across all dimensions.\"}",
+  "scores": {
+    "Stakeholder Consideration": 115,
+    "Ethical Principles Application": 120,
+    "Transparency and Communication": 118
+  },
+  "total": 118.0,
+  "comments": "The CEO demonstrates a strong and comprehensive approach to balancing stakeholder interests by fostering an ethical culture and considering diverse perspectives. The application of ethical principles is thorough, with clear guidelines, regular training, and formal review processes reinforcing integrity. Transparency and communication are well addressed through open dialogue, accessible codes, and public reporting, enhancing trust. Overall, this response exemplifies capable and effective ethical leadership with slightly above-average to excellent execution across all dimensions."
+}

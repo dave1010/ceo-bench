@@ -1,0 +1,14 @@
+{
+  "question_id": "0074-Financial_Acumen-Investment_Decisions-Evaluating_Strategic_Investment_Opportunities",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment Decisions",
+  "raw": "{\"due_diligence_and_analysis\":130,\"portfolio_perspective\":120,\"post-investment_review\":115,\"overall_score\":121.7,\"comments\":\"The CEO demonstrates a comprehensive and sophisticated approach to assessing and prioritizing investment projects, going beyond financial metrics to include strategic alignment, sustainability, risk management, and intangible value. The thorough due diligence and scenario planning reflect exceptional analytical capabilities (130). They also exhibit a strong portfolio perspective by balancing investments across varied risk and return profiles using a weighted scoring system (120). Additionally, there is clear emphasis on continuous monitoring and adaptation of projects post-investment, showing commitment to ongoing evaluation (115). Overall, this answer reflects an above-average leadership quotient indicative of a skilled and forward-thinking CEO.\"}",
+  "scores": {
+    "Due Diligence and Analysis": 130,
+    "Portfolio Perspective": 120,
+    "Post-Investment Review": 115
+  },
+  "total": 121.7,
+  "comments": "The CEO demonstrates a comprehensive and sophisticated approach to assessing and prioritizing investment projects, going beyond financial metrics to include strategic alignment, sustainability, risk management, and intangible value. The thorough due diligence and scenario planning reflect exceptional analytical capabilities (130). They also exhibit a strong portfolio perspective by balancing investments across varied risk and return profiles using a weighted scoring system (120). Additionally, there is clear emphasis on continuous monitoring and adaptation of projects post-investment, showing commitment to ongoing evaluation (115). Overall, this answer reflects an above-average leadership quotient indicative of a skilled and forward-thinking CEO."
+}

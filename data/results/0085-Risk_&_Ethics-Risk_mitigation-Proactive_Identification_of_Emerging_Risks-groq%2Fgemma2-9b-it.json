@@ -1,0 +1,14 @@
+{
+  "question_id": "0085-Risk_&_Ethics-Risk_mitigation-Proactive_Identification_of_Emerging_Risks",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"proactivity_in_risk_detection\":135,\"integration_with_organizational_processes\":130,\"responsiveness_and_follow-through\":135,\"overall_score\":133.3,\"comments\":\"The answer demonstrates an exceptional approach to proactively identifying risks, including establishing a risk-aware culture, using diverse teams, and leveraging technology for early detection. Integration with organizational processes is evident through structured frameworks, scenario planning, and benchmarking. Responsiveness is addressed with continuous monitoring and post-incident analyses to refine strategies. The comprehensive detail and emphasis on continuous improvement merit a high Leadership Quotient score indicative of extraordinary organizational performance.\"}",
+  "scores": {
+    "Proactivity in Risk Detection": 135,
+    "Integration with Organizational Processes": 130,
+    "Responsiveness and Follow-through": 135
+  },
+  "total": 133.3,
+  "comments": "The answer demonstrates an exceptional approach to proactively identifying risks, including establishing a risk-aware culture, using diverse teams, and leveraging technology for early detection. Integration with organizational processes is evident through structured frameworks, scenario planning, and benchmarking. Responsiveness is addressed with continuous monitoring and post-incident analyses to refine strategies. The comprehensive detail and emphasis on continuous improvement merit a high Leadership Quotient score indicative of extraordinary organizational performance."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0077-Financial_Acumen-Capital_Allocation-Strategic_Capital_Deployment",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Financial Acumen",
+  "subtopic": "Capital Allocation",
+  "raw": "{\"investment_evaluation_process\":115,\"alignment_with_strategic_goals\":120,\"post-investment_oversight_and_adjustments\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a comprehensive and structured approach to capital allocation, covering thorough market and financial analysis, rigorous evaluation using financial and strategic criteria, and risk assessment. It strongly emphasizes alignment with strategic goals through clear prioritization and investment choices. Additionally, it highlights the importance of post-investment monitoring and communication. While highly detailed and well-reasoned, it may be somewhat theoretical without specific examples, placing the score above average but short of exceptional genius-level insight.\"}",
+  "scores": {
+    "Investment evaluation process": 115,
+    "Alignment with strategic goals": 120,
+    "Post-investment oversight and adjustments": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a comprehensive and structured approach to capital allocation, covering thorough market and financial analysis, rigorous evaluation using financial and strategic criteria, and risk assessment. It strongly emphasizes alignment with strategic goals through clear prioritization and investment choices. Additionally, it highlights the importance of post-investment monitoring and communication. While highly detailed and well-reasoned, it may be somewhat theoretical without specific examples, placing the score above average but short of exceptional genius-level insight."
+}

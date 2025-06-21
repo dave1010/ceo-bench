@@ -1,0 +1,14 @@
+{
+  "question_id": "0062-Leadership_&_Communication-Crisis_communication-Transparency_and_Clarity_in_High-Pressure_Situations",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"clarity_of_message\":120,\"stakeholder_engagement\":125,\"emotional_intelligence\":120,\"overall_score\":122,\"comments\":\"The answer demonstrates exceptional clarity with a well-structured communication plan, ensuring transparency and factual accuracy, which supports stakeholder understanding. It emphasizes active engagement by identifying key stakeholders, providing regular updates, and seeking ongoing feedback, highlighting strong stakeholder involvement. Additionally, it reflects high emotional intelligence through empathy, accountability, and responsiveness, fostering trust and reassurance during crises. Overall, the response indicates an exceptional CEO approach to crisis communication.\"}",
+  "scores": {
+    "Clarity of Message": 120,
+    "Stakeholder Engagement": 125,
+    "Emotional Intelligence": 120
+  },
+  "total": 122.0,
+  "comments": "The answer demonstrates exceptional clarity with a well-structured communication plan, ensuring transparency and factual accuracy, which supports stakeholder understanding. It emphasizes active engagement by identifying key stakeholders, providing regular updates, and seeking ongoing feedback, highlighting strong stakeholder involvement. Additionally, it reflects high emotional intelligence through empathy, accountability, and responsiveness, fostering trust and reassurance during crises. Overall, the response indicates an exceptional CEO approach to crisis communication."
+}

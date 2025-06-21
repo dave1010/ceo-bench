@@ -1,0 +1,14 @@
+{
+  "question_id": "0039-Strategic_Thinking-Organizational_Alignment-Embedding_Strategy_into_Culture",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Organizational Alignment",
+  "raw": "{\"communication\":120,\"leadership_and_modeling\":125,\"engagement_and_buy-in\":120,\"overall_score\":122,\"comments\":\"The answer demonstrates a strong focus on transparent and regular communication about strategic priorities, ensuring clarity and alignment. Leadership commitment is clear, with emphasis on modeling behaviors and linking accountability to performance. Employee engagement is robust, with empowerment, training, innovation encouragement, and recognition woven into the culture. The approach is comprehensive and reflects a high level of leadership competence in embedding strategy into culture and operations.\"}",
+  "scores": {
+    "Communication": 120,
+    "Leadership and Modeling": 125,
+    "Engagement and buy-in": 120
+  },
+  "total": 122.0,
+  "comments": "The answer demonstrates a strong focus on transparent and regular communication about strategic priorities, ensuring clarity and alignment. Leadership commitment is clear, with emphasis on modeling behaviors and linking accountability to performance. Employee engagement is robust, with empowerment, training, innovation encouragement, and recognition woven into the culture. The approach is comprehensive and reflects a high level of leadership competence in embedding strategy into culture and operations."
+}

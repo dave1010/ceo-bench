@@ -1,0 +1,14 @@
+{
+  "question_id": "0072-Financial_Acumen-Capital_Allocation-Prioritization_of_Capital_Projects",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Financial Acumen",
+  "subtopic": "Capital Allocation",
+  "raw": "{\"valuation_and_roi\":115,\"risk_consideration\":120,\"strategic_fit\":125,\"overall_score\":120,\"comments\":\"The answer demonstrates a strong grasp of capital allocation principles, emphasizing rigorous financial analysis and risk-adjusted returns, which justifies a high score in valuation and risk. Strategic fit is particularly well-addressed, highlighting alignment with long-term objectives and market dynamics. The thoughtful inclusion of stakeholder engagement and continuous improvement reflects a sophisticated approach, meriting an exceptional overall leadership quotient.\"}",
+  "scores": {
+    "Valuation and ROI": 115,
+    "Risk Consideration": 120,
+    "Strategic Fit": 125
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates a strong grasp of capital allocation principles, emphasizing rigorous financial analysis and risk-adjusted returns, which justifies a high score in valuation and risk. Strategic fit is particularly well-addressed, highlighting alignment with long-term objectives and market dynamics. The thoughtful inclusion of stakeholder engagement and continuous improvement reflects a sophisticated approach, meriting an exceptional overall leadership quotient."
+}

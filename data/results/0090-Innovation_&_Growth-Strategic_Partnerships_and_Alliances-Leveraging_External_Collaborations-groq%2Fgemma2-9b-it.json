@@ -1,0 +1,14 @@
+{
+  "question_id": "0090-Innovation_&_Growth-Strategic_Partnerships_and_Alliances-Leveraging_External_Collaborations",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Strategic Partnerships and Alliances",
+  "raw": "{\"partnership_strategy\":125,\"value_creation\":120,\"relationship_management\":118,\"overall_score\":121,\"comments\":\"The answer demonstrates a thoughtful and structured approach to cultivating strategic partnerships, clearly aligned with innovation and growth objectives. It emphasizes selection criteria for partners, trust-building, collaborative agility, and performance measurement, showcasing strong strategic vision and relationship management skills. The focus on shared value, transparency, and continuous learning underscores ability to create tangible value and maintain strong partnerships. Overall, the CEO's approach reflects above-average to excellent leadership in this area.\"}",
+  "scores": {
+    "Partnership Strategy": 125,
+    "Value Creation": 120,
+    "Relationship Management": 118
+  },
+  "total": 121.0,
+  "comments": "The answer demonstrates a thoughtful and structured approach to cultivating strategic partnerships, clearly aligned with innovation and growth objectives. It emphasizes selection criteria for partners, trust-building, collaborative agility, and performance measurement, showcasing strong strategic vision and relationship management skills. The focus on shared value, transparency, and continuous learning underscores ability to create tangible value and maintain strong partnerships. Overall, the CEO's approach reflects above-average to excellent leadership in this area."
+}

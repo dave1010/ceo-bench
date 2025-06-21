@@ -1,0 +1,14 @@
+{
+  "question_id": "0080-Risk_&_Ethics-Conflict_of_Interest_Management-Identifying_and_Addressing_Conflicts_of_Interest",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Conflict of Interest Management",
+  "raw": "{\"disclosure_processes\":120,\"resolution_strategies\":115,\"leadership_example\":110,\"overall_score\":115,\"comments\":\"The answer provides a comprehensive and detailed framework for proactively managing conflicts of interest, including establishing clear disclosure processes and regular, confidential reporting mechanisms, which justifies a high score for Disclosure Processes. It outlines specific resolution strategies such as recusal, divestment, delegation, and the role of an ethics committee, earning a strong score for Resolution Strategies. While the answer emphasizes leadership by example and senior leaders openly disclosing conflicts, this is somewhat theoretical and not grounded in personal experience, so the Leadership Example score is strong but slightly lower. Overall, the response demonstrates a well-rounded and thoughtful approach consistent with a highly capable CEO.\"}",
+  "scores": {
+    "Disclosure Processes": 120,
+    "Resolution Strategies": 115,
+    "Leadership Example": 110
+  },
+  "total": 115.0,
+  "comments": "The answer provides a comprehensive and detailed framework for proactively managing conflicts of interest, including establishing clear disclosure processes and regular, confidential reporting mechanisms, which justifies a high score for Disclosure Processes. It outlines specific resolution strategies such as recusal, divestment, delegation, and the role of an ethics committee, earning a strong score for Resolution Strategies. While the answer emphasizes leadership by example and senior leaders openly disclosing conflicts, this is somewhat theoretical and not grounded in personal experience, so the Leadership Example score is strong but slightly lower. Overall, the response demonstrates a well-rounded and thoughtful approach consistent with a highly capable CEO."
+}

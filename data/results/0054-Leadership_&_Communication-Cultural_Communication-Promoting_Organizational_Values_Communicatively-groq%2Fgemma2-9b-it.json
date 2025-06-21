@@ -1,0 +1,14 @@
+{
+  "question_id": "0054-Leadership_&_Communication-Cultural_Communication-Promoting_Organizational_Values_Communicatively",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Cultural Communication",
+  "raw": "{\"consistency\":115,\"modeling_behavior\":110,\"cultural_alignment\":120,\"overall_score\":115,\"comments\":\"The answer comprehensively addresses how a CEO can communicate and reinforce organizational culture and core values with clear emphasis on consistency through multiple communication channels and reinforcement mechanisms. It stresses leading by example, reinforcing the importance of modeling behavior. The suggested approaches foster cultural alignment by emphasizing storytelling, recognition, hiring, training, and feedback, showing a deep understanding of embedding culture across the organization. The response is thorough, insightful, and reflects a strong grasp of effective leadership in organizational culture.\"}",
+  "scores": {
+    "Consistency": 115,
+    "Modeling Behavior": 110,
+    "Cultural Alignment": 120
+  },
+  "total": 115.0,
+  "comments": "The answer comprehensively addresses how a CEO can communicate and reinforce organizational culture and core values with clear emphasis on consistency through multiple communication channels and reinforcement mechanisms. It stresses leading by example, reinforcing the importance of modeling behavior. The suggested approaches foster cultural alignment by emphasizing storytelling, recognition, hiring, training, and feedback, showing a deep understanding of embedding culture across the organization. The response is thorough, insightful, and reflects a strong grasp of effective leadership in organizational culture."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0045-Operational_Excellence-Risk_Management-Identifying_and_Mitigating_Operational_Risks",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment_methodology\":130,\"mitigation_planning\":125,\"monitoring_&_review\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates a comprehensive and systematic approach to identifying risks through culture-building, data analytics, and formal frameworks, earning a high score in Risk Assessment Methodology. Robust mitigation plans are evident via customized strategies and engagement with external experts, reflecting strong Mitigation Planning. The inclusion of continuous monitoring through KPIs, scenario analysis, and communication channels supports a solid Monitoring & Review process. Overall, this response reflects a highly capable leader with a proactive and thorough risk management approach.\"}",
+  "scores": {
+    "Risk Assessment Methodology": 130,
+    "Mitigation Planning": 125,
+    "Monitoring & Review": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a comprehensive and systematic approach to identifying risks through culture-building, data analytics, and formal frameworks, earning a high score in Risk Assessment Methodology. Robust mitigation plans are evident via customized strategies and engagement with external experts, reflecting strong Mitigation Planning. The inclusion of continuous monitoring through KPIs, scenario analysis, and communication channels supports a solid Monitoring & Review process. Overall, this response reflects a highly capable leader with a proactive and thorough risk management approach."
+}

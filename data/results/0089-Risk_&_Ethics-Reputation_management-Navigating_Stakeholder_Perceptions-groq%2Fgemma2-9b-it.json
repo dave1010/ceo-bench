@@ -1,0 +1,14 @@
+{
+  "question_id": "0089-Risk_&_Ethics-Reputation_management-Navigating_Stakeholder_Perceptions",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"stakeholder_communication\":130,\"alignment_of_actions_and_values\":125,\"crisis_preparedness\":115,\"overall_score\":123.3,\"comments\":\"The answer effectively emphasizes transparent and consistent communication with both internal and external stakeholders, earning a high score in stakeholder communication. It strongly highlights leading by example and empowering employees to align actions with values, reflecting solid alignment of actions and values. While it addresses adapting values and soliciting employee input, the explicit strategies for crisis preparedness are less developed compared to the other dimensions, resulting in a slightly lower but still above-average score there. Overall, the response demonstrates strong leadership qualities in maintaining company reputation during uncertainty.\"}",
+  "scores": {
+    "Stakeholder Communication": 130,
+    "Alignment of Actions and Values": 125,
+    "Crisis Preparedness": 115
+  },
+  "total": 123.3,
+  "comments": "The answer effectively emphasizes transparent and consistent communication with both internal and external stakeholders, earning a high score in stakeholder communication. It strongly highlights leading by example and empowering employees to align actions with values, reflecting solid alignment of actions and values. While it addresses adapting values and soliciting employee input, the explicit strategies for crisis preparedness are less developed compared to the other dimensions, resulting in a slightly lower but still above-average score there. Overall, the response demonstrates strong leadership qualities in maintaining company reputation during uncertainty."
+}

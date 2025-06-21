@@ -1,0 +1,14 @@
+{
+  "question_id": "0031-Strategic_Thinking-Market_entry_strategies-Evaluating_Post-Entry_Growth_Potential",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"strategic_adaptability\":130,\"growth_forecasting\":115,\"resource_planning\":110,\"overall_score\":118.3,\"comments\":\"The answer demonstrates a strong grasp of strategic adaptability through its emphasis on customer feedback, agile iteration, and monitoring market trends. While it does not provide explicit projections, the growth forecasting is solid via outlining strategic partnerships, diversification, and geographic expansion. Resource planning is addressed adequately with focus on talent development, innovation, and investments in data analytics, though more specific resource allocation details would strengthen it. Overall, the response reflects a high-level, thoughtful approach to sustaining growth and adapting strategy for long-term success.\"}",
+  "scores": {
+    "Strategic Adaptability": 130,
+    "Growth Forecasting": 115,
+    "Resource Planning": 110
+  },
+  "total": 118.3,
+  "comments": "The answer demonstrates a strong grasp of strategic adaptability through its emphasis on customer feedback, agile iteration, and monitoring market trends. While it does not provide explicit projections, the growth forecasting is solid via outlining strategic partnerships, diversification, and geographic expansion. Resource planning is addressed adequately with focus on talent development, innovation, and investments in data analytics, though more specific resource allocation details would strengthen it. Overall, the response reflects a high-level, thoughtful approach to sustaining growth and adapting strategy for long-term success."
+}

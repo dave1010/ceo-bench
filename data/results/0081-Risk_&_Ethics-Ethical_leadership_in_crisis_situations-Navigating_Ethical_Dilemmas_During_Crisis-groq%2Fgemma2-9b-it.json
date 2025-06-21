@@ -1,0 +1,14 @@
+{
+  "question_id": "0081-Risk_&_Ethics-Ethical_leadership_in_crisis_situations-Navigating_Ethical_Dilemmas_During_Crisis",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical leadership in crisis situations",
+  "raw": "{\"crisis_response_integrity\":135,\"stakeholder_consideration\":130,\"personal_accountability\":125,\"overall_score\":130,\"comments\":\"The answer comprehensively addresses ethical leadership during crisis, emphasizing transparency, alignment with core values, stakeholder impact, and long-term thinking. The CEO's approach to communication and openness reflects strong integrity. Stakeholder consideration is thorough, encompassing employees, customers, suppliers, investors, and community. Personal accountability is well-articulated through leading by example and openness to feedback. The detailed, thoughtful response demonstrates exceptional leadership qualities expected at a high-performing CEO level.\"}",
+  "scores": {
+    "Crisis response integrity": 135,
+    "Stakeholder consideration": 130,
+    "Personal accountability": 125
+  },
+  "total": 130.0,
+  "comments": "The answer comprehensively addresses ethical leadership during crisis, emphasizing transparency, alignment with core values, stakeholder impact, and long-term thinking. The CEO's approach to communication and openness reflects strong integrity. Stakeholder consideration is thorough, encompassing employees, customers, suppliers, investors, and community. Personal accountability is well-articulated through leading by example and openness to feedback. The detailed, thoughtful response demonstrates exceptional leadership qualities expected at a high-performing CEO level."
+}

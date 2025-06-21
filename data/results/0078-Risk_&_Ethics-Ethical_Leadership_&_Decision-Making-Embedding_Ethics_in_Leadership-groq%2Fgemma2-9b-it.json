@@ -1,0 +1,14 @@
+{
+  "question_id": "0078-Risk_&_Ethics-Ethical_Leadership_&_Decision-Making-Embedding_Ethics_in_Leadership",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical Leadership & Decision-Making",
+  "raw": "{\"decision_frameworks\":110,\"transparency_and_accountability\":105,\"cultural_promotion\":110,\"overall_score\":108.3,\"comments\":\"The answer thoughtfully outlines essential components of ethical decision-making, including establishing ethical frameworks, promoting transparency, seeking diverse perspectives, risk assessment, long-term sustainability, and accountability. While the response is comprehensive and covers key elements of the rubric, it lacks specific practical examples of how a CEO personally incorporates these into high-stakes decisions, which slightly limits the depth. The scores reflect a strong, capable understanding consistent with a competent CEO's approach.\"}",
+  "scores": {
+    "Decision Frameworks": 110,
+    "Transparency and Accountability": 105,
+    "Cultural Promotion": 110
+  },
+  "total": 108.3,
+  "comments": "The answer thoughtfully outlines essential components of ethical decision-making, including establishing ethical frameworks, promoting transparency, seeking diverse perspectives, risk assessment, long-term sustainability, and accountability. While the response is comprehensive and covers key elements of the rubric, it lacks specific practical examples of how a CEO personally incorporates these into high-stakes decisions, which slightly limits the depth. The scores reflect a strong, capable understanding consistent with a competent CEO's approach."
+}

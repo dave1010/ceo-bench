@@ -1,0 +1,14 @@
+{
+  "question_id": "0064-Leadership_&_Communication-Culture_building-Fostering_Innovation_Culture",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"leadership_commitment\":130,\"employee_engagement\":125,\"cultural_norms\":135,\"overall_score\":130,\"comments\":\"The CEO demonstrates exceptional leadership commitment by championing a 'fail-fast, learn-faster' mentality and actively participating in innovation activities. Employee engagement is high, with empowerment across all levels and initiatives like cross-functional teams fostering diverse ideas. The cultural norms strongly support experimentation, risk-taking, and psychological safety, creating a robust innovation-friendly environment. Scores reflect an above-average to genius-level performance across all dimensions, indicating outstanding ability to embed innovation in organizational culture.\"}",
+  "scores": {
+    "Leadership commitment": 130,
+    "Employee engagement": 125,
+    "Cultural norms": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional leadership commitment by championing a 'fail-fast, learn-faster' mentality and actively participating in innovation activities. Employee engagement is high, with empowerment across all levels and initiatives like cross-functional teams fostering diverse ideas. The cultural norms strongly support experimentation, risk-taking, and psychological safety, creating a robust innovation-friendly environment. Scores reflect an above-average to genius-level performance across all dimensions, indicating outstanding ability to embed innovation in organizational culture."
+}

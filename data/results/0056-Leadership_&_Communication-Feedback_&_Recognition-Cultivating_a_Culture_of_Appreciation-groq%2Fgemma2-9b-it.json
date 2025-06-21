@@ -1,0 +1,14 @@
+{
+  "question_id": "0056-Leadership_&_Communication-Feedback_&_Recognition-Cultivating_a_Culture_of_Appreciation",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Feedback & Recognition",
+  "raw": "{\"frequency\":110,\"recognition\":105,\"authenticity\":100,\"overall_score\":105,\"comments\":\"The answer outlines comprehensive strategies a CEO should use to promote continuous feedback and recognition, including leading by example, institutionalizing processes, and creating psychological safety. While it lacks direct practical experience, the suggestions align well with best practices and touch on all dimensions of the rubric thoroughly and thoughtfully.\"}",
+  "scores": {
+    "Frequency": 110,
+    "Recognition": 105,
+    "Authenticity": 100
+  },
+  "total": 105.0,
+  "comments": "The answer outlines comprehensive strategies a CEO should use to promote continuous feedback and recognition, including leading by example, institutionalizing processes, and creating psychological safety. While it lacks direct practical experience, the suggestions align well with best practices and touch on all dimensions of the rubric thoroughly and thoughtfully."
+}

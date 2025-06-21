@@ -1,0 +1,14 @@
+{
+  "question_id": "0033-Change_Management-Driving_Organizational_Change-Leading_Successful_Change_Initiatives",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Change Management",
+  "subtopic": "Driving Organizational Change",
+  "raw": "{\"communication_strategy\":120,\"stakeholder_engagement\":115,\"monitoring_and_adjustment\":110,\"overall_score\":115,\"comments\":\"The answer provides a comprehensive, well-structured approach emphasizing clear and multi-channel communication that fosters transparency and buy-in. It highlights active stakeholder involvement through identifying key influencers and empowering change agents, which are critical for building support. The plan includes establishing clear metrics and feedback loops for continuous monitoring and adjustment, demonstrating adaptability. While strong and thorough, the answer remains somewhat theoretical and generalized, lacking concrete examples or innovative insights that might elevate it toward a 'genius' score. Overall, it reflects a high level of leadership understanding appropriate for a capable CEO.\"}",
+  "scores": {
+    "Communication Strategy": 120,
+    "Stakeholder Engagement": 115,
+    "Monitoring and Adjustment": 110
+  },
+  "total": 115.0,
+  "comments": "The answer provides a comprehensive, well-structured approach emphasizing clear and multi-channel communication that fosters transparency and buy-in. It highlights active stakeholder involvement through identifying key influencers and empowering change agents, which are critical for building support. The plan includes establishing clear metrics and feedback loops for continuous monitoring and adjustment, demonstrating adaptability. While strong and thorough, the answer remains somewhat theoretical and generalized, lacking concrete examples or innovative insights that might elevate it toward a 'genius' score. Overall, it reflects a high level of leadership understanding appropriate for a capable CEO."
+}

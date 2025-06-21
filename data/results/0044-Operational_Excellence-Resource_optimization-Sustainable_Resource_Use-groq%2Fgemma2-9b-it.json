@@ -1,0 +1,14 @@
+{
+  "question_id": "0044-Operational_Excellence-Resource_optimization-Sustainable_Resource_Use",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"policy_development\":130,\"employee_engagement\":125,\"outcome_tracking\":120,\"overall_score\":125,\"comments\":\"The answer comprehensively addresses the CEO's role in fostering sustainability by outlining clear policies embedded in core values and ambitious targets, demonstrating strong policy development (130). It emphasizes empowering and engaging employees through training, innovation encouragement, and participation opportunities, warranting a high employee engagement score (125). Additionally, it details transparent reporting and communication of sustainability outcomes, reflecting effective outcome tracking (120). Overall, the response shows an exceptional understanding of leadership in sustainability, deserving an overall score of 125.\"}",
+  "scores": {
+    "Policy Development": 130,
+    "Employee Engagement": 125,
+    "Outcome Tracking": 120
+  },
+  "total": 125.0,
+  "comments": "The answer comprehensively addresses the CEO's role in fostering sustainability by outlining clear policies embedded in core values and ambitious targets, demonstrating strong policy development (130). It emphasizes empowering and engaging employees through training, innovation encouragement, and participation opportunities, warranting a high employee engagement score (125). Additionally, it details transparent reporting and communication of sustainability outcomes, reflecting effective outcome tracking (120). Overall, the response shows an exceptional understanding of leadership in sustainability, deserving an overall score of 125."
+}

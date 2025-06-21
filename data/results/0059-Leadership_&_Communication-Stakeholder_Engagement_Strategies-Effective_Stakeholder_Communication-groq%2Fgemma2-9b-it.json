@@ -1,0 +1,14 @@
+{
+  "question_id": "0059-Leadership_&_Communication-Stakeholder_Engagement_Strategies-Effective_Stakeholder_Communication",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder Engagement Strategies",
+  "raw": "{\"communication_clarity\":125,\"engagement_frequency\":120,\"responsiveness\":115,\"overall_score\":120,\"comments\":\"The CEO demonstrates exceptional communication clarity by emphasizing clear, concise messaging and multiple formats tailored to stakeholder needs. Engagement frequency is high, with regular meetings, newsletters, and proactive public relations ensuring stakeholders are well-informed and involved. Responsiveness is addressed through feedback mechanisms and an open door policy promoting active listening and prompt addressing of concerns. Overall, the approach reflects a strong, strategic grasp of communication essential for effective leadership.\"}",
+  "scores": {
+    "Communication Clarity": 125,
+    "Engagement Frequency": 120,
+    "Responsiveness": 115
+  },
+  "total": 120.0,
+  "comments": "The CEO demonstrates exceptional communication clarity by emphasizing clear, concise messaging and multiple formats tailored to stakeholder needs. Engagement frequency is high, with regular meetings, newsletters, and proactive public relations ensuring stakeholders are well-informed and involved. Responsiveness is addressed through feedback mechanisms and an open door policy promoting active listening and prompt addressing of concerns. Overall, the approach reflects a strong, strategic grasp of communication essential for effective leadership."
+}

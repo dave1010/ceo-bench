@@ -1,0 +1,14 @@
+{
+  "question_id": "0046-Operational_Excellence-Process_improvement-Strategies_for_Sustaining_Continuous_Improvement",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"strategy_development\":120,\"change_management\":115,\"measurement_and_feedback\":110,\"overall_score\":115,\"comments\":\"The answer outlines a comprehensive and well-structured strategy to embed continuous process improvement into organizational culture. It includes clear actionable steps aligned with company goals and emphasizes employee involvement. The approach to change management is strong, with focus on communication, empowerment, and leadership support to overcome resistance. Measurement and feedback are adequately addressed through data analysis, learning from mistakes, and continual evaluation. Overall, this response reflects a capable CEO-level understanding with a slightly above-average score due to thoroughness and balanced focus across all dimensions.\"}",
+  "scores": {
+    "Strategy Development": 120,
+    "Change Management": 115,
+    "Measurement and Feedback": 110
+  },
+  "total": 115.0,
+  "comments": "The answer outlines a comprehensive and well-structured strategy to embed continuous process improvement into organizational culture. It includes clear actionable steps aligned with company goals and emphasizes employee involvement. The approach to change management is strong, with focus on communication, empowerment, and leadership support to overcome resistance. Measurement and feedback are adequately addressed through data analysis, learning from mistakes, and continual evaluation. Overall, this response reflects a capable CEO-level understanding with a slightly above-average score due to thoroughness and balanced focus across all dimensions."
+}

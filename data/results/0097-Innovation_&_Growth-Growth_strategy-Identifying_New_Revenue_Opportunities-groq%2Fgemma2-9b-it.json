@@ -1,0 +1,14 @@
+{
+  "question_id": "0097-Innovation_&_Growth-Growth_strategy-Identifying_New_Revenue_Opportunities",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"opportunity_identification\":130,\"strategic_prioritization\":125,\"execution_planning\":120,\"overall_score\":125,\"comments\":\"The CEO displays a highly proactive and comprehensive approach to identifying new revenue streams through continuous market scanning, customer insights, and fostering innovation. Strategic prioritization is thoughtfully executed with rigorous evaluation of potential impact, market size, and alignment with core competencies. Execution planning is agile and phased, incorporating feedback loops to optimize resource allocation and adapt to changes. This response reflects strong leadership with a data-driven, customer-centric, and innovative mindset likely to drive sustained company growth.\"}",
+  "scores": {
+    "Opportunity Identification": 130,
+    "Strategic Prioritization": 125,
+    "Execution Planning": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO displays a highly proactive and comprehensive approach to identifying new revenue streams through continuous market scanning, customer insights, and fostering innovation. Strategic prioritization is thoughtfully executed with rigorous evaluation of potential impact, market size, and alignment with core competencies. Execution planning is agile and phased, incorporating feedback loops to optimize resource allocation and adapt to changes. This response reflects strong leadership with a data-driven, customer-centric, and innovative mindset likely to drive sustained company growth."
+}

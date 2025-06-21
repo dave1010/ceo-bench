@@ -1,0 +1,14 @@
+{
+  "question_id": "0088-Risk_&_Ethics-Reputation_management-Building_and_Sustaining_Public_Trust",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"transparency\":115,\"consistency\":110,\"engagement\":112,\"overall_score\":112.3,\"comments\":\"The answer demonstrates a strong understanding of fostering transparency by promoting openness, sharing relevant information, and protecting whistleblowers. Consistency is well addressed through clear communication strategies and multi-channel approaches to ensure aligned messaging. Engagement is evident via active listening, seeking feedback, and providing transparent responses. The response reflects a capable CEO's approach with thoughtful and comprehensive strategies, deserving a high score in all dimensions.\"}",
+  "scores": {
+    "Transparency": 115,
+    "Consistency": 110,
+    "Engagement": 112
+  },
+  "total": 112.3,
+  "comments": "The answer demonstrates a strong understanding of fostering transparency by promoting openness, sharing relevant information, and protecting whistleblowers. Consistency is well addressed through clear communication strategies and multi-channel approaches to ensure aligned messaging. Engagement is evident via active listening, seeking feedback, and providing transparent responses. The response reflects a capable CEO's approach with thoughtful and comprehensive strategies, deserving a high score in all dimensions."
+}

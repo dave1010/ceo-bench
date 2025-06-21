@@ -1,0 +1,14 @@
+{
+  "question_id": "0098-Innovation_&_Growth-Growth_strategy-Assessing_Competitive_Positioning",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"strategic_differentiation\":125,\"market_analysis\":120,\"innovation_integration\":130,\"overall_score\":125,\"comments\":\"The answer demonstrates a strong grasp of strategic differentiation by emphasizing a clear unique value proposition and continuous adaptation. The market analysis component is robust, highlighting continuous research and competitive benchmarking. Innovation integration is particularly strong, with focus on fostering a culture of innovation, R&D investment, and partnerships. Overall, the response reflects an exceptional CEO approach aligning well with the rubric.\"}",
+  "scores": {
+    "Strategic Differentiation": 125,
+    "Market Analysis": 120,
+    "Innovation Integration": 130
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a strong grasp of strategic differentiation by emphasizing a clear unique value proposition and continuous adaptation. The market analysis component is robust, highlighting continuous research and competitive benchmarking. Innovation integration is particularly strong, with focus on fostering a culture of innovation, R&D investment, and partnerships. Overall, the response reflects an exceptional CEO approach aligning well with the rubric."
+}

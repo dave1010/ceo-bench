@@ -1,0 +1,14 @@
+{
+  "question_id": "0079-Risk_&_Ethics-Legal_&_Regulatory_Adaptation-Staying_Ahead_of_Changing_Legal_Standards",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Legal & Regulatory Adaptation",
+  "raw": "{\"monitoring_systems\":130,\"strategic_planning\":125,\"external_partnerships\":120,\"overall_score\":125,\"comments\":\"The answer demonstrates a comprehensive and proactive approach to monitoring legal and regulatory changes, including dedicated teams and technology use, reflecting a high level of monitoring sophistication. Strategic planning is well-integrated through risk-based approaches, scenario planning, and embedding compliance into organizational culture, indicating strong foresight. External partnerships are effectively leveraged to gain insights, showcasing a well-rounded strategy. Overall, the response reflects exceptional leadership competence in adapting to regulatory landscapes.\"}",
+  "scores": {
+    "Monitoring systems": 130,
+    "Strategic planning": 125,
+    "External partnerships": 120
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates a comprehensive and proactive approach to monitoring legal and regulatory changes, including dedicated teams and technology use, reflecting a high level of monitoring sophistication. Strategic planning is well-integrated through risk-based approaches, scenario planning, and embedding compliance into organizational culture, indicating strong foresight. External partnerships are effectively leveraged to gain insights, showcasing a well-rounded strategy. Overall, the response reflects exceptional leadership competence in adapting to regulatory landscapes."
+}

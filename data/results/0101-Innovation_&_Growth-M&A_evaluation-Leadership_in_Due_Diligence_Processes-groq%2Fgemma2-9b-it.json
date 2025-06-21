@@ -1,0 +1,14 @@
+{
+  "question_id": "0101-Innovation_&_Growth-M&A_evaluation-Leadership_in_Due_Diligence_Processes",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"decision-making_clarity\":120,\"risk_management\":130,\"stakeholder_engagement\":125,\"overall_score\":125,\"comments\":\"The answer provides a comprehensive and structured framework demonstrating strong leadership in decision-making clarity, proactive risk management, and effective stakeholder engagement during M&A due diligence. It encapsulates strategic vision, team building, communication, and data-driven decisions indicative of high-level CEO effectiveness.\"}",
+  "scores": {
+    "Decision-Making Clarity": 120,
+    "Risk Management": 130,
+    "Stakeholder Engagement": 125
+  },
+  "total": 125.0,
+  "comments": "The answer provides a comprehensive and structured framework demonstrating strong leadership in decision-making clarity, proactive risk management, and effective stakeholder engagement during M&A due diligence. It encapsulates strategic vision, team building, communication, and data-driven decisions indicative of high-level CEO effectiveness."
+}

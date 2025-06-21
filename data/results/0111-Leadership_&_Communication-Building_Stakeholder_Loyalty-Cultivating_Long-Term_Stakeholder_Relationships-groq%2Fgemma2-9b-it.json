@@ -1,0 +1,14 @@
+{
+  "question_id": "0111-Leadership_&_Communication-Building_Stakeholder_Loyalty-Cultivating_Long-Term_Stakeholder_Relationships",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Building Stakeholder Loyalty",
+  "raw": "{\"relationship_management\":115,\"value_creation\":120,\"responsiveness\":110,\"overall_score\":115,\"comments\":\"The answer comprehensively addresses strategies to build and sustain stakeholder loyalty by emphasizing trust, transparency, ethical conduct, and personalized relationship efforts, which align strongly with the Relationship Management criterion. It displays a clear understanding of stakeholder needs through customer focus, employee empowerment, social responsibility, and shareholder value, meeting the Value Creation dimension well. Responsiveness is covered via active listening and commitment to genuine engagement with stakeholders. Overall, the response reflects thoughtful knowledge of CEO strategies, earning solid above-average scores.\"}",
+  "scores": {
+    "Relationship Management": 115,
+    "Value Creation": 120,
+    "Responsiveness": 110
+  },
+  "total": 115.0,
+  "comments": "The answer comprehensively addresses strategies to build and sustain stakeholder loyalty by emphasizing trust, transparency, ethical conduct, and personalized relationship efforts, which align strongly with the Relationship Management criterion. It displays a clear understanding of stakeholder needs through customer focus, employee empowerment, social responsibility, and shareholder value, meeting the Value Creation dimension well. Responsiveness is covered via active listening and commitment to genuine engagement with stakeholders. Overall, the response reflects thoughtful knowledge of CEO strategies, earning solid above-average scores."
+}

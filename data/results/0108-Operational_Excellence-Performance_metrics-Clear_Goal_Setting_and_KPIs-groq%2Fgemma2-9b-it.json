@@ -1,0 +1,14 @@
+{
+  "question_id": "0108-Operational_Excellence-Performance_metrics-Clear_Goal_Setting_and_KPIs",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"clarity_and_alignment\":130,\"engagement_and_buy-in\":125,\"monitoring_and_adjustment\":130,\"overall_score\":128,\"comments\":\"The response demonstrates exceptional clarity in defining KPIs using SMART criteria and ensuring alignment with strategic goals through cascading and transparency. It strongly emphasizes engagement by involving leaders across departments and fostering ownership, as well as effective communication practices that enhance accountability. Monitoring and adjustment are addressed thoroughly with regular reviews, feedback loops, and iterative improvements supported by technology. Overall, this is a highly sophisticated and comprehensive approach indicative of a top-tier CEO.\"}",
+  "scores": {
+    "Clarity and Alignment": 130,
+    "Engagement and Buy-in": 125,
+    "Monitoring and Adjustment": 130
+  },
+  "total": 128.0,
+  "comments": "The response demonstrates exceptional clarity in defining KPIs using SMART criteria and ensuring alignment with strategic goals through cascading and transparency. It strongly emphasizes engagement by involving leaders across departments and fostering ownership, as well as effective communication practices that enhance accountability. Monitoring and adjustment are addressed thoroughly with regular reviews, feedback loops, and iterative improvements supported by technology. Overall, this is a highly sophisticated and comprehensive approach indicative of a top-tier CEO."
+}

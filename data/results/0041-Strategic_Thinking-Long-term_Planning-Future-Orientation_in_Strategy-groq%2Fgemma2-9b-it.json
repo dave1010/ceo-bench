@@ -1,0 +1,14 @@
+{
+  "question_id": "0041-Strategic_Thinking-Long-term_Planning-Future-Orientation_in_Strategy",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Planning",
+  "raw": "{\"visionary_planning\":130,\"sustainability_focus\":125,\"stakeholder_engagement\":120,\"overall_score\":125,\"comments\":\"The answer exhibits a highly developed approach to strategic planning with a clear, inspiring long-term vision and concrete, measurable goals. Sustainability considerations cover environmental, social, and economic impacts comprehensively. Stakeholder engagement is emphasized through transparency, collaboration, and incorporation of diverse perspectives. Overall, this reflects an exceptional CEO-level understanding and approach to incorporating long-term vision and sustainable growth into strategy.\"}",
+  "scores": {
+    "Visionary Planning": 130,
+    "Sustainability Focus": 125,
+    "Stakeholder Engagement": 120
+  },
+  "total": 125.0,
+  "comments": "The answer exhibits a highly developed approach to strategic planning with a clear, inspiring long-term vision and concrete, measurable goals. Sustainability considerations cover environmental, social, and economic impacts comprehensively. Stakeholder engagement is emphasized through transparency, collaboration, and incorporation of diverse perspectives. Overall, this reflects an exceptional CEO-level understanding and approach to incorporating long-term vision and sustainable growth into strategy."
+}

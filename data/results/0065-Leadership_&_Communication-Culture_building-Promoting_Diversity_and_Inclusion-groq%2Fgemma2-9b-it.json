@@ -1,0 +1,14 @@
+{
+  "question_id": "0065-Leadership_&_Communication-Culture_building-Promoting_Diversity_and_Inclusion",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"commitment_to_diversity\":100,\"leadership_action\":85,\"impact_on_culture\":80,\"overall_score\":88.3,\"comments\":\"The answer appropriately outlines comprehensive strategies a CEO could use to promote diversity and inclusion, demonstrating a good understanding of commitment and leadership expectations. However, it lacks specific personal leadership examples or evidence of direct impact on organizational culture, reflecting a theoretical rather than experiential perspective. Scores reflect a solid, capable CEO answer with room for stronger personal leadership demonstration and measurable cultural impact.\"}",
+  "scores": {
+    "Commitment to Diversity": 100,
+    "Leadership Action": 85,
+    "Impact on Culture": 80
+  },
+  "total": 88.3,
+  "comments": "The answer appropriately outlines comprehensive strategies a CEO could use to promote diversity and inclusion, demonstrating a good understanding of commitment and leadership expectations. However, it lacks specific personal leadership examples or evidence of direct impact on organizational culture, reflecting a theoretical rather than experiential perspective. Scores reflect a solid, capable CEO answer with room for stronger personal leadership demonstration and measurable cultural impact."
+}

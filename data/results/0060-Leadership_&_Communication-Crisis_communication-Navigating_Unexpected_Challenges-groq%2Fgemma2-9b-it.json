@@ -1,0 +1,14 @@
+{
+  "question_id": "0060-Leadership_&_Communication-Crisis_communication-Navigating_Unexpected_Challenges",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"proactivity\":130,\"clarity_of_communication\":125,\"stakeholder_confidence\":120,\"overall_score\":125,\"comments\":\"The response demonstrates a highly proactive approach by outlining detailed preparation and prevention strategies, including risk assessment and crisis planning. Communication clarity is strong, emphasizing transparent, timely, and consistent messaging to all stakeholders. Stakeholder confidence is well addressed by showing commitment to honesty and trust-building during crises. Overall, this reflects exceptional leadership qualities typical of a top-tier CEO facing unforeseen crises.\"}",
+  "scores": {
+    "Proactivity": 130,
+    "Clarity of Communication": 125,
+    "Stakeholder Confidence": 120
+  },
+  "total": 125.0,
+  "comments": "The response demonstrates a highly proactive approach by outlining detailed preparation and prevention strategies, including risk assessment and crisis planning. Communication clarity is strong, emphasizing transparent, timely, and consistent messaging to all stakeholders. Stakeholder confidence is well addressed by showing commitment to honesty and trust-building during crises. Overall, this reflects exceptional leadership qualities typical of a top-tier CEO facing unforeseen crises."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0112-Leadership_&_Communication-Crisis_communication-Adapting_Messaging_in_Rapidly_Evolving_Situations",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"responsiveness\":115,\"clarity\":120,\"empathy\":110,\"overall_score\":115,\"comments\":\"The answer comprehensively addresses how a CEO tailors messaging during unexpected crises, emphasizing transparency, clarity, empathy, and proactive communication. It highlights regular updates, honesty about limitations, and seeking feedback, demonstrating high responsiveness. The messaging approach is clear and structured, minimizing confusion. Empathy is well represented through acknowledging stakeholder concerns and prioritizing wellbeing. Overall, the response reflects strong leadership qualities in crisis communication.\"}",
+  "scores": {
+    "Responsiveness": 115,
+    "Clarity": 120,
+    "Empathy": 110
+  },
+  "total": 115.0,
+  "comments": "The answer comprehensively addresses how a CEO tailors messaging during unexpected crises, emphasizing transparency, clarity, empathy, and proactive communication. It highlights regular updates, honesty about limitations, and seeking feedback, demonstrating high responsiveness. The messaging approach is clear and structured, minimizing confusion. Empathy is well represented through acknowledging stakeholder concerns and prioritizing wellbeing. Overall, the response reflects strong leadership qualities in crisis communication."
+}

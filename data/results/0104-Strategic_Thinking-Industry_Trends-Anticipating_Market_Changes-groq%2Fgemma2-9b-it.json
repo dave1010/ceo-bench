@@ -1,0 +1,14 @@
+{
+  "question_id": "0104-Strategic_Thinking-Industry_Trends-Anticipating_Market_Changes",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Strategic Thinking",
+  "subtopic": "Industry Trends",
+  "raw": "{\"market_awareness\":130,\"proactiveness\":125,\"strategic_preparedness\":130,\"overall_score\":128.3,\"comments\":\"The CEO demonstrates an exceptional understanding of emerging industry trends through continuous information gathering and expert networking, reflecting high market awareness. Their proactive approach is evident in early trend identification, customer feedback integration, and fostering innovation to act ahead of competitors. The adaptive strategy, scenario planning, organizational agility, and emphasis on talent development showcase strategic preparedness well above average. These combined qualities suggest a leadership effectiveness closer to a 'genius' level performance.\"}",
+  "scores": {
+    "Market Awareness": 130,
+    "Proactiveness": 125,
+    "Strategic Preparedness": 130
+  },
+  "total": 128.3,
+  "comments": "The CEO demonstrates an exceptional understanding of emerging industry trends through continuous information gathering and expert networking, reflecting high market awareness. Their proactive approach is evident in early trend identification, customer feedback integration, and fostering innovation to act ahead of competitors. The adaptive strategy, scenario planning, organizational agility, and emphasis on talent development showcase strategic preparedness well above average. These combined qualities suggest a leadership effectiveness closer to a 'genius' level performance."
+}

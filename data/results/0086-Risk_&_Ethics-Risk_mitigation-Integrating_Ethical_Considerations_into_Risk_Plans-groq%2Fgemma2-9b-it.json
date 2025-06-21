@@ -1,0 +1,14 @@
+{
+  "question_id": "0086-Risk_&_Ethics-Risk_mitigation-Integrating_Ethical_Considerations_into_Risk_Plans",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Risk & Ethics",
+  "subtopic": "Risk mitigation",
+  "raw": "{\"ethical_awareness\":100,\"integration\":95,\"influence\":90,\"overall_score\":95,\"comments\":\"The answer provides a thoughtful and comprehensive overview of the factors to consider when evaluating a CEO's ethical incorporation in risk mitigation. It demonstrates clear ethical awareness and suggests how integration and influence might be assessed, but stops short of directly assessing a specific CEO's performance. Scores reflect a strong conceptual understanding with room for more direct application.\"}",
+  "scores": {
+    "Ethical Awareness": 100,
+    "Integration": 95,
+    "Influence": 90
+  },
+  "total": 95.0,
+  "comments": "The answer provides a thoughtful and comprehensive overview of the factors to consider when evaluating a CEO's ethical incorporation in risk mitigation. It demonstrates clear ethical awareness and suggests how integration and influence might be assessed, but stops short of directly assessing a specific CEO's performance. Scores reflect a strong conceptual understanding with room for more direct application."
+}

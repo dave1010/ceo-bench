@@ -1,0 +1,14 @@
+{
+  "question_id": "0107-Operational_Excellence-Process_improvement-Cultivating_a_Culture_of_Continuous_Innovation",
+  "model": "groq/gemma2-9b-it",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"leadership\":130,\"engagement\":125,\"sustainability\":120,\"overall_score\":125.0,\"comments\":\"The answer showcases strong leadership by emphasizing leading through example, empowerment, and recognition of employees' contributions. It effectively fosters engagement via open feedback channels and collaborative platforms for idea sharing. Sustainability is addressed through ongoing skill development, a culture of learning from failure, and leveraging technology to track and sustain improvements. Overall, this demonstrates a high level of leadership quotient appropriate for an exceptional CEO.\"}",
+  "scores": {
+    "Leadership": 130,
+    "Engagement": 125,
+    "Sustainability": 120
+  },
+  "total": 125.0,
+  "comments": "The answer showcases strong leadership by emphasizing leading through example, empowerment, and recognition of employees' contributions. It effectively fosters engagement via open feedback channels and collaborative platforms for idea sharing. Sustainability is addressed through ongoing skill development, a culture of learning from failure, and leveraging technology to track and sustain improvements. Overall, this demonstrates a high level of leadership quotient appropriate for an exceptional CEO."
+}
