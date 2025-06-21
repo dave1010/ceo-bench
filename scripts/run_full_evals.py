@@ -11,6 +11,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+from model_utils import encode_model_name
+
 DATA_DIR = Path("data")
 QUESTIONS_DIR = DATA_DIR / "questions"
 ANSWERS_DIR = DATA_DIR / "answers"
@@ -49,7 +51,8 @@ def main() -> None:
     questions = sorted(QUESTIONS_DIR.glob("*.yaml"))
 
     for model in args.models:
-        model_answer_dir = ANSWERS_DIR / model
+        safe_model = encode_model_name(model)
+        model_answer_dir = ANSWERS_DIR / safe_model
         model_answer_dir.mkdir(parents=True, exist_ok=True)
         for qfile in questions:
             answer_path = model_answer_dir / f"{qfile.stem}.txt"
@@ -64,7 +67,7 @@ def main() -> None:
             else:
                 print(f"Skipping answer for {qfile.stem} ({model})")
 
-            result_path = RESULTS_DIR / f"{qfile.stem}-{model}.json"
+            result_path = RESULTS_DIR / f"{qfile.stem}-{safe_model}.json"
             if args.rerun_grade or not result_path.exists():
                 run([
                     sys.executable,

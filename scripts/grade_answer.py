@@ -11,6 +11,8 @@ import subprocess
 from pathlib import Path
 import yaml
 
+from model_utils import encode_model_name
+
 DATA_DIR = Path("data")
 
 from make_grading_prompt import build_prompt, DEFAULT_TEMPLATE
@@ -65,7 +67,8 @@ def main() -> None:
         parsed = None
 
     RESULTS_DIR.mkdir(exist_ok=True)
-    outfile = RESULTS_DIR / f"{args.answer.stem}-{args.model}.json"
+    safe_model = encode_model_name(args.model)
+    outfile = RESULTS_DIR / f"{args.answer.stem}-{safe_model}.json"
     record = {
         "question_id": args.question.stem,
         "model": args.model,
