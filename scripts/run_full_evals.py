@@ -39,6 +39,11 @@ def main() -> None:
         action="store_true",
         help="Regenerate grading even if results already exist",
     )
+    parser.add_argument(
+        "--grading-model",
+        default="gpt-4.1-mini",
+        help="Model used for grading",
+    )
     args = parser.parse_args()
 
     questions = sorted(QUESTIONS_DIR.glob("*.yaml"))
@@ -63,11 +68,13 @@ def main() -> None:
             if args.rerun_grade or not result_path.exists():
                 run([
                     sys.executable,
-                    str(SCRIPTS_DIR / "grade_answers.py"),
+                    str(SCRIPTS_DIR / "grade_answer.py"),
                     str(qfile),
                     str(answer_path),
                     "--model",
                     model,
+                    "--grading-model",
+                    args.grading_model,
                 ])
             else:
                 print(f"Skipping grading for {qfile.stem} ({model})")
