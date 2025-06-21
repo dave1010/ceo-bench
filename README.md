@@ -46,6 +46,20 @@ This isa done in 2 parts:
 
 `grade_answers.py` runs the grading prompt with `llm` using a JSON schema so the scores are parsed and written to `data/results`.
 
+#### Running the full pipeline
+
+`run_full_evals.py` ties everything together. It loops over all question files
+for the models you specify, generates missing answers, grades them and then
+updates the leaderboard.
+
+Example:
+
+```bash
+python scripts/run_full_evals.py --models gpt-4.1-nano gpt-4.1-mini
+```
+
+Use `--rerun-answer` or `--rerun-grade` to force regeneration.
+
 #### Updating the leaderboard
 
 Results are aggregated into `data/leaderboard` using `aggregate_results.py`.
