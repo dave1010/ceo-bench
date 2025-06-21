@@ -53,7 +53,9 @@ tests/        Pytest unit tests
 dev/          Development notes and WIP documents
 ```
 
-`ROADMAP.md` tracks ongoing implementation tasks. Run the Python tests with:
+`ROADMAP.md` tracks ongoing implementation tasks.
+
+Run the Python tests with:
 
 ```bash
 pytest
