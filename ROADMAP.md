@@ -44,7 +44,7 @@ TODO: everything not already marked DONE below
 ### phase 4 Leaderboard
 
 * DONE write script to turn results into leaderboard data
-* make leaderboard display in Next.js app, updating on deploy
+* DONE make leaderboard display in Next.js app, updating on deploy
 * make fancy charts (bar chart and IQ curve), including human baseline range
 
 ### phase 5 Analysis / evaluation of findings / interpretation
