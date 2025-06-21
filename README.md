@@ -82,7 +82,6 @@ The `app/` directory contains a small Next.js project that displays the leaderbo
 npm install
 npm run dev
 ```
-
 The site is deployed via Vercel and is updated whenever the `main` branch changes.
 
 ## License
