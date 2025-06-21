@@ -20,7 +20,18 @@ export default function OverallBarChart({ rows }: Props) {
   if (!rows.length) return null
   const ordered = [...rows].sort((a, b) => Number(b.overall) - Number(a.overall))
   const labels = ['Overall']
-  const colors = ['#4dc9f6', '#f67019', '#f53794', '#537bc4', '#acc236']
+  const colors = [
+    '#4dc9f6',
+    '#f67019',
+    '#f53794',
+    '#537bc4',
+    '#acc236',
+    '#166a8f',
+    '#00a950',
+    '#58595b',
+    '#8549ba',
+    '#b50808',
+  ]
 
   const datasets: ChartDataset<'bar' | 'line', number[]>[] = ordered.map((row, idx) => {
     const dataset: ChartDataset<'bar', number[]> = {
@@ -35,13 +46,11 @@ export default function OverallBarChart({ rows }: Props) {
 
   datasets.push({
     label: 'Human CEO',
-    type: 'line',
     data: [100],
-    borderColor: '#888',
-    borderDash: [4, 4],
+    backgroundColor: colors[datasets.length % colors.length],
+    borderColor: 'black',
     borderWidth: 2,
-    pointRadius: 0,
-  } as ChartDataset<'line', number[]>)
+  } as ChartDataset<'bar', number[]>)
 
   const data: ChartData<'bar' | 'line', number[], string> = { labels, datasets }
 

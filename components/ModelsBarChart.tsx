@@ -23,7 +23,18 @@ export default function ModelsBarChart({ rows }: Props) {
   const topics = Object.keys(ordered[0]).filter(k => !['model','model_name','overall','n'].includes(k))
   const labels = ['Overall', ...topics]
 
-  const colors = ['#4dc9f6', '#f67019', '#f53794', '#537bc4', '#acc236']
+  const colors = [
+    '#4dc9f6',
+    '#f67019',
+    '#f53794',
+    '#537bc4',
+    '#acc236',
+    '#166a8f',
+    '#00a950',
+    '#58595b',
+    '#8549ba',
+    '#b50808',
+  ]
 
   const datasets: ChartDataset<'bar' | 'line', number[]>[] = ordered.map((row, idx) => {
     const dataset: ChartDataset<'bar', number[]> = {
