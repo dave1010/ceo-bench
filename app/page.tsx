@@ -65,7 +65,7 @@ export default async function Component() {
 
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="py-20 md:py-32 bg-gradient-to-b from-slate-50 to-white">
+        <section className="py-20 md:py-32 bg-gradient-to-b from-indigo-50 via-sky-50 to-white">
           <div className="container px-4 md:px-6">
             <div className="max-w-4xl mx-auto text-center space-y-8">
               <div className="space-y-4">
@@ -74,7 +74,7 @@ export default async function Component() {
                 </Badge>
                 <h1 className="text-4xl md:text-6xl font-bold text-slate-900 leading-tight">
                   Can AI Replace the
-                  <span className="text-slate-700"> C-Suite?</span>
+                  <span className="bg-gradient-to-r from-fuchsia-600 to-cyan-600 text-transparent bg-clip-text"> C-Suite?</span>
                 </h1>
                 <p className="text-xl md:text-2xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
                   CEO Bench is an open benchmark measuring how well large language models tackle
@@ -82,7 +82,11 @@ export default async function Component() {
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-                <Button size="lg" asChild className="bg-slate-900 hover:bg-slate-800">
+                <Button
+                  size="lg"
+                  asChild
+                  className="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white"
+                >
                   <Link href="#leaderboard" className="flex items-center space-x-2">
                     <Trophy className="w-5 h-5" />
                     <span>View Leaderboard</span>
