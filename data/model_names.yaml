@@ -11,10 +11,10 @@ model_names:
   gpt-4-32k: Open AI GPT-4 32K
   gpt-4-turbo: Open AI GPT-4 Turbo
   gpt-4.5-preview: Open AI GPT-4.5 Preview
-  o1: Open AI O1
-  o1-preview: Open AI O1 Preview
-  o1-mini: Open AI O1 Mini
-  o3-mini: Open AI O3 Mini
-  o3: Open AI O3
-  o4-mini: Open AI O4 Mini
+  o1: Open AI o1
+  o1-preview: Open AI o1 Preview
+  o1-mini: Open AI o1 Mini
+  o3-mini: Open AI o3 Mini
+  o3: Open AI o3
+  o4-mini: Open AI o4 Mini
   gpt-3.5-turbo-instruct: Open AI GPT-3.5 Turbo Instruct
