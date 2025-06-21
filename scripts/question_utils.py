@@ -31,15 +31,23 @@ def build_filename(qid: int, topic: str, subtopic: str, title: str) -> Path:
 
 
 def create_question(topic: str, subtopic: str) -> dict:
-    question_text = f"How would you approach the challenge of {subtopic.lower()}?"
+    question_text = (
+        f"How would you approach the challenge of {subtopic.lower()}?"
+    )
     return {
         "topic": topic,
         "subtopic": subtopic,
         "title": subtopic,
         "question": question_text,
         "rubric": [
-            {"dimension": "Clarity", "ideal": "Answer is clear and structured."},
-            {"dimension": "Insight", "ideal": "Demonstrates thoughtful reasoning."},
+            {
+                "dimension": "Clarity",
+                "ideal": "Answer is clear and structured.",
+            },
+            {
+                "dimension": "Insight",
+                "ideal": "Demonstrates thoughtful reasoning.",
+            },
         ],
     }
 
@@ -60,10 +68,16 @@ def existing_titles(topic: str, subtopic: str) -> list[str]:
     return titles
 
 
-def build_prompt(topic: str, subtopic: str, titles: list[str], template_file: Path) -> str:
+def build_prompt(
+    topic: str, subtopic: str, titles: list[str], template_file: Path
+) -> str:
     tmpl = template_file.read_text()
     joined = "\n".join(f"- {t}" for t in titles) if titles else "none"
-    return tmpl.format(topic=topic, subtopic=subtopic, existing_titles=joined)
+    return tmpl.format(
+        topic=topic,
+        subtopic=subtopic,
+        existing_titles=joined,
+    )
 
 
 def call_llm(prompt: str, model: str) -> str:
@@ -88,11 +102,20 @@ def extract_yaml(text: str) -> str:
     return text.strip()
 
 
-def create_question_llm(topic: str, subtopic: str, titles: list[str], model: str, template_file: Path) -> dict:
+def create_question_llm(
+    topic: str,
+    subtopic: str,
+    titles: list[str],
+    model: str,
+    template_file: Path,
+) -> dict:
     prompt = build_prompt(topic, subtopic, titles, template_file)
     text = call_llm(prompt, model)
     try:
         return yaml.safe_load(extract_yaml(text))
     except yaml.YAMLError:
-        print("Failed to parse YAML from llm output, falling back to placeholder question")
+        print(
+            "Failed to parse YAML from llm output, "
+            "falling back to placeholder question"
+        )
         return create_question(topic, subtopic)

@@ -1,7 +1,8 @@
 """Generate a text prompt from a question YAML file.
 
 Usage:
-    python make_question_prompt.py path/to/question.yaml [--template templates/question_prompt.txt]
+    python make_question_prompt.py path/to/question.yaml \
+        [--template templates/question_prompt.txt]
 """
 
 import argparse
@@ -22,9 +23,16 @@ def build_prompt(question_file: Path, template_file: Path) -> str:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Create prompt for an LLM")
+    parser = argparse.ArgumentParser(
+        description="Create prompt for an LLM"
+    )
     parser.add_argument("question", type=Path, help="Question YAML file")
-    parser.add_argument("--template", type=Path, default=DEFAULT_TEMPLATE, help="Prompt template")
+    parser.add_argument(
+        "--template",
+        type=Path,
+        default=DEFAULT_TEMPLATE,
+        help="Prompt template",
+    )
     args = parser.parse_args()
 
     prompt = build_prompt(args.question, args.template)

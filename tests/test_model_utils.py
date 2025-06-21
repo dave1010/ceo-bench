@@ -3,7 +3,7 @@ from pathlib import Path
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 
-from scripts.model_utils import encode_model_name, decode_model_name
+from scripts.model_utils import encode_model_name, decode_model_name  # noqa: E402
 
 
 def test_round_trip():
