@@ -24,7 +24,7 @@ export default async function Component() {
       <header className="border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 sticky top-0 z-50">
         <div className="container flex h-16 items-center justify-between px-4 md:px-6">
           <div className="flex items-center space-x-3">
-            <div className="flex items-center justify-center w-10 h-10 bg-slate-900 text-white rounded-lg font-bold text-lg">
+            <div className="flex items-center justify-center w-10 h-10 bg-primary text-primary-foreground rounded-lg font-bold text-lg">
               CEO
             </div>
             <div>
@@ -65,7 +65,7 @@ export default async function Component() {
 
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="py-20 md:py-32 bg-gradient-to-b from-slate-50 to-white">
+        <section className="py-20 md:py-32 bg-gradient-to-b from-purple-50 via-pink-50 to-white">
           <div className="container px-4 md:px-6">
             <div className="max-w-4xl mx-auto text-center space-y-8">
               <div className="space-y-4">
@@ -82,7 +82,7 @@ export default async function Component() {
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-                <Button size="lg" asChild className="bg-slate-900 hover:bg-slate-800">
+                <Button size="lg" asChild>
                   <Link href="#leaderboard" className="flex items-center space-x-2">
                     <Trophy className="w-5 h-5" />
                     <span>View Leaderboard</span>
@@ -289,7 +289,7 @@ export default async function Component() {
         <div className="container px-4 md:px-6">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex items-center space-x-3 mb-4 md:mb-0">
-              <div className="flex items-center justify-center w-8 h-8 bg-slate-900 text-white rounded font-bold text-sm">
+              <div className="flex items-center justify-center w-8 h-8 bg-primary text-primary-foreground rounded font-bold text-sm">
                 CEO
               </div>
               <span className="font-semibold text-slate-900">CEO Bench</span>
