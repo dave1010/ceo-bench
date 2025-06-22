@@ -1,0 +1,14 @@
+{
+  "question_id": "0093-Innovation_&_Growth-Technology_adoption-Accelerating_Digital_Transformation",
+  "model": "o3",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"leadership_in_technology_adoption\":135,\"strategy_alignment\":130,\"change_management\":125,\"overall_score\":130,\"comments\":\"The CEO exhibits strong proactive leadership by personally chairing the Digital & Technology Committee and tying executive incentives to digital KPIs, signaling clear commitment and effective mobilization of resources. The digital transformation roadmap is well-aligned with business growth targets, focusing on measurable ROI and NPS improvements, showcasing excellent strategy alignment. Change management is solid, demonstrated by high rates of digital upskilling, embedded agile squads integrating with business units, and fostering innovation partnerships, indicating a culture receptive to change. The overall approach positions the company well to achieve ambitious digital revenue and cloud-native operation targets.\"}",
+  "scores": {
+    "Leadership in Technology Adoption": 135,
+    "Strategy Alignment": 130,
+    "Change Management": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO exhibits strong proactive leadership by personally chairing the Digital & Technology Committee and tying executive incentives to digital KPIs, signaling clear commitment and effective mobilization of resources. The digital transformation roadmap is well-aligned with business growth targets, focusing on measurable ROI and NPS improvements, showcasing excellent strategy alignment. Change management is solid, demonstrated by high rates of digital upskilling, embedded agile squads integrating with business units, and fostering innovation partnerships, indicating a culture receptive to change. The overall approach positions the company well to achieve ambitious digital revenue and cloud-native operation targets."
+}

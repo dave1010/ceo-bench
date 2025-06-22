@@ -1,0 +1,31 @@
+Chosen course of action  
+I will install a single, company-wide Market-Entry Program Office (MEPO) that owns the launch, reports directly to me, and works to a 180-day, metric-driven plan with shared incentives for every functional lead.
+
+Why and how it works  
+
+1. One throat to choke, one flag to follow  
+   • I appoint a General Manager—drawn from our top performers and given P&L authority—to chair the MEPO.  
+   • Every critical discipline (Product, Engineering, Marketing, Sales, Customer Success, Finance, Legal, HR, Ops) assigns a director-level “Launch Lead” who retains full decision rights for that function inside the program.  
+   • The GM and I co-sign a concise Charter that names a North-Star KPI (e.g., $10 M ARR in 12 months) and three supporting OKRs. This eliminates silos because all teams are chasing the same scoreboard.
+
+2. 30-60-90-day playbook and cadence  
+   • In week 1 we publish a 30-60-90-day Gantt with inter-dependencies visible in Asana/Jira.  
+   • Daily 15-minute “scrum of scrums” keeps micro-tasks unblocked.  
+   • Weekly MEPO review (1 hour) tackles cross-functional collisions.  
+   • Monthly “CEO SteerCo” (myself + GM + all Launch Leads) authorizes any scope, budget or timeline changes on the spot. No waiting.
+
+3. Shared incentives that pay out only if we win together  
+   • A 20 % launch bonus pool is split 50 % on the collective North-Star KPI and 50 % on functional OKRs.  
+   • Equity refresh for Launch Leads vests on market-entry milestones.  
+   • This dual trigger ensures no one optimizes their silo at the expense of the whole.
+
+4. Radical transparency and fast learning  
+   • A real-time Tableau dashboard on the office wall (and intranet) shows KPI progress, customer feedback, burn-down charts and budget.  
+   • Post-mortems after every sprint capture lessons; the MEPO wiki becomes the playbook for future geographies.
+
+5. Culture of recognition and purpose  
+   • I kick off the program in an all-hands, linking the new market to our mission and personal careers.  
+   • Bi-weekly “Win Minutes” celebrate cross-team achievements—a closed-won pilot, a regulatory approval, a supply-chain milestone—reinforcing collaboration.
+
+Result  
+This structure aligns authority, information flow and incentives across disciplines. It keeps execution velocity high, makes trade-offs in real time, and ensures every team member sees both the goal and their stake in achieving it.

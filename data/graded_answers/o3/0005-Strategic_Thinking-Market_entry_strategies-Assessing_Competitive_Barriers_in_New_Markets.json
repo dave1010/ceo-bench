@@ -1,0 +1,14 @@
+{
+  "question_id": "0005-Strategic_Thinking-Market_entry_strategies-Assessing_Competitive_Barriers_in_New_Markets",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"analytical_skills\":135,\"strategic_planning\":140,\"risk_management\":138,\"overall_score\":138,\"comments\":\"The response exhibits exceptional analytical skills by comprehensively evaluating competitive and regulatory barriers through multiple detailed frameworks, including Porter's Five Forces, IP landscape scans, and scenario planning for regulatory drift. The strategic planning is outstanding, laying out a phased joint venture approach with clear milestones, structured partnership deals, and proactive regulatory engagement. Risk management is expertly addressed through financial hedging, compliance-by-design, and built-in exit ramps, reflecting a sophisticated understanding of balancing risk and opportunity in international expansion. Overall, the answer demonstrates a genius-level leader's approach to complex market entry challenges.\"}",
+  "scores": {
+    "Analytical skills": 135,
+    "Strategic planning": 140,
+    "Risk management": 138
+  },
+  "total": 138.0,
+  "comments": "The response exhibits exceptional analytical skills by comprehensively evaluating competitive and regulatory barriers through multiple detailed frameworks, including Porter's Five Forces, IP landscape scans, and scenario planning for regulatory drift. The strategic planning is outstanding, laying out a phased joint venture approach with clear milestones, structured partnership deals, and proactive regulatory engagement. Risk management is expertly addressed through financial hedging, compliance-by-design, and built-in exit ramps, reflecting a sophisticated understanding of balancing risk and opportunity in international expansion. Overall, the answer demonstrates a genius-level leader's approach to complex market entry challenges."
+}

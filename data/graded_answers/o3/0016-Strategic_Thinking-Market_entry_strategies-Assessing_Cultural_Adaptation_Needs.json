@@ -1,0 +1,14 @@
+{
+  "question_id": "0016-Strategic_Thinking-Market_entry_strategies-Assessing_Cultural_Adaptation_Needs",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"cultural_awareness\":135,\"flexibility_in_approach\":130,\"stakeholder_engagement\":128,\"overall_score\":131,\"comments\":\"The answer demonstrates a comprehensive and systematic approach to incorporating cultural differences through a structured 'Cultural Intelligence Playbook.' It reflects deep cultural awareness by integrating both quantitative and ethnographic data, clearly understanding local customs and consumer behaviors. The flexibility dimension is strong, with adaptive frameworks and rapid prototyping tailored to local markets, ensuring effective localization without losing global consistency. Stakeholder engagement is robust, involving local hires, cultural consultants, advisory boards, and executive sponsorship to ensure accountability and culturally informed decisions. Overall, the plan is exceptionally well-thought-out and likely to drive superior market entry outcomes.\"}",
+  "scores": {
+    "Cultural Awareness": 135,
+    "Flexibility in Approach": 130,
+    "Stakeholder Engagement": 128
+  },
+  "total": 131.0,
+  "comments": "The answer demonstrates a comprehensive and systematic approach to incorporating cultural differences through a structured 'Cultural Intelligence Playbook.' It reflects deep cultural awareness by integrating both quantitative and ethnographic data, clearly understanding local customs and consumer behaviors. The flexibility dimension is strong, with adaptive frameworks and rapid prototyping tailored to local markets, ensuring effective localization without losing global consistency. Stakeholder engagement is robust, involving local hires, cultural consultants, advisory boards, and executive sponsorship to ensure accountability and culturally informed decisions. Overall, the plan is exceptionally well-thought-out and likely to drive superior market entry outcomes."
+}

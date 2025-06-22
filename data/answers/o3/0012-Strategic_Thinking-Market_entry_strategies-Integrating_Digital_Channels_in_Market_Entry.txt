@@ -1,0 +1,33 @@
+Decisive course of action  
+I will launch our “Digital-First, Hyper-local Playbook” for the new region: a 12-month, data-driven program that uses digital channels both to learn and to sell, allowing us to enter fast, adapt in real time, and out-flank entrenched competitors.
+
+Why this course  
+1. Digital touchpoints are now the lowest-cost, fastest-feedback way to read unmet needs, test propositions, and reach customers at scale.  
+2. By localizing every digital element—language, influencers, payment methods, social platforms—we meet customers on their terms, not ours.  
+3. Competitors are already present offline; a superior, analytically optimized online experience is the clearest white-space to win share quickly.
+
+Execution blueprint
+
+Phase 1 – Intelligence & soft-launch (Months 0-3)  
+• Deploy social listening, search-trend mining, and programmatic scraping to map demand pockets and competitor gaps.  
+• Spin up a geofenced, local-language microsite and run A/B-tested ad traffic (USD 150 k) to validate the three most promising value propositions.  
+• Form partnerships with the top two local e-commerce marketplaces to benefit from their built-in trust and logistics.
+
+Phase 2 – Launch & accelerate (Months 4-8)  
+• Scale winners via a 70/20/10 digital-media budget split: 70 % performance marketing (search, paid social, marketplace ads), 20 % brand storytelling, 10 % experimental (e.g., AR try-ons).  
+• Local influencer/KOL program: 15 mid-tier creators on native platforms (e.g., LINE in Thailand, WeChat in China, Instagram in MENA) releasing co-created content weekly.  
+• Offer region-preferred payment options (mobile wallets, cash-on-delivery) and localized customer-service chatbots.  
+• Launch a “digital-only” product bundle priced 8 % under the nearest competitor to trigger trial while protecting core margin.
+
+Phase 3 – Deepen moat (Months 9-12)  
+• Build a first-party data lake from site, marketplace, and app behavior; feed it into look-alike models to cut acquisition CAC by 15 %.  
+• Introduce a loyalty app with referral rewards; goal: 40 % of sales from repeat customers by month 12.  
+• Integrate online and offline: click-and-collect in high-traffic malls, pop-up events promoted via geo-targeted push.  
+• Quarterly war-room reviews to re-allocate spend in real time and front-run competitor moves.
+
+Governance & metrics  
+• Regional Digital GM with P&L mandate; weekly dashboard on CAC, conversion, repeat rate, share-of-voice.  
+• Exit criteria: breakeven in month 10, 5 % market share and NPS ≥ 50 by month 12; if not on track by month 6, pivot or pull.
+
+Bottom line  
+This playbook lets us enter the market with precision, build brand equity before heavy fixed costs, and create a data advantage competitors cannot easily copy—all while tailoring every move to local customer behavior.

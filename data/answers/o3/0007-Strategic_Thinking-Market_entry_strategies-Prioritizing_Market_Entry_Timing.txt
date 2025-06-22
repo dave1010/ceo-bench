@@ -1,0 +1,17 @@
+Course of Action  
+I will institutionalize a “Strike-Zone” framework that tells us precisely when to pull the trigger on any new-market entry. It has four gates—Demand, Right-to-Win, Cost of Delay, and Risk Cushion—and we enter only when at least three of the four gates are solid green.  
+
+Why This Works  
+1. Demand Gate – We track a leading-indicator scorecard (search trends, pilot-customer LOIs, regulatory tailwinds). The moment the TAM shows a 15 % CAGR run-rate and we have pre-orders covering the first 18 months of capacity, the gate turns green.  
+2. Right-to-Win Gate – We require a minimum 2-year technology or cost advantage validated by third-party benchmarking and a defensible IP/partnership moat (e.g., exclusive supply contracts). If we do not clearly beat the top two incumbents on at least one critical buying factor, we wait or acquire.  
+3. Cost-of-Delay Gate – Finance models how much NPV we lose per quarter of inaction versus the incremental capital at risk. If the lost NPV exceeds 1.5 × the capital at risk, delay is too expensive and the gate flips green.  
+4. Risk-Cushion Gate – We maintain a liquidity buffer equal to 2× the projected cash burn to survive worst-case adoption lags. The gate is green only when that cushion is funded.
+
+Execution Steps  
+• Q1: Stand up a Market Sensing Cell (three analysts + one BD lead) reporting to me.  
+• Q2: Produce the first Strike-Zone dashboard for our top three target markets; update monthly.  
+• Q3: Run limited pilots with lighthouse customers to hard-validate Gates 1 and 2.  
+• Board Approval: We only seek cap-ex release when three gates are green; otherwise we continue to learn cheaply.
+
+Outcome  
+This approach codifies discipline, prevents both premature entry (burning cash before the market is ready) and late entry (forfeiting strategic ground), and aligns every function on a single, quantifiable “go” signal. It maximizes competitive advantage by ensuring we arrive exactly when the market is big enough to scale but not yet crowded, and it protects long-term growth by gating spend behind clear, data-backed thresholds.

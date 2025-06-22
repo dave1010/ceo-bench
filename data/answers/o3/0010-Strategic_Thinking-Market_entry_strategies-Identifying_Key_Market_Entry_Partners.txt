@@ -1,0 +1,59 @@
+Decisive course of action
+
+I will launch a 90-day Partner Identification & Validation Sprint led by a cross-functional “New-Region Tiger Team” that reports directly to me. The sprint will produce (a) a ranked short-list of two to three partner candidates and (b) a go/no-go recommendation for each, backed by data.  
+
+Why this approach works
+
+• Speed with control – A time-boxed sprint keeps us from drifting, while the scorecard and diligence gates protect against a rushed, bad marriage.  
+• Cross-functional insight – Sales, product, ops, finance, legal and HR sit at the same table to ensure we evaluate the full value chain, not just distribution.  
+• Repeatable playbook – The framework becomes our template for every future market entry.
+
+Execution plan
+
+1. Define the “job to be done” (Week 1)  
+   • Clarify the exact gaps a partner must fill: distribution reach, regulatory licensing, manufacturing capacity, after-sales service, or brand credibility.  
+   • Translate gaps into non-negotiable criteria (e.g., must cover ≥50 % of TAM in 12 months; ISO-certified plant; government relations capability).
+
+2. Build the long list (Weeks 1-2)  
+   • Sources: industry associations, top customers’ vendor lists, private-equity portfolios, trade-mission databases, and referrals from our Board/investors.  
+   • Require basic data pack: revenue, market share, channel coverage, key exec bios.
+
+3. Initial fit scoring (Week 2)  
+   Weighted scorecard (100-point scale):  
+   30 pts = Market access & channel strength  
+   20 pts = Regulatory / licensing competence  
+   15 pts = Cultural & strategic alignment  
+   15 pts = Operational capability & quality systems  
+   10 pts = Financial health & investment capacity  
+   10 pts = Reputation & ESG record  
+   Long list cut from ~30 to 5–6 candidates.
+
+4. Deep-dive diligence (Weeks 3-6)  
+   • Financial audit lite; customer and supplier reference checks; site visits.  
+   • Legal: litigation search, compliance history, IP ownership clarity.  
+   • Cultural fit: leadership workshops, joint problem-solving session.  
+   • Outcome: red/amber/green risk map and quantified synergy estimate.
+
+5. Executive alignment & negotiation prep (Weeks 6-8)  
+   • For the top three, draft a partnership model—JV, reseller, licensing, or acquisition target.  
+   • Build a value creation model showing revenue lift, cost to serve, and time to breakeven.
+
+6. Final selection & term-sheet (Weeks 9-10)  
+   • Present Tiger Team recommendation to me and the Board’s Strategy Committee.  
+   • Secure conditional approval and negotiating mandate.  
+   • Issue an exclusivity letter while we negotiate the definitive agreement.
+
+7. Pilot & prove (Weeks 11-90)  
+   • 6-month milestone-based pilot in one sub-region or product line.  
+   • Metrics: sales ramp, gross margin impact, NPS, regulatory milestones.  
+   • Go/no-go/scale-up decision at day 90.
+
+Decision criteria for the final go-live
+
+1. Meets ≥90 % of scorecard threshold.  
+2. Pilot hits 80 % of revenue target and all compliance targets.  
+3. Joint governance and exit terms are contractually locked.
+
+If none of the candidates clears the bar, we will pause and consider a greenfield build-out or a small tuck-in acquisition instead.
+
+By using this disciplined yet accelerated process, we de-risk entry, preserve strategic flexibility, and ensure we land in the new region with a partner that can actually deliver growth, not just promises.

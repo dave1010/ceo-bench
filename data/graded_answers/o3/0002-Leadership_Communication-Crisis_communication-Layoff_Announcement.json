@@ -1,0 +1,14 @@
+{
+  "question_id": "0002-Leadership_Communication-Crisis_communication-Layoff_Announcement",
+  "model": "o3",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"empathy\":130,\"transparency\":135,\"tone\":130,\"overall_score\":132.0,\"comments\":\"The announcement demonstrates a high level of empathy by acknowledging the difficulty of the decision, providing support details for affected employees, and encouraging ongoing support among remaining employees. Transparency is strong, as the rationale behind the reduction, specifics about the process, and next steps including leadership meetings and town halls are clearly communicated. The tone remains respectful, professional, and motivating, emphasizing resilience and future opportunities, which supports morale despite the negative news. Overall, the message scores exceptionally well across all dimensions.\"}",
+  "scores": {
+    "Empathy": 130,
+    "Transparency": 135,
+    "Tone": 130
+  },
+  "total": 132.0,
+  "comments": "The announcement demonstrates a high level of empathy by acknowledging the difficulty of the decision, providing support details for affected employees, and encouraging ongoing support among remaining employees. Transparency is strong, as the rationale behind the reduction, specifics about the process, and next steps including leadership meetings and town halls are clearly communicated. The tone remains respectful, professional, and motivating, emphasizing resilience and future opportunities, which supports morale despite the negative news. Overall, the message scores exceptionally well across all dimensions."
+}

@@ -1,0 +1,35 @@
+My course of action
+
+I will institutionalize “always-better, always-new” as a core operating system, not an initiative.  We will drive it through five mutually-reinforcing moves that begin immediately and are tracked on my scorecard.
+
+1. Hard-wire it into the strategy and P&L  
+   • Every business line’s annual plan will include an “Improve” target (productivity or quality delta) and an “Invent” target (revenue or NPV from new products / models).  
+   • 2 % of EBIT is ring-fenced as an Innovation & Continuous Improvement (CI) fund; every GM must compete for that capital with quantified business cases.
+
+2. Build the architecture – the “HOW”  
+   • Lean-Agile playbook: all teams are trained in Lean problem solving, Agile sprints and Design Thinking within 90 days.  
+   • An enterprise digital platform (“Spark”) captures ideas, makes them transparent, and tracks them to implementation ROI.  
+   • A cross-functional Innovation Council (chaired by the CTO and myself) meets monthly to green-light or kill ideas fast; decisions are published within 48 h.
+
+3. Empower the people who see the problems first  
+   • Front-line Kaizen: every site runs weekly 30-minute Kaizen huddles; supervisors have mandate to spend up to $5k on quick experiments without additional approval.  
+   • “10 % time” principle: salaried employees can devote half-a-day per week to experimentation linked to team OKRs.
+
+4. Make it safe—and rewarding—to try, learn and scale  
+   • Quarterly “Fail-Forward Forums” where teams showcase experiments that did NOT work and what was learned; I open every forum.  
+   • Variable pay for all leaders now includes a 20 % weight on CI/innovation KPIs (participation, cycle time, value realized).  
+   • Hall-of-Fame recognition and equity grants for ideas that deliver ≥$1 m in value.
+
+5. Measure, publish, and celebrate relentlessly  
+   • Enterprise dashboard shows number of ideas submitted, conversion rate to implementation, and financial impact; visible to every employee.  
+   • We will publicly announce annual innovation targets in the shareholder letter and report progress just like revenue or safety.
+
+Why this course
+
+• It aligns innovation with the core engine of the company—strategy, capital, incentives—rather than treating it as a side project.  
+• It democratizes improvement; the people closest to customers and processes own the work.  
+• It creates speed and learning loops (Lean-Agile, 48-hour decisions, small-budget experiments) that outpace competitors.  
+• By tying rewards, visibility and psychological safety to experimentation, we sustain the behavior long after the launch excitement fades.  
+• Clear metrics and transparency keep me, the board and every employee accountable for progress.
+
+With these five moves we will make continuous improvement and innovation not a department, but the way we run the company every single day.

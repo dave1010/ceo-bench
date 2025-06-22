@@ -1,0 +1,14 @@
+{
+  "question_id": "0028-Operational_Excellence-Resource_optimization-Cross-Functional_Collaboration_Efficiency",
+  "model": "o3",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"collaboration_leadership\":130,\"resource_alignment\":125,\"innovation_in_resource_use\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates strong collaboration leadership by institutionalizing cross-functional planning, integrated reviews, and joint OKRs tied to budget release, effectively promoting interdepartmental communication and alignment. Resource alignment is robust, with a single operating plan and unified project management platform ensuring transparency and strategic allocation. Innovation is evident in incentive structures for resource sharing and the adoption of a unified project management tool, fostering efficiency and reducing duplication. The approach is comprehensive, data-driven, and designed for continuous improvement, reflecting exceptional leadership in optimizing resources.\"}",
+  "scores": {
+    "Collaboration Leadership": 130,
+    "Resource Alignment": 125,
+    "Innovation in Resource Use": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates strong collaboration leadership by institutionalizing cross-functional planning, integrated reviews, and joint OKRs tied to budget release, effectively promoting interdepartmental communication and alignment. Resource alignment is robust, with a single operating plan and unified project management platform ensuring transparency and strategic allocation. Innovation is evident in incentive structures for resource sharing and the adoption of a unified project management tool, fostering efficiency and reducing duplication. The approach is comprehensive, data-driven, and designed for continuous improvement, reflecting exceptional leadership in optimizing resources."
+}

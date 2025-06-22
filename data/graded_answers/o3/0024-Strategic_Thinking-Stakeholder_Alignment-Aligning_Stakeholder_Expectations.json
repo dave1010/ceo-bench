@@ -1,0 +1,14 @@
+{
+  "question_id": "0024-Strategic_Thinking-Stakeholder_Alignment-Aligning_Stakeholder_Expectations",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder Alignment",
+  "raw": "{\"communication_clarity\":130,\"negotiation_skill\":125,\"relationship_building\":135,\"overall_score\":130,\"comments\":\"The answer excellently articulates a clear, structured strategic approach to stakeholder alignment, showcasing a high level of communication clarity. The systematic and transparent methods described demonstrate strong negotiation skills by balancing diverse interests through measurable and incentivized outcomes. The emphasis on regular summits, inclusive representation, and integrated reporting highlights exceptional relationship-building capabilities, fostering trust and collaboration across stakeholders. The proposed 'Stakeholder Alignment Operating System' reflects innovative, scalable leadership with a sustained impact on organizational performance.\"}",
+  "scores": {
+    "Communication Clarity": 130,
+    "Negotiation Skill": 125,
+    "Relationship Building": 135
+  },
+  "total": 130.0,
+  "comments": "The answer excellently articulates a clear, structured strategic approach to stakeholder alignment, showcasing a high level of communication clarity. The systematic and transparent methods described demonstrate strong negotiation skills by balancing diverse interests through measurable and incentivized outcomes. The emphasis on regular summits, inclusive representation, and integrated reporting highlights exceptional relationship-building capabilities, fostering trust and collaboration across stakeholders. The proposed 'Stakeholder Alignment Operating System' reflects innovative, scalable leadership with a sustained impact on organizational performance."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0022-Strategic_Thinking-Resource_Prioritization-Strategic_Resource_Deployment",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Resource Prioritization",
+  "raw": "{\"prioritization_skills\":135,\"decision-making_process\":140,\"outcome_focus\":135,\"overall_score\":137,\"comments\":\"The CEO demonstrates exceptional prioritization skills by focusing on a limited number of 'Must-Win Battles' with clear, quantified OKRs. Their decision-making process is rigorous and data-driven, incorporating CFO-validated NPV and scenario analyses, and ensures transparency and accountability. Outcome focus is strong, with quarterly capital reallocation based on KPIs and stage-gates to maximize impact. Overall, this is a highly disciplined and effective resource allocation strategy befitting a top-tier CEO.\"}",
+  "scores": {
+    "Prioritization Skills": 135,
+    "Decision-Making Process": 140,
+    "Outcome Focus": 135
+  },
+  "total": 137.0,
+  "comments": "The CEO demonstrates exceptional prioritization skills by focusing on a limited number of 'Must-Win Battles' with clear, quantified OKRs. Their decision-making process is rigorous and data-driven, incorporating CFO-validated NPV and scenario analyses, and ensures transparency and accountability. Outcome focus is strong, with quarterly capital reallocation based on KPIs and stage-gates to maximize impact. Overall, this is a highly disciplined and effective resource allocation strategy befitting a top-tier CEO."
+}

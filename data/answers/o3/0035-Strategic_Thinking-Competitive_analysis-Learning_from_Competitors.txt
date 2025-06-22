@@ -1,0 +1,18 @@
+My position is clear: our competitors are a free‐of‐charge R&D laboratory and an early-warning radar, not an enemy to be ignored. By studying them systematically we shorten our own learning curve, avoid costly mistakes, and spot white-space opportunities first.  
+
+To institutionalize that mindset I have mandated three concrete practices:  
+
+1. Formal Competitive Intelligence (CI) Sprints  
+   • Every quarter a cross-functional “Red Team” (product, sales, finance, ops) is given a two-week sprint to deep-dive one priority rival.  
+   • They analyze publicly available filings, pricing moves, feature releases, hiring patterns, patent filings and customer reviews.  
+   • Outputs: a one-page threat/opportunity brief and a “What can we copy, leapfrog, or avoid?” decision list for the ELT.  
+
+2. Live-Fire Win/Loss and Field Shadowing  
+   • Sales and CX teams perform structured win-loss calls within ten days of every major deal. We ask prospects explicitly, “Which competitors did you compare and why did you lean their way?”  
+   • Field reps shadow trade shows and webinars, capturing demo videos and messaging decks. Those assets are curated in a shared Confluence library tagged by theme (pricing, onboarding, integration, GTM motion).  
+
+3. Product & Talent Reverse-Engineering  
+   • Engineering runs periodic teardown sessions—literally buying the competitor’s product, dissecting its UX flows, architectural choices, and cost structure.  
+   • HR partners with CI to map where top rival talent is congregating on LinkedIn; selective recruiting gives us both human insight and skill infusion.  
+
+These mechanisms turn raw competitive noise into repeatable insight, feed directly into our product roadmap and GTM playbooks, and keep everyone—board to frontline—alert to shifts in the landscape.

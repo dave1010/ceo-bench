@@ -1,0 +1,14 @@
+{
+  "question_id": "0001-Strategic_Thinking-Market_entry_strategies-European_Expansion",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"strategic_depth\":135,\"feasibility\":130,\"clarity\":130,\"overall_score\":132,\"comments\":\"The answer exhibits exceptional strategic depth by focusing on key markets and regulatory considerations, such as GDPR and compliance filings. The feasibility is very high with concrete, measurable milestones, resource allocations, and risk management plans. Clarity is excellent, with a clear quarterly roadmap and well-organized structure, making the plan easy to understand and execute. Overall, this is a high-caliber CEO-level response demonstrating thoughtful market entry strategy with strong leadership qualities.\"}",
+  "scores": {
+    "Strategic Depth": 135,
+    "Feasibility": 130,
+    "Clarity": 130
+  },
+  "total": 132.0,
+  "comments": "The answer exhibits exceptional strategic depth by focusing on key markets and regulatory considerations, such as GDPR and compliance filings. The feasibility is very high with concrete, measurable milestones, resource allocations, and risk management plans. Clarity is excellent, with a clear quarterly roadmap and well-organized structure, making the plan easy to understand and execute. Overall, this is a high-caliber CEO-level response demonstrating thoughtful market entry strategy with strong leadership qualities."
+}

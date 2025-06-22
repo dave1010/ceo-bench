@@ -1,0 +1,14 @@
+{
+  "question_id": "0017-Strategic_Thinking-Long-term_Planning-Visionary_Strategy_Development",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Planning",
+  "raw": "{\"clarity_of_vision\":135,\"engagement\":130,\"adaptability\":125,\"overall_score\":130,\"comments\":\"The CEO's approach is exemplary in crafting a fact-based and co-created long-term vision, which scores very high on clarity. Their communication strategy is comprehensive and uses storytelling and multi-channel dissemination to engage and inspire commitment across the organization, earning a high engagement score. Adaptability is well-addressed through scenario planning, quarterly strategy health reviews, and linking near-term metrics to the North Star, enabling agility. Overall, this is a high-level leadership approach that would drive extraordinary organizational performance.\"}",
+  "scores": {
+    "Clarity of vision": 135,
+    "Engagement": 130,
+    "Adaptability": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO's approach is exemplary in crafting a fact-based and co-created long-term vision, which scores very high on clarity. Their communication strategy is comprehensive and uses storytelling and multi-channel dissemination to engage and inspire commitment across the organization, earning a high engagement score. Adaptability is well-addressed through scenario planning, quarterly strategy health reviews, and linking near-term metrics to the North Star, enabling agility. Overall, this is a high-level leadership approach that would drive extraordinary organizational performance."
+}

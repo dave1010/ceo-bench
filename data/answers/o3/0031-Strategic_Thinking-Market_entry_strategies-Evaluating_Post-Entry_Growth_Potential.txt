@@ -1,0 +1,26 @@
+My decision: we will execute a three-phase “Expand-Deepen-Diversify” program over the next 36 months.
+
+1. EXPAND (next 12 months)  
+   • Replicate the exact go-to-market playbook that won our beach-head customers—same pricing, same onboarding—into the two most look-alike geographic regions and one adjacent customer segment.  
+   • Fund this with 65 % of this year’s growth budget because speed of land-grab matters most right now.  
+   • Success metric: 3× current ARR and ≥90 % logo retention by Q4 next year.
+
+2. DEEPEN (months 12-24)  
+   • Shift 60 % of product engineering to post-sale value: analytics dashboard, workflow automations and an API layer.  
+   • Introduce a customer-success-led upsell engine with health-score-triggered offers; target 35 % net revenue expansion in existing accounts.  
+   • Build data-science team to convert usage data into quarterly “Voice of Customer” sprints that feed the roadmap.  
+   • Success metric: gross retention ≥95 %, NRR ≥120 %.
+
+3. DIVERSIFY (months 24-36)  
+   • Pursue one tuck-in acquisition per year to add complementary capability or channel access.  
+   • Launch a low-touch, self-serve version to capture the long-tail SMB market without diluting enterprise focus.  
+   • Pilot a usage-based pricing tier to align revenue with customer value and cushion macro-shocks.  
+   • Success metric: 25 % of revenue from new products/channels by end of year 3.
+
+Supporting enablers  
+   • Talent: stock-option refresh tied to phase-specific KPIs; continuous reskilling on data & AI.  
+   • Infrastructure: migrate to cloud-native architecture for 99.9 % uptime and sub-second latency.  
+   • Capital: maintain ≤18 months cash runway; reinvest 80 % of free cash flow into R&D and market expansion.  
+   • Governance: quarterly strategy reviews; ESG scorecard embedded in exec comp.
+
+Why this course: It keeps our early-stage momentum (Expand), maximizes lifetime value (Deepen), and builds multiple growth vectors before single-product saturation hits (Diversify). The phased, metric-anchored approach lets us pull back or double down based on real data, ensuring we remain nimble yet disciplined—all essential for long-term, compounding success.

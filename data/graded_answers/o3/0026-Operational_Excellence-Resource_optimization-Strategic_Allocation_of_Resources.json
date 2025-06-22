@@ -1,0 +1,14 @@
+{
+  "question_id": "0026-Operational_Excellence-Resource_optimization-Strategic_Allocation_of_Resources",
+  "model": "o3",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"alignment_with_strategic_goals\":135,\"efficiency_of_use\":130,\"flexibility_and_adaptability\":140,\"overall_score\":135,\"comments\":\"The CEO's approach strongly aligns resources with strategic priorities through clear OKRs linked with budgets and headcounts, ensuring laser focus on the company's key drivers. Efficiency is demonstrated by linking incentives to strategic impact and zero-based budgeting, minimizing waste and promoting optimal resource utilization. Flexibility and adaptability are well evidenced by monthly portfolio reviews and automatic reallocation protocols that allow rapid responses to underperforming initiatives. The plan reflects exceptional leadership acumen with robust mechanisms for accountability and dynamic resource management, warranting a genius-level Leadership Quotient.\"}",
+  "scores": {
+    "Alignment with Strategic Goals": 135,
+    "Efficiency of Use": 130,
+    "Flexibility and Adaptability": 140
+  },
+  "total": 135.0,
+  "comments": "The CEO's approach strongly aligns resources with strategic priorities through clear OKRs linked with budgets and headcounts, ensuring laser focus on the company's key drivers. Efficiency is demonstrated by linking incentives to strategic impact and zero-based budgeting, minimizing waste and promoting optimal resource utilization. Flexibility and adaptability are well evidenced by monthly portfolio reviews and automatic reallocation protocols that allow rapid responses to underperforming initiatives. The plan reflects exceptional leadership acumen with robust mechanisms for accountability and dynamic resource management, warranting a genius-level Leadership Quotient."
+}

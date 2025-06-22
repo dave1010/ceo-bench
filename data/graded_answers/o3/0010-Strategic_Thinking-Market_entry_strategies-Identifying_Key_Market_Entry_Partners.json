@@ -1,0 +1,14 @@
+{
+  "question_id": "0010-Strategic_Thinking-Market_entry_strategies-Identifying_Key_Market_Entry_Partners",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"partner_relevance\":120,\"strategic_fit\":115,\"risk_management\":125,\"overall_score\":120,\"comments\":\"The answer demonstrates a highly systematic and thorough approach to identifying and evaluating potential partners. It shows excellent partner relevance by focusing on multiple criteria including cultural and strategic alignment, market access, and operational capabilities. The strategic fit is well-addressed with detailed evaluation of how the partner complements the company's capabilities and overcomes entry barriers through joint governance and value creation models. Risk management is robust, with comprehensive due diligence steps including financial, legal, and cultural assessments to mitigate potential risks. The stepwise, time-boxed process and pilot phase further enhance decision quality and reduce risk. Overall, this response reflects top-tier leadership thinking and a pragmatic, data-driven methodology likely to yield successful partnerships.\"}",
+  "scores": {
+    "Partner relevance": 120,
+    "Strategic fit": 115,
+    "Risk management": 125
+  },
+  "total": 120.0,
+  "comments": "The answer demonstrates a highly systematic and thorough approach to identifying and evaluating potential partners. It shows excellent partner relevance by focusing on multiple criteria including cultural and strategic alignment, market access, and operational capabilities. The strategic fit is well-addressed with detailed evaluation of how the partner complements the company's capabilities and overcomes entry barriers through joint governance and value creation models. Risk management is robust, with comprehensive due diligence steps including financial, legal, and cultural assessments to mitigate potential risks. The stepwise, time-boxed process and pilot phase further enhance decision quality and reduce risk. Overall, this response reflects top-tier leadership thinking and a pragmatic, data-driven methodology likely to yield successful partnerships."
+}

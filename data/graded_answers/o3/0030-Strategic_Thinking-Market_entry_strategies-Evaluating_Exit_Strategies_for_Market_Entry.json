@@ -1,0 +1,14 @@
+{
+  "question_id": "0030-Strategic_Thinking-Market_entry_strategies-Evaluating_Exit_Strategies_for_Market_Entry",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"strategic_foresight\":130,\"risk_management\":135,\"market_dynamics_awareness\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates exceptional strategic foresight by mapping multiple exit options as real options, balancing timing and long-term goals. Risk management is highly detailed with legal structuring, trigger-based governance, financial stress testing, and contingency planning, showing a proactive approach to minimize losses and reputational damage. Market dynamics awareness is evident through defined KPIs and traffic-light triggers tied to market share, economics, and regulatory changes, enabling agility. Overall, this response reflects a sophisticated and disciplined exit strategy that would support strong organizational performance.\"}",
+  "scores": {
+    "Strategic foresight": 130,
+    "Risk management": 135,
+    "Market dynamics awareness": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates exceptional strategic foresight by mapping multiple exit options as real options, balancing timing and long-term goals. Risk management is highly detailed with legal structuring, trigger-based governance, financial stress testing, and contingency planning, showing a proactive approach to minimize losses and reputational damage. Market dynamics awareness is evident through defined KPIs and traffic-light triggers tied to market share, economics, and regulatory changes, enabling agility. Overall, this response reflects a sophisticated and disciplined exit strategy that would support strong organizational performance."
+}

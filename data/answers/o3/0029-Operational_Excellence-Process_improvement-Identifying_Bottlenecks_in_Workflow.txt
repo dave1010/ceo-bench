@@ -1,0 +1,29 @@
+My course of action  
+
+1. Instrument every core workflow end-to-end within 90 days.  
+   • Digitize and time-stamp each hand-off (ERP, CRM, shop-floor IoT, RPA logs).  
+   • Define three leading KPIs per process (queue length, cycle time, first-pass yield) in a live dashboard that anyone can see.  
+   Why: You cannot fix what you cannot see; real-time data exposes emerging chokepoints before they become customer-visible failures.  
+
+2. Run a weekly “Constraint Review” chaired by the COO and myself.  
+   • Use Theory of Constraints logic: identify the current bottleneck, subordinate everything else, elevate it, then look for the next one.  
+   • Require owners to present a 5-Why or fishbone analysis and a 14-day remediation plan.  
+   Why: A fixed review cadence forces discipline and keeps the entire organization focused on the single point that is limiting throughput right now.  
+
+3. Deploy cross-functional SWAT sprints.  
+   • When a bottleneck is confirmed, assign a small team (process engineer, finance analyst, IT automation lead, front-line supervisor).  
+   • Give them a 30-day budget and authority to pilot changes—layout tweaks, code fixes, staffing swaps, or vendor escalation.  
+   Why: Small, empowered teams solve problems faster than functional silos and create visible wins that build a continuous-improvement culture.  
+
+4. Automate or eliminate low-value steps.  
+   • Apply RPA, low-code forms, or AI assistants where repetitive manual work exceeds two FTEs or injects >2-day delays.  
+   • Benchmark payback: <12 months or the project doesn’t get funded.  
+   Why: Automation removes variability and frees talent for higher-value tasks, compounding efficiency gains over time.  
+
+5. Publish the scoreboard and tie 10 % of leadership bonuses to cycle-time reduction.  
+   Why: What gets rewarded gets repeated; shared metrics create shared accountability.  
+
+Expected outcome  
+• 20 – 30 % reduction in end-to-end cycle time within twelve months.  
+• 15 % OPEX savings redirected to growth initiatives.  
+• A culture that hunts for waste rather than defends the status quo.

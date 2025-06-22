@@ -1,0 +1,50 @@
+Chosen course of action  
+I will green-light a phased entry that starts with a minority-owned joint venture, backed by an option to acquire control once we have proven product-market fit and mastered the local rule-book. This structure lets us penetrate quickly while capping downside risk from competitive and regulatory unknowns.  
+
+Why this approach works  
+1. It dismantles the two toughest barriers simultaneously:  
+   • Competitive moat – We “borrow” the partner’s distribution, brand equity and talent instead of spending 3-5 years building them.  
+   • Regulatory moat – A locally domiciled partner already holds the licenses, import quotas, data-hosting capacity, etc., cutting red tape and shortening time-to-revenue by 40-60 %.  
+
+Full evaluation framework we will run before signing term sheets  
+
+1. Competitive barriers  
+   • Market structure: Porters Five Forces plus cost/price dispersion analysis to quantify incumbent power and switching friction.  
+   • Deep customer interviews and win-loss data from channel partners to map the real buying criteria.  
+   • IP landscape scan to detect freedom-to-operate issues and patent thickets.  
+   • Supply-chain reliability audit—especially input concentration or local content mandates that could favor entrenched players.  
+
+2. Regulatory challenges  
+   • Hard barriers: ownership ceilings, licensing, tariffs, data-residency, FX controls, repatriation limits.  
+   • Soft barriers: informal provincial approvals, industry lobbying power, standards-setting bodies, ESG expectations.  
+   • Forthcoming legislation: scenario-planning with external counsel and local think-tanks to anticipate 3–5-year regulatory drift.  
+
+Key strategies to overcome barriers  
+
+1. Partnership structure  
+   • Minority JV (initially 40 %) with call options to 80 % gives us day-to-day influence without breaching foreign-ownership caps.  
+   • Board composition guarantees compliance learnings are internalized.  
+
+2. Regulatory offense, not defense  
+   • Hire a former regulator as Government Affairs Director six months pre-launch.  
+   • Join the top two industry associations on day one, shaping rather than reacting to future standards.  
+
+3. Compliance-by-design  
+   • Adapt product architecture to local data-sovereignty and cybersecurity rules from the outset—avoids costly re-engineering.  
+   • ESG blueprint aligned with EU taxonomy/SASB so we can leverage sustainable-finance incentives.  
+
+4. Competitive leapfrogging  
+   • Localize 20 % of supply chain within 18 months to qualify for tariffs / local-content credits; target 60 % within three years.  
+   • Price-stack strategy: enter with a services-led bundle that incumbents cannot easily copy without destroying their own margin mix.  
+
+5. Capital and risk management  
+   • Use non-recourse project debt from multilateral lenders to hedge political-risk premiums.  
+   • Put FX collars on 70 % of projected cash flows until we can legally invoice in local currency.  
+
+Milestones & exit ramps  
+• M0-M6: Complete diligence & sign JV term sheet.  
+• M6-M18: Achieve regulatory licensing, first $25 M revenue run-rate. If licensing delayed >6 months, we invoke contract clause to shift to asset-light export model.  
+• M18-M30: Exercise step-up option to 60 % if EBITDA margin >12 % and compliance scorecard “green.”  
+• Year 4: Go/no-go on full acquisition and build standalone legal entity.  
+
+By pairing analytical rigor with a partner-led entry and pre-wired off-ramps, we generate upside exposure while keeping the burn rate and regulatory surprises within an acceptable risk envelope.

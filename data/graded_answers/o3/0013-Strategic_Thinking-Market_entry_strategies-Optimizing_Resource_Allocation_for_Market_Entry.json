@@ -1,0 +1,14 @@
+{
+  "question_id": "0013-Strategic_Thinking-Market_entry_strategies-Optimizing_Resource_Allocation_for_Market_Entry",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"resource_prioritization\":135,\"strategic_alignment\":130,\"risk_mitigation\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates exceptional resource prioritization by breaking the market entry into three staged sprints with precise budgeting and cross-functional team deployment aligned to specific gate metrics. Strategic alignment is strong, with resource allocation directly tied to clear business objectives and measurable milestones supporting swift market penetration and revenue goals. Risk mitigation is thoughtfully addressed through gated funding, contingency reserves, and iterative validation to handle uncertainty and pivot as necessary. Overall, this reflects a high-caliber, data-driven approach to resource allocation in market entry, deserving of a leadership quotient in the 'genius' range.\"}",
+  "scores": {
+    "Resource prioritization": 135,
+    "Strategic alignment": 130,
+    "Risk mitigation": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates exceptional resource prioritization by breaking the market entry into three staged sprints with precise budgeting and cross-functional team deployment aligned to specific gate metrics. Strategic alignment is strong, with resource allocation directly tied to clear business objectives and measurable milestones supporting swift market penetration and revenue goals. Risk mitigation is thoughtfully addressed through gated funding, contingency reserves, and iterative validation to handle uncertainty and pivot as necessary. Overall, this reflects a high-caliber, data-driven approach to resource allocation in market entry, deserving of a leadership quotient in the 'genius' range."
+}

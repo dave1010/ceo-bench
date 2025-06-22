@@ -1,0 +1,34 @@
+My course of action
+
+Digital transformation is the first of our three enterprise-level strategic pillars, and I chair it personally.  I have put the following operating model in place to guarantee that we adopt the right emerging technologies at the right speed:
+
+1. Board-level sponsorship  
+   • A standing Digital & Technology Committee of the Board—chaired by me—meets every quarter.  
+   • 30 % of my own annual incentive and 20 % of the executive team’s variable pay are tied to digital KPIs (digital-revenue ratio, time-to-release, and cloud-cost efficiency).
+
+2. A focused, rolling 24-month roadmap  
+   • We maintain a “two-horizon” backlog: 0-12 months for deployment, 12-24 months for validated pilots, refreshed every quarter.  
+   • All requests must clear a strict value screen: ROI > 25 % or NPS uplift ≥ 8 points within 18 months.
+
+3. A dedicated Digital Transformation Office (DTO) reporting directly to me  
+   • 70 FTEs—product owners, enterprise architects, data scientists—embedded in agile squads with the business.  
+   • The DTO controls a ring-fenced innovation fund equal to 15 % of annual capex; 10 % is reserved for “moonshots.”
+
+4. Technology bets already in flight  
+   • Cloud: 80 % of workloads to be on public cloud by FY 2026 (we are at 54 % today, up from 18 % two years ago).  
+   • AI & GenAI: Deployed proprietary large-language-model help-desk assistant; cut average resolution time by 37 %.  
+   • Edge & IoT: Real-time asset-tracking pilots running in two plants; early data show 4 % throughput gain.  
+   • Cyber: Zero-Trust architecture rollout 60 % complete; no critical incidents in the past 14 months.
+
+5. Talent and culture  
+   • Mandatory “Digital Core” upskilling—nine micro-certifications—completed by 92 % of managers.  
+   • External innovation partnerships with three universities and a CVC fund that holds eight minority stakes in early-stage tech firms.
+
+Why this works
+
+• Direct CEO ownership removes ambiguity, accelerates decisions, and signals to the organization that digital is non-negotiable.  
+• A rolling, value-based roadmap keeps efforts tied to tangible business outcomes rather than technology for technology’s sake.  
+• Dedicated funding and agile governance allow us to pivot within weeks as new technologies or market signals emerge.  
+• Hard-wired incentives and transparent metrics create accountability from the boardroom to the scrum team.
+
+I will continue to lead this agenda personally until digital revenues exceed 50 % of total sales and we achieve cloud-native, data-driven operations end-to-end—targets we are on track to hit within the next three fiscal years.

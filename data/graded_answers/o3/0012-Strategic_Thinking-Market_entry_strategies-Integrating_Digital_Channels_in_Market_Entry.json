@@ -1,0 +1,14 @@
+{
+  "question_id": "0012-Strategic_Thinking-Market_entry_strategies-Integrating_Digital_Channels_in_Market_Entry",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"digital_strategy_integration\":135,\"competitive_analysis\":130,\"customer-centric_adaptation\":140,\"overall_score\":135,\"comments\":\"The response presents a comprehensive, phased digital strategy directly tailored for local market entry, leveraging multiple digital channels with clear execution steps. It demonstrates strong competitive insight by using digital analytics and partnerships to identify and exploit market gaps. The customer-centric approach is robust, emphasizing localization in language, payment methods, platform choice, and content co-creation, which shows deep understanding of local customer preferences. Governance and measurement frameworks are well-defined, ensuring data-driven adaptability. Overall, this answer reflects exceptional leadership qualities in digital market entry strategy.\"}",
+  "scores": {
+    "Digital Strategy Integration": 135,
+    "Competitive Analysis": 130,
+    "Customer-Centric Adaptation": 140
+  },
+  "total": 135.0,
+  "comments": "The response presents a comprehensive, phased digital strategy directly tailored for local market entry, leveraging multiple digital channels with clear execution steps. It demonstrates strong competitive insight by using digital analytics and partnerships to identify and exploit market gaps. The customer-centric approach is robust, emphasizing localization in language, payment methods, platform choice, and content co-creation, which shows deep understanding of local customer preferences. Governance and measurement frameworks are well-defined, ensuring data-driven adaptability. Overall, this answer reflects exceptional leadership qualities in digital market entry strategy."
+}
