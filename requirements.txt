@@ -3,4 +3,5 @@ pytest
 llm
 llm-groq
 llm-openrouter
+llm-gemini
 flake8
