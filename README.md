@@ -12,6 +12,7 @@
    ```bash
    python scripts/run_full_evals.py --models gpt-4.1-nano gpt-4.1-mini --grading-model gpt-4.1-mini
    ```
+   Add `--sample 0.25` to evaluate on a random subset of questions (default is `1`).
 
 You can also run the steps individually:
 

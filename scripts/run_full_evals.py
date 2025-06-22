@@ -10,6 +10,7 @@ import argparse
 import subprocess
 import sys
 from pathlib import Path
+import random
 
 from model_utils import encode_model_name
 
@@ -24,6 +25,16 @@ def run(cmd: list[str]) -> None:
     """Run a subprocess command, echoing it first."""
     print(" ".join(cmd))
     subprocess.run(cmd, check=True)
+
+
+def select_questions(questions: list[Path], ratio: float) -> list[Path]:
+    """Return a sampled list of question files."""
+    if ratio <= 0 or ratio > 1:
+        raise ValueError("sample must be between 0 and 1")
+    if ratio == 1:
+        return questions
+    k = max(1, int(len(questions) * ratio))
+    return sorted(random.sample(questions, k))
 
 
 def main() -> None:
@@ -46,9 +57,17 @@ def main() -> None:
         default="gpt-4.1-mini",
         help="Model used for grading",
     )
+    parser.add_argument(
+        "--sample",
+        type=float,
+        default=1.0,
+        help="Fraction of questions to run (0-1)",
+    )
     args = parser.parse_args()
 
-    questions = sorted(QUESTIONS_DIR.glob("*.yaml"))
+    questions = select_questions(
+        sorted(QUESTIONS_DIR.glob("*.yaml")), args.sample
+    )
 
     for model in args.models:
         safe_model = encode_model_name(model)
