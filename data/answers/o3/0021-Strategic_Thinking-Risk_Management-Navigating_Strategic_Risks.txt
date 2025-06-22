@@ -1,0 +1,34 @@
+Chosen course of action: 
+Institutionalize an “Always-On Strategic Risk Program” that sits alongside strategy formulation itself, run from my office and built on four repeatable disciplines—Early Detection, Quantified Evaluation, Decisive Mitigation, and Continuous Governance.  
+
+Why:
+Because the velocity of disruption (technology, regulation, geopolitics, climate) means that a risk register updated once a year is obsolete in a quarter. By embedding a real-time, data-driven risk program into every strategy review, we protect the company’s future stability without slowing innovation.
+
+–––––––––––––––––––––––––––––––––––––
+1. Early Detection  
+• Horizon Scanning Cell: A two-person “tiger team” in the Strategy & Corp-Dev group that spends 20% of its time monitoring weak signals—start-ups, patent filings, key legislation, macro indicators—using AI news scrapers and industry experts.  
+• Quarterly “Red Team” sessions: Operating VPs rotate onto a red-team panel that challenges each BU strategy for blind spots.  
+• External sensors: memberships in two think-tanks (WEF, CGEP) and a formal risk-sharing network with our top 10 customers and suppliers.
+
+2. Quantified Evaluation  
+• Heat Map 2.0: Every identified risk gets a probability / impact score (financial, brand, regulatory, talent) over 3 time horizons (12-, 24-, 36-month).  
+• Scenario & Stress Tests: Finance runs tail-risk scenarios (e.g., 300-bps interest spike) through a dynamic P&L / cash-flow model; Ops runs supply-chain digital twins.  
+• Risk Appetite Statement: I revisit with the Board every March—sets hard limits (e.g., FX exposure ≤ 35% EBITDA, single-source revenue ≤ 10%).
+
+3. Decisive Mitigation  
+• Prevent: redesign processes (dual-source critical chips), launch lobbying initiatives, accelerate product cannibalization ourselves.  
+• Transfer: hedge 70% of net-FX, build cyber-insurance tower, JV in high-political-risk markets.  
+• Prepare: fund “optionality” projects—stand-by manufacturing line, cloud fail-over region; maintain €300 M liquidity buffer.  
+• Pivot: real exit/entry triggers—if regulator classifies our core product as “medical device,” shift R&D to software-as-a-service within 9 months.
+
+4. Continuous Governance  
+• Monthly Risk Dashboard: integrated data feed to my CEO cockpit; any risk moving two cells on the heat map auto-escalates to me and Audit & Risk Committee.  
+• Incentives: 10% of exec STI ties to risk-adjusted EVA; BU heads lose part of bonus if they ignore or hide amber/red risks.  
+• Culture: “speak-up” digital channel; failure-learning write-ups posted on our internal wiki.
+
+Outcome metrics I will track:
+• No strategic surprise > 5% of annual EBITDA.  
+• Time-to-detect material threat cut from 90 to 30 days within 12 months.  
+• Top-quartile risk-adjusted TSR in peer set over three years.
+
+By making strategic-risk management continuous, quantified, and owned from the top, we safeguard stability while preserving the boldness required for growth.

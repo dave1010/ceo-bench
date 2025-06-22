@@ -1,0 +1,35 @@
+Course of action  
+I will sequence our entry in three tightly-bounded sprints—Discover, Land, and Expand—and fund each sprint only to the level required to reach the next “go / no-go” gate. Resources will shift forward only when the prior sprint’s success metrics are met. This preserves cash, forces learning early, and avoids sunk-cost traps.
+
+1. Discover (first 90 days – 15 % of total launch budget)  
+   • Objective: Identify the single, highest-value beach-head segment and the exact problem we are best positioned to solve.  
+   • Resources:  
+     – Assign a cross-functional, five-person “tiger team” (BD, product, finance, legal, data) with a clear mandate: produce a quantified market map, competitor teardown, regulatory checklist, and willingness-to-pay data.  
+     – Fund no more than 15 % of the planned launch budget; this covers primary research, travel, and initial legal opinions.  
+   • Gate metric: Proof that the beach-head segment can deliver a path to ≥ $50 M ARR within three years at ≤ 30 % CAC payback.
+
+2. Land (next 6 months – 55 % of total launch budget)  
+   • Objective: Achieve product-market fit and first $1 M in annualized revenue.  
+   • Resources:  
+     – Product & Engineering (25 %): localize core feature set; build integrations required by first-wave customers.  
+     – Go-to-Market (20 %): hire a local GM and two enterprise AEs; earmark 60 % of their variable comp pool for performance, not guarantees.  
+     – Compliance & Ops (10 %): finalize regulatory licenses, local data-hosting, and supply-chain agreements.  
+   • Gate metric: Three signed lighthouse customers with NPS > 40 and gross margins within 5 pp of home market margins.
+
+3. Expand (months 7-24 – remaining 30 % of total launch budget)  
+   • Objective: Scale from $1 M to $25 M ARR while hitting corporate hurdle rates.  
+   • Resources:  
+     – Demand Gen (12 %): Account-based marketing and digital demand gen; 70 % of spend tied to pipeline-creation SLAs.  
+     – Channel & Partnerships (8 %): small BD squad to lock exclusive distribution with two regional powerhouses.  
+     – Support & Customer Success (5 %): stand-up local CS team to protect retention and feed expansion sales.  
+     – Contingency / optionality (5 %): preserved for unforeseen regulatory, currency, or competitor shocks.  
+   • Gate metric: Payback < 18 months, deal velocity accelerating, and churn < 5 %.
+
+Why this approach works  
+• Capital discipline: Requiring every dollar to earn its way forward prevents “big-bang” overspend.  
+• Data-driven pivots: Early gates surface fatal flaws while they are still cheap to fix.  
+• Focused people leverage: A small, empowered team owns the objective end-to-end, eliminating matrix drag.  
+• Measurable accountability: Each sprint has one unambiguous, quantifiable metric that determines funding release.  
+• Strategic agility: Contingency reserve and staged funding let us redirect resources if macro conditions or competitor moves change.
+
+In short, I am prioritizing the minimal resources necessary to validate the market, then ratcheting up investment only after the data show we can win at or above our return hurdles.

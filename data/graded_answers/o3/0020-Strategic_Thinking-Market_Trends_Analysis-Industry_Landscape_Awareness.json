@@ -1,0 +1,14 @@
+{
+  "question_id": "0020-Strategic_Thinking-Market_Trends_Analysis-Industry_Landscape_Awareness",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market Trends Analysis",
+  "raw": "{\"environmental_scanning\":135,\"adaptability\":130,\"forward-looking_perspective\":135,\"overall_score\":133.3,\"comments\":\"The answer outlines a comprehensive, systematic environmental scanning approach via the Market & Technology Insights cell, external networks, and internal crowdsourcing, demonstrating exceptional monitoring capability. Adaptability is reflected in the agile 'Two-Year Bet' teams, funding gates, and KPI integration tightly linked to trend response, showing a strong ability to pivot based on intelligence. The forward-looking perspective is reinforced by scenario workshops, quarterly trend briefings, and embedding foresight into strategy and performance dashboards, indicating an outstanding anticipatory mindset. Overall, the response reflects a high-level, well-structured CEO approach likely to drive extraordinary organizational performance.\"}",
+  "scores": {
+    "Environmental Scanning": 135,
+    "Adaptability": 130,
+    "Forward-looking Perspective": 135
+  },
+  "total": 133.3,
+  "comments": "The answer outlines a comprehensive, systematic environmental scanning approach via the Market & Technology Insights cell, external networks, and internal crowdsourcing, demonstrating exceptional monitoring capability. Adaptability is reflected in the agile 'Two-Year Bet' teams, funding gates, and KPI integration tightly linked to trend response, showing a strong ability to pivot based on intelligence. The forward-looking perspective is reinforced by scenario workshops, quarterly trend briefings, and embedding foresight into strategy and performance dashboards, indicating an outstanding anticipatory mindset. Overall, the response reflects a high-level, well-structured CEO approach likely to drive extraordinary organizational performance."
+}

@@ -1,0 +1,36 @@
+Chosen Course of Action  
+Launch a company-wide “Asset Optimization Program” that couples real-time data with disciplined capital allocation, and hold every P&L leader accountable for an explicit return-on-asset (ROA) target.
+
+Why and How  
+
+1. Create Total Asset Visibility  
+   • Within 90 days we install IoT/ERP telemetry on all high-value equipment, fleet, and inventories.  
+   • A single dashboard gives line managers and me live utilization, downtime, maintenance cost, and asset-turnover metrics.  
+   • Result: facts replace anecdotes, letting us spot idle or under-performing assets instantly.
+
+2. Set ROA & Utilization Targets—Tie Them to Compensation  
+   • Each business unit receives a quarterly ROA goal derived from our weighted cost of capital.  
+   • Variable pay for GMs, plant managers, and supply-chain heads is pegged 30 % to hitting those targets.  
+   • Result: every leader treats capital as a scarce resource, just as they already do with OPEX.
+
+3. Optimize or Redeploy Under-used Assets  
+   • Assets running below 70 % of economic capacity trigger a rapid Kaizen review.  
+   • Choices: (a) load them with additional volume, (b) redeploy to higher-growth sites, or (c) divest.  
+   • Result: trapped capital is released and reinvested in higher-return projects or returned to shareholders.
+
+4. Predictive Maintenance & Lifecycle Management  
+   • Data science team builds failure-prediction models; maintenance shifts from calendar-based to condition-based.  
+   • Extend asset life 10-15 %, cut unplanned downtime 25 %, and reduce spare-parts inventory.
+
+5. Zero-Based Capital Budgeting  
+   • No project is rubber-stamped; every new CAPEX request must beat a hurdle rate and show payback <36 months.  
+   • We run quarterly post-investment audits so lessons feed the next cycle.  
+   • Result: capital flows only to highest NPV opportunities, boosting company-wide ROIC.
+
+6. Continuous Review at the Top  
+   • Asset dashboard is a standing item on my monthly operating review.  
+   • I intervene personally when variance vs. goal exceeds ±5 %.  
+   • Board receives a concise ROA/ROIC scorecard each quarter.
+
+Outcome  
+This integrated approach typically releases 5-7 % of net working capital in year one, lifts asset turns by 0.3-0.5x, and raises ROIC 150-300 bps. Most important, it instills a culture where every dollar of equipment, inventory, or real estate must earn its keep—ensuring our assets drive maximum productivity and shareholder return.

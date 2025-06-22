@@ -1,0 +1,14 @@
+{
+  "question_id": "0021-Strategic_Thinking-Risk_Management-Navigating_Strategic_Risks",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_identification\":135,\"evaluation_and_prioritization\":130,\"mitigation_strategies\":140,\"overall_score\":135,\"comments\":\"The CEO demonstrates exceptional leadership in risk identification with a dedicated 'Horizon Scanning Cell,' quarterly 'Red Team' sessions, and external sensors indicating a sophisticated, proactive approach to detecting both internal and external risks. The evaluation and prioritization are methodical and data-driven, utilizing advanced heat maps across multiple dimensions and time horizons, comprehensive scenario and stress tests, as well as a clear risk appetite statement revisited with the board \u2014 reflecting strategic depth and rigor. Mitigation strategies are exemplary, covering prevention, transfer, preparation, and pivoting, backed by solid financial buffers, real exit triggers, and integrated governance, aligning incentives and fostering a risk-aware culture. The continuous governance mechanism ensures dynamic response capability. Overall, this is near-genius-level strategic risk leadership, balancing stability with innovation and growth.\"}",
+  "scores": {
+    "Risk Identification": 135,
+    "Evaluation and Prioritization": 130,
+    "Mitigation Strategies": 140
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates exceptional leadership in risk identification with a dedicated 'Horizon Scanning Cell,' quarterly 'Red Team' sessions, and external sensors indicating a sophisticated, proactive approach to detecting both internal and external risks. The evaluation and prioritization are methodical and data-driven, utilizing advanced heat maps across multiple dimensions and time horizons, comprehensive scenario and stress tests, as well as a clear risk appetite statement revisited with the board \u2014 reflecting strategic depth and rigor. Mitigation strategies are exemplary, covering prevention, transfer, preparation, and pivoting, backed by solid financial buffers, real exit triggers, and integrated governance, aligning incentives and fostering a risk-aware culture. The continuous governance mechanism ensures dynamic response capability. Overall, this is near-genius-level strategic risk leadership, balancing stability with innovation and growth."
+}

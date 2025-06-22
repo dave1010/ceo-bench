@@ -1,0 +1,25 @@
+Chosen course of action  
+I am institutionalising a three-layer, stage-gate process—Discovery, Validation and Commitment—to ensure every target market we enter can support profitable, defensible growth for at least a decade.
+
+Why and how it works  
+
+1. Discovery (4-6 weeks)  
+   • Macro filter: We run a data-driven screen on GDP growth, urbanisation, digital penetration, demographic shifts and ESG stability, using World Bank, IMF and third-party analytics. A market must clear a 5-year CAGR of 2× our home market, a sovereign-risk ceiling of BBB, and a CO₂ intensity trajectory compatible with our 2030 Net-Zero plan.  
+   • Strategic fit scorecard: Cross-functional team scores the market (0-5) on customer adjacency, supply-chain leverage, regulatory openness and competitive whitespace. Markets scoring <60 % are dropped.
+
+2. Validation (8-12 weeks)  
+   • Deep-dive primary research: 50+ executive interviews, customer ethnography, willingness-to-pay studies and competitor reverse-engineering.  
+   • Scenario modelling: Best-case / base-case / stress-case P&L to year 10, incorporating currency, tariff and technology-disruption sensitivities. We kill the case if the stress-case NPV falls below our hurdle rate (WACC + 300 bps).  
+   • ESG and licence-to-operate audit: Independent advisers evaluate social impact, carbon footprint and governance risk. If remediation cost >5 % of projected EBIT, we re-design the entry or walk away.
+
+3. Commitment (4 weeks)  
+   • Steering Committee checkpoint: CFO, COO, CLO and myself vote go / hold / no-go. Only unanimous “go” passes to Board.  
+   • Leading indicators locked: We pre-define three early-warning KPIs (e.g., customer acquisition cost, regulatory cycle time, talent retention index). Missing two consecutive quarters automatically triggers a stop-loss review.  
+   • Post-entry blueprint: 100-day operating agenda, capital allocation schedule and exit ramps are signed off before the first euro is deployed.
+
+Governance and accountability  
+• Market Intelligence Office (MIO) will own the data pipe and maintain a living dashboard updated quarterly.  
+• Internal Audit performs an annual look-back comparing projected vs. realised cash flows; findings feed straight into next-cycle hurdle rates.  
+• Board Strategy & Risk Committee receives a red-amber-green heat-map of all candidate markets every six months.
+
+With this disciplined, repeatable architecture we eliminate gut-feel bets, hard-wire sustainability into the economics and preserve the strategic agility we need to seize high-conviction opportunities while exiting sub-par plays early.

@@ -1,0 +1,62 @@
+CEO Decision & Rationale  
+I am launching a 90-day “GDPR Assurance Program” that will bring us to demonstrable, audit-ready compliance with the most recent European Data Protection Board (EDPB) guidance, the new Standard Contractual Clauses (SCCs) and the Data Governance Act. This is non-negotiable because (1) it is a legal obligation, (2) non-compliance risks fines of up to 4 % of global turnover and loss of customer trust, and (3) privacy is a competitive differentiator in our market.  
+
+Key Steps & Ownership  
+
+1. Map and Minimise Personal Data  
+   • CISO + Data Engineering: Complete a data-flow inventory for every product feature, environment and vendor.  
+   • CTO: De-scope where possible—purge unused fields, shorten retention, turn off test environments with real data.  
+
+2. Confirm a Lawful Basis for Every Processing Activity  
+   • General Counsel: Tag each activity as Contract, Legitimate Interest, Legal Obligation, or Consent; document the balancing tests for Legitimate Interest.  
+   • Product Management: Redesign workflows where the lawful basis is weak or now requires explicit consent (e.g., behavioural analytics).  
+
+3. Refresh International Transfer Mechanisms (Post-Schrems II)  
+   • Privacy Counsel: Replace legacy SCCs with the 2021 SCC modules, complete Transfer Impact Assessments (TIAs), and implement supplemental technical measures (encryption at rest & in transit, pseudonymisation, split-key management).  
+   • Finance: Budget for EU-based hosting expansion if the TIA shows US transfer risk we cannot mitigate.  
+
+4. Execute Data Protection Impact Assessments (DPIAs)  
+   • DPO: Run DPIAs on any high-risk or AI-enabled features (e.g., predictive scoring). Results feed into the product backlog for remediation.  
+
+5. Embed Privacy-by-Design in Engineering  
+   • VP Engineering: Make privacy a formal acceptance criterion in every Jira ticket.  
+   • Security Architect: Enable role-based access, data minimisation by default, and automated deletion triggers tied to retention schedules.  
+
+6. Update Transparency Artifacts  
+   • Marketing + Legal: Rewrite the privacy notice in plain language, reflecting new data flows, retention periods, and user rights.  
+   • CX Lead: Deploy in-app “just-in-time” notices and an updated cookie banner that meets the EDPB consent guidelines (no dark patterns, equal prominence of “Reject All”).  
+
+7. Operationalise Data-Subject Rights (DSRs)  
+   • Support Ops: Stand-up a one-click self-service portal for access, rectification, deletion, portability and objection.  
+   • Engineering: Ensure backend search index covers production, backups and logs so we can fulfil requests inside 30 days.  
+
+8. Tighten Vendor & Sub-Processor Governance  
+   • Procurement: Require GDPR-compliant DPAs, new SCCs, and annual security attestations from every third-party provider.  
+   • Legal Ops: Maintain a live sub-processor list and email customers 30 days before any change.  
+
+9. Strengthen Security & Breach Response  
+   • CISO: Finalise ISO 27001 certification, implement continuous vulnerability scanning, and rehearse a 72-hour breach notification drill.  
+   • HR: Mandatory annual security & privacy training for all employees.  
+
+10. Appoint/Refresh Key Roles  
+    • Nominate a full-time Data Protection Officer (DPO) reporting directly to me.  
+    • Engage an EU-established representative for customers with no local entity in the EU.  
+
+11. Maintain Records & Audit  
+    • Compliance: Keep the Article 30 Record of Processing Activities up to date, run quarterly internal audits, commission an external GDPR gap assessment every 18 months.  
+
+12. Monitor Regulatory Change & Demonstrate Accountability  
+    • DPO: Track EDPB guidelines, upcoming ePrivacy Regulation, and country-specific requirements (CNIL cookie rules, German TTDSG, etc.).  
+    • Finance: Reserve 0.5 % of annual revenue for ongoing privacy and security investments.  
+
+Success Metrics  
+• Zero critical findings in the next external audit.  
+• >95 % SLA on DSR fulfilment within 30 days.  
+• Annual privacy NPS increase of 10 points from enterprise customers.  
+
+Timeline  
+• 30 days: Data inventory, lawful-basis matrix, new SCC templates executed.  
+• 60 days: Updated privacy notice, consent flows, DSR portal live.  
+• 90 days: All DPIAs closed, privacy-by-design embedded, ISO 27001 audit scheduled.  
+
+By executing this plan we will not only meet the letter of GDPR but also turn privacy into a core brand promise, protecting revenue and opening doors to more regulated markets.

@@ -1,0 +1,14 @@
+{
+  "question_id": "0029-Operational_Excellence-Process_improvement-Identifying_Bottlenecks_in_Workflow",
+  "model": "o3",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"proactive_detection\":130,\"problem_solving\":135,\"continuous_improvement\":140,\"overall_score\":135,\"comments\":\"The answer demonstrates a highly capable and structured approach to proactively identify bottlenecks by instrumenting workflows, using real-time data, and defining key KPIs. The weekly Constraint Review meetings enforce discipline in addressing bottlenecks systematically, showcasing effective problem-solving strategies. Cross-functional SWAT teams empower rapid implementation of targeted solutions, while automation initiatives and incentivizing leadership bonuses foster continuous improvement. Overall, the methodology reflects a genius-level leadership approach with strong emphasis on data-driven decision-making and cultural transformation.\"}",
+  "scores": {
+    "Proactive Detection": 130,
+    "Problem Solving": 135,
+    "Continuous Improvement": 140
+  },
+  "total": 135.0,
+  "comments": "The answer demonstrates a highly capable and structured approach to proactively identify bottlenecks by instrumenting workflows, using real-time data, and defining key KPIs. The weekly Constraint Review meetings enforce discipline in addressing bottlenecks systematically, showcasing effective problem-solving strategies. Cross-functional SWAT teams empower rapid implementation of targeted solutions, while automation initiatives and incentivizing leadership bonuses foster continuous improvement. Overall, the methodology reflects a genius-level leadership approach with strong emphasis on data-driven decision-making and cultural transformation."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0031-Strategic_Thinking-Market_entry_strategies-Evaluating_Post-Entry_Growth_Potential",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"strategic_adaptability\":130,\"growth_forecasting\":125,\"resource_planning\":135,\"overall_score\":130,\"comments\":\"The answer presents a thoughtful, phased approach that allows for data-driven strategy adjustments, demonstrating high strategic adaptability. It includes clear, realistic growth targets and actionable steps with measurable KPIs, reflecting strong growth forecasting. The resource planning is comprehensive, detailing budget allocation, talent management, infrastructure investments, and governance, aligning well with growth and risk management needs. Overall, this response exemplifies exceptional leadership qualities expected from a top CEO.\"}",
+  "scores": {
+    "Strategic Adaptability": 130,
+    "Growth Forecasting": 125,
+    "Resource Planning": 135
+  },
+  "total": 130.0,
+  "comments": "The answer presents a thoughtful, phased approach that allows for data-driven strategy adjustments, demonstrating high strategic adaptability. It includes clear, realistic growth targets and actionable steps with measurable KPIs, reflecting strong growth forecasting. The resource planning is comprehensive, detailing budget allocation, talent management, infrastructure investments, and governance, aligning well with growth and risk management needs. Overall, this response exemplifies exceptional leadership qualities expected from a top CEO."
+}

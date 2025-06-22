@@ -1,0 +1,14 @@
+{
+  "question_id": "0014-Strategic_Thinking-Market_entry_strategies-Assessing_Regulatory_Challenges_in_New_Markets",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"regulatory_understanding\":135,\"risk_management\":130,\"adaptability\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates exceptional regulatory understanding by outlining a comprehensive and detailed plan that includes a dedicated Regulatory Entry Task Force and a 360-degree legal scan covering multiple regulatory domains. Risk management is strongly addressed with clear mitigation strategies, budgeting for compliance, and ongoing monitoring. Adaptability is shown through the product/process redesign loop and continuous engagement with regulators to respond to changes. Overall, the approach is systematic, proactive, and CEO-driven, reflecting high leadership quality in managing regulatory challenges when entering new markets.\"}",
+  "scores": {
+    "Regulatory Understanding": 135,
+    "Risk Management": 130,
+    "Adaptability": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates exceptional regulatory understanding by outlining a comprehensive and detailed plan that includes a dedicated Regulatory Entry Task Force and a 360-degree legal scan covering multiple regulatory domains. Risk management is strongly addressed with clear mitigation strategies, budgeting for compliance, and ongoing monitoring. Adaptability is shown through the product/process redesign loop and continuous engagement with regulators to respond to changes. Overall, the approach is systematic, proactive, and CEO-driven, reflecting high leadership quality in managing regulatory challenges when entering new markets."
+}

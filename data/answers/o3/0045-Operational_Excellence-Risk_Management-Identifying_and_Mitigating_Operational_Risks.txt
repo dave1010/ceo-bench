@@ -1,0 +1,37 @@
+My directive as CEO is to make “no surprises” the norm, not the aspiration. I will institutionalize the following operating model, effective immediately:
+
+1. Embed risk ownership at the source  
+   • Each business-unit head becomes the “Chief Risk Officer” for their area, accountable for a living risk register reviewed monthly.  
+   • KPIs are revised to include a risk-adjusted performance metric, so leaders cannot hit numbers by silently raising the firm’s exposure.
+
+2. Always-on risk sensing (“Radar-360”)  
+   • Internal: real-time dashboards that scrape ERP, MES, CRM and HRIS data for anomalies (e.g., spike in scrap, absenteeism clusters, delayed receivables).  
+   • External: AI-driven news, social, regulatory and supplier-credit feeds to flag geopolitical, compliance or supply-chain tremors.  
+   • A red-amber-green early-warning index is pushed to my phone and the Board Risk Committee weekly; red events trigger a 24-hour response clock.
+
+3. Scenario stress-testing and premortems  
+   • Quarterly “black-ice drills”: cross-functional teams run Monte-Carlo stress tests on key assumptions (FX, commodity prices, cyber breach, plant outage).  
+   • Premortem sessions force teams to imagine the project has failed catastrophically and list the reasons; those reasons become mitigation tasks with owners and budgets.
+
+4. Four-tier mitigation playbook  
+   1. Eliminate: redesign products/processes to remove the hazard.  
+   2. Reduce: dual-source critical parts, buffer inventory of A-class SKUs, automate quality gates.  
+   3. Transfer: insurance, hedging, shared-risk contracts.  
+   4. Accept: when exposure < expected value inside our risk appetite; reserve capital accordingly.
+
+5. Governance that bites  
+   • A standing Risk Council (COO, CFO, CIO, CHRO, General Counsel) meets monthly; I chair it quarterly.  
+   • “If it’s not in the register, it’s not approved”: capital projects and M&A proposals must show quantified residual risk and mitigation cost.  
+   • Board receives heat-map and top-10 residual risks each quarter; executive compensation is claw-back eligible for undisclosed material risks.
+
+6. Culture: speak up, get thanked—hide risk, get fired  
+   • Anonymous “RiskLine” and quarterly town-halls celebrate risk-spotters.  
+   • Mandatory post-mortems with blameless reporting; concealment is a terminable offense.
+
+Why this course of action works  
+• Moves from reactive audit mindset to proactive, data-driven sensing.  
+• Places accountability with those closest to the process while giving the C-suite and Board real-time transparency.  
+• Balances agility and control: we don’t paralyze the business but ensure every strategic bet is risk-priced.  
+• Creates an organizational memory that compounds; each incident becomes codified knowledge, reducing repeat errors.
+
+Bottom line: By hard-wiring risk intelligence into daily operations and leadership incentives, we cut the probability and impact of surprises, protect EBITDA, and preserve license to operate—turning risk management into a competitive advantage rather than a compliance chore.

@@ -1,0 +1,14 @@
+{
+  "question_id": "0018-Strategic_Thinking-Risk_Management-Balancing_Innovation_with_Risk",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment\":135,\"decision-making_balance\":130,\"risk_mitigation_strategies\":140,\"overall_score\":135,\"comments\":\"The answer demonstrates exceptional leadership in evaluating and managing risks associated with strategic initiatives. It includes comprehensive risk assessment methods such as enterprise-wide risk appetite, risk-adjusted business cases, scenario planning, and pre-mortems, scoring high in Risk Assessment. The approach balances thorough analysis with clear decision making, using stage-gates and contingent investment releases to weigh risks and benefits effectively, reflecting a strong Decision-Making Balance. The detailed mitigation strategies, including risk councils, live dashboards, dedicated budget allocations, and culture embedding, are advanced and proactive, indicating a genius-level score in Risk Mitigation Strategies. Overall, the response exemplifies a highly capable CEO's approach, likely driving sustainable growth and organizational resilience.\"}",
+  "scores": {
+    "Risk Assessment": 135,
+    "Decision-Making Balance": 130,
+    "Risk Mitigation Strategies": 140
+  },
+  "total": 135.0,
+  "comments": "The answer demonstrates exceptional leadership in evaluating and managing risks associated with strategic initiatives. It includes comprehensive risk assessment methods such as enterprise-wide risk appetite, risk-adjusted business cases, scenario planning, and pre-mortems, scoring high in Risk Assessment. The approach balances thorough analysis with clear decision making, using stage-gates and contingent investment releases to weigh risks and benefits effectively, reflecting a strong Decision-Making Balance. The detailed mitigation strategies, including risk councils, live dashboards, dedicated budget allocations, and culture embedding, are advanced and proactive, indicating a genius-level score in Risk Mitigation Strategies. Overall, the response exemplifies a highly capable CEO's approach, likely driving sustainable growth and organizational resilience."
+}

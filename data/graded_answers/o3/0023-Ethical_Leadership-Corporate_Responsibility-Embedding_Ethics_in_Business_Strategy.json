@@ -1,0 +1,14 @@
+{
+  "question_id": "0023-Ethical_Leadership-Corporate_Responsibility-Embedding_Ethics_in_Business_Strategy",
+  "model": "o3",
+  "topic": "Ethical Leadership",
+  "subtopic": "Corporate Responsibility",
+  "raw": "{\"ethical_framework\":135,\"policy_integration\":140,\"leadership_example\":130,\"overall_score\":135,\"comments\":\"The CEO demonstrates an exceptional commitment to ethics by establishing a board-level committee, integrating ethics into strategic documents, and tying compensation to ESG metrics, indicating a strong ethical framework. Ethical considerations are deeply embedded through formalized procedures, KPIs, decision-support tools, and operational ownership across business units, showcasing exemplary policy integration. Leadership example is also strong, with the CEO taking personal accountability, appointing dedicated roles, fostering transparency through reporting and forums, and promoting organizational trust. Overall, this approach indicates a genius-level leadership quotient in ethical and responsible governance.\"}",
+  "scores": {
+    "Ethical Framework": 135,
+    "Policy Integration": 140,
+    "Leadership Example": 130
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates an exceptional commitment to ethics by establishing a board-level committee, integrating ethics into strategic documents, and tying compensation to ESG metrics, indicating a strong ethical framework. Ethical considerations are deeply embedded through formalized procedures, KPIs, decision-support tools, and operational ownership across business units, showcasing exemplary policy integration. Leadership example is also strong, with the CEO taking personal accountability, appointing dedicated roles, fostering transparency through reporting and forums, and promoting organizational trust. Overall, this approach indicates a genius-level leadership quotient in ethical and responsible governance."
+}

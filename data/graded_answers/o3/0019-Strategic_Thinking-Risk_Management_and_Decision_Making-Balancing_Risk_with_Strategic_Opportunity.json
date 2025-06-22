@@ -1,0 +1,14 @@
+{
+  "question_id": "0019-Strategic_Thinking-Risk_Management_and_Decision_Making-Balancing_Risk_with_Strategic_Opportunity",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management and Decision Making",
+  "raw": "{\"analytical_frameworks\":135,\"balance_of_risk_and_reward\":140,\"flexibility_and_adaptability\":130,\"overall_score\":135,\"comments\":\"The CEO demonstrates exceptional use of sophisticated analytical frameworks such as Monte Carlo simulations, scenario planning, and red-team/blue-team exercises, indicating a deep commitment to data-driven decision making. Their approach to balancing risk and reward is exemplary, showcasing a nuanced understanding of staged investments with pre-defined kill or pivot points, contractual mitigations, and risk budgeting, effectively capturing upside while protecting downside. Flexibility and adaptability are reflected in continuous monitoring, rotating risk review ownership to prevent groupthink, and iterative learning, facilitating proactive adjustments to emerging risks. Overall, the response reflects a highly disciplined and strategic approach that would likely result in outstanding organizational performance.\"}",
+  "scores": {
+    "Analytical Frameworks": 135,
+    "Balance of Risk and Reward": 140,
+    "Flexibility and Adaptability": 130
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates exceptional use of sophisticated analytical frameworks such as Monte Carlo simulations, scenario planning, and red-team/blue-team exercises, indicating a deep commitment to data-driven decision making. Their approach to balancing risk and reward is exemplary, showcasing a nuanced understanding of staged investments with pre-defined kill or pivot points, contractual mitigations, and risk budgeting, effectively capturing upside while protecting downside. Flexibility and adaptability are reflected in continuous monitoring, rotating risk review ownership to prevent groupthink, and iterative learning, facilitating proactive adjustments to emerging risks. Overall, the response reflects a highly disciplined and strategic approach that would likely result in outstanding organizational performance."
+}

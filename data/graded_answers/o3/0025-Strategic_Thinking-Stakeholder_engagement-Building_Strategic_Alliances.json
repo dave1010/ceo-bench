@@ -1,0 +1,14 @@
+{
+  "question_id": "0025-Strategic_Thinking-Stakeholder_engagement-Building_Strategic_Alliances",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder engagement",
+  "raw": "{\"relationship_cultivation\":130,\"collaborative_mindset\":135,\"alignment_of_interests\":140,\"overall_score\":135,\"comments\":\"The CEO demonstrates outstanding relationship cultivation by instituting a dedicated program with direct sponsorship and governance mechanisms. The collaborative mindset is vividly displayed through dual-speed engagement strategies, mutual value engineering, and cultural integration that promote co-creation. The alignment of interests is exceptionally strong, with a clear strategic focus through the Strategic Gap Matrix and KPIs tying partnerships directly to the company\u2019s long-term vision. Overall, the answer exhibits exceptional strategic leadership in fostering partnerships that genuinely advance the company\u2019s vision, meriting a genius-level Leadership Quotient.\"}",
+  "scores": {
+    "Relationship cultivation": 130,
+    "Collaborative mindset": 135,
+    "Alignment of interests": 140
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates outstanding relationship cultivation by instituting a dedicated program with direct sponsorship and governance mechanisms. The collaborative mindset is vividly displayed through dual-speed engagement strategies, mutual value engineering, and cultural integration that promote co-creation. The alignment of interests is exceptionally strong, with a clear strategic focus through the Strategic Gap Matrix and KPIs tying partnerships directly to the company\u2019s long-term vision. Overall, the answer exhibits exceptional strategic leadership in fostering partnerships that genuinely advance the company\u2019s vision, meriting a genius-level Leadership Quotient."
+}

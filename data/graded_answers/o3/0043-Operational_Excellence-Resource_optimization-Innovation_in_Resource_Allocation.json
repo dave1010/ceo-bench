@@ -1,0 +1,14 @@
+{
+  "question_id": "0043-Operational_Excellence-Resource_optimization-Innovation_in_Resource_Allocation",
+  "model": "o3",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"strategic_planning\":140,\"efficiency_gains\":135,\"change_management\":125,\"overall_score\":133.3,\"comments\":\"The CEO exhibits exceptional strategic planning by designing an innovative, AI-driven Dynamic Resource Hub that replaces traditional budgeting with a continuous, data-driven allocation process. Efficiency gains are substantial, including significant reductions in waste and increased labor productivity, validated by clear metrics. Change management is strong, evidenced by embedding the Hub organization-wide, improving employee engagement, and fostering a shift to a dynamic resource mindset. Overall, this represents a genius-level performance indicative of extraordinary organizational impact.\"}",
+  "scores": {
+    "Strategic Planning": 140,
+    "Efficiency Gains": 135,
+    "Change Management": 125
+  },
+  "total": 133.3,
+  "comments": "The CEO exhibits exceptional strategic planning by designing an innovative, AI-driven Dynamic Resource Hub that replaces traditional budgeting with a continuous, data-driven allocation process. Efficiency gains are substantial, including significant reductions in waste and increased labor productivity, validated by clear metrics. Change management is strong, evidenced by embedding the Hub organization-wide, improving employee engagement, and fostering a shift to a dynamic resource mindset. Overall, this represents a genius-level performance indicative of extraordinary organizational impact."
+}

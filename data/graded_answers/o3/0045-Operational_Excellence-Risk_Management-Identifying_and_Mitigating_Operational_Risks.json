@@ -1,0 +1,14 @@
+{
+  "question_id": "0045-Operational_Excellence-Risk_Management-Identifying_and_Mitigating_Operational_Risks",
+  "model": "o3",
+  "topic": "Operational Excellence",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment_methodology\":135,\"mitigation_planning\":130,\"monitoring_&_review\":125,\"overall_score\":130,\"comments\":\"The answer demonstrates an exceptional, comprehensive, and systematic approach to risk assessment, embedding risk ownership within business units and leveraging real-time data analytics\u2014reflecting advanced, proactive methodologies. Mitigation strategies are robust and multifaceted, including elimination, reduction, transfer, and acceptance, with clear operational tactics and governance to enforce accountability. Monitoring and review processes are rigorous, with continuous sensing, scheduled stress tests, governance meetings, and culture reinforcement mechanisms, ensuring dynamic adaptation to evolving risks. Overall, the integrated approach is sophisticated and would significantly enhance organizational resilience and performance.\"}",
+  "scores": {
+    "Risk Assessment Methodology": 135,
+    "Mitigation Planning": 130,
+    "Monitoring & Review": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates an exceptional, comprehensive, and systematic approach to risk assessment, embedding risk ownership within business units and leveraging real-time data analytics\u2014reflecting advanced, proactive methodologies. Mitigation strategies are robust and multifaceted, including elimination, reduction, transfer, and acceptance, with clear operational tactics and governance to enforce accountability. Monitoring and review processes are rigorous, with continuous sensing, scheduled stress tests, governance meetings, and culture reinforcement mechanisms, ensuring dynamic adaptation to evolving risks. Overall, the integrated approach is sophisticated and would significantly enhance organizational resilience and performance."
+}

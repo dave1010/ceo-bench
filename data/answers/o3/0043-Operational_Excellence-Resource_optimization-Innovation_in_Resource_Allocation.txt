@@ -1,0 +1,22 @@
+Decisive course of action  
+I have instituted a company-wide “Dynamic Resource Hub” (DRH) that centralizes every euro of spend, every hour of talent capacity, and every square foot of physical asset into one continuously re-optimized pool that is re-allocated every 90 days by an AI-supported, ROI-ranked auction.  
+
+Why this course was chosen  
+1. Fragmented, silo-based budgets were leaving 8-10 % of OPEX idle each quarter.  
+2. Strategy shifts now occur faster than an annual budgeting cycle; a 90-day cadence keeps resources matched to the highest-value work.  
+3. AI-driven scenarios remove politics from funding decisions and surface hidden bottlenecks in real time.  
+
+How it works  
+• One-pool model All departmental budgets were collapsed into a single corporate P&L cell. Leaders request funding and talent in “sprint packets” tied to explicit OKRs and business cases.  
+• AI-assisted auction A machine-learning engine scores each request on cash ROI, strategic fit, and risk. The top 80 % of value is funded automatically; the rest is adjudicated at the weekly CXO stand-up.  
+• Talent & asset marketplace Employees list under-utilized capacity (e.g., a data scientist at 60 % load) and assets (e.g., test rigs, cloud credits). Any team can bid those resources using DRH credits.  
+• Zero-based, 90-day reviews At the end of each quarter all resources revert to the pool unless re-justified, eliminating entitlement mentality.  
+• Closed-loop waste tracking Digital twins measure variance between planned and actual utilization; variances >5 % trigger a root-cause sprint and re-deployment within 10 days.  
+
+Results to date (first two quarters)  
+• 18 % reduction in SG&A waste vs. prior year.  
+• 12 % uplift in labor productivity, measured as revenue per FTE hour.  
+• Re-deployed €37 M of idle capital to the two growth platforms, accelerating their time-to-profitability by six months.  
+• Employee engagement rose 9 points (Gallup Q12) because talent now flows to the most impactful work.  
+
+In short, the Dynamic Resource Hub replaces static departmental budgets with a living marketplace that pushes every euro, hour and asset to where it delivers the highest, fastest and most strategic return—maximizing efficiency and virtually eliminating structural waste.

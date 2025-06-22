@@ -1,0 +1,14 @@
+{
+  "question_id": "0015-Strategic_Thinking-Market_entry_strategies-Assessing_Long-term_Viability_of_New_Markets",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"evaluation_framework\":140,\"data_and_forecasting\":140,\"adaptability_planning\":130,\"overall_score\":137,\"comments\":\"The answer presents a comprehensive, structured, and rigorous three-layer evaluation framework (Discovery, Validation, Commitment) with explicit criteria including economic indicators, strategic fit, ESG factors, and scenario modeling, reflecting a high level of sophistication in assessing long-term sustainability and growth. The use of quantitative data sources, extensive primary research, and multi-scenario financial projections demonstrates excellent incorporation of data and forecasting. Adaptability is well addressed through early warning KPIs, stop-loss reviews, and a clear governance structure enabling real-time course correction. This represents a near-genius level approach likely to ensure sound market entry decisions and sustainable growth.\"}",
+  "scores": {
+    "Evaluation Framework": 140,
+    "Data and Forecasting": 140,
+    "Adaptability Planning": 130
+  },
+  "total": 137.0,
+  "comments": "The answer presents a comprehensive, structured, and rigorous three-layer evaluation framework (Discovery, Validation, Commitment) with explicit criteria including economic indicators, strategic fit, ESG factors, and scenario modeling, reflecting a high level of sophistication in assessing long-term sustainability and growth. The use of quantitative data sources, extensive primary research, and multi-scenario financial projections demonstrates excellent incorporation of data and forecasting. Adaptability is well addressed through early warning KPIs, stop-loss reviews, and a clear governance structure enabling real-time course correction. This represents a near-genius level approach likely to ensure sound market entry decisions and sustainable growth."
+}

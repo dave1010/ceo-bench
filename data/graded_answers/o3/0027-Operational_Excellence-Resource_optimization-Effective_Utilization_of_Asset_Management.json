@@ -1,0 +1,14 @@
+{
+  "question_id": "0027-Operational_Excellence-Resource_optimization-Effective_Utilization_of_Asset_Management",
+  "model": "o3",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"asset_management_strategy\":135,\"continuous_improvement\":130,\"cross-functional_coordination\":125,\"overall_score\":130,\"comments\":\"The answer presents a highly comprehensive and well-integrated asset management strategy, including IoT deployment for real-time tracking, condition-based maintenance, zero-based capital budgeting, and explicit financial targets tied to compensation. Continuous improvement is evident through regular reviews, predictive maintenance, and post-investment audits. Cross-functional coordination is addressed by holding all P&L leaders accountable and involving various departments in optimization decisions. The approach is data-driven and strategic, indicating a high level of leadership acumen and likelihood to significantly improve organizational performance.\"}",
+  "scores": {
+    "Asset Management Strategy": 135,
+    "Continuous Improvement": 130,
+    "Cross-Functional Coordination": 125
+  },
+  "total": 130.0,
+  "comments": "The answer presents a highly comprehensive and well-integrated asset management strategy, including IoT deployment for real-time tracking, condition-based maintenance, zero-based capital budgeting, and explicit financial targets tied to compensation. Continuous improvement is evident through regular reviews, predictive maintenance, and post-investment audits. Cross-functional coordination is addressed by holding all P&L leaders accountable and involving various departments in optimization decisions. The approach is data-driven and strategic, indicating a high level of leadership acumen and likelihood to significantly improve organizational performance."
+}

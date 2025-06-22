@@ -1,0 +1,14 @@
+{
+  "question_id": "0004-Strategic_Thinking-Market_entry_strategies-Evaluating_Market_Selection_Criteria",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"market_analysis\":130,\"strategic_alignment\":135,\"risk_assessment\":130,\"overall_score\":132,\"comments\":\"The answer demonstrates an exceptional grasp of critical market factors, providing clear criteria such as financial metrics and execution feasibility that ensure thorough market analysis. It strongly aligns with the company's strategic goals through the strategic fit criterion and thoughtful rationale. Risk assessment is comprehensive, considering political, regulatory, and financial downside risks with concrete thresholds. The structured, disciplined approach reflects a 'genius' level of leadership insight suitable for outstanding organizational performance.\"}",
+  "scores": {
+    "Market Analysis": 130,
+    "Strategic Alignment": 135,
+    "Risk Assessment": 130
+  },
+  "total": 132.0,
+  "comments": "The answer demonstrates an exceptional grasp of critical market factors, providing clear criteria such as financial metrics and execution feasibility that ensure thorough market analysis. It strongly aligns with the company's strategic goals through the strategic fit criterion and thoughtful rationale. Risk assessment is comprehensive, considering political, regulatory, and financial downside risks with concrete thresholds. The structured, disciplined approach reflects a 'genius' level of leadership insight suitable for outstanding organizational performance."
+}

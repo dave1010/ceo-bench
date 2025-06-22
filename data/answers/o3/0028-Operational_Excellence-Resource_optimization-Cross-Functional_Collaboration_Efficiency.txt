@@ -1,0 +1,24 @@
+My commitment is to institutionalize cross-functional planning as a core operating rhythm so that every project, head-count request, and major spend is vetted once—and only once—by the right mix of leaders.
+
+1. Quarterly “One Plan” Reviews  
+   • I am mandating a single, integrated operating plan review every quarter where Finance, HR, Engineering, Sales, and Operations present their resource needs together.  
+   • All new initiatives must surface in this forum; no side deals, no parallel plans. This immediately exposes overlap, reallocates slack capacity, and eliminates duplicate tooling.
+
+2. Cross-Functional OKRs Tied to Budget Release  
+   • Departmental OKRs will now include at least one shared objective with another function. Funding is released only when both departments commit to the joint metric, ensuring collaboration is the path of least resistance.
+
+3. Unified Project Management Stack  
+   • We will migrate to one project-portfolio platform (monday.com enterprise) within 60 days. Status, spend, and talent allocations will be visible company-wide, enabling real-time rebalancing and reducing the “I didn’t know you were doing that” problem.
+
+4. Incentives for Resource Sharing  
+   • Managers who redeploy at least 5 % of their budget or people to higher-ROI initiatives will earn an automatic +10 % on their variable compensation pool. We reward “company first,” not “my silo first.”
+
+5. Post-Mortem on Every Major Initiative  
+   • We will run a rapid, data-driven look-back after each multimillion-dollar project to quantify cost of duplication avoided—or incurred—and feed those insights into the next quarterly review.
+
+Why this course of action works  
+• Forces transparency: a single public plan and one toolset remove the informational fog where duplication breeds.  
+• Hard-wires collaboration: tying budget approval and bonuses to cross-functional performance changes behavior faster than policy memos.  
+• Creates a feedback loop: post-mortems and quarterly cadence keep the system honest and continuously improving.
+
+With these mechanisms, I am confident we will cut duplicative spend by at least 15 % this fiscal year and free up resources to reinvest in growth.

@@ -1,0 +1,14 @@
+{
+  "question_id": "0035-Strategic_Thinking-Competitive_analysis-Learning_from_Competitors",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive analysis",
+  "raw": "{\"insight_extraction\":135,\"benchmarking_practices\":130,\"open_innovation\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates a sophisticated understanding of competitors as valuable sources of learning, employing systematic and multifaceted methods including competitive intelligence sprints, live-field insights, and product/talent reverse-engineering. These practices not only extract deep insights but also feed directly into strategy and innovation, showcasing exceptional leadership in leveraging competition for organizational advantage.\"}",
+  "scores": {
+    "Insight Extraction": 135,
+    "Benchmarking Practices": 130,
+    "Open Innovation": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates a sophisticated understanding of competitors as valuable sources of learning, employing systematic and multifaceted methods including competitive intelligence sprints, live-field insights, and product/talent reverse-engineering. These practices not only extract deep insights but also feed directly into strategy and innovation, showcasing exceptional leadership in leveraging competition for organizational advantage."
+}

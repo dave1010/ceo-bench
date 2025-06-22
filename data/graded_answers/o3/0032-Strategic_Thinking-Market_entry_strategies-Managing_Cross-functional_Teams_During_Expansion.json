@@ -1,0 +1,14 @@
+{
+  "question_id": "0032-Strategic_Thinking-Market_entry_strategies-Managing_Cross-functional_Teams_During_Expansion",
+  "model": "o3",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"leadership_communication\":135,\"resource_management\":130,\"performance_monitoring\":140,\"overall_score\":135,\"comments\":\"The CEO demonstrates exceptional leadership communication by articulating a clear vision, defining roles precisely, and promoting collaboration through shared incentives and visible progress metrics. Resource management is robust, with dedicated leadership roles, cross-functional accountability, and mechanisms to resolve issues quickly. Performance monitoring is exemplary, featuring real-time dashboards, regular reviews, and iterative learning processes. Overall, the approach reflects genius-level coordination and motivation of cross-disciplinary teams, likely leading to extraordinary organizational performance.\"}",
+  "scores": {
+    "Leadership communication": 135,
+    "Resource management": 130,
+    "Performance monitoring": 140
+  },
+  "total": 135.0,
+  "comments": "The CEO demonstrates exceptional leadership communication by articulating a clear vision, defining roles precisely, and promoting collaboration through shared incentives and visible progress metrics. Resource management is robust, with dedicated leadership roles, cross-functional accountability, and mechanisms to resolve issues quickly. Performance monitoring is exemplary, featuring real-time dashboards, regular reviews, and iterative learning processes. Overall, the approach reflects genius-level coordination and motivation of cross-disciplinary teams, likely leading to extraordinary organizational performance."
+}

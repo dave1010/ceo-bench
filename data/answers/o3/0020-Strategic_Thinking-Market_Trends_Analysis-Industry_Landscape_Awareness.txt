@@ -1,0 +1,23 @@
+My course of action is to institutionalize a “Strategic Intelligence & Adaptation System” built on three pillars—Listen, Decide, Act—so that staying ahead of industry change becomes a repeatable capability rather than a periodic exercise.
+
+1. LISTEN  
+   • Intelligence Cell: I am chartering a four-person Market & Technology Insights (MTI) cell that reports directly to me. Its mandate is to scan academic publications, patent filings, competitor moves, VC funding flows, regulatory dockets, and social sentiment, using both AI text analytics and human synthesis.  
+   • External Network: I will personally spend one day each month in the field—rotating among customers, suppliers, startups, and policy forums—and maintain quarterly roundtables with our advisory board of domain experts.  
+   • Internal Crowdsourcing: We will launch a “Signal Capture” portal where any employee can flag an emerging trend; the MTI cell curates and scores these signals for impact and probability.
+
+2. DECIDE  
+   • Quarterly Trend Briefing: MTI delivers a red-yellow-green heat map of trends to the ELT and board each quarter.  
+   • Scenario Workshops: Twice a year I chair cross-functional scenario planning sessions that stress-test our three-year strategic plan against the top five trends.  
+   • Funding Gate: We pre-allocate 10 % of next year’s capex to initiatives that score ≥8/10 on strategic relevance and ≤24 months to proof of value.
+
+3. ACT  
+   • Agile “Two-Year Bet” Teams: For every green-lighted trend, we spin up a dedicated, cross-functional squad with its own OKRs and a 90-day sprint cadence.  
+   • KPI Integration: We embed leading-indicator metrics (e.g., share of revenue from products <18 months old) into the company’s performance dashboard and my own compensation scorecard.  
+   • Communication: I cascade a bi-monthly video update to ensure the entire organization understands which trends we are betting on and why.
+
+Why this approach works  
+• Velocity: A direct reporting line and preset capex carve-out remove bureaucratic lag.  
+• Rigor: Quantitative scoring and scenario testing prevent “shiny-object” distractions.  
+• Culture: Crowdsourcing signals and transparent updates make foresight everyone’s job, not just the MTI cell’s.
+
+In short, by formalizing how we listen, decide, and act, I ensure we detect inflection points early and pivot resources before competitors even see the wave coming.

@@ -1,1 +1,2 @@
 Resumed eval for groq/gemma2-9b-it. Now have 68 answers.
+Ran eval for o3. Now have 39 answers.
