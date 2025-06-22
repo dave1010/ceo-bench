@@ -1,14 +1,21 @@
 You are generating new questions for the CEO Bench evaluation.
 Each question should focus on the given topic and subtopic.
+The scenario must reflect messy executive realities with competing objectives,
+limited resources and trade offs.
+Include tension around the following area of conflict: {conflict}.
+Describe a very specific situation and write the question in two to three
+sentences. Add a `conflict` field with the same value.
+One rubric dimension must evaluate the clarity and decisiveness of the CEO's decision.
 Avoid repeating any of the existing titles listed below.
 Return YAML in the following structure:
 
 ```
 topic: {topic}
 subtopic: {subtopic}
+conflict: {conflict}
 title: <short title>
 question: |
-  <one to two sentence question>
+  <two to three sentence question>
 rubric:
   - dimension: <dimension 1>
     ideal: <ideal answer description>

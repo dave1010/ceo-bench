@@ -1,0 +1,24 @@
+topic: Operational Excellence
+subtopic: Efficiency analysis
+conflict: technology
+title: Legacy Software Migration
+question: 'The IT team has proposed migrating all legacy systems to a cloud-based
+  solution to improve efficiency and reduce maintenance costs. However, this will
+  require a significant upfront investment and potential disruptions to daily operations.
+  How would you decide whether to commit to the migration, considering the trade-offs
+  between short-term costs and long-term benefits?
+
+  '
+rubric:
+- dimension: Clarity and decisiveness
+  ideal: The CEO demonstrates a clear understanding of the potential risks and benefits
+    of the migration, makes a timely decision based on available information, and
+    communicates the rationale effectively to stakeholders.
+- dimension: Resource Management
+  ideal: The CEO considers the available resources, both financial and human, and
+    develops a plan to minimize disruptions during the migration process while ensuring
+    the long-term benefits justify the investment.
+- dimension: Strategic Vision
+  ideal: The CEO aligns the decision to migrate legacy systems with the company's
+    strategic goals and objectives, ensuring that the technology integration supports
+    overall business growth and efficiency.

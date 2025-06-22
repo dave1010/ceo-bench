@@ -1,0 +1,25 @@
+topic: Risk & Ethics
+subtopic: Ethical decision-making
+conflict: technology
+title: Leveraging AI for Customer Data Analysis
+question: 'As the CEO, you are faced with the decision of implementing AI technology
+  to analyze customer data for targeted marketing, which could significantly increase
+  sales. However, there are concerns about the ethical implications of potentially
+  invading customers'' privacy. How do you navigate this technology-driven dilemma
+  while ensuring ethical principles are upheld?
+
+  '
+rubric:
+- dimension: Clarity and decisiveness of decision
+  ideal: The CEO clearly communicates the rationale behind their decision and makes
+    a decisive choice that considers both the benefits of AI technology and the ethical
+    concerns regarding customer privacy.
+- dimension: Strategic alignment with company values
+  ideal: The CEO aligns the decision with the company's core values of ethical behavior
+    and customer trust, demonstrating a commitment to upholding ethical standards
+    even in the face of technological advancements.
+- dimension: Stakeholder communication
+  ideal: The CEO effectively communicates with stakeholders, including customers,
+    employees, and investors, about the decision-making process involving the use
+    of AI technology for customer data analysis, fostering transparency and trust
+    in the organization.

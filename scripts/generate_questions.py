@@ -53,7 +53,23 @@ def main() -> None:
         default=DEFAULT_TEMPLATE,
         help="Prompt template",
     )
+    parser.add_argument(
+        "--topic",
+        help="Generate questions only for this topic",
+    )
+    parser.add_argument(
+        "--subtopic",
+        help="Generate questions only for this subtopic (requires --topic)",
+    )
+    parser.add_argument(
+        "--count",
+        type=int,
+        help="Generate this many questions when --subtopic is used",
+    )
     args = parser.parse_args()
+
+    if args.subtopic and not args.topic:
+        parser.error("--subtopic requires --topic")
 
     if not TOPICS_FILE.exists():
         raise SystemExit(f"Missing {TOPICS_FILE}")
@@ -65,8 +81,13 @@ def main() -> None:
     qid = next_id()
     for topic in data.get("topics", []):
         tname = topic.get("name")
+        if args.topic and tname != args.topic:
+            continue
         for subtopic in topic.get("subtopics", []):
-            for _ in range(args.questions_per_subtopic):
+            if args.subtopic and subtopic != args.subtopic:
+                continue
+            count = args.count or args.questions_per_subtopic
+            for _ in range(count):
                 titles = existing_titles(tname, subtopic)
                 qdata = create_question_llm(
                     tname, subtopic, titles, args.model, args.template
