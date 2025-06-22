@@ -1,4 +1,4 @@
-"""Grade an answer using llm and store JSON results.
+"""Grade an answer using llm and store the JSON grading output.
 
 Usage:
     python grade_answer.py question.yaml answer.txt \
@@ -16,7 +16,7 @@ from make_grading_prompt import build_prompt, DEFAULT_TEMPLATE
 
 DATA_DIR = Path("data")
 
-RESULTS_DIR = DATA_DIR / "results"
+GRADED_DIR = DATA_DIR / "graded_answers"
 
 
 def build_schema(dimensions):
@@ -65,9 +65,10 @@ def main() -> None:
     except json.JSONDecodeError:
         parsed = None
 
-    RESULTS_DIR.mkdir(exist_ok=True)
     safe_model = encode_model_name(args.model)
-    outfile = RESULTS_DIR / f"{args.answer.stem}-{safe_model}.json"
+    out_dir = GRADED_DIR / safe_model
+    out_dir.mkdir(parents=True, exist_ok=True)
+    outfile = out_dir / f"{args.answer.stem}.json"
     record = {
         "question_id": args.question.stem,
         "model": args.model,
