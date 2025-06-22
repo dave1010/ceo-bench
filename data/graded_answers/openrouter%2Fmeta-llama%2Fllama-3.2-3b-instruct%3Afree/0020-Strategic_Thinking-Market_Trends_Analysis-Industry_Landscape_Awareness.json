@@ -1,0 +1,14 @@
+{
+  "question_id": "0020-Strategic_Thinking-Market_Trends_Analysis-Industry_Landscape_Awareness",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market Trends Analysis",
+  "raw": "{\"environmental_scanning\":130,\"adaptability\":125,\"forward-looking_perspective\":130,\"overall_score\":128.3,\"comments\":\"The CEO presents a comprehensive and systematic approach to monitoring industry trends through a dedicated insights team, industry conferences, strategic partnerships, and innovation hubs, reflecting strong environmental scanning. The plan to foster a culture of continuous learning and engagement indicates a high degree of adaptability, showing readiness to pivot strategies based on insights. The emphasis on proactive identification of emerging trends and long-term success planning demonstrates excellent forward-looking perspective. Overall, the response reflects a highly capable and strategically astute leadership approach suitable for driving sustained organizational success.\"}",
+  "scores": {
+    "Environmental Scanning": 130,
+    "Adaptability": 125,
+    "Forward-looking Perspective": 130
+  },
+  "total": 128.3,
+  "comments": "The CEO presents a comprehensive and systematic approach to monitoring industry trends through a dedicated insights team, industry conferences, strategic partnerships, and innovation hubs, reflecting strong environmental scanning. The plan to foster a culture of continuous learning and engagement indicates a high degree of adaptability, showing readiness to pivot strategies based on insights. The emphasis on proactive identification of emerging trends and long-term success planning demonstrates excellent forward-looking perspective. Overall, the response reflects a highly capable and strategically astute leadership approach suitable for driving sustained organizational success."
+}

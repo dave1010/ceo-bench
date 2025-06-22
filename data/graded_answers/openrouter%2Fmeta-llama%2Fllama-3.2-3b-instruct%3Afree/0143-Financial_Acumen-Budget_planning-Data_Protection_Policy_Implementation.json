@@ -1,0 +1,14 @@
+{
+  "question_id": "0143-Financial_Acumen-Budget_planning-Data_Protection_Policy_Implementation",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Financial Acumen",
+  "subtopic": "Budget planning",
+  "raw": "{\"clarity_and_decisiveness\":120,\"strategic_thinking\":130,\"communication_skills\":125,\"overall_score\":125,\"comments\":\"The CEO's response is very clear and decisive, thoroughly explaining the rationale for prioritizing data protection compliance. The strategic approach aligns well with long-term business goals, including risk management and cost savings. Communication is effective, outlining steps and motivating stakeholders with a comprehensive plan. Overall, the response demonstrates strong leadership qualities indicative of a high-performing CEO.\"}",
+  "scores": {
+    "Clarity and decisiveness": 120,
+    "Strategic thinking": 130,
+    "Communication skills": 125
+  },
+  "total": 125.0,
+  "comments": "The CEO's response is very clear and decisive, thoroughly explaining the rationale for prioritizing data protection compliance. The strategic approach aligns well with long-term business goals, including risk management and cost savings. Communication is effective, outlining steps and motivating stakeholders with a comprehensive plan. Overall, the response demonstrates strong leadership qualities indicative of a high-performing CEO."
+}

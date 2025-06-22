@@ -1,0 +1,14 @@
+{
+  "question_id": "0143-Financial_Acumen-Budget_planning-Data_Protection_Policy_Implementation",
+  "model": "openrouter/meta-llama/llama-3.2-1b-instruct:free",
+  "topic": "Financial Acumen",
+  "subtopic": "Budget planning",
+  "raw": "{\"clarity_and_decisiveness\":65,\"strategic_thinking\":70,\"communication_skills\":60,\"overall_score\":65,\"comments\":\"The answer begins with a clear intention to allocate resources effectively but quickly devolves into incoherent, fragmented, and largely unintelligible text that obscures any strategic rationale. While initial points hint at structured allocation toward compliance and security, the excessive jargon, random phrases, and unclear explanations significantly impair clarity and decisiveness. Strategic thinking is weakly demonstrated through the initial phased approach, but the lack of coherent linkage to long-term business goals undermines its impact. Communication skills are notably poor as the message fails to clearly convey the importance of compliance or effectively motivate stakeholders due to the disorganized, confusing presentation.\"}",
+  "scores": {
+    "Clarity and decisiveness": 65,
+    "Strategic thinking": 70,
+    "Communication skills": 60
+  },
+  "total": 65.0,
+  "comments": "The answer begins with a clear intention to allocate resources effectively but quickly devolves into incoherent, fragmented, and largely unintelligible text that obscures any strategic rationale. While initial points hint at structured allocation toward compliance and security, the excessive jargon, random phrases, and unclear explanations significantly impair clarity and decisiveness. Strategic thinking is weakly demonstrated through the initial phased approach, but the lack of coherent linkage to long-term business goals undermines its impact. Communication skills are notably poor as the message fails to clearly convey the importance of compliance or effectively motivate stakeholders due to the disorganized, confusing presentation."
+}

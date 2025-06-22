@@ -1,0 +1,14 @@
+{
+  "question_id": "0035-Strategic_Thinking-Competitive_analysis-Learning_from_Competitors",
+  "model": "openrouter/meta-llama/llama-3.2-1b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive analysis",
+  "raw": "{\"insight_extraction\":110,\"benchmarking_practices\":105,\"open_innovation\":100,\"overall_score\":105.0,\"comments\":\"The CEO demonstrates a good understanding of competitors as learning sources, utilizing various methods such as intelligence platforms, interviews, and insider insights. The approach reflects effective insight extraction and benchmarking practices with structured analysis. While open innovation is implied by learning from competitors, explicit embrace of external ideas could be strengthened. Overall, a solid and capable performance with room for deeper innovation integration.\"}",
+  "scores": {
+    "Insight Extraction": 110,
+    "Benchmarking Practices": 105,
+    "Open Innovation": 100
+  },
+  "total": 105.0,
+  "comments": "The CEO demonstrates a good understanding of competitors as learning sources, utilizing various methods such as intelligence platforms, interviews, and insider insights. The approach reflects effective insight extraction and benchmarking practices with structured analysis. While open innovation is implied by learning from competitors, explicit embrace of external ideas could be strengthened. Overall, a solid and capable performance with room for deeper innovation integration."
+}

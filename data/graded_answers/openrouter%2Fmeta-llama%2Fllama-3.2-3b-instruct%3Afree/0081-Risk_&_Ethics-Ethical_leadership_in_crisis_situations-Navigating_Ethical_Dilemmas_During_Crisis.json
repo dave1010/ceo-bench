@@ -1,0 +1,14 @@
+{
+  "question_id": "0081-Risk_&_Ethics-Ethical_leadership_in_crisis_situations-Navigating_Ethical_Dilemmas_During_Crisis",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical leadership in crisis situations",
+  "raw": "{\"crisis_response_integrity\":120,\"stakeholder_consideration\":125,\"personal_accountability\":110,\"overall_score\":118.3,\"comments\":\"The CEO demonstrates strong ethical leadership by emphasizing transparency, collaboration, and principled decision-making during a crisis. They prioritize long-term values over short-term gains and engage a broad set of stakeholders in open communication, which supports trust and fairness under pressure. The CEO also models accountability by convening leadership to share responsibility and maintain clarity. Overall, the response reflects a high level of integrity and stakeholder consideration with clear personal accountability, indicative of a capable and thoughtful crisis leader.\"}",
+  "scores": {
+    "Crisis response integrity": 120,
+    "Stakeholder consideration": 125,
+    "Personal accountability": 110
+  },
+  "total": 118.3,
+  "comments": "The CEO demonstrates strong ethical leadership by emphasizing transparency, collaboration, and principled decision-making during a crisis. They prioritize long-term values over short-term gains and engage a broad set of stakeholders in open communication, which supports trust and fairness under pressure. The CEO also models accountability by convening leadership to share responsibility and maintain clarity. Overall, the response reflects a high level of integrity and stakeholder consideration with clear personal accountability, indicative of a capable and thoughtful crisis leader."
+}

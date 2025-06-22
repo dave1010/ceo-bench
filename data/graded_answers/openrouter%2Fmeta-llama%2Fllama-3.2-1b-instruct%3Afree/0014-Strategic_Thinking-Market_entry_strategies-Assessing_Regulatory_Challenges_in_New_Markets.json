@@ -1,0 +1,14 @@
+{
+  "question_id": "0014-Strategic_Thinking-Market_entry_strategies-Assessing_Regulatory_Challenges_in_New_Markets",
+  "model": "openrouter/meta-llama/llama-3.2-1b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"regulatory_understanding\":120,\"risk_management\":115,\"adaptability\":110,\"overall_score\":115,\"comments\":\"The CEO exhibits a strong and comprehensive approach to regulatory understanding, including thorough research and planning. Risk management is well-addressed through compliance roadmaps and monitoring, indicating effective mitigation strategies. Adaptability is demonstrated by setting up continuous reviews and readiness to adjust processes, evidencing flexibility in evolving regulatory environments. Overall, the response reflects a capable and thoughtful approach to managing regulatory hurdles in new markets.\"}",
+  "scores": {
+    "Regulatory Understanding": 120,
+    "Risk Management": 115,
+    "Adaptability": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO exhibits a strong and comprehensive approach to regulatory understanding, including thorough research and planning. Risk management is well-addressed through compliance roadmaps and monitoring, indicating effective mitigation strategies. Adaptability is demonstrated by setting up continuous reviews and readiness to adjust processes, evidencing flexibility in evolving regulatory environments. Overall, the response reflects a capable and thoughtful approach to managing regulatory hurdles in new markets."
+}

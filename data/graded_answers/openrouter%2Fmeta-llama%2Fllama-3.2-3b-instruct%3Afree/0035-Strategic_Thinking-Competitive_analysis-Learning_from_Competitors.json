@@ -1,0 +1,14 @@
+{
+  "question_id": "0035-Strategic_Thinking-Competitive_analysis-Learning_from_Competitors",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive analysis",
+  "raw": "{\"insight_extraction\":130,\"benchmarking_practices\":120,\"open_innovation\":125,\"overall_score\":125,\"comments\":\"The CEO demonstrates a strong understanding of competitors as sources of learning by outlining comprehensive methods for extracting valuable insights, including qualitative and quantitative approaches. The use of benchmarking is explicitly described and integrated into strategic processes, indicating mature practices. Furthermore, the CEO fosters open innovation through an Innovation Incubator and plans to develop a competitor-focused innovation pipeline, showing a proactive embrace of external ideas to fuel growth and competitive advantage. Scores are above average, reflecting a highly capable leadership approach.\"}",
+  "scores": {
+    "Insight Extraction": 130,
+    "Benchmarking Practices": 120,
+    "Open Innovation": 125
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a strong understanding of competitors as sources of learning by outlining comprehensive methods for extracting valuable insights, including qualitative and quantitative approaches. The use of benchmarking is explicitly described and integrated into strategic processes, indicating mature practices. Furthermore, the CEO fosters open innovation through an Innovation Incubator and plans to develop a competitor-focused innovation pipeline, showing a proactive embrace of external ideas to fuel growth and competitive advantage. Scores are above average, reflecting a highly capable leadership approach."
+}
