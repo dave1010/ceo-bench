@@ -1,0 +1,14 @@
+{
+  "question_id": "0142-Financial_Acumen-Risk_assessment-Cost_Reduction_Strategy",
+  "model": "groq/llama3-70b-8192",
+  "topic": "Financial Acumen",
+  "subtopic": "Risk assessment",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":120,\"financial_impact_analysis\":115,\"stakeholder_communication\":110,\"overall_score\":115,\"comments\":\"The CEO provides a clear and decisive plan favoring efficiency improvements over layoffs, emphasizing long-term sustainability and competitiveness. The financial implications of both options are considered thoughtfully, including the initial investment versus long-term savings. Stakeholder communication is addressed by highlighting commitment to employees and innovation, although more explicit mention of communication channels could strengthen this dimension.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 120,
+    "Financial impact analysis": 115,
+    "Stakeholder communication": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO provides a clear and decisive plan favoring efficiency improvements over layoffs, emphasizing long-term sustainability and competitiveness. The financial implications of both options are considered thoughtfully, including the initial investment versus long-term savings. Stakeholder communication is addressed by highlighting commitment to employees and innovation, although more explicit mention of communication channels could strengthen this dimension."
+}

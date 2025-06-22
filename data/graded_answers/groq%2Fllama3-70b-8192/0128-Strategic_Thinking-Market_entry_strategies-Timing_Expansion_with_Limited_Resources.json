@@ -1,0 +1,14 @@
+{
+  "question_id": "0128-Strategic_Thinking-Market_entry_strategies-Timing_Expansion_with_Limited_Resources",
+  "model": "groq/llama3-70b-8192",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"clarity_and_decisiveness\":110,\"strategic_thinking\":115,\"resource_management\":100,\"overall_score\":108.3,\"comments\":\"The answer clearly articulates a decisive choice to enter the high-growth market first, justifying the decision with strong rationale. Strategic thinking is evident through the consideration of market dynamics, risks, and the opportunities from early entry. Resource management is addressed by acknowledging potential risks and proposing focused resource allocation actions, although more detailed resource trade-offs could enhance this dimension. Overall, a well-reasoned and confident approach to market prioritization.\"}",
+  "scores": {
+    "Clarity and Decisiveness": 110,
+    "Strategic Thinking": 115,
+    "Resource Management": 100
+  },
+  "total": 108.3,
+  "comments": "The answer clearly articulates a decisive choice to enter the high-growth market first, justifying the decision with strong rationale. Strategic thinking is evident through the consideration of market dynamics, risks, and the opportunities from early entry. Resource management is addressed by acknowledging potential risks and proposing focused resource allocation actions, although more detailed resource trade-offs could enhance this dimension. Overall, a well-reasoned and confident approach to market prioritization."
+}
