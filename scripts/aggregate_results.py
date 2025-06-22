@@ -3,10 +3,11 @@
 Usage:
     python aggregate_results.py
 
-This script reads JSON files from ./results and computes average scores
-per model. It writes CSV output to ./leaderboard/leaderboard.csv.
+This script reads JSON grading files from ./graded_answers and computes
+average scores per model. It writes CSV output to
+./leaderboard/leaderboard.csv.
 
-Each results JSON file should have the structure:
+Each grading JSON file should have the structure:
 {
     "question_id": "0001",
     "model": "gpt-3.5",
@@ -23,18 +24,21 @@ import yaml
 
 DATA_DIR = Path("data")
 
-RESULTS_DIR = DATA_DIR / "results"
+GRADED_DIR = DATA_DIR / "graded_answers"
 LEADERBOARD_PATH = DATA_DIR / "leaderboard" / "leaderboard.csv"
 TOPICS_FILE = DATA_DIR / "topics.yaml"
 MODEL_NAMES_FILE = DATA_DIR / "model_names.yaml"
 
 
-def load_results():
+def load_graded_answers():
     records = []
-    for path in RESULTS_DIR.glob("*.json"):
-        with path.open() as f:
-            data = json.load(f)
-            records.append(data)
+    for model_dir in GRADED_DIR.iterdir():
+        if not model_dir.is_dir():
+            continue
+        for path in model_dir.glob("*.json"):
+            with path.open() as f:
+                data = json.load(f)
+                records.append(data)
     return records
 
 
@@ -94,7 +98,7 @@ def write_csv(rows, topics):
 
 
 def main():
-    records = load_results()
+    records = load_graded_answers()
     topics = load_topics()
     model_names = load_model_names()
     rows = aggregate(records, topics, model_names)

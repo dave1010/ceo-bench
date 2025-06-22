@@ -2,8 +2,8 @@
 """Run the full CEO Bench evaluation pipeline.
 
 This script loops over all question files and specified models, generating
-answers and grading them if results are missing. After processing everything it
-updates the leaderboard.
+answers and grading them if graded outputs are missing. After processing
+everything it updates the leaderboard.
 """
 
 import argparse
@@ -17,7 +17,7 @@ from model_utils import encode_model_name
 DATA_DIR = Path("data")
 QUESTIONS_DIR = DATA_DIR / "questions"
 ANSWERS_DIR = DATA_DIR / "answers"
-RESULTS_DIR = DATA_DIR / "results"
+GRADED_DIR = DATA_DIR / "graded_answers"
 SCRIPTS_DIR = Path(__file__).resolve().parent
 
 
@@ -50,7 +50,7 @@ def main() -> None:
     parser.add_argument(
         "--rerun-grade",
         action="store_true",
-        help="Regenerate grading even if results already exist",
+        help="Regenerate grading even if graded answers already exist",
     )
     parser.add_argument(
         "--grading-model",
@@ -86,7 +86,7 @@ def main() -> None:
             else:
                 print(f"Skipping answer for {qfile.stem} ({model})")
 
-            result_path = RESULTS_DIR / f"{qfile.stem}-{safe_model}.json"
+            result_path = GRADED_DIR / safe_model / f"{qfile.stem}.json"
             if args.rerun_grade or not result_path.exists():
                 run([
                     sys.executable,

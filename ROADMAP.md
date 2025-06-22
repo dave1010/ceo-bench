@@ -11,7 +11,7 @@ TODO: everything not already marked DONE below
 * DONE created repo skeleton (prompts/, scripts/, etc) for future work
 * DONE set up `llm` and confirm it gets back real LLM responses (`llm --model gpt-4.1-nano --system "You are a helpful assistant" "What is the capital of France?"`)
 * DONE send a test question to gpt-4.1-mini and save the answer in /answers - maybe we need to tweak the files in /prompts.
-* DONE send a test answer to gpt-4.1-mini and save the grading in /results
+* DONE send a test answer to gpt-4.1-mini and save the grading in /graded_answers
 * DONE get it working with scripts (make_question_prompt.py and then get python to call `llm`). see `/dev/test-run.txt` for a sample run.
 
 ### Phase 2: Proof of Concept Scripts for Querstion Generation & Evaluation
