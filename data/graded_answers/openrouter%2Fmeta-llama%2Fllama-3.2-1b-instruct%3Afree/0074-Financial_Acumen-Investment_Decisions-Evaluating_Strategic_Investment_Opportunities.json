@@ -1,0 +1,14 @@
+{
+  "question_id": "0074-Financial_Acumen-Investment_Decisions-Evaluating_Strategic_Investment_Opportunities",
+  "model": "openrouter/meta-llama/llama-3.2-1b-instruct:free",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment Decisions",
+  "raw": "{\"due_diligence_and_analysis\":110,\"portfolio_perspective\":95,\"post-investment_review\":105,\"overall_score\":103.3,\"comments\":\"The CEO demonstrates a strong emphasis on thorough due diligence and data-driven analysis, including financial valuation and risk assessment, earning a high score in Due Diligence and Analysis. However, the answer lacks explicit consideration of investments as part of a diversified portfolio balancing risk and reward, resulting in a moderate Portfolio Perspective score. The CEO commits to regular review and updates of investment plans, indicating good practice in Post-Investment Review. Overall, the response reflects competent strategic prioritization with room to enhance integrating investments within a broader portfolio context.\"}",
+  "scores": {
+    "Due Diligence and Analysis": 110,
+    "Portfolio Perspective": 95,
+    "Post-Investment Review": 105
+  },
+  "total": 103.3,
+  "comments": "The CEO demonstrates a strong emphasis on thorough due diligence and data-driven analysis, including financial valuation and risk assessment, earning a high score in Due Diligence and Analysis. However, the answer lacks explicit consideration of investments as part of a diversified portfolio balancing risk and reward, resulting in a moderate Portfolio Perspective score. The CEO commits to regular review and updates of investment plans, indicating good practice in Post-Investment Review. Overall, the response reflects competent strategic prioritization with room to enhance integrating investments within a broader portfolio context."
+}

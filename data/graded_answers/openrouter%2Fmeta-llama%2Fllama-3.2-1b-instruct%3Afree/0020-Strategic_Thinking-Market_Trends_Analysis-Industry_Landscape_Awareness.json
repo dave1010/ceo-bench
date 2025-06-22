@@ -1,0 +1,14 @@
+{
+  "question_id": "0020-Strategic_Thinking-Market_Trends_Analysis-Industry_Landscape_Awareness",
+  "model": "openrouter/meta-llama/llama-3.2-1b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market Trends Analysis",
+  "raw": "{\"environmental_scanning\":120,\"adaptability\":110,\"forward-looking_perspective\":115,\"overall_score\":115,\"comments\":\"The answer demonstrates a comprehensive and systematic approach to environmental scanning through various channels such as conferences, reports, news, and online communities. The CEO shows strong adaptability by emphasizing training and leveraging business intelligence to incorporate market intelligence into decision-making. Additionally, there is a clear forward-looking perspective by proactively forecasting growth and engaging with thought leaders to anticipate trends. Overall, this response reflects a high level of leadership quotient, with dedication to staying ahead and ensuring the company's proactive adaptation.\"}",
+  "scores": {
+    "Environmental Scanning": 120,
+    "Adaptability": 110,
+    "Forward-looking Perspective": 115
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a comprehensive and systematic approach to environmental scanning through various channels such as conferences, reports, news, and online communities. The CEO shows strong adaptability by emphasizing training and leveraging business intelligence to incorporate market intelligence into decision-making. Additionally, there is a clear forward-looking perspective by proactively forecasting growth and engaging with thought leaders to anticipate trends. Overall, this response reflects a high level of leadership quotient, with dedication to staying ahead and ensuring the company's proactive adaptation."
+}

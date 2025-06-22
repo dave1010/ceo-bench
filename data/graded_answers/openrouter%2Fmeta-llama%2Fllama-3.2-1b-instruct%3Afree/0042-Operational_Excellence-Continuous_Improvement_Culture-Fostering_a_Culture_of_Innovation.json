@@ -1,0 +1,14 @@
+{
+  "question_id": "0042-Operational_Excellence-Continuous_Improvement_Culture-Fostering_a_Culture_of_Innovation",
+  "model": "openrouter/meta-llama/llama-3.2-1b-instruct:free",
+  "topic": "Operational Excellence",
+  "subtopic": "Continuous Improvement Culture",
+  "raw": "{\"leadership_engagement\":120,\"employee_empowerment\":115,\"process_integration\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates strong leadership engagement by outlining clear, multi-stage strategies to foster innovation and continuous improvement. The emphasis on employee empowerment is evident through training programs, innovation labs, and encouragement of idea sharing. Process integration is reflected in the use of data-driven decision-making, Agile methodologies, and embedding innovation into workflows and KPIs. While some sections were initially unclear, the final response is comprehensive and actionable, meriting a high score just above average CEO competence.\"}",
+  "scores": {
+    "Leadership Engagement": 120,
+    "Employee Empowerment": 115,
+    "Process Integration": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates strong leadership engagement by outlining clear, multi-stage strategies to foster innovation and continuous improvement. The emphasis on employee empowerment is evident through training programs, innovation labs, and encouragement of idea sharing. Process integration is reflected in the use of data-driven decision-making, Agile methodologies, and embedding innovation into workflows and KPIs. While some sections were initially unclear, the final response is comprehensive and actionable, meriting a high score just above average CEO competence."
+}

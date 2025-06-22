@@ -1,0 +1,14 @@
+{
+  "question_id": "0074-Financial_Acumen-Investment_Decisions-Evaluating_Strategic_Investment_Opportunities",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment Decisions",
+  "raw": "{\"due_diligence_and_analysis\":115,\"portfolio_perspective\":110,\"post-investment_review\":110,\"overall_score\":112,\"comments\":\"The CEO demonstrates a strong capability in conducting thorough due diligence, considering strategic alignment, risk-reward ratio, and return on value. The prioritization principles and detailed investment decision-making process reflect an integrated portfolio perspective balancing risk and return effectively. Additionally, the CEO emphasizes ongoing evaluation and stakeholder engagement, highlighting a commitment to continuous improvement. The approach is structured, disciplined, and aligns with best practices, meriting scores above average but slightly below genius-level excellence due to lack of specific innovative techniques.\"}",
+  "scores": {
+    "Due Diligence and Analysis": 115,
+    "Portfolio Perspective": 110,
+    "Post-Investment Review": 110
+  },
+  "total": 112.0,
+  "comments": "The CEO demonstrates a strong capability in conducting thorough due diligence, considering strategic alignment, risk-reward ratio, and return on value. The prioritization principles and detailed investment decision-making process reflect an integrated portfolio perspective balancing risk and return effectively. Additionally, the CEO emphasizes ongoing evaluation and stakeholder engagement, highlighting a commitment to continuous improvement. The approach is structured, disciplined, and aligns with best practices, meriting scores above average but slightly below genius-level excellence due to lack of specific innovative techniques."
+}

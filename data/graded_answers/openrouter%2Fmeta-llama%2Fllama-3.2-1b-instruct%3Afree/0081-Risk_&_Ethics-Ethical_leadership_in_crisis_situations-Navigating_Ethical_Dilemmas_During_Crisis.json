@@ -1,0 +1,14 @@
+{
+  "question_id": "0081-Risk_&_Ethics-Ethical_leadership_in_crisis_situations-Navigating_Ethical_Dilemmas_During_Crisis",
+  "model": "openrouter/meta-llama/llama-3.2-1b-instruct:free",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical leadership in crisis situations",
+  "raw": "{\"crisis_response_integrity\":130,\"stakeholder_consideration\":135,\"personal_accountability\":125,\"overall_score\":130.0,\"comments\":\"The answer demonstrates a comprehensive and thoughtful approach to ethical leadership during a crisis. It emphasizes transparency, fairness, and long-term ethical standards, showing strong crisis response integrity. Stakeholder consideration is thoroughly addressed through inclusive decision-making and open communication, reflecting high trust-building efforts. Personal accountability is clearly modeled by the CEO's commitment to owning decisions and establishing performance tracking. Overall, the response reflects exceptional leadership qualities beyond the average capable CEO.\"}",
+  "scores": {
+    "Crisis response integrity": 130,
+    "Stakeholder consideration": 135,
+    "Personal accountability": 125
+  },
+  "total": 130.0,
+  "comments": "The answer demonstrates a comprehensive and thoughtful approach to ethical leadership during a crisis. It emphasizes transparency, fairness, and long-term ethical standards, showing strong crisis response integrity. Stakeholder consideration is thoroughly addressed through inclusive decision-making and open communication, reflecting high trust-building efforts. Personal accountability is clearly modeled by the CEO's commitment to owning decisions and establishing performance tracking. Overall, the response reflects exceptional leadership qualities beyond the average capable CEO."
+}
