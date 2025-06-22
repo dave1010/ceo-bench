@@ -1,0 +1,14 @@
+{
+  "question_id": "0073-Financial_Acumen-Revenue_Growth-Driving_Sustainable_Revenue_Expansion",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Financial Acumen",
+  "subtopic": "Revenue Growth",
+  "raw": "{\"market_insight\":115,\"innovation_and_diversification\":120,\"risk-balanced_approach\":110,\"overall_score\":115,\"comments\":\"The CEO answer displays strong market insight through extensive market research and competitor analysis. Innovation and diversification are well addressed by fostering a culture of innovation, leveraging emerging technologies, and expanding offerings. The risk-balanced approach is evident with cost-benefit analysis, alignment with core strategy, KPIs for monitoring, and risk management framework. Scores reflect a capable CEO with well-rounded strategies to identify and capitalize on opportunities while ensuring sustainability.\"}",
+  "scores": {
+    "Market Insight": 115,
+    "Innovation and Diversification": 120,
+    "Risk-Balanced Approach": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO answer displays strong market insight through extensive market research and competitor analysis. Innovation and diversification are well addressed by fostering a culture of innovation, leveraging emerging technologies, and expanding offerings. The risk-balanced approach is evident with cost-benefit analysis, alignment with core strategy, KPIs for monitoring, and risk management framework. Scores reflect a capable CEO with well-rounded strategies to identify and capitalize on opportunities while ensuring sustainability."
+}

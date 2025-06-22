@@ -1,0 +1,14 @@
+{
+  "question_id": "0087-Risk_&_Ethics-Reputation_management-Crisis_Response_Effectiveness",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"response_timeliness\":120,\"transparency_and_honesty\":125,\"restoration_of_trust\":130,\"overall_score\":125,\"comments\":\"The CEO demonstrates a clear and structured approach to managing reputational challenges with a dedicated crisis response unit, emphasizing timely action within 24-48 hours, transparent communication, and effective strategies for trust restoration. The plan includes proactive measures like training, protocols, and continuous evaluation, reflecting strong leadership in all dimensions evaluated. Scores reflect above-average to exceptional performance in addressing these critical aspects of crisis management.\"}",
+  "scores": {
+    "Response timeliness": 120,
+    "Transparency and honesty": 125,
+    "Restoration of trust": 130
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates a clear and structured approach to managing reputational challenges with a dedicated crisis response unit, emphasizing timely action within 24-48 hours, transparent communication, and effective strategies for trust restoration. The plan includes proactive measures like training, protocols, and continuous evaluation, reflecting strong leadership in all dimensions evaluated. Scores reflect above-average to exceptional performance in addressing these critical aspects of crisis management."
+}

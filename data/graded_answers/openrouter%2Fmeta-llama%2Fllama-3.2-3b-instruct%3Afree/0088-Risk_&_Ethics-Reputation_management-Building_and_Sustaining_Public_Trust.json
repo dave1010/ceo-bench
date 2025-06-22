@@ -1,0 +1,14 @@
+{
+  "question_id": "0088-Risk_&_Ethics-Reputation_management-Building_and_Sustaining_Public_Trust",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"transparency\":120,\"consistency\":115,\"engagement\":110,\"overall_score\":115,\"comments\":\"The CEO's answer demonstrates a strong commitment to transparency by proposing multiple proactive initiatives such as regular town halls, transparent reporting, and an independent audit process. Consistency is addressed through structured communication channels and a scheduled timeline ensuring alignment of messages across various platforms. Engagement is evident in the inclusion of feedback portals, stakeholder meetings, and responsive communication via the CEO's blog. The comprehensive and well-planned approach indicates high leadership competency in fostering trust through transparency and communication.\"}",
+  "scores": {
+    "Transparency": 120,
+    "Consistency": 115,
+    "Engagement": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO's answer demonstrates a strong commitment to transparency by proposing multiple proactive initiatives such as regular town halls, transparent reporting, and an independent audit process. Consistency is addressed through structured communication channels and a scheduled timeline ensuring alignment of messages across various platforms. Engagement is evident in the inclusion of feedback portals, stakeholder meetings, and responsive communication via the CEO's blog. The comprehensive and well-planned approach indicates high leadership competency in fostering trust through transparency and communication."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0113-Leadership_&_Communication-Culture_building-Embedding_Ethical_Standards",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"ethical_leadership\":130,\"organizational_influence\":125,\"employee_engagement\":120,\"overall_score\":125,\"comments\":\"The CEO's answer demonstrates a strong commitment to ethical leadership by clearly articulating a comprehensive ethical leadership agenda and modeling behavior through integrity and transparency. The initiatives such as developing clear values, investing in training, and regular policy updates indicate a well-thought organizational influence. Additionally, the focus on fostering an open and supportive culture with mechanisms for confidential reporting effectively promotes employee engagement in ethical matters. Overall, the answer reflects an exceptional understanding and approach to promoting ethical behavior within the organization.\"}",
+  "scores": {
+    "Ethical Leadership": 130,
+    "Organizational Influence": 125,
+    "Employee Engagement": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO's answer demonstrates a strong commitment to ethical leadership by clearly articulating a comprehensive ethical leadership agenda and modeling behavior through integrity and transparency. The initiatives such as developing clear values, investing in training, and regular policy updates indicate a well-thought organizational influence. Additionally, the focus on fostering an open and supportive culture with mechanisms for confidential reporting effectively promotes employee engagement in ethical matters. Overall, the answer reflects an exceptional understanding and approach to promoting ethical behavior within the organization."
+}

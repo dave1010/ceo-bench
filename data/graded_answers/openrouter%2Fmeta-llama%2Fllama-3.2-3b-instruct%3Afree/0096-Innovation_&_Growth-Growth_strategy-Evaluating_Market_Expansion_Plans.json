@@ -1,0 +1,14 @@
+{
+  "question_id": "0096-Innovation_&_Growth-Growth_strategy-Evaluating_Market_Expansion_Plans",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"market_analysis\":120,\"strategic_alignment\":115,\"risk_management\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates a comprehensive and structured approach to assessing market opportunities, reflecting strong market analysis skills. The response shows clear alignment with company strategy and long-term vision. Risk management is adequately addressed with consideration of potential risks and mitigation strategies. Overall, the answer indicates a capable and strategic leader with high leadership quotient.\"}",
+  "scores": {
+    "Market Analysis": 120,
+    "Strategic Alignment": 115,
+    "Risk Management": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates a comprehensive and structured approach to assessing market opportunities, reflecting strong market analysis skills. The response shows clear alignment with company strategy and long-term vision. Risk management is adequately addressed with consideration of potential risks and mitigation strategies. Overall, the answer indicates a capable and strategic leader with high leadership quotient."
+}

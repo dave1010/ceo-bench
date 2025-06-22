@@ -1,0 +1,14 @@
+{
+  "question_id": "0016-Strategic_Thinking-Market_entry_strategies-Assessing_Cultural_Adaptation_Needs",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"cultural_awareness\":130,\"flexibility_in_approach\":125,\"stakeholder_engagement\":135,\"overall_score\":130,\"comments\":\"The CEO's response demonstrates a high level of cultural awareness by detailing structured research and employee training to understand local customs and consumer behaviors. Flexibility is evident in the tailored marketing strategies and adaptable business operations that align with local cultural contexts. Stakeholder engagement is strongly highlighted by the emphasis on local partners and direct customer involvement. Overall, the approach is comprehensive and reflects exceptional leadership qualities for successful market entry.\"}",
+  "scores": {
+    "Cultural Awareness": 130,
+    "Flexibility in Approach": 125,
+    "Stakeholder Engagement": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO's response demonstrates a high level of cultural awareness by detailing structured research and employee training to understand local customs and consumer behaviors. Flexibility is evident in the tailored marketing strategies and adaptable business operations that align with local cultural contexts. Stakeholder engagement is strongly highlighted by the emphasis on local partners and direct customer involvement. Overall, the approach is comprehensive and reflects exceptional leadership qualities for successful market entry."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0044-Operational_Excellence-Resource_optimization-Sustainable_Resource_Use",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"policy_development\":135,\"employee_engagement\":130,\"outcome_tracking\":125,\"overall_score\":130,\"comments\":\"The CEO demonstrates exceptional leadership in establishing comprehensive sustainability policies that align well with organizational values. Employee engagement is proactively addressed through education and involvement programs, ensuring widespread commitment. Outcome tracking is robust, with clear KPIs and phased implementation that indicate a strong capability to measure and improve sustainability performance over time. Overall, the approach is holistic, strategic, and likely to result in extraordinary organizational benefits.\"}",
+  "scores": {
+    "Policy Development": 135,
+    "Employee Engagement": 130,
+    "Outcome Tracking": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates exceptional leadership in establishing comprehensive sustainability policies that align well with organizational values. Employee engagement is proactively addressed through education and involvement programs, ensuring widespread commitment. Outcome tracking is robust, with clear KPIs and phased implementation that indicate a strong capability to measure and improve sustainability performance over time. Overall, the approach is holistic, strategic, and likely to result in extraordinary organizational benefits."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0129-Strategic_Thinking-Competitive_analysis-Cost-Cutting_Measures",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive analysis",
+  "raw": "{\"clarity_and_decisiveness\":115,\"strategic_thinking\":120,\"communication\":118,\"overall_score\":117.7,\"comments\":\"The answer demonstrates strong clarity and decisiveness through a structured, phased plan addressing immediate and long-term cost saving measures while considering employee impact. Strategic thinking is evident in balancing cost-cutting with investments in innovation and talent for sustained competitive advantage. Communication is well addressed by emphasizing transparency, stakeholder engagement, and ongoing updates, fostering trust and alignment. The overall approach reflects a capable, thoughtful CEO response with effective leadership qualities.\"}",
+  "scores": {
+    "Clarity and decisiveness": 115,
+    "Strategic thinking": 120,
+    "Communication": 118
+  },
+  "total": 117.7,
+  "comments": "The answer demonstrates strong clarity and decisiveness through a structured, phased plan addressing immediate and long-term cost saving measures while considering employee impact. Strategic thinking is evident in balancing cost-cutting with investments in innovation and talent for sustained competitive advantage. Communication is well addressed by emphasizing transparency, stakeholder engagement, and ongoing updates, fostering trust and alignment. The overall approach reflects a capable, thoughtful CEO response with effective leadership qualities."
+}

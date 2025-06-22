@@ -1,0 +1,14 @@
+{
+  "question_id": "0068-Financial_Acumen-Financial_Risk_Assessment-Managing_Financial_Risks",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Risk Assessment",
+  "raw": "{\"risk_identification\":115,\"mitigation_strategies\":120,\"monitoring_&_adaptation\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates a solid understanding of financial risk management with a comprehensive framework covering risk assessment, mitigation, monitoring, and continuous improvement. The inclusion of a risk management committee, real-time monitoring, diverse mitigation tactics, and employee training indicates strong capabilities. The approach is proactive and aligned with business goals. Scores reflect above-average CEO competency with room for even deeper specifics or novel insights for a higher genius score.\"}",
+  "scores": {
+    "Risk Identification": 115,
+    "Mitigation Strategies": 120,
+    "Monitoring & Adaptation": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a solid understanding of financial risk management with a comprehensive framework covering risk assessment, mitigation, monitoring, and continuous improvement. The inclusion of a risk management committee, real-time monitoring, diverse mitigation tactics, and employee training indicates strong capabilities. The approach is proactive and aligned with business goals. Scores reflect above-average CEO competency with room for even deeper specifics or novel insights for a higher genius score."
+}

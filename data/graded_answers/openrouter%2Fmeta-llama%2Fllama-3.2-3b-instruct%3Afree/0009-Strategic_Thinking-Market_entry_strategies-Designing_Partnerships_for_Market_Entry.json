@@ -1,0 +1,14 @@
+{
+  "question_id": "0009-Strategic_Thinking-Market_entry_strategies-Designing_Partnerships_for_Market_Entry",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"partnership_selection_criteria\":115,\"risk_and_benefit_analysis\":110,\"integration_and_collaboration_strategy\":108,\"overall_score\":111,\"comments\":\"The candidate provides a comprehensive and structured framework for evaluating partnerships, emphasizing alignment with business objectives, complementary skills, cultural fit, and financial viability. They thoughtfully consider risk mitigation and benefit sharing. The integration strategy includes joint ventures with clear governance and roles, highlighting communication and risk-sharing mechanisms. Some elaboration on conflict resolution processes could strengthen the integration dimension further. Overall, the answer demonstrates strong leadership judgement suitable for effective strategic partnerships in international expansion.\"}",
+  "scores": {
+    "Partnership selection criteria": 115,
+    "Risk and benefit analysis": 110,
+    "Integration and collaboration strategy": 108
+  },
+  "total": 111.0,
+  "comments": "The candidate provides a comprehensive and structured framework for evaluating partnerships, emphasizing alignment with business objectives, complementary skills, cultural fit, and financial viability. They thoughtfully consider risk mitigation and benefit sharing. The integration strategy includes joint ventures with clear governance and roles, highlighting communication and risk-sharing mechanisms. Some elaboration on conflict resolution processes could strengthen the integration dimension further. Overall, the answer demonstrates strong leadership judgement suitable for effective strategic partnerships in international expansion."
+}

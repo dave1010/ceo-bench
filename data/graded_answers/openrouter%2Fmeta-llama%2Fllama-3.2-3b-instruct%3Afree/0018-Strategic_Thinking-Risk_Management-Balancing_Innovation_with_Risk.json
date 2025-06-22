@@ -1,0 +1,14 @@
+{
+  "question_id": "0018-Strategic_Thinking-Risk_Management-Balancing_Innovation_with_Risk",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment\":115,\"decision-making_balance\":110,\"risk_mitigation_strategies\":120,\"overall_score\":115,\"comments\":\"The answer demonstrates a comprehensive approach to risk assessment by identifying, prioritizing, and continuously monitoring risks through data-driven insights and collaborative team efforts. The decision-making balance is well addressed through prioritization and ongoing review to align with organizational goals. Risk mitigation strategies are detailed, including mitigation plans, KPIs, and fostering a risk-aware culture, reflecting a proactive stance to minimize adverse impacts. Overall, the response aligns with a strong leadership capability slightly above average, reflecting thoughtful and effective risk management practices conducive to sustainable growth.\"}",
+  "scores": {
+    "Risk Assessment": 115,
+    "Decision-Making Balance": 110,
+    "Risk Mitigation Strategies": 120
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates a comprehensive approach to risk assessment by identifying, prioritizing, and continuously monitoring risks through data-driven insights and collaborative team efforts. The decision-making balance is well addressed through prioritization and ongoing review to align with organizational goals. Risk mitigation strategies are detailed, including mitigation plans, KPIs, and fostering a risk-aware culture, reflecting a proactive stance to minimize adverse impacts. Overall, the response aligns with a strong leadership capability slightly above average, reflecting thoughtful and effective risk management practices conducive to sustainable growth."
+}

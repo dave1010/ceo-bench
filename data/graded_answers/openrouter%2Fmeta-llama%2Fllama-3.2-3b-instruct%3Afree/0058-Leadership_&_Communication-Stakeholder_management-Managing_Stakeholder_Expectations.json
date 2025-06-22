@@ -1,0 +1,14 @@
+{
+  "question_id": "0058-Leadership_&_Communication-Stakeholder_management-Managing_Stakeholder_Expectations",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder management",
+  "raw": "{\"communication_approach\":115,\"expectation_alignment\":120,\"responsiveness\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates a comprehensive and structured communication approach through detailed stakeholder analysis and engagement planning, ensuring tailored and consistent messaging throughout the project lifecycle. They actively manage expectation alignment by integrating stakeholder feedback into project monitoring and control systems, enabling proactive adjustments. Responsiveness is addressed via a dedicated stakeholder engagement team reporting directly to the CEO, which supports prompt and reliable responses to concerns. Overall, this reflects a high level of leadership and strategic integration that would be effective in aligning stakeholder expectations with company objectives.\"}",
+  "scores": {
+    "Communication Approach": 115,
+    "Expectation Alignment": 120,
+    "Responsiveness": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates a comprehensive and structured communication approach through detailed stakeholder analysis and engagement planning, ensuring tailored and consistent messaging throughout the project lifecycle. They actively manage expectation alignment by integrating stakeholder feedback into project monitoring and control systems, enabling proactive adjustments. Responsiveness is addressed via a dedicated stakeholder engagement team reporting directly to the CEO, which supports prompt and reliable responses to concerns. Overall, this reflects a high level of leadership and strategic integration that would be effective in aligning stakeholder expectations with company objectives."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0045-Operational_Excellence-Risk_Management-Identifying_and_Mitigating_Operational_Risks",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Operational Excellence",
+  "subtopic": "Risk Management",
+  "raw": "{\"risk_assessment_methodology\":120,\"mitigation_planning\":120,\"monitoring_&_review\":110,\"overall_score\":117,\"comments\":\"The answer demonstrates a structured and comprehensive approach to identifying operational risks, including regular assessments, scenario planning, stakeholder engagement, and data analysis, reflecting strong risk assessment methodology. The mitigation planning is robust, encompassing risk frameworks, contingency planning, investments in resilience, and clear communication. The monitoring and review process is well-articulated through KPIs like risk scorecards, response times, and reputation metrics, indicating a strong commitment to continuous improvement. Overall, the response reflects a high level of leadership capability in proactive risk management.\"}",
+  "scores": {
+    "Risk Assessment Methodology": 120,
+    "Mitigation Planning": 120,
+    "Monitoring & Review": 110
+  },
+  "total": 117.0,
+  "comments": "The answer demonstrates a structured and comprehensive approach to identifying operational risks, including regular assessments, scenario planning, stakeholder engagement, and data analysis, reflecting strong risk assessment methodology. The mitigation planning is robust, encompassing risk frameworks, contingency planning, investments in resilience, and clear communication. The monitoring and review process is well-articulated through KPIs like risk scorecards, response times, and reputation metrics, indicating a strong commitment to continuous improvement. Overall, the response reflects a high level of leadership capability in proactive risk management."
+}

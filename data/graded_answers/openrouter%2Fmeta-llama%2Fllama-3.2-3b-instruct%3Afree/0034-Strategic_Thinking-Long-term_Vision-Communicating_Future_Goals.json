@@ -1,0 +1,14 @@
+{
+  "question_id": "0034-Strategic_Thinking-Long-term_Vision-Communicating_Future_Goals",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term Vision",
+  "raw": "{\"clarity_of_vision\":115,\"inspiration\":110,\"consistency\":105,\"overall_score\":110,\"comments\":\"The answer provides a clear and concise narrative regarding the long-term vision, focusing on communication strategies that enhance understanding and alignment. It outlines practical methods to inspire and motivate the organization, such as fostering innovation and celebrating milestones. Consistency is addressed through engagement with multiple stakeholder groups and use of regular communications. Overall, the approach is well thought out and should effectively guide the organization.\"}",
+  "scores": {
+    "Clarity of Vision": 115,
+    "Inspiration": 110,
+    "Consistency": 105
+  },
+  "total": 110.0,
+  "comments": "The answer provides a clear and concise narrative regarding the long-term vision, focusing on communication strategies that enhance understanding and alignment. It outlines practical methods to inspire and motivate the organization, such as fostering innovation and celebrating milestones. Consistency is addressed through engagement with multiple stakeholder groups and use of regular communications. Overall, the approach is well thought out and should effectively guide the organization."
+}

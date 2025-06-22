@@ -1,0 +1,14 @@
+{
+  "question_id": "0101-Innovation_&_Growth-M&A_evaluation-Leadership_in_Due_Diligence_Processes",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"decision-making_clarity\":120,\"risk_management\":115,\"stakeholder_engagement\":110,\"overall_score\":115,\"comments\":\"The CEO demonstrates strong decision-making clarity by defining clear objectives and criteria for acquisitions. Risk management is robust, with proactive identification and mitigation strategies for potential risks. Stakeholder engagement is evident through coordination of cross-functional teams involving financial analysts, lawyers, and operational experts. Overall, the approach is thorough and systematic, reflecting high competency in leading M&A due diligence.\"}",
+  "scores": {
+    "Decision-Making Clarity": 120,
+    "Risk Management": 115,
+    "Stakeholder Engagement": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates strong decision-making clarity by defining clear objectives and criteria for acquisitions. Risk management is robust, with proactive identification and mitigation strategies for potential risks. Stakeholder engagement is evident through coordination of cross-functional teams involving financial analysts, lawyers, and operational experts. Overall, the approach is thorough and systematic, reflecting high competency in leading M&A due diligence."
+}

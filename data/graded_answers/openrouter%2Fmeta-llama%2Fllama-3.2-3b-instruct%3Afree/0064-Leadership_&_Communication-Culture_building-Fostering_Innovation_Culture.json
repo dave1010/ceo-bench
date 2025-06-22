@@ -1,0 +1,14 @@
+{
+  "question_id": "0064-Leadership_&_Communication-Culture_building-Fostering_Innovation_Culture",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"leadership_commitment\":130,\"employee_engagement\":125,\"cultural_norms\":135,\"overall_score\":130,\"comments\":\"The CEO demonstrates a strong and comprehensive personal commitment to innovation through resource allocation and leadership by example. Employee engagement is high, evidenced by active empowerment and support programs like intrapreneurship and cross-functional collaboration. Cultural norms promoting experimentation and calculated risk-taking are well embedded through a 'Test and Learn' environment. Overall, the response reflects an exceptional leadership mindset towards fostering innovation, meriting a high LQ score.\"}",
+  "scores": {
+    "Leadership commitment": 130,
+    "Employee engagement": 125,
+    "Cultural norms": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO demonstrates a strong and comprehensive personal commitment to innovation through resource allocation and leadership by example. Employee engagement is high, evidenced by active empowerment and support programs like intrapreneurship and cross-functional collaboration. Cultural norms promoting experimentation and calculated risk-taking are well embedded through a 'Test and Learn' environment. Overall, the response reflects an exceptional leadership mindset towards fostering innovation, meriting a high LQ score."
+}

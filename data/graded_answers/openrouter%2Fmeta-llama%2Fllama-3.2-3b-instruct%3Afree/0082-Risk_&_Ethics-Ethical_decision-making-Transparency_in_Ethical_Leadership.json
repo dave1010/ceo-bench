@@ -1,0 +1,14 @@
+{
+  "question_id": "0082-Risk_&_Ethics-Ethical_decision-making-Transparency_in_Ethical_Leadership",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"openness\":120,\"integrity\":115,\"accountability\":118,\"overall_score\":117.7,\"comments\":\"The CEO's response demonstrates a high level of openness, detailing clear communication plans and transparent decision-making. Integrity is evident through the commitment to foster a culture of honesty and consistency, even amidst complex ethical dilemmas. Accountability is strongly emphasized via the establishment of an ethics committee and whistleblower protections, showing responsibility at both the personal and organizational level. Overall, this is a well-rounded, thoughtful approach to navigating complex ethical issues with transparency.\"}",
+  "scores": {
+    "Openness": 120,
+    "Integrity": 115,
+    "Accountability": 118
+  },
+  "total": 117.7,
+  "comments": "The CEO's response demonstrates a high level of openness, detailing clear communication plans and transparent decision-making. Integrity is evident through the commitment to foster a culture of honesty and consistency, even amidst complex ethical dilemmas. Accountability is strongly emphasized via the establishment of an ethics committee and whistleblower protections, showing responsibility at both the personal and organizational level. Overall, this is a well-rounded, thoughtful approach to navigating complex ethical issues with transparency."
+}

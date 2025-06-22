@@ -1,0 +1,14 @@
+{
+  "question_id": "0134-Operational_Excellence-Performance_metrics-Market_Expansion_Dilemma",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"decision_clarity_and_decisiveness\":115,\"resource_allocation\":110,\"competitor_analysis\":90,\"overall_score\":105,\"comments\":\"The CEO provides a clear and decisive preference for investing in new markets over defending current market share, supported by a structured decision-making process. Resource allocation is addressed with mentions of required investments and cross-functional engagement, reflecting good awareness of constraints and utilization. However, competitor analysis is somewhat generic; while competitor expansion is noted, the answer lacks in-depth analysis of competitors' strengths and weaknesses. Overall, a competent and thoughtful approach with room for deeper competitive insight.\"}",
+  "scores": {
+    "Decision Clarity and Decisiveness": 115,
+    "Resource Allocation": 110,
+    "Competitor Analysis": 90
+  },
+  "total": 105.0,
+  "comments": "The CEO provides a clear and decisive preference for investing in new markets over defending current market share, supported by a structured decision-making process. Resource allocation is addressed with mentions of required investments and cross-functional engagement, reflecting good awareness of constraints and utilization. However, competitor analysis is somewhat generic; while competitor expansion is noted, the answer lacks in-depth analysis of competitors' strengths and weaknesses. Overall, a competent and thoughtful approach with room for deeper competitive insight."
+}
