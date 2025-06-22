@@ -52,12 +52,12 @@ TODO: everything not already marked DONE below
 
 * Significance tests between models (t‑test or nonparametric).
 * Correlation of rubric dims.
-* write some words
+* DONE write some words
 
 ### Phase 6: Paper / publish
 
-* Abstract, Intro, Related Work, Methodology, Results, Discussion, Conclusion.
-* Methodology: prompt design, eval pipeline, scoring.
-* Results: tables, figures.
-* GitHub repo, MIT license, instructions.
-* share
+* DONE Abstract, Intro, Related Work, Methodology, Results, Discussion, Conclusion.
+* DONE Methodology: prompt design, eval pipeline, scoring.
+* DONE Results: tables, figures.
+* DONE GitHub repo, MIT license, instructions.
+* DONE share
