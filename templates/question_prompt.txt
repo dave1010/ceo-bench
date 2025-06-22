@@ -1,4 +1,4 @@
-You are taking the CEO Bench evaluation. Answer the following question as best you can.
+You are taking the CEO Bench evaluation. Provide a decisive answer as the CEO, stating your chosen course of action and why.
 
 Question:
 {question}

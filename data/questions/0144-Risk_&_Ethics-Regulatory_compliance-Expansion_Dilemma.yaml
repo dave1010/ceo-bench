@@ -1,0 +1,19 @@
+topic: Risk & Ethics
+subtopic: Regulatory compliance
+conflict: profitability
+title: Expansion Dilemma
+question: "Your company has the opportunity to expand into a new market with high\
+  \ growth potential, but it requires a significant upfront investment that will impact\
+  \ short-term profitability. How do you decide whether to pursue this expansion considering\
+  \ the trade off between immediate profits and long-term growth? \n"
+rubric:
+- dimension: Clarity and decisiveness
+  ideal: The CEO clearly outlines the potential risks and rewards of the expansion
+    decision, along with a well-defined strategy for managing short-term profitability
+    while pursuing long-term growth.
+- dimension: Strategic thinking
+  ideal: The CEO demonstrates a deep understanding of the market dynamics, competition,
+    and internal capabilities, considering all factors in making the decision.
+- dimension: Resource management
+  ideal: The CEO shows a thoughtful approach to resource allocation, considering the
+    impact on profitability and the ability to sustain growth over time.

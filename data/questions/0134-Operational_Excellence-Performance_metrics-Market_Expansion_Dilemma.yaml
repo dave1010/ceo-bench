@@ -1,0 +1,24 @@
+topic: Operational Excellence
+subtopic: Performance metrics
+conflict: competitors
+title: Market Expansion Dilemma
+question: 'Your top competitors are aggressively expanding into new markets, putting
+  pressure on your market share. With limited resources, do you prioritize defending
+  your current market position or invest in entering new markets to stay competitive?
+  How would you approach this dilemma while maintaining clarity and decisiveness in
+  your decision-making process?
+
+  '
+rubric:
+- dimension: Decision Clarity and Decisiveness
+  ideal: The CEO clearly articulates the rationale behind their chosen strategy, whether
+    it is to defend current market share or expand into new markets, and is decisive
+    in making the tough trade-offs necessary to execute the chosen approach.
+- dimension: Resource Allocation
+  ideal: The CEO demonstrates an understanding of resource constraints and explains
+    how resources will be allocated to support the chosen strategy, ensuring optimal
+    utilization and return on investment.
+- dimension: Competitor Analysis
+  ideal: The CEO shows a deep understanding of the competitive landscape, including
+    the strengths and weaknesses of key competitors, to inform their strategic decision-making
+    process.

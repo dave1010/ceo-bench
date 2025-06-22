@@ -1,0 +1,23 @@
+topic: Financial Acumen
+subtopic: Risk assessment
+conflict: profitability
+title: Cost Reduction Strategy
+question: 'The company is facing decreased profitability due to rising production
+  costs. As the CEO, you must decide between implementing layoffs to reduce expenses
+  or investing in efficiency improvements to decrease costs in the long term. How
+  do you plan to address this conflict to ensure the company''s financial health and
+  sustainability?
+
+  '
+rubric:
+- dimension: Clarity and decisiveness of decision
+  ideal: The CEO clearly justifies their decision with a well-thought-out strategy
+    that balances short-term sacrifices with long-term gains.
+- dimension: Financial impact analysis
+  ideal: The CEO evaluates the potential financial impact of both options, considering
+    not only immediate cost savings but also the long-term implications for profitability
+    and competitiveness.
+- dimension: Stakeholder communication
+  ideal: The CEO effectively communicates the decision-making process and rationale
+    to employees and stakeholders, emphasizing the company's commitment to financial
+    stability and growth.

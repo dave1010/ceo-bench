@@ -1,0 +1,28 @@
+topic: Risk & Ethics
+subtopic: Risk mitigation
+conflict: profitability
+title: Evaluating cost-benefit analysis for risk mitigation measures
+question: 'You are faced with the decision of implementing costly risk mitigation
+  measures to protect against potential cyber attacks that could jeopardize company
+  data and reputation. However, these measures come with a significant upfront cost
+  that may impact short-term profitability. How would you approach evaluating the
+  cost-benefit analysis and make a decision that balances the need for risk mitigation
+  with the pressure to maintain profitability?
+
+  '
+rubric:
+- dimension: Clarity and decisiveness
+  ideal: The CEO clearly outlines the potential risks and benefits of implementing
+    the risk mitigation measures, demonstrating a thorough understanding of the trade-offs
+    involved. The decision-making process is logical and transparent, culminating
+    in a decisive action plan.
+- dimension: Strategic thinking
+  ideal: The CEO takes a strategic approach by considering the long-term implications
+    of both taking and not taking action to mitigate the identified risks. They demonstrate
+    the ability to prioritize objectives based on the company's overall strategic
+    goals.
+- dimension: Financial acumen
+  ideal: The CEO shows a strong understanding of the financial impact of the decision
+    on the company's profitability. They are able to weigh the short-term costs against
+    potential long-term benefits, taking into account the overall financial health
+    of the organization.
