@@ -1,0 +1,14 @@
+{
+  "question_id": "0077-Financial_Acumen-Capital_Allocation-Strategic_Capital_Deployment",
+  "model": "groq/llama3-70b-8192",
+  "topic": "Financial Acumen",
+  "subtopic": "Capital Allocation",
+  "raw": "{\"investment_evaluation_process\":130,\"alignment_with_strategic_goals\":130,\"post-investment_oversight_and_adjustments\":125,\"overall_score\":128.3,\"comments\":\"The CEO demonstrates a thorough and disciplined approach to capital allocation, including rigorous ROI analyses, strategic alignment, and a portfolio diversified approach. The establishment of a centralized committee and ongoing portfolio reviews indicate strong post-investment oversight. The emphasis on transparency, governance, and continuous improvement further strengthens leadership quality in capital allocation.\"}",
+  "scores": {
+    "Investment evaluation process": 130,
+    "Alignment with strategic goals": 130,
+    "Post-investment oversight and adjustments": 125
+  },
+  "total": 128.3,
+  "comments": "The CEO demonstrates a thorough and disciplined approach to capital allocation, including rigorous ROI analyses, strategic alignment, and a portfolio diversified approach. The establishment of a centralized committee and ongoing portfolio reviews indicate strong post-investment oversight. The emphasis on transparency, governance, and continuous improvement further strengthens leadership quality in capital allocation."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0106-Operational_Excellence-Resource_optimization-Data-Driven_Resource_Planning",
+  "model": "groq/llama3-70b-8192",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"data_integration\":135,\"proactive_planning\":130,\"decision_impact\":130,\"overall_score\":132.0,\"comments\":\"The CEO demonstrates exceptional data integration by fostering a data-driven culture and investing in advanced predictive analytics and emerging technologies. Proactive planning is evidenced by regular reviews and forecasting that enable nimble adjustments to resource allocation, preventing shortages and waste. Decision impact is strong, with clear KPIs linked to organizational goals that enhance operational efficiency and cost management. Overall, this reflects a highly capable and visionary leader using data analytics effectively to anticipate needs and align resources.\"}",
+  "scores": {
+    "Data Integration": 135,
+    "Proactive Planning": 130,
+    "Decision Impact": 130
+  },
+  "total": 132.0,
+  "comments": "The CEO demonstrates exceptional data integration by fostering a data-driven culture and investing in advanced predictive analytics and emerging technologies. Proactive planning is evidenced by regular reviews and forecasting that enable nimble adjustments to resource allocation, preventing shortages and waste. Decision impact is strong, with clear KPIs linked to organizational goals that enhance operational efficiency and cost management. Overall, this reflects a highly capable and visionary leader using data analytics effectively to anticipate needs and align resources."
+}
