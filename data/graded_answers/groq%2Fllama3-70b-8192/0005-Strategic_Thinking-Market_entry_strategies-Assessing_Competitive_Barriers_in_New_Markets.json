@@ -1,0 +1,14 @@
+{
+  "question_id": "0005-Strategic_Thinking-Market_entry_strategies-Assessing_Competitive_Barriers_in_New_Markets",
+  "model": "groq/llama3-70b-8192",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"analytical_skills\":115,\"strategic_planning\":120,\"risk_management\":110,\"overall_score\":115,\"comments\":\"The answer demonstrates strong analytical skills by systematically identifying competitive barriers and regulatory challenges through detailed market research and competitor analysis. The strategic planning is robust, outlining clear, phased approaches including partnerships, localization, and differentiation strategies. Risk management is well-addressed with phased market entry and continuous monitoring for agility and contingency adjustments. Overall, the response reflects a capable and thoughtful CEO approach to international market entry.\"}",
+  "scores": {
+    "Analytical skills": 115,
+    "Strategic planning": 120,
+    "Risk management": 110
+  },
+  "total": 115.0,
+  "comments": "The answer demonstrates strong analytical skills by systematically identifying competitive barriers and regulatory challenges through detailed market research and competitor analysis. The strategic planning is robust, outlining clear, phased approaches including partnerships, localization, and differentiation strategies. Risk management is well-addressed with phased market entry and continuous monitoring for agility and contingency adjustments. Overall, the response reflects a capable and thoughtful CEO approach to international market entry."
+}

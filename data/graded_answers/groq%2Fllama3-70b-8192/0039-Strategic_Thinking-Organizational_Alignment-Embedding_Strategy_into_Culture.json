@@ -1,0 +1,14 @@
+{
+  "question_id": "0039-Strategic_Thinking-Organizational_Alignment-Embedding_Strategy_into_Culture",
+  "model": "groq/llama3-70b-8192",
+  "topic": "Strategic Thinking",
+  "subtopic": "Organizational Alignment",
+  "raw": "{\"communication\":120,\"leadership_and_modeling\":130,\"engagement_and_buy-in\":125,\"overall_score\":125,\"comments\":\"The answer provides a clear, structured approach to embedding strategic priorities, demonstrating excellent communication by outlining regular updates and transparent messaging. Leadership is strongly emphasized through leading by example and accountability at senior leadership levels. Engagement is well addressed by cascading goals to individuals, incentivizing alignment, and fostering ownership across teams. Overall, the response reflects a high-level, thoughtful strategy indicative of an exceptional CEO performance.\"}",
+  "scores": {
+    "Communication": 120,
+    "Leadership and Modeling": 130,
+    "Engagement and buy-in": 125
+  },
+  "total": 125.0,
+  "comments": "The answer provides a clear, structured approach to embedding strategic priorities, demonstrating excellent communication by outlining regular updates and transparent messaging. Leadership is strongly emphasized through leading by example and accountability at senior leadership levels. Engagement is well addressed by cascading goals to individuals, incentivizing alignment, and fostering ownership across teams. Overall, the response reflects a high-level, thoughtful strategy indicative of an exceptional CEO performance."
+}

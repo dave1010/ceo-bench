@@ -1,0 +1,14 @@
+{
+  "question_id": "0124-Innovation_&_Growth-Growth_strategy-Prioritizing_Strategic_Investments",
+  "model": "groq/llama3-70b-8192",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"decision-making\":130,\"market_awareness\":120,\"resource_allocation\":125,\"overall_score\":125,\"comments\":\"The answer presents a well-structured and thorough framework for investment prioritization, covering impact, risk, and strategic alignment comprehensively, justifying a high decision-making score. It demonstrates strong market awareness by emphasizing market opportunity, competitive landscape, and continuous monitoring of trends and customer needs. The resource allocation approach is detailed, involving cross-functional teams and scoring mechanisms to ensure efficient use of resources. Overall, the response reflects a high level of leadership capability, appropriate for an exceptional CEO.\"}",
+  "scores": {
+    "Decision-making": 130,
+    "Market awareness": 120,
+    "Resource allocation": 125
+  },
+  "total": 125.0,
+  "comments": "The answer presents a well-structured and thorough framework for investment prioritization, covering impact, risk, and strategic alignment comprehensively, justifying a high decision-making score. It demonstrates strong market awareness by emphasizing market opportunity, competitive landscape, and continuous monitoring of trends and customer needs. The resource allocation approach is detailed, involving cross-functional teams and scoring mechanisms to ensure efficient use of resources. Overall, the response reflects a high level of leadership capability, appropriate for an exceptional CEO."
+}

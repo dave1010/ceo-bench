@@ -20,4 +20,5 @@ model_names:
   gpt-3.5-turbo-instruct: Open AI GPT-3.5 Turbo Instruct
   groq/llama-3.1-8b-instant: Llama 3.1 8B
   groq/gemma2-9b-it: Gemma 2 9B
+  groq/llama3-70b-8192: Llama 3 70B
 
