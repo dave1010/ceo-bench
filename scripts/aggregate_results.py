@@ -71,7 +71,13 @@ def aggregate(records, topics, model_names=None):
         by_topic[model][topic].append(float(total))
 
     rows = []
-    for model, vals in overall.items():
+    for model in sorted(overall):
+        vals = overall[model]
+        if model not in model_names:
+            print(
+                f"Notice: model name for '{model}' not found in {MODEL_NAMES_FILE}. "
+                "Using model id. Add the name to the yaml file and run aggregate_results.py again."
+            )
         row = {
             "model": model,
             "model_name": model_names.get(model, model),
