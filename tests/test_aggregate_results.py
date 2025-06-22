@@ -23,7 +23,18 @@ def test_aggregate_computes_averages():
     assert data["A"]["model_name"] == "Model A"
 
 
-def test_model_name_fallback():
+def test_model_name_fallback(capsys):
     records = [{"model": "X", "total": 3.0, "topic": "T"}]
     rows = aggregate(records, ["T"], {})
+    captured = capsys.readouterr()
     assert rows[0]["model_name"] == "X"
+    assert "Add the name to the yaml" in captured.out
+
+
+def test_rows_sorted_by_model_id():
+    records = [
+        {"model": "B", "total": 2.0, "topic": "T"},
+        {"model": "A", "total": 1.0, "topic": "T"},
+    ]
+    rows = aggregate(records, ["T"], {"A": "A", "B": "B"})
+    assert [r["model"] for r in rows] == ["A", "B"]
