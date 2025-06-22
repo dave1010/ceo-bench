@@ -1,0 +1,14 @@
+{
+  "question_id": "0061-Leadership_&_Communication-Crisis_communication-Building_Trust_During_Turmoil",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"transparency\":130,\"empathy\":115,\"consistency\":120,\"overall_score\":122.0,\"comments\":\"The CEO demonstrates exceptional transparency by promptly acknowledging the crisis, providing clear and regular updates, and committing to long-term accountability. Empathy is evident through the commitment to stakeholder well-being, engagement, and addressing concerns. Consistency is ensured by establishing a crisis communication team and providing unified messaging. Overall, this response reflects a highly capable leadership approach likely to maintain and restore trust effectively during a crisis.\"}",
+  "scores": {
+    "Transparency": 130,
+    "Empathy": 115,
+    "Consistency": 120
+  },
+  "total": 122.0,
+  "comments": "The CEO demonstrates exceptional transparency by promptly acknowledging the crisis, providing clear and regular updates, and committing to long-term accountability. Empathy is evident through the commitment to stakeholder well-being, engagement, and addressing concerns. Consistency is ensured by establishing a crisis communication team and providing unified messaging. Overall, this response reflects a highly capable leadership approach likely to maintain and restore trust effectively during a crisis."
+}

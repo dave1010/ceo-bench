@@ -1,0 +1,14 @@
+{
+  "question_id": "0037-Strategic_Thinking-Stakeholder_Engagement-Balancing_Diverse_Stakeholder_Interests",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Strategic Thinking",
+  "subtopic": "Stakeholder Engagement",
+  "raw": "{\"listening_and_empathy\":130,\"strategic_negotiation\":120,\"transparency\":135,\"overall_score\":128.3,\"comments\":\"The answer demonstrates strong listening and empathy by emphasizing regular stakeholder engagement and inclusive decision-making, showing a deep understanding of diverse perspectives. Strategic negotiation is well-addressed through collaborative culture and accountability mechanisms that foster common ground among stakeholders. Transparency is a clear strength, with commitments to clear, concise, and timely communication highlighted. Overall, the approach is comprehensive and thoughtfully aligns stakeholder interests with the company's long-term strategy, meriting a high Leadership Quotient score.\"}",
+  "scores": {
+    "Listening and Empathy": 130,
+    "Strategic Negotiation": 120,
+    "Transparency": 135
+  },
+  "total": 128.3,
+  "comments": "The answer demonstrates strong listening and empathy by emphasizing regular stakeholder engagement and inclusive decision-making, showing a deep understanding of diverse perspectives. Strategic negotiation is well-addressed through collaborative culture and accountability mechanisms that foster common ground among stakeholders. Transparency is a clear strength, with commitments to clear, concise, and timely communication highlighted. Overall, the approach is comprehensive and thoughtfully aligns stakeholder interests with the company's long-term strategy, meriting a high Leadership Quotient score."
+}

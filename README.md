@@ -35,6 +35,20 @@ export LLM_GROQ_KEY=YOUR_KEY
 Run `llm groq refresh` to fetch the list of available models. The pipeline can
 then be run with `--models groq/gemma2-9b-it`.
 
+## OpenRouter Setup
+
+Evaluating models via OpenRouter requires the `llm-openrouter` plugin and an API
+key:
+
+```bash
+llm install llm-openrouter
+export OPENROUTER_KEY=YOUR_KEY
+```
+
+Free models such as `openrouter/meta-llama/llama-3.2-3b-instruct:free` and
+`openrouter/meta-llama/llama-3.2-1b-instruct:free` are limited to 50 requests per
+day. Add credits to increase this quota if you need to run larger samples.
+
 ## Evaluation Questions
 
 The benchmark covers a range of executive topics:

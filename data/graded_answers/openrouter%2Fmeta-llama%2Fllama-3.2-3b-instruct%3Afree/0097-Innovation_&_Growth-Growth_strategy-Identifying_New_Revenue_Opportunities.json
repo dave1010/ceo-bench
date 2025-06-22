@@ -1,0 +1,14 @@
+{
+  "question_id": "0097-Innovation_&_Growth-Growth_strategy-Identifying_New_Revenue_Opportunities",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"opportunity_identification\":115,\"strategic_prioritization\":100,\"execution_planning\":85,\"overall_score\":100,\"comments\":\"The CEO demonstrates a strong proactive approach in identifying opportunities through market research and customer insights, scoring well on opportunity identification. Strategic prioritization is addressed by focusing on alignment with long-term goals and resource considerations, though not deeply detailed. Execution planning is mentioned broadly (e.g., digital transformation investments, strategic partnerships) but lacks specific actionable plans, timelines, or metrics, resulting in a lower score in that dimension.\"}",
+  "scores": {
+    "Opportunity Identification": 115,
+    "Strategic Prioritization": 100,
+    "Execution Planning": 85
+  },
+  "total": 100.0,
+  "comments": "The CEO demonstrates a strong proactive approach in identifying opportunities through market research and customer insights, scoring well on opportunity identification. Strategic prioritization is addressed by focusing on alignment with long-term goals and resource considerations, though not deeply detailed. Execution planning is mentioned broadly (e.g., digital transformation investments, strategic partnerships) but lacks specific actionable plans, timelines, or metrics, resulting in a lower score in that dimension."
+}

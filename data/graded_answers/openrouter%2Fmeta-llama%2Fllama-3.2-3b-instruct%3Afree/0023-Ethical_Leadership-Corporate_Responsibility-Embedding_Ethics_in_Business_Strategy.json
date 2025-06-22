@@ -1,0 +1,14 @@
+{
+  "question_id": "0023-Ethical_Leadership-Corporate_Responsibility-Embedding_Ethics_in_Business_Strategy",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Ethical Leadership",
+  "subtopic": "Corporate Responsibility",
+  "raw": "{\"ethical_framework\":130,\"policy_integration\":125,\"leadership_example\":135,\"overall_score\":130,\"comments\":\"The provided answer demonstrates a comprehensive and well-thought-out approach to integrating ethics and corporate responsibility into strategic decision-making. It outlines a robust ethical governance framework, regular risk assessments, stakeholder engagement, and clear metrics\u2014indicating strong policy integration. The commitment to fostering a culture of integrity and personal leadership accountability shows exemplary leadership behavior. Scores are elevated above average reflecting the depth, clarity, and actionable measures described, indicating exceptional capability in leading ethical strategy.\"}",
+  "scores": {
+    "Ethical Framework": 130,
+    "Policy Integration": 125,
+    "Leadership Example": 135
+  },
+  "total": 130.0,
+  "comments": "The provided answer demonstrates a comprehensive and well-thought-out approach to integrating ethics and corporate responsibility into strategic decision-making. It outlines a robust ethical governance framework, regular risk assessments, stakeholder engagement, and clear metrics\u2014indicating strong policy integration. The commitment to fostering a culture of integrity and personal leadership accountability shows exemplary leadership behavior. Scores are elevated above average reflecting the depth, clarity, and actionable measures described, indicating exceptional capability in leading ethical strategy."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0094-Innovation_&_Growth-Technology_adoption-Assessing_Change_Management_Skills",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"leadership_in_change\":130,\"employee_engagement\":125,\"implementation_agility\":120,\"overall_score\":125,\"comments\":\"The CEO demonstrates strong leadership in change by proposing clear strategic initiatives such as establishing a digital advisory board and a digital maturity framework, showing proactive guidance and communication. Employee engagement is well addressed through investment in upskilling, fostering a culture of innovation, and involving employees in strategy development, ensuring buy-in and reducing resistance. Implementation agility is evidenced by the emphasis on continuous monitoring and adaptation of initiatives. Overall, the approach is comprehensive, thoughtful, and positions the organization well for technological transformation.\"}",
+  "scores": {
+    "Leadership in change": 130,
+    "Employee engagement": 125,
+    "Implementation agility": 120
+  },
+  "total": 125.0,
+  "comments": "The CEO demonstrates strong leadership in change by proposing clear strategic initiatives such as establishing a digital advisory board and a digital maturity framework, showing proactive guidance and communication. Employee engagement is well addressed through investment in upskilling, fostering a culture of innovation, and involving employees in strategy development, ensuring buy-in and reducing resistance. Implementation agility is evidenced by the emphasis on continuous monitoring and adaptation of initiatives. Overall, the approach is comprehensive, thoughtful, and positions the organization well for technological transformation."
+}

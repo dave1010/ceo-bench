@@ -1,0 +1,14 @@
+{
+  "question_id": "0067-Financial_Acumen-Financial_Modeling-Evaluating_Scenario_Analysis",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Modeling",
+  "raw": "{\"scenario_planning_integration\":110,\"analytical_rigor\":90,\"strategic_adaptability\":120,\"overall_score\":107,\"comments\":\"The CEO demonstrates a solid understanding of scenario planning by considering multiple financial outcomes and using them to guide decision-making. While the response is strong on strategic adaptability with concrete steps outlined, it lacks explicit mention of rigorous analytical methods to test model resilience, resulting in a slightly lower score for analytical rigor. Overall, the approach is proactive and well-aligned with navigating uncertainties effectively.\"}",
+  "scores": {
+    "Scenario Planning Integration": 110,
+    "Analytical Rigor": 90,
+    "Strategic Adaptability": 120
+  },
+  "total": 107.0,
+  "comments": "The CEO demonstrates a solid understanding of scenario planning by considering multiple financial outcomes and using them to guide decision-making. While the response is strong on strategic adaptability with concrete steps outlined, it lacks explicit mention of rigorous analytical methods to test model resilience, resulting in a slightly lower score for analytical rigor. Overall, the approach is proactive and well-aligned with navigating uncertainties effectively."
+}

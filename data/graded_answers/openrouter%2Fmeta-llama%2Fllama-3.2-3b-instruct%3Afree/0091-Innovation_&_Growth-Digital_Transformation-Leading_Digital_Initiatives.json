@@ -1,0 +1,14 @@
+{
+  "question_id": "0091-Innovation_&_Growth-Digital_Transformation-Leading_Digital_Initiatives",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Innovation & Growth",
+  "subtopic": "Digital Transformation",
+  "raw": "{\"strategic_vision\":125,\"change_management\":115,\"innovation_adoption\":130,\"overall_score\":123.33,\"comments\":\"The CEO presents a well-structured, phased digital transformation strategy directly aligned with business objectives, demonstrating strong strategic vision. There is clear emphasis on fostering a digital-first culture and employee upskilling, which indicates thoughtful change management to encourage organizational buy-in. The plan includes significant investment in emerging technologies such as AI, blockchain, IoT, and cloud computing, reflecting a strong commitment to innovation adoption. Overall, the response shows considerable leadership capability in driving digital transformation and balancing operational efficiency with customer engagement.\"}",
+  "scores": {
+    "Strategic Vision": 125,
+    "Change Management": 115,
+    "Innovation Adoption": 130
+  },
+  "total": 123.33,
+  "comments": "The CEO presents a well-structured, phased digital transformation strategy directly aligned with business objectives, demonstrating strong strategic vision. There is clear emphasis on fostering a digital-first culture and employee upskilling, which indicates thoughtful change management to encourage organizational buy-in. The plan includes significant investment in emerging technologies such as AI, blockchain, IoT, and cloud computing, reflecting a strong commitment to innovation adoption. Overall, the response shows considerable leadership capability in driving digital transformation and balancing operational efficiency with customer engagement."
+}

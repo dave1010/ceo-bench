@@ -1,0 +1,14 @@
+{
+  "question_id": "0116-Financial_Acumen-Financial_Reporting_&_Transparency-Communicating_Financial_Performance",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial Reporting & Transparency",
+  "raw": "{\"clarity_and_accuracy\":115,\"regular_communication\":110,\"ethical_standards\":120,\"overall_score\":115,\"comments\":\"The CEO demonstrates strong understanding and practical strategies to promote transparency in financial reporting. The answer clearly outlines mechanisms to ensure clarity and accuracy, including robust internal controls and independent audits, which supports high ethical standards. The commitment to regular and timely updates aligns well with effective regular communication. Overall, the leadership approach reflects a solid grasp of the importance of transparency to build trust and sustain organizational integrity.\"}",
+  "scores": {
+    "Clarity and accuracy": 115,
+    "Regular communication": 110,
+    "Ethical standards": 120
+  },
+  "total": 115.0,
+  "comments": "The CEO demonstrates strong understanding and practical strategies to promote transparency in financial reporting. The answer clearly outlines mechanisms to ensure clarity and accuracy, including robust internal controls and independent audits, which supports high ethical standards. The commitment to regular and timely updates aligns well with effective regular communication. Overall, the leadership approach reflects a solid grasp of the importance of transparency to build trust and sustain organizational integrity."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0124-Innovation_&_Growth-Growth_strategy-Prioritizing_Strategic_Investments",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"decision-making\":125,\"market_awareness\":115,\"resource_allocation\":120,\"overall_score\":120,\"comments\":\"The answer provides a comprehensive and structured framework for prioritizing strategic investments, clearly outlining criteria such as ROI, risk, strategic fit, and operational readiness, indicating strong decision-making skills. It demonstrates solid market awareness through assessment of competitive landscape, disruption potential, and customer impact. Resource allocation is well-addressed with consideration of ROI, phased implementation, and operational feasibility. Overall, the response reflects a capable and thoughtful approach consistent with a high-performing CEO.\"}",
+  "scores": {
+    "Decision-making": 125,
+    "Market awareness": 115,
+    "Resource allocation": 120
+  },
+  "total": 120.0,
+  "comments": "The answer provides a comprehensive and structured framework for prioritizing strategic investments, clearly outlining criteria such as ROI, risk, strategic fit, and operational readiness, indicating strong decision-making skills. It demonstrates solid market awareness through assessment of competitive landscape, disruption potential, and customer impact. Resource allocation is well-addressed with consideration of ROI, phased implementation, and operational feasibility. Overall, the response reflects a capable and thoughtful approach consistent with a high-performing CEO."
+}

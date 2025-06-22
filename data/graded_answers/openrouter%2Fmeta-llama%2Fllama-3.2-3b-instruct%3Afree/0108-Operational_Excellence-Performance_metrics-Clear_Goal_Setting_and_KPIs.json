@@ -1,0 +1,13 @@
+{
+  "question_id": "0108-Operational_Excellence-Performance_metrics-Clear_Goal_Setting_and_KPIs",
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct:free",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"clarity_and_alignment\":130,\"engagement_and_buy_in\":125,\"monitoring_and_adjustment\":130,\"overall_score\":128.3,\"comments\":\"The response demonstrates exceptional clarity and alignment by establishing SMART objectives tied directly to strategic goals and a comprehensive KPI framework. Engagement and buy-in are strongly emphasized through empowering team leads and ensuring understanding across teams via multiple communication channels. Monitoring and adjustment are well-covered with regular reviews, quarterly business assessments, and data-driven decision processes. Overall, the answer reflects a high-level, strategic approach that would drive extraordinary organizational performance.\"}",
+  "scores": {
+    "Clarity and Alignment": 130,
+    "Monitoring and Adjustment": 130
+  },
+  "total": 128.3,
+  "comments": "The response demonstrates exceptional clarity and alignment by establishing SMART objectives tied directly to strategic goals and a comprehensive KPI framework. Engagement and buy-in are strongly emphasized through empowering team leads and ensuring understanding across teams via multiple communication channels. Monitoring and adjustment are well-covered with regular reviews, quarterly business assessments, and data-driven decision processes. Overall, the answer reflects a high-level, strategic approach that would drive extraordinary organizational performance."
+}
