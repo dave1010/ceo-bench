@@ -1,0 +1,14 @@
+{
+  "question_id": "0134-Operational_Excellence-Performance_metrics-Market_Expansion_Dilemma",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"decision_clarity_and_decisiveness\":130,\"resource_allocation\":135,\"competitor_analysis\":115,\"overall_score\":127,\"comments\":\"The answer demonstrates exceptional clarity and decisiveness in strategy, balancing defense of core markets with experimental expansion. Resource allocation is well-detailed and shows strong prioritization under constraints. Competitor analysis is present but more implicit, showing understanding of competitive actions but could include deeper explicit competitor insights. Overall, an outstanding leadership approach likely to sustain and grow the organization effectively.\"}",
+  "scores": {
+    "Decision Clarity and Decisiveness": 130,
+    "Resource Allocation": 135,
+    "Competitor Analysis": 115
+  },
+  "total": 127.0,
+  "comments": "The answer demonstrates exceptional clarity and decisiveness in strategy, balancing defense of core markets with experimental expansion. Resource allocation is well-detailed and shows strong prioritization under constraints. Competitor analysis is present but more implicit, showing understanding of competitive actions but could include deeper explicit competitor insights. Overall, an outstanding leadership approach likely to sustain and grow the organization effectively."
+}

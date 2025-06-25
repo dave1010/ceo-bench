@@ -1,0 +1,14 @@
+{
+  "question_id": "0147-Risk_&_Ethics-Reputation_management-Pricing_Strategy_Dilemma",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"clarity_and_decisiveness\":120,\"strategic_thinking\":135,\"resource_allocation\":130,\"overall_score\":128.3,\"comments\":\"The CEO presents a clear and decisive stance against blindly matching the competitor's price, emphasizing brand value and targeted promotions. The approach demonstrates strong strategic thinking by balancing short-term customer retention with long-term brand integrity and profitability. Additionally, the plan includes concrete resource allocation measures, such as cost structure optimization and supplier negotiation, reflecting practical and effective management of resources to sustain margins. Overall, the response is comprehensive, strategic, and poised to maintain competitive advantage without resorting to detrimental price wars.\"}",
+  "scores": {
+    "Clarity and Decisiveness": 120,
+    "Strategic Thinking": 135,
+    "Resource Allocation": 130
+  },
+  "total": 128.3,
+  "comments": "The CEO presents a clear and decisive stance against blindly matching the competitor's price, emphasizing brand value and targeted promotions. The approach demonstrates strong strategic thinking by balancing short-term customer retention with long-term brand integrity and profitability. Additionally, the plan includes concrete resource allocation measures, such as cost structure optimization and supplier negotiation, reflecting practical and effective management of resources to sustain margins. Overall, the response is comprehensive, strategic, and poised to maintain competitive advantage without resorting to detrimental price wars."
+}

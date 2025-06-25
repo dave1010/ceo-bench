@@ -1,0 +1,14 @@
+{
+  "question_id": "0138-Leadership_&_Communication-Crisis_communication-Managing_Cost-Cutting_Measures",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"clarity_and_decisiveness\":130,\"employee_morale\":135,\"financial_impact_assessment\":130,\"overall_score\":131.7,\"comments\":\"The answer presents a clear, structured, and comprehensive approach to balancing financial pressures with employee well-being. The phased plan demonstrates decisive leadership with transparent communication and thoughtful prioritization. The emphasis on shared sacrifice, redeployment, and support for affected employees reflects high emotional intelligence and morale consideration. Financially, the strategies are prudent, targeting immediate savings, minimizing layoffs, and enabling future growth, which indicates a strong understanding of sustainable profitability. Overall, this response reflects exceptional leadership acumen suited to navigating complex financial challenges while preserving organizational culture and performance.\"}",
+  "scores": {
+    "Clarity and decisiveness": 130,
+    "Employee morale": 135,
+    "Financial impact assessment": 130
+  },
+  "total": 131.7,
+  "comments": "The answer presents a clear, structured, and comprehensive approach to balancing financial pressures with employee well-being. The phased plan demonstrates decisive leadership with transparent communication and thoughtful prioritization. The emphasis on shared sacrifice, redeployment, and support for affected employees reflects high emotional intelligence and morale consideration. Financially, the strategies are prudent, targeting immediate savings, minimizing layoffs, and enabling future growth, which indicates a strong understanding of sustainable profitability. Overall, this response reflects exceptional leadership acumen suited to navigating complex financial challenges while preserving organizational culture and performance."
+}

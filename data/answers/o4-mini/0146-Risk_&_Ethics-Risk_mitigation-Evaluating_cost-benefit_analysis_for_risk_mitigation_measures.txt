@@ -1,0 +1,20 @@
+I’d green-light a phased, data-driven investment in cyber defenses rather than defer or do the minimum. Here’s how we’d arrive at—and implement—that decision:
+
+1. Quantify the risk in dollars  
+   • Model multiple attack scenarios (ransomware, data breach, supply-chain exploit) and estimate the expected financial loss: remediation costs, regulatory fines, legal exposure, customer churn and reputational damage.  
+   • Assign probabilities based on industry data and our own threat intelligence.  
+
+2. Compute the return on security investment (ROSI)  
+   • For each mitigation measure—next-gen firewall, endpoint detection, encryption, employee training—estimate cost, uplift in threat- blocking rate, and corresponding reduction in expected loss.  
+   • Rank initiatives by ROSI (highest “dollars saved per dollar spent”).  
+
+3. Balance near-term profits with strategic resilience  
+   • Allocate an initial budget for “must-have” controls that yield the greatest risk reduction (e.g., multi-factor authentication, critical-system segmentation).  
+   • Put “nice-to-have” initiatives on a 12–24 month roadmap tied to revenue milestones, so we protect profitability while scaling defenses.  
+
+4. Leverage complementary strategies  
+   • Negotiate cyber-insurance terms to cap residual risk and transfer tail-risk.  
+   • Establish a cross-functional security council (IT, finance, legal, operations) to monitor threat levels, re-prioritize spend and report ROI each quarter.  
+
+5. Decide, communicate, execute  
+   I’m approving an initial 1.5% of annual revenue for top-tier risk controls this fiscal year. That spend is projected to cut our breach-related exposure by at least 60%, preserving both shareholder value and customer trust. We’ll review results after 6 months, re-forecast our risk-profile, and activate the next phase of investments only if the risk economics continue to justify it. This approach safeguards our data and reputation while keeping us on track to meet profitability targets.

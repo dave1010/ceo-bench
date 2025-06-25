@@ -1,0 +1,14 @@
+{
+  "question_id": "0139-Leadership_&_Communication-Culture_building-Regulatory_Risk_Mitigation",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":135,\"stakeholder_communication\":130,\"adaptability\":125,\"overall_score\":130,\"comments\":\"The answer presents a highly structured and visionary approach, clearly articulating a comprehensive strategic plan that balances compliance with innovation decisively. The proposal for cross-functional councils, embedding compliance in the design process, and fostering proactive regulator engagement demonstrates excellent communication and stakeholder management. The dual-track funding model and real-time regulatory intelligence show adaptability and foresight in navigating changing regulatory conditions. Overall, this response reflects an exceptional level of leadership suitable for extraordinary organizational performance.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 135,
+    "Stakeholder communication": 130,
+    "Adaptability": 125
+  },
+  "total": 130.0,
+  "comments": "The answer presents a highly structured and visionary approach, clearly articulating a comprehensive strategic plan that balances compliance with innovation decisively. The proposal for cross-functional councils, embedding compliance in the design process, and fostering proactive regulator engagement demonstrates excellent communication and stakeholder management. The dual-track funding model and real-time regulatory intelligence show adaptability and foresight in navigating changing regulatory conditions. Overall, this response reflects an exceptional level of leadership suitable for extraordinary organizational performance."
+}

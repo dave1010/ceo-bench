@@ -1,0 +1,14 @@
+{
+  "question_id": "0145-Risk_&_Ethics-Ethical_decision-making-Leveraging_AI_for_Customer_Data_Analysis",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":130,\"strategic_alignment_with_company_values\":135,\"stakeholder_communication\":130,\"overall_score\":131.7,\"comments\":\"The CEO presents a clear and decisive plan that balances AI innovation with ethical considerations, signaling strong leadership in navigating complex dilemmas. The strategic alignment with core company values of ethics and customer trust is evident throughout the approach. Stakeholder communication is thoughtfully addressed via transparency measures, customer empowerment, and ongoing reporting, which fosters trust and inclusivity.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 130,
+    "Strategic alignment with company values": 135,
+    "Stakeholder communication": 130
+  },
+  "total": 131.7,
+  "comments": "The CEO presents a clear and decisive plan that balances AI innovation with ethical considerations, signaling strong leadership in navigating complex dilemmas. The strategic alignment with core company values of ethics and customer trust is evident throughout the approach. Stakeholder communication is thoughtfully addressed via transparency measures, customer empowerment, and ongoing reporting, which fosters trust and inclusivity."
+}

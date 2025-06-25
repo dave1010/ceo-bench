@@ -1,0 +1,14 @@
+{
+  "question_id": "0136-Leadership_&_Communication-Team_motivation-Allocation_of_Profits",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Team motivation",
+  "raw": "{\"clarity_of_decision\":130,\"decisiveness\":125,\"trade-off_analysis\":135,\"overall_score\":130,\"comments\":\"The CEO provides a very clear and well-structured rationale for the profit allocation, specifying precise percentages and linking them to strategic goals. The decision is decisive with clear thresholds (15%+ IRR) and actionable policies (dividend yield, buybacks, debt ratio). Trade-offs are thoroughly analyzed, balancing growth, shareholder returns, and financial strength to maximize long-term value. This response exhibits exceptional leadership insight and strategic thinking.\"}",
+  "scores": {
+    "Clarity of decision": 130,
+    "Decisiveness": 125,
+    "Trade-off analysis": 135
+  },
+  "total": 130.0,
+  "comments": "The CEO provides a very clear and well-structured rationale for the profit allocation, specifying precise percentages and linking them to strategic goals. The decision is decisive with clear thresholds (15%+ IRR) and actionable policies (dividend yield, buybacks, debt ratio). Trade-offs are thoroughly analyzed, balancing growth, shareholder returns, and financial strength to maximize long-term value. This response exhibits exceptional leadership insight and strategic thinking."
+}

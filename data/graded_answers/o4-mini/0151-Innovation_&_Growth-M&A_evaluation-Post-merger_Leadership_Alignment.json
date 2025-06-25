@@ -1,0 +1,14 @@
+{
+  "question_id": "0151-Innovation_&_Growth-M&A_evaluation-Post-merger_Leadership_Alignment",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"clarity_and_decisiveness\":120,\"alignment_with_company_strategy\":125,\"stakeholder_management\":118,\"overall_score\":121,\"comments\":\"The answer demonstrates strong clarity and decisiveness through a well-structured, phased plan with clear timelines and measurable deliverables. It aligns tightly with company strategy by balancing cultural preservation and operational efficiency to maximize integration success and synergy realization. Stakeholder management is thoughtfully addressed by acknowledging board divisions, providing data-driven assessment to reduce bias, and offering tailored support to impacted leaders, promoting buy-in and smooth transition. Overall, the approach is comprehensive, pragmatic, and carefully balances competing concerns, warranting above-average leadership scores.\"}",
+  "scores": {
+    "Clarity and decisiveness": 120,
+    "Alignment with company strategy": 125,
+    "Stakeholder management": 118
+  },
+  "total": 121.0,
+  "comments": "The answer demonstrates strong clarity and decisiveness through a well-structured, phased plan with clear timelines and measurable deliverables. It aligns tightly with company strategy by balancing cultural preservation and operational efficiency to maximize integration success and synergy realization. Stakeholder management is thoughtfully addressed by acknowledging board divisions, providing data-driven assessment to reduce bias, and offering tailored support to impacted leaders, promoting buy-in and smooth transition. Overall, the approach is comprehensive, pragmatic, and carefully balances competing concerns, warranting above-average leadership scores."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0131-Strategic_Thinking-Vision_articulation-Conflict_of_Interest",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Vision articulation",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":125,\"ethical_reasoning\":135,\"communication_of_decision\":130,\"overall_score\":130,\"comments\":\"The CEO's response clearly identifies the conflict between revenue growth and ethical commitments, providing a decisive and structured approach that balances both priorities. The outlined conditions demonstrate strong ethical reasoning, showing a commitment to upholding the company's values while still exploring potential benefits. Communication is clear, comprehensive, and articulates the rationale and importance of ethics effectively, which would inspire confidence among stakeholders.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 125,
+    "Ethical reasoning": 135,
+    "Communication of decision": 130
+  },
+  "total": 130.0,
+  "comments": "The CEO's response clearly identifies the conflict between revenue growth and ethical commitments, providing a decisive and structured approach that balances both priorities. The outlined conditions demonstrate strong ethical reasoning, showing a commitment to upholding the company's values while still exploring potential benefits. Communication is clear, comprehensive, and articulates the rationale and importance of ethics effectively, which would inspire confidence among stakeholders."
+}

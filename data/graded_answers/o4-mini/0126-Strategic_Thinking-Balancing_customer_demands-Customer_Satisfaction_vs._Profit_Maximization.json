@@ -1,0 +1,14 @@
+{
+  "question_id": "0126-Strategic_Thinking-Balancing_customer_demands-Customer_Satisfaction_vs._Profit_Maximization",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Balancing customer demands",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":130,\"strategic_alignment\":135,\"resource_optimization\":130,\"overall_score\":132,\"comments\":\"The CEO provides a clear, decisive approach that balances customer satisfaction and profit maximization through targeted pricing, cost efficiencies, and performance tracking. The strategic alignment is strong, emphasizing long-term value creation aligned with company goals. Resource optimization is well addressed by proposing targeted discounts and operational improvements to safeguard margins while catering to customer needs. This comprehensive and thoughtful answer reflects exceptional leadership.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 130,
+    "Strategic alignment": 135,
+    "Resource optimization": 130
+  },
+  "total": 132.0,
+  "comments": "The CEO provides a clear, decisive approach that balances customer satisfaction and profit maximization through targeted pricing, cost efficiencies, and performance tracking. The strategic alignment is strong, emphasizing long-term value creation aligned with company goals. Resource optimization is well addressed by proposing targeted discounts and operational improvements to safeguard margins while catering to customer needs. This comprehensive and thoughtful answer reflects exceptional leadership."
+}
