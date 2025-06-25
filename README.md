@@ -90,7 +90,7 @@ pytest
 ```
 Run lint checks:
 ```bash
-flake8 --exclude node_modules .
+flake8 scripts/ tests/
 ```
 Run the JS tests with:
 ```bash
