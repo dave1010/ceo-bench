@@ -1,0 +1,18 @@
+I’m authorizing a two-pronged, phased response that both protects our customer experience today and strengthens our supply chain for tomorrow:
+
+1. Immediate Customer-First Mitigations  
+   • Proactive Communication: Automate real-time order-status updates and set clear expectations on any delays.  
+   • Targeted Service Recovery: For affected orders, offer expedited shipping upgrades, partial credits or loyalty points—prioritized for high-value or at-risk customers.  
+   • Cross-Functional “Tiger Team”: Pull in customer service, operations and finance to triage hotspots daily and re-route inventory from alternate warehouses or suppliers.
+
+2. Strategic Supply-Chain Investment  
+   • Focused CapEx: Allocate a capped budget to diversify our supplier base in critical regions, onboard a secondary 3PL for surge capacity, and implement cloud-based demand-forecasting tools.  
+   • Phased Rollout & ROI Gates: Break investments into three 6-month sprints. At each gate, measure on-time delivery, fill-rate improvement and margin impact. If targets aren’t met, we’ll pivot to a lower-cost alternative.  
+   • Pricing & Contract Review: Negotiate volume discounts and performance-based SLAs with key suppliers. Where necessary, introduce a small, transparent “expedited-shipping” surcharge—optionally passed to customers who need guaranteed timelines.
+
+Why this makes sense  
+• Protects Brand & Revenue: Short-term service recoveries keep customers loyal and minimize churn.  
+• Controls Cost: By capping initial CapEx and tying subsequent funding to clear ROI milestones, we avoid open-ended spending.  
+• Builds Resilience: Diversified suppliers, improved forecasting and third-party partnerships reduce our vulnerability to the next disruption.
+
+In sum, we’ll eat some near-term costs to safeguard customer trust—because even a single negative experience can erode lifetime value—and simultaneously build a more agile, cost-efficient supply chain that pays for itself over 12–18 months. That balance of customer satisfaction and fiscal discipline is the right choice for our long-term health.

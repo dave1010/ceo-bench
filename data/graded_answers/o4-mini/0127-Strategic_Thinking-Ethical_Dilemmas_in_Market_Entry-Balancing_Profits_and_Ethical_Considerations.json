@@ -1,0 +1,14 @@
+{
+  "question_id": "0127-Strategic_Thinking-Ethical_Dilemmas_in_Market_Entry-Balancing_Profits_and_Ethical_Considerations",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Ethical Dilemmas in Market Entry",
+  "raw": "{\"clarity_and_decisiveness\":130,\"strategic_thinking\":135,\"leadership_and_ethics\":138,\"overall_score\":134.3,\"comments\":\"The CEO provides a clear and decisive approach that balances ethical concerns with financial opportunity. The strategy includes rigorous due diligence, enforceable ethical standards, and staged implementation with strong oversight, reflecting deep strategic foresight. Leadership is demonstrated through transparent communication and alignment with stakeholders, emphasizing integrity and the company's values. The plan is comprehensive and well-articulated, meriting high scores across all dimensions.\"}",
+  "scores": {
+    "Clarity and Decisiveness": 130,
+    "Strategic Thinking": 135,
+    "Leadership and Ethics": 138
+  },
+  "total": 134.3,
+  "comments": "The CEO provides a clear and decisive approach that balances ethical concerns with financial opportunity. The strategy includes rigorous due diligence, enforceable ethical standards, and staged implementation with strong oversight, reflecting deep strategic foresight. Leadership is demonstrated through transparent communication and alignment with stakeholders, emphasizing integrity and the company's values. The plan is comprehensive and well-articulated, meriting high scores across all dimensions."
+}

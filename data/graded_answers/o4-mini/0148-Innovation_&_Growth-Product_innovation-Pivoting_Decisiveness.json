@@ -1,0 +1,14 @@
+{
+  "question_id": "0148-Innovation_&_Growth-Product_innovation-Pivoting_Decisiveness",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Product innovation",
+  "raw": "{\"strategic_vision\":135,\"risk_management\":130,\"communication\":125,\"overall_score\":130,\"comments\":\"The CEO presents a clear, data-driven rationale for the pivot that aligns well with long-term growth objectives, demonstrating excellent strategic vision. Risk is comprehensively assessed with detailed mitigation plans, including staged investments and monitoring protocols, indicating strong risk management. Communication plans emphasize transparency and stakeholder engagement, reflecting effective communication skills. Overall, the response shows a thoughtful, disciplined approach to managing uncertainty and change, scoring exceptionally high across all dimensions.\"}",
+  "scores": {
+    "Strategic Vision": 135,
+    "Risk Management": 130,
+    "Communication": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO presents a clear, data-driven rationale for the pivot that aligns well with long-term growth objectives, demonstrating excellent strategic vision. Risk is comprehensively assessed with detailed mitigation plans, including staged investments and monitoring protocols, indicating strong risk management. Communication plans emphasize transparency and stakeholder engagement, reflecting effective communication skills. Overall, the response shows a thoughtful, disciplined approach to managing uncertainty and change, scoring exceptionally high across all dimensions."
+}

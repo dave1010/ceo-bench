@@ -1,0 +1,14 @@
+{
+  "question_id": "0132-Operational_Excellence-Resource_optimization-Compliance_Cost_Dilemma",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"clarity_and_decisiveness\":130,\"strategic_thinking\":135,\"communication_and_transparency\":130,\"overall_score\":131.7,\"comments\":\"The CEO demonstrates exceptional clarity and decisiveness by outlining a phased, risk-based compliance approach that balances regulatory demands with fiscal prudence. Strategic thinking is evident in leveraging cross-functional teams, alternative funding, and embedding sustainability as a competitive advantage, aligning with long-term corporate goals. Communication and transparency are maintained with proactive stakeholder engagement and regular updates. This holistic, innovative approach effectively integrates compliance into growth strategy, marking an outstanding leadership performance.\"}",
+  "scores": {
+    "Clarity and decisiveness": 130,
+    "Strategic thinking": 135,
+    "Communication and transparency": 130
+  },
+  "total": 131.7,
+  "comments": "The CEO demonstrates exceptional clarity and decisiveness by outlining a phased, risk-based compliance approach that balances regulatory demands with fiscal prudence. Strategic thinking is evident in leveraging cross-functional teams, alternative funding, and embedding sustainability as a competitive advantage, aligning with long-term corporate goals. Communication and transparency are maintained with proactive stakeholder engagement and regular updates. This holistic, innovative approach effectively integrates compliance into growth strategy, marking an outstanding leadership performance."
+}

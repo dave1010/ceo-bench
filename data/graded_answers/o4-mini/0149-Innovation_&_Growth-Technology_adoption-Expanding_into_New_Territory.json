@@ -1,0 +1,14 @@
+{
+  "question_id": "0149-Innovation_&_Growth-Technology_adoption-Expanding_into_New_Territory",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"clarity_and_decisiveness\":130,\"risk_assessment\":135,\"competitive_strategy\":140,\"overall_score\":135,\"comments\":\"The answer is exceptionally well-structured and demonstrates a clear and decisive course of action backed by data-driven analysis. The risk assessment is thorough, covering market opportunity, competitive timing, and detailed mitigation strategies. The competitive strategy is comprehensive, including phased rollouts, local partnerships, product differentiation, and contingency plans, showing high-level strategic thinking and adaptability. Overall, the response reflects a 'genius' level CEO capability, indicating strong potential for extraordinary organizational performance.\"}",
+  "scores": {
+    "Clarity and decisiveness": 130,
+    "Risk assessment": 135,
+    "Competitive strategy": 140
+  },
+  "total": 135.0,
+  "comments": "The answer is exceptionally well-structured and demonstrates a clear and decisive course of action backed by data-driven analysis. The risk assessment is thorough, covering market opportunity, competitive timing, and detailed mitigation strategies. The competitive strategy is comprehensive, including phased rollouts, local partnerships, product differentiation, and contingency plans, showing high-level strategic thinking and adaptability. Overall, the response reflects a 'genius' level CEO capability, indicating strong potential for extraordinary organizational performance."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0137-Leadership_&_Communication-Stakeholder_management-Handling_Conflicting_Stakeholder_Interests",
+  "model": "o4-mini",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder management",
+  "raw": "{\"clarity_and_decisiveness\":130,\"stakeholder_management\":125,\"strategic_decision-making\":135,\"overall_score\":130,\"comments\":\"The response is clear and decisively rejects the unethical kickback, providing a thorough plan for compliance and governance. The CEO demonstrates strong stakeholder management by communicating transparently with internal and external parties, including legal, the board, and shareholders. Strategically, the answer balances short-term financial temptations with long-term reputational and ethical considerations, showing insight into sustainable value creation. Overall, this is an exceptional, well-rounded leadership approach.\"}",
+  "scores": {
+    "Clarity and decisiveness": 130,
+    "Stakeholder management": 125,
+    "Strategic decision-making": 135
+  },
+  "total": 130.0,
+  "comments": "The response is clear and decisively rejects the unethical kickback, providing a thorough plan for compliance and governance. The CEO demonstrates strong stakeholder management by communicating transparently with internal and external parties, including legal, the board, and shareholders. Strategically, the answer balances short-term financial temptations with long-term reputational and ethical considerations, showing insight into sustainable value creation. Overall, this is an exceptional, well-rounded leadership approach."
+}

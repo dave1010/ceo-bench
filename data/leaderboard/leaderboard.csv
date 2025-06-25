@@ -1,11 +1,11 @@
 model,model_name,overall,n,Strategic Thinking,Operational Excellence,Leadership & Communication,Financial Acumen,Risk & Ethics,Innovation & Growth
-groq/llama-3.1-8b-instant,Llama 3.1 8B,120.544,125,119.305,120.079,123.318,120.142,121.606,120.181
-gpt-4.1-mini,Open AI GPT-4.1 Mini,121.464,125,122.222,120.08,119.941,120.25,122.759,122.581
-openrouter/meta-llama/llama-3.2-3b-instruct:free,Llama 3.2 3B,119.835,41,121.36,121.471,121.8,114.833,119.0,118.166
 gpt-4.1,Open AI GPT-4.1,124.027,125,123.508,121.695,127.429,122.925,125.135,124.019
-openrouter/meta-llama/llama-3.2-1b-instruct:free,Llama 3.2 1B,106.9,7,111.667,115.0,,84.15,130.0,
-groq/gemma2-9b-it,Gemma 2 9B,117.888,125,118.681,113.935,117.724,118.5,120.5,117.206
-o3,Open AI o3,132.241,39,132.27,132.371,132.0,,131.25,130.0
+gpt-4.1-mini,Open AI GPT-4.1 Mini,121.464,125,122.222,120.08,119.941,120.25,122.759,122.581
 gpt-4.1-nano,Open AI GPT-4.1 Nano,115.975,125,114.176,118.005,115.788,117.869,115.506,117.269
+groq/gemma2-9b-it,Gemma 2 9B,117.888,125,118.681,113.935,117.724,118.5,120.5,117.206
+groq/llama-3.1-8b-instant,Llama 3.1 8B,120.544,125,119.305,120.079,123.318,120.142,121.606,120.181
 groq/llama3-70b-8192,Llama 3 70B,120.825,12,116.1,121.66,,122.767,,125.0
-o4-mini,Open AI o4 Mini,130.326,125,131.63,129.005,128.741,130.537,130.429,129.764
+o3,Open AI o3,132.241,39,132.27,132.371,132.0,,131.25,130.0
+o4-mini,Open AI o4 Mini,130.027,151,130.954,128.646,129.062,130.66,130.014,129.612
+openrouter/meta-llama/llama-3.2-1b-instruct:free,Llama 3.2 1B,106.9,7,111.667,115.0,,84.15,130.0,
+openrouter/meta-llama/llama-3.2-3b-instruct:free,Llama 3.2 3B,119.835,41,121.36,121.471,121.8,114.833,119.0,118.166

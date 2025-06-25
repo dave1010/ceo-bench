@@ -1,0 +1,14 @@
+{
+  "question_id": "0150-Innovation_&_Growth-Growth_strategy-Evaluating_Cost_Cutting_Measures",
+  "model": "o4-mini",
+  "topic": "Innovation & Growth",
+  "subtopic": "Growth strategy",
+  "raw": "{\"clarity_and_decisiveness\":130,\"strategic_thinking\":135,\"communication_skills\":125,\"overall_score\":130,\"comments\":\"The answer provides a clear and decisive two-track initiative balancing cost optimization with value preservation. Strategic thinking is evident in the detailed mechanisms like zero-based budgeting, automation, and customer metric safeguards, highlighting long-term brand and revenue considerations. Communication skills are strong in the proposed cross-functional governance and customer-focused metrics, reflecting proactive stakeholder engagement. Overall, an exceptional and well-rounded approach that reflects genius-level leadership qualities.\"}",
+  "scores": {
+    "Clarity and decisiveness": 130,
+    "Strategic thinking": 135,
+    "Communication skills": 125
+  },
+  "total": 130.0,
+  "comments": "The answer provides a clear and decisive two-track initiative balancing cost optimization with value preservation. Strategic thinking is evident in the detailed mechanisms like zero-based budgeting, automation, and customer metric safeguards, highlighting long-term brand and revenue considerations. Communication skills are strong in the proposed cross-functional governance and customer-focused metrics, reflecting proactive stakeholder engagement. Overall, an exceptional and well-rounded approach that reflects genius-level leadership qualities."
+}

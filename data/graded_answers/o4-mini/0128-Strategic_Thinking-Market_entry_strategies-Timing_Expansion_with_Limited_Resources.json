@@ -1,0 +1,14 @@
+{
+  "question_id": "0128-Strategic_Thinking-Market_entry_strategies-Timing_Expansion_with_Limited_Resources",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"clarity_and_decisiveness\":115,\"strategic_thinking\":120,\"resource_management\":118,\"overall_score\":117.7,\"comments\":\"The CEO's answer is very clear and decisively lays out a two-step plan that balances risk and growth potential. The rationale for entering the slower-growing market first to gain positive cash flow and operational experience, then scaling into the high-growth market with greater resources, shows strong strategic thinking and sound risk management. Resource allocation is thoughtfully planned to match the timing and risk profile of each market entry, indicating effective management. Overall, the response demonstrates a comprehensive, balanced, and pragmatic approach aligned with sustainable long-term growth.\"}",
+  "scores": {
+    "Clarity and Decisiveness": 115,
+    "Strategic Thinking": 120,
+    "Resource Management": 118
+  },
+  "total": 117.7,
+  "comments": "The CEO's answer is very clear and decisively lays out a two-step plan that balances risk and growth potential. The rationale for entering the slower-growing market first to gain positive cash flow and operational experience, then scaling into the high-growth market with greater resources, shows strong strategic thinking and sound risk management. Resource allocation is thoughtfully planned to match the timing and risk profile of each market entry, indicating effective management. Overall, the response demonstrates a comprehensive, balanced, and pragmatic approach aligned with sustainable long-term growth."
+}
