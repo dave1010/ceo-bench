@@ -1,0 +1,14 @@
+{
+  "question_id": "0140-Financial_Acumen-Financial_modeling-Handling_Conflict_of_Interest",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial modeling",
+  "raw": "{\"ethical_leadership\":135,\"stakeholder_trust\":130,\"business_integrity\":138,\"overall_score\":134.3,\"comments\":\"The CEO demonstrates exceptional ethical leadership by fully disclosing the personal conflict of interest and recusing themselves from the decision-making process. The establishment of an independent committee and external audit ensures an unbiased evaluation. Stakeholder trust is well addressed through transparent communication, documented procedures, and public disclosure, reinforcing credibility. The CEO clearly prioritizes business integrity by adhering to company values and ethical standards, protecting the company's interests and reputation. Overall, this response reflects a high level of leadership competence in navigating conflicts of interest with transparency, fairness, and integrity.\"}",
+  "scores": {
+    "Ethical Leadership": 135,
+    "Stakeholder Trust": 130,
+    "Business Integrity": 138
+  },
+  "total": 134.3,
+  "comments": "The CEO demonstrates exceptional ethical leadership by fully disclosing the personal conflict of interest and recusing themselves from the decision-making process. The establishment of an independent committee and external audit ensures an unbiased evaluation. Stakeholder trust is well addressed through transparent communication, documented procedures, and public disclosure, reinforcing credibility. The CEO clearly prioritizes business integrity by adhering to company values and ethical standards, protecting the company's interests and reputation. Overall, this response reflects a high level of leadership competence in navigating conflicts of interest with transparency, fairness, and integrity."
+}

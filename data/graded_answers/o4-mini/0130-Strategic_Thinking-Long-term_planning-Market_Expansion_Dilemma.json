@@ -1,0 +1,14 @@
+{
+  "question_id": "0130-Strategic_Thinking-Long-term_planning-Market_Expansion_Dilemma",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term planning",
+  "raw": "{\"clarity_and_decisiveness\":120,\"strategic_thinking\":130,\"resource_allocation\":125,\"overall_score\":125,\"comments\":\"The CEO presents a clear, decisive plan balancing speed and caution, demonstrating exceptional clarity. Strategic thinking is strong, showing an understanding of competitive dynamics and leveraging first-mover advantage while mitigating risks. Resource allocation is well-considered with specific budget, team structure, and controls, optimizing success chances. Overall, an impressive, thoughtful approach with high leadership quality.\"}",
+  "scores": {
+    "Clarity and decisiveness": 120,
+    "Strategic thinking": 130,
+    "Resource allocation": 125
+  },
+  "total": 125.0,
+  "comments": "The CEO presents a clear, decisive plan balancing speed and caution, demonstrating exceptional clarity. Strategic thinking is strong, showing an understanding of competitive dynamics and leveraging first-mover advantage while mitigating risks. Resource allocation is well-considered with specific budget, team structure, and controls, optimizing success chances. Overall, an impressive, thoughtful approach with high leadership quality."
+}

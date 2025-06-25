@@ -1,0 +1,14 @@
+{
+  "question_id": "0129-Strategic_Thinking-Competitive_analysis-Cost-Cutting_Measures",
+  "model": "o4-mini",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive analysis",
+  "raw": "{\"clarity_and_decisiveness\":115,\"strategic_thinking\":130,\"communication\":120,\"overall_score\":121.7,\"comments\":\"The answer demonstrates a very clear and decisive plan with well-structured pillars addressing efficiency, shared sacrifice, and growth reinvestment. The strategic thinking is strong, showing a keen understanding of balancing cost-cutting with long-term growth and employee morale. Communication strategies are well-defined, emphasizing transparency and frequent updates to maintain trust. Overall, this response reflects above-average leadership qualities suitable for challenging scenarios.\"}",
+  "scores": {
+    "Clarity and decisiveness": 115,
+    "Strategic thinking": 130,
+    "Communication": 120
+  },
+  "total": 121.7,
+  "comments": "The answer demonstrates a very clear and decisive plan with well-structured pillars addressing efficiency, shared sacrifice, and growth reinvestment. The strategic thinking is strong, showing a keen understanding of balancing cost-cutting with long-term growth and employee morale. Communication strategies are well-defined, emphasizing transparency and frequent updates to maintain trust. Overall, this response reflects above-average leadership qualities suitable for challenging scenarios."
+}

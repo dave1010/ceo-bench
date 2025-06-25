@@ -1,0 +1,14 @@
+{
+  "question_id": "0133-Operational_Excellence-Process_improvement-Managing_Customer_Expectations",
+  "model": "o4-mini",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":130,\"strategic_thinking\":135,\"communication_and_transparency\":128,\"overall_score\":131.0,\"comments\":\"The CEO's answer is comprehensive and clearly outlines a decisive two-phase approach balancing immediate customer satisfaction with long-term supply chain resilience. There is strong strategic thinking reflected in the balance between short-term service recoveries and phased strategic investments with ROI gates, reflecting long-term brand and financial health. Communication plans include proactive customer updates and transparent surcharges, indicating high communication and transparency. Overall, the response is well-rounded and above average, demonstrating exceptional leadership qualities.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 130,
+    "Strategic thinking": 135,
+    "Communication and transparency": 128
+  },
+  "total": 131.0,
+  "comments": "The CEO's answer is comprehensive and clearly outlines a decisive two-phase approach balancing immediate customer satisfaction with long-term supply chain resilience. There is strong strategic thinking reflected in the balance between short-term service recoveries and phased strategic investments with ROI gates, reflecting long-term brand and financial health. Communication plans include proactive customer updates and transparent surcharges, indicating high communication and transparency. Overall, the response is well-rounded and above average, demonstrating exceptional leadership qualities."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0143-Financial_Acumen-Budget_planning-Data_Protection_Policy_Implementation",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Budget planning",
+  "raw": "{\"clarity_and_decisiveness\":130,\"strategic_thinking\":135,\"communication_skills\":125,\"overall_score\":130,\"comments\":\"The CEO presents a clear, phased plan prioritizing risk and cash flow that balances compliance and financial health decisively. The approach demonstrates strong strategic alignment with business continuity and growth, leveraging managed services and phasing investments thoughtfully. The communication is well structured, detailed, and motivating, effectively outlining the rationale and gradual training rollout. Overall, this answer reflects exceptional leadership in addressing complex regulatory and financial challenges.\"}",
+  "scores": {
+    "Clarity and decisiveness": 130,
+    "Strategic thinking": 135,
+    "Communication skills": 125
+  },
+  "total": 130.0,
+  "comments": "The CEO presents a clear, phased plan prioritizing risk and cash flow that balances compliance and financial health decisively. The approach demonstrates strong strategic alignment with business continuity and growth, leveraging managed services and phasing investments thoughtfully. The communication is well structured, detailed, and motivating, effectively outlining the rationale and gradual training rollout. Overall, this answer reflects exceptional leadership in addressing complex regulatory and financial challenges."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0144-Risk_&_Ethics-Regulatory_compliance-Expansion_Dilemma",
+  "model": "o4-mini",
+  "topic": "Risk & Ethics",
+  "subtopic": "Regulatory compliance",
+  "raw": "{\"clarity_and_decisiveness\":120,\"strategic_thinking\":130,\"resource_management\":125,\"overall_score\":125,\"comments\":\"The answer demonstrates excellent clarity and decisiveness, articulating a phased approach with specific milestones and financial controls that balance short-term profitability against long-term growth. Strategic thinking is strong, showing a thorough understanding of market dynamics, competition, and financial returns, aligning the expansion with the company's vision. Resource management is well considered, with prudent capital allocation, clear oversight mechanisms, and risk mitigation measures. Overall, this reflects a highly capable CEO approach with strong leadership qualities.\"}",
+  "scores": {
+    "Clarity and decisiveness": 120,
+    "Strategic thinking": 130,
+    "Resource management": 125
+  },
+  "total": 125.0,
+  "comments": "The answer demonstrates excellent clarity and decisiveness, articulating a phased approach with specific milestones and financial controls that balance short-term profitability against long-term growth. Strategic thinking is strong, showing a thorough understanding of market dynamics, competition, and financial returns, aligning the expansion with the company's vision. Resource management is well considered, with prudent capital allocation, clear oversight mechanisms, and risk mitigation measures. Overall, this reflects a highly capable CEO approach with strong leadership qualities."
+}

@@ -1,0 +1,14 @@
+{
+  "question_id": "0141-Financial_Acumen-Investment_analysis-Prioritizing_Customer_Complaints",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment analysis",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":130,\"strategic_thinking\":135,\"communication_skills\":130,\"overall_score\":132,\"comments\":\"The CEO provides a clear and structured prioritization framework that categorizes complaints by risk and impact, demonstrating strong decisiveness. Their approach reflects deep strategic thinking by balancing urgent legal risks with key customer retention and broader brand reputation. Communication is well addressed through the initiative to publish a transparent dashboard, which fosters trust and manages customer expectations effectively. Overall, this is a thoughtful, practical, and highly effective plan for resource-constrained problem resolution.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 130,
+    "Strategic thinking": 135,
+    "Communication skills": 130
+  },
+  "total": 132.0,
+  "comments": "The CEO provides a clear and structured prioritization framework that categorizes complaints by risk and impact, demonstrating strong decisiveness. Their approach reflects deep strategic thinking by balancing urgent legal risks with key customer retention and broader brand reputation. Communication is well addressed through the initiative to publish a transparent dashboard, which fosters trust and manages customer expectations effectively. Overall, this is a thoughtful, practical, and highly effective plan for resource-constrained problem resolution."
+}

@@ -1,0 +1,16 @@
+I’d immediately stand up a “Customer Issue Triage Council” led by our head of product and head of support, and we’d sort every open complaint into three buckets:  
+1. Safety, compliance, or legal risk (P1)  
+2. High-value customer or high-revenue impact (P2)  
+3. Brand reputation and volume-driven (P3)  
+
+Action plan:  
+• P1 issues get a dedicated task force today. Anything that might expose us to regulatory fines, safety recalls, or class-action risk becomes a 24–48-hour fix.  
+• P2 issues—those coming from our top 20% of accounts or affecting a fast-growing segment—are next in line. We’ll assign “sprint pods” to deliver patches or service credits within the next two weeks.  
+• P3 issues—common but lower-severity gripes—go into our next quarterly release roadmap. We’ll prioritize quick wins (low effort, high customer goodwill) in the coming sprint and schedule the rest.  
+
+Why this approach?  
+• It protects us from catastrophic risk first.  
+• It preserves our most valuable relationships and revenue streams.  
+• It sustains broader customer satisfaction through visible progress on frequent concerns.  
+
+Throughout, we’ll publish a simple “What We’re Fixing” dashboard so every customer sees we’re listening—and that reinforces our reputation for transparency and responsiveness even when resources are limited.

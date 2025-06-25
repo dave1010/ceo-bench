@@ -1,0 +1,14 @@
+{
+  "question_id": "0142-Financial_Acumen-Risk_assessment-Cost_Reduction_Strategy",
+  "model": "o4-mini",
+  "topic": "Financial Acumen",
+  "subtopic": "Risk assessment",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":130,\"financial_impact_analysis\":130,\"stakeholder_communication\":125,\"overall_score\":128.3,\"comments\":\"The CEO provides a clear and decisive plan that avoids layoffs in favor of long-term efficiency investments, demonstrating strategic vision. The financial impact is thoroughly analyzed, with both short-term quick wins and sustained cost reductions considered. Stakeholder communication is well-addressed by emphasizing talent preservation, measurable KPIs, and transparent progress reporting. Overall, the answer reflects exceptional leadership in balancing competing priorities for sustainable company health.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 130,
+    "Financial impact analysis": 130,
+    "Stakeholder communication": 125
+  },
+  "total": 128.3,
+  "comments": "The CEO provides a clear and decisive plan that avoids layoffs in favor of long-term efficiency investments, demonstrating strategic vision. The financial impact is thoroughly analyzed, with both short-term quick wins and sustained cost reductions considered. Stakeholder communication is well-addressed by emphasizing talent preservation, measurable KPIs, and transparent progress reporting. Overall, the answer reflects exceptional leadership in balancing competing priorities for sustainable company health."
+}
