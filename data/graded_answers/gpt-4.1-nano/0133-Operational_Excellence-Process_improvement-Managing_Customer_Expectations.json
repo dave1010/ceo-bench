@@ -1,0 +1,14 @@
+{
+  "question_id": "0133-Operational_Excellence-Process_improvement-Managing_Customer_Expectations",
+  "model": "gpt-4.1-nano",
+  "topic": "Operational Excellence",
+  "subtopic": "Process improvement",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":115,\"strategic_thinking\":120,\"communication_and_transparency\":118,\"overall_score\":117.7,\"comments\":\"The response clearly articulates the decision-making rationale, balancing customer trust with financial costs. The CEO emphasizes long-term brand reputation and customer loyalty, reflecting strong strategic thinking. The plan to communicate transparently with customers and provide updates demonstrates effective communication and expectation management. Overall, this is a well-rounded, thoughtful approach suitable for a high-performing CEO.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 115,
+    "Strategic thinking": 120,
+    "Communication and transparency": 118
+  },
+  "total": 117.7,
+  "comments": "The response clearly articulates the decision-making rationale, balancing customer trust with financial costs. The CEO emphasizes long-term brand reputation and customer loyalty, reflecting strong strategic thinking. The plan to communicate transparently with customers and provide updates demonstrates effective communication and expectation management. Overall, this is a well-rounded, thoughtful approach suitable for a high-performing CEO."
+}

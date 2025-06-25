@@ -1,0 +1,14 @@
+{
+  "question_id": "0131-Strategic_Thinking-Vision_articulation-Conflict_of_Interest",
+  "model": "gpt-4.1-nano",
+  "topic": "Strategic Thinking",
+  "subtopic": "Vision articulation",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":115,\"ethical_reasoning\":120,\"communication_of_decision\":110,\"overall_score\":115,\"comments\":\"The CEO's response clearly identifies the ethical conflict, decisively opts against the partnership to uphold core values, and emphasizes long-term integrity over short-term gains. The ethical reasoning demonstrates a strong understanding of stakeholder impact and company reputation. Communication is effective with a clear rationale and reinforcement of ethical standards. The decision reflects sound leadership balancing ethics and business considerations.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 115,
+    "Ethical reasoning": 120,
+    "Communication of decision": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO's response clearly identifies the ethical conflict, decisively opts against the partnership to uphold core values, and emphasizes long-term integrity over short-term gains. The ethical reasoning demonstrates a strong understanding of stakeholder impact and company reputation. Communication is effective with a clear rationale and reinforcement of ethical standards. The decision reflects sound leadership balancing ethics and business considerations."
+}

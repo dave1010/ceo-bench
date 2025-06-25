@@ -1,0 +1,14 @@
+{
+  "question_id": "0141-Financial_Acumen-Investment_analysis-Prioritizing_Customer_Complaints",
+  "model": "gpt-4.1-nano",
+  "topic": "Financial Acumen",
+  "subtopic": "Investment analysis",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":115,\"strategic_thinking\":110,\"communication_skills\":120,\"overall_score\":115,\"comments\":\"The response clearly prioritizes complaints with the greatest impact on retention and brand reputation, demonstrating sound judgment and decisiveness. The strategic focus on core product functionality and safety aligns well with long-term company values. Communication is described as transparent and timely, indicating effective stakeholder engagement. Overall, a strong and thoughtful approach with well-balanced priorities.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 115,
+    "Strategic thinking": 110,
+    "Communication skills": 120
+  },
+  "total": 115.0,
+  "comments": "The response clearly prioritizes complaints with the greatest impact on retention and brand reputation, demonstrating sound judgment and decisiveness. The strategic focus on core product functionality and safety aligns well with long-term company values. Communication is described as transparent and timely, indicating effective stakeholder engagement. Overall, a strong and thoughtful approach with well-balanced priorities."
+}

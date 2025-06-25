@@ -1,0 +1,14 @@
+{
+  "question_id": "0144-Risk_&_Ethics-Regulatory_compliance-Expansion_Dilemma",
+  "model": "gpt-4.1-nano",
+  "topic": "Risk & Ethics",
+  "subtopic": "Regulatory compliance",
+  "raw": "{\"clarity_and_decisiveness\":110,\"strategic_thinking\":100,\"resource_management\":105,\"overall_score\":105,\"comments\":\"The answer is clear and decisive about pursuing the expansion despite short-term profitability impact, highlighting the long-term growth priority. However, it lacks detailed insights into market dynamics, competition, and internal capabilities, limiting the demonstration of deep strategic thinking. Resource management is thoughtfully addressed through mentions of financial planning and risk management, though specifics are limited. Overall, the response reflects solid leadership capability with room for deeper analysis.\"}",
+  "scores": {
+    "Clarity and decisiveness": 110,
+    "Strategic thinking": 100,
+    "Resource management": 105
+  },
+  "total": 105.0,
+  "comments": "The answer is clear and decisive about pursuing the expansion despite short-term profitability impact, highlighting the long-term growth priority. However, it lacks detailed insights into market dynamics, competition, and internal capabilities, limiting the demonstration of deep strategic thinking. Resource management is thoughtfully addressed through mentions of financial planning and risk management, though specifics are limited. Overall, the response reflects solid leadership capability with room for deeper analysis."
+}

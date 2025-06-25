@@ -1,0 +1,14 @@
+{
+  "question_id": "0149-Innovation_&_Growth-Technology_adoption-Expanding_into_New_Territory",
+  "model": "gpt-4.1-nano",
+  "topic": "Innovation & Growth",
+  "subtopic": "Technology adoption",
+  "raw": "{\"clarity_and_decisiveness\":115,\"risk_assessment\":100,\"competitive_strategy\":105,\"overall_score\":107,\"comments\":\"The answer demonstrates clear and decisive intent to expand, emphasizing swift action and strategic partnerships to gain early foothold. However, while it acknowledges the risks from competitors and proposes general mitigation strategies, the risk assessment lacks depth in analyzing potential downsides or contingency plans. The competitive strategy is solid but somewhat generalized without detailed tactics. Overall, the response shows strong leadership aptitude with room for deeper analysis.\"}",
+  "scores": {
+    "Clarity and decisiveness": 115,
+    "Risk assessment": 100,
+    "Competitive strategy": 105
+  },
+  "total": 107.0,
+  "comments": "The answer demonstrates clear and decisive intent to expand, emphasizing swift action and strategic partnerships to gain early foothold. However, while it acknowledges the risks from competitors and proposes general mitigation strategies, the risk assessment lacks depth in analyzing potential downsides or contingency plans. The competitive strategy is solid but somewhat generalized without detailed tactics. Overall, the response shows strong leadership aptitude with room for deeper analysis."
+}

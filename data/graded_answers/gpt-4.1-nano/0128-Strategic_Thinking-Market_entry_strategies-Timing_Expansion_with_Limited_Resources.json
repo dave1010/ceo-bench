@@ -1,0 +1,14 @@
+{
+  "question_id": "0128-Strategic_Thinking-Market_entry_strategies-Timing_Expansion_with_Limited_Resources",
+  "model": "gpt-4.1-nano",
+  "topic": "Strategic Thinking",
+  "subtopic": "Market entry strategies",
+  "raw": "{\"clarity_and_decisiveness\":115,\"strategic_thinking\":120,\"resource_management\":100,\"overall_score\":111.7,\"comments\":\"The CEO provides a clear and decisive rationale for prioritizing entry into the high-growth, competitive market early, emphasizing both short-term gains and long-term positioning. Strategic thinking is strong, reflecting understanding of market dynamics, competition, and growth opportunities. However, resource management considerations are somewhat implicit; while the answer mentions leveraging resources and strategic positioning, it lacks explicit discussion on how limited resources will be balanced or optimized, thus slightly limiting the score in this area.\"}",
+  "scores": {
+    "Clarity and Decisiveness": 115,
+    "Strategic Thinking": 120,
+    "Resource Management": 100
+  },
+  "total": 111.7,
+  "comments": "The CEO provides a clear and decisive rationale for prioritizing entry into the high-growth, competitive market early, emphasizing both short-term gains and long-term positioning. Strategic thinking is strong, reflecting understanding of market dynamics, competition, and growth opportunities. However, resource management considerations are somewhat implicit; while the answer mentions leveraging resources and strategic positioning, it lacks explicit discussion on how limited resources will be balanced or optimized, thus slightly limiting the score in this area."
+}

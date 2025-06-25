@@ -1,0 +1,14 @@
+{
+  "question_id": "0143-Financial_Acumen-Budget_planning-Data_Protection_Policy_Implementation",
+  "model": "gpt-4.1-nano",
+  "topic": "Financial Acumen",
+  "subtopic": "Budget planning",
+  "raw": "{\"clarity_and_decisiveness\":115,\"strategic_thinking\":120,\"communication_skills\":110,\"overall_score\":115,\"comments\":\"The answer clearly outlines a structured approach to resource allocation for compliance, including cost-benefit analysis and phased implementation, demonstrating strong clarity and decisiveness. Strategic thinking is evident in the balancing of regulatory requirements with financial stability and long-term sustainability. Communication skills are well represented through the emphasis on transparent stakeholder communication and motivation. Overall, this reflects a competent CEO response with solid leadership qualities.\"}",
+  "scores": {
+    "Clarity and decisiveness": 115,
+    "Strategic thinking": 120,
+    "Communication skills": 110
+  },
+  "total": 115.0,
+  "comments": "The answer clearly outlines a structured approach to resource allocation for compliance, including cost-benefit analysis and phased implementation, demonstrating strong clarity and decisiveness. Strategic thinking is evident in the balancing of regulatory requirements with financial stability and long-term sustainability. Communication skills are well represented through the emphasis on transparent stakeholder communication and motivation. Overall, this reflects a competent CEO response with solid leadership qualities."
+}

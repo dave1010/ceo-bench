@@ -1,0 +1,14 @@
+{
+  "question_id": "0151-Innovation_&_Growth-M&A_evaluation-Post-merger_Leadership_Alignment",
+  "model": "gpt-4.1-nano",
+  "topic": "Innovation & Growth",
+  "subtopic": "M&A evaluation",
+  "raw": "{\"clarity_and_decisiveness\":115,\"alignment_with_company_strategy\":120,\"stakeholder_management\":90,\"overall_score\":108.3,\"comments\":\"The answer is clear and decisive, with a well-articulated rationale focusing on a unified leadership structure to drive strategic alignment and operational efficiency. It strongly aligns with company strategy by emphasizing integration and synergies. However, stakeholder management is less thoroughly addressed; while the approach includes cultural ambassadors to preserve values, there is limited discussion on how to manage board dissent or achieve consensus, which is crucial in this scenario.\"}",
+  "scores": {
+    "Clarity and decisiveness": 115,
+    "Alignment with company strategy": 120,
+    "Stakeholder management": 90
+  },
+  "total": 108.3,
+  "comments": "The answer is clear and decisive, with a well-articulated rationale focusing on a unified leadership structure to drive strategic alignment and operational efficiency. It strongly aligns with company strategy by emphasizing integration and synergies. However, stakeholder management is less thoroughly addressed; while the approach includes cultural ambassadors to preserve values, there is limited discussion on how to manage board dissent or achieve consensus, which is crucial in this scenario."
+}
