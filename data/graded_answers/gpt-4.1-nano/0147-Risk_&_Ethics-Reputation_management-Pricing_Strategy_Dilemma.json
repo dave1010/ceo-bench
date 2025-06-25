@@ -1,0 +1,14 @@
+{
+  "question_id": "0147-Risk_&_Ethics-Reputation_management-Pricing_Strategy_Dilemma",
+  "model": "gpt-4.1-nano",
+  "topic": "Risk & Ethics",
+  "subtopic": "Reputation management",
+  "raw": "{\"clarity_and_decisiveness\":110,\"strategic_thinking\":115,\"resource_allocation\":85,\"overall_score\":103.3,\"comments\":\"The CEO clearly decides to maintain pricing and articulates the rationale centered on value differentiation, indicating strong clarity and decisiveness. Strategic thinking is high as they consider long-term brand integrity and profitability, emphasizing investment in marketing and customer engagement over price competition. However, resource allocation is less robustly addressed; while marketing and value-added services are mentioned, there is no detailed plan for reallocating or cutting costs to offset competitive pressures if margins shrink. Overall, a sound and strategically grounded response with some room for more detailed resource management.\"}",
+  "scores": {
+    "Clarity and Decisiveness": 110,
+    "Strategic Thinking": 115,
+    "Resource Allocation": 85
+  },
+  "total": 103.3,
+  "comments": "The CEO clearly decides to maintain pricing and articulates the rationale centered on value differentiation, indicating strong clarity and decisiveness. Strategic thinking is high as they consider long-term brand integrity and profitability, emphasizing investment in marketing and customer engagement over price competition. However, resource allocation is less robustly addressed; while marketing and value-added services are mentioned, there is no detailed plan for reallocating or cutting costs to offset competitive pressures if margins shrink. Overall, a sound and strategically grounded response with some room for more detailed resource management."
+}

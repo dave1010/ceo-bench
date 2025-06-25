@@ -1,0 +1,14 @@
+{
+  "question_id": "0130-Strategic_Thinking-Long-term_planning-Market_Expansion_Dilemma",
+  "model": "gpt-4.1-nano",
+  "topic": "Strategic Thinking",
+  "subtopic": "Long-term planning",
+  "raw": "{\"clarity_and_decisiveness\":115,\"strategic_thinking\":110,\"resource_allocation\":105,\"overall_score\":110,\"comments\":\"The answer clearly articulates a confident and decisive plan to accelerate market entry, acknowledging risks and rewards thoughtfully. Strategic thinking is evident in recognizing first-mover advantages and long-term market positioning. Resource allocation is addressed by committing additional resources and emphasizing operational readiness, though specifics on resource trade-offs could be deeper. Overall, this response demonstrates strong leadership qualities appropriate for a CEO facing competitive pressure.\"}",
+  "scores": {
+    "Clarity and decisiveness": 115,
+    "Strategic thinking": 110,
+    "Resource allocation": 105
+  },
+  "total": 110.0,
+  "comments": "The answer clearly articulates a confident and decisive plan to accelerate market entry, acknowledging risks and rewards thoughtfully. Strategic thinking is evident in recognizing first-mover advantages and long-term market positioning. Resource allocation is addressed by committing additional resources and emphasizing operational readiness, though specifics on resource trade-offs could be deeper. Overall, this response demonstrates strong leadership qualities appropriate for a CEO facing competitive pressure."
+}

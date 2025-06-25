@@ -1,0 +1,14 @@
+{
+  "question_id": "0148-Innovation_&_Growth-Product_innovation-Pivoting_Decisiveness",
+  "model": "gpt-4.1-nano",
+  "topic": "Innovation & Growth",
+  "subtopic": "Product innovation",
+  "raw": "{\"strategic_vision\":115,\"risk_management\":110,\"communication\":100,\"overall_score\":108.3,\"comments\":\"The answer demonstrates solid strategic vision by linking pivot decisions to growth potential and long-term goals. It addresses risk management through comprehensive analysis and risk mitigation plans, though specifics are somewhat general. Communication aspects are implied but not explicitly detailed, resulting in a slightly lower score. Overall, the response reflects a capable CEO with a balanced and prudent approach.\"}",
+  "scores": {
+    "Strategic Vision": 115,
+    "Risk Management": 110,
+    "Communication": 100
+  },
+  "total": 108.3,
+  "comments": "The answer demonstrates solid strategic vision by linking pivot decisions to growth potential and long-term goals. It addresses risk management through comprehensive analysis and risk mitigation plans, though specifics are somewhat general. Communication aspects are implied but not explicitly detailed, resulting in a slightly lower score. Overall, the response reflects a capable CEO with a balanced and prudent approach."
+}

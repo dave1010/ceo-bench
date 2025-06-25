@@ -1,0 +1,14 @@
+{
+  "question_id": "0137-Leadership_&_Communication-Stakeholder_management-Handling_Conflicting_Stakeholder_Interests",
+  "model": "gpt-4.1-nano",
+  "topic": "Leadership & Communication",
+  "subtopic": "Stakeholder management",
+  "raw": "{\"clarity_and_decisiveness\":115,\"stakeholder_management\":110,\"strategic_decision-making\":112,\"overall_score\":112.3,\"comments\":\"The CEO demonstrates clear recognition of the ethical dilemma and decisively chooses integrity over short-term gain, indicating strong clarity and decisiveness. Stakeholder interests are thoughtfully balanced through the emphasis on reputation and trust, showing good stakeholder management, though direct communication strategies could be more detailed. The approach reflects strategic insight by weighing short-term benefits against long-term sustainability, evidencing sound strategic decision-making.\"}",
+  "scores": {
+    "Clarity and decisiveness": 115,
+    "Stakeholder management": 110,
+    "Strategic decision-making": 112
+  },
+  "total": 112.3,
+  "comments": "The CEO demonstrates clear recognition of the ethical dilemma and decisively chooses integrity over short-term gain, indicating strong clarity and decisiveness. Stakeholder interests are thoughtfully balanced through the emphasis on reputation and trust, showing good stakeholder management, though direct communication strategies could be more detailed. The approach reflects strategic insight by weighing short-term benefits against long-term sustainability, evidencing sound strategic decision-making."
+}

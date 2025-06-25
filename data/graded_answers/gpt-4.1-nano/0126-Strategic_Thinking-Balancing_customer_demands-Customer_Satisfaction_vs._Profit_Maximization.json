@@ -1,0 +1,14 @@
+{
+  "question_id": "0126-Strategic_Thinking-Balancing_customer_demands-Customer_Satisfaction_vs._Profit_Maximization",
+  "model": "gpt-4.1-nano",
+  "topic": "Strategic Thinking",
+  "subtopic": "Balancing customer demands",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":115,\"strategic_alignment\":110,\"resource_optimization\":112,\"overall_score\":112.3,\"comments\":\"The answer demonstrates a clear and balanced decision-making approach, weighing customer satisfaction against financial goals and emphasizing long-term sustainability. It aligns well with strategic priorities by integrating customer-centric initiatives with profitability targets, reflecting a nuanced, data-driven mindset. Additionally, the resource optimization dimension is addressed through a thoughtful plan combining price adjustments and value-adding initiatives, indicating good understanding of trade-offs. Overall, this reflects a capable and thoughtful CEO decision.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 115,
+    "Strategic alignment": 110,
+    "Resource optimization": 112
+  },
+  "total": 112.3,
+  "comments": "The answer demonstrates a clear and balanced decision-making approach, weighing customer satisfaction against financial goals and emphasizing long-term sustainability. It aligns well with strategic priorities by integrating customer-centric initiatives with profitability targets, reflecting a nuanced, data-driven mindset. Additionally, the resource optimization dimension is addressed through a thoughtful plan combining price adjustments and value-adding initiatives, indicating good understanding of trade-offs. Overall, this reflects a capable and thoughtful CEO decision."
+}

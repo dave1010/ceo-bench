@@ -1,0 +1,14 @@
+{
+  "question_id": "0142-Financial_Acumen-Risk_assessment-Cost_Reduction_Strategy",
+  "model": "gpt-4.1-nano",
+  "topic": "Financial Acumen",
+  "subtopic": "Risk assessment",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":115,\"financial_impact_analysis\":110,\"stakeholder_communication\":90,\"overall_score\":105,\"comments\":\"The CEO provides a clear and decisive preference for investing in efficiency improvements, highlighting the balance between short-term and long-term outcomes. The financial analysis considers both immediate and future costs and benefits, showing strategic insight. However, while the rationale points to positive stakeholder impacts, explicit communication plans to employees and stakeholders are implied rather than detailed, resulting in a slightly lower score in stakeholder communication.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 115,
+    "Financial impact analysis": 110,
+    "Stakeholder communication": 90
+  },
+  "total": 105.0,
+  "comments": "The CEO provides a clear and decisive preference for investing in efficiency improvements, highlighting the balance between short-term and long-term outcomes. The financial analysis considers both immediate and future costs and benefits, showing strategic insight. However, while the rationale points to positive stakeholder impacts, explicit communication plans to employees and stakeholders are implied rather than detailed, resulting in a slightly lower score in stakeholder communication."
+}

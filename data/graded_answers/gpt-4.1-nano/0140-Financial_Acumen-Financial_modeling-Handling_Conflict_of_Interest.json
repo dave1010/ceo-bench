@@ -1,0 +1,14 @@
+{
+  "question_id": "0140-Financial_Acumen-Financial_modeling-Handling_Conflict_of_Interest",
+  "model": "gpt-4.1-nano",
+  "topic": "Financial Acumen",
+  "subtopic": "Financial modeling",
+  "raw": "{\"ethical_leadership\":130,\"stakeholder_trust\":125,\"business_integrity\":130,\"overall_score\":128.3,\"comments\":\"The answer demonstrates strong ethical leadership by openly acknowledging the conflict and delegating the decision to an impartial committee, effectively mitigating bias. It shows a clear commitment to transparency and fairness, which would foster stakeholder trust. The prioritization of company interests over personal relationships aligns closely with business integrity standards. Overall, the response reflects an exceptional grasp of managing conflicts of interest in a manner consistent with high ethical standards expected of a CEO.\"}",
+  "scores": {
+    "Ethical Leadership": 130,
+    "Stakeholder Trust": 125,
+    "Business Integrity": 130
+  },
+  "total": 128.3,
+  "comments": "The answer demonstrates strong ethical leadership by openly acknowledging the conflict and delegating the decision to an impartial committee, effectively mitigating bias. It shows a clear commitment to transparency and fairness, which would foster stakeholder trust. The prioritization of company interests over personal relationships aligns closely with business integrity standards. Overall, the response reflects an exceptional grasp of managing conflicts of interest in a manner consistent with high ethical standards expected of a CEO."
+}

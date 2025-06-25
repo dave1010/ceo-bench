@@ -1,0 +1,14 @@
+{
+  "question_id": "0136-Leadership_&_Communication-Team_motivation-Allocation_of_Profits",
+  "model": "gpt-4.1-nano",
+  "topic": "Leadership & Communication",
+  "subtopic": "Team motivation",
+  "raw": "{\"clarity_of_decision\":115,\"decisiveness\":110,\"trade-off_analysis\":117,\"overall_score\":114,\"comments\":\"The answer clearly articulates a balanced strategy prioritizing growth investment, shareholder dividends, and financial stability. It demonstrates thoughtful consideration of short-term and long-term impacts, stakeholder interests, and risk management. The trade-offs are well understood and addressed to maximize shareholder value sustainably. Scores reflect a strong, capable CEO approach with room for deeper specificity or innovation.\"}",
+  "scores": {
+    "Clarity of decision": 115,
+    "Decisiveness": 110,
+    "Trade-off analysis": 117
+  },
+  "total": 114.0,
+  "comments": "The answer clearly articulates a balanced strategy prioritizing growth investment, shareholder dividends, and financial stability. It demonstrates thoughtful consideration of short-term and long-term impacts, stakeholder interests, and risk management. The trade-offs are well understood and addressed to maximize shareholder value sustainably. Scores reflect a strong, capable CEO approach with room for deeper specificity or innovation."
+}

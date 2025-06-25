@@ -1,0 +1,14 @@
+{
+  "question_id": "0129-Strategic_Thinking-Competitive_analysis-Cost-Cutting_Measures",
+  "model": "gpt-4.1-nano",
+  "topic": "Strategic Thinking",
+  "subtopic": "Competitive analysis",
+  "raw": "{\"clarity_and_decisiveness\":110,\"strategic_thinking\":115,\"communication\":113,\"overall_score\":113,\"comments\":\"The answer demonstrates a clear and decisive approach by outlining a thorough review process and transparent communication strategies. It shows strong strategic thinking by aligning cost-cutting with long-term financial health and operational integrity. Communication skills are evident through emphasis on open dialogue with leadership, stakeholders, and employees to maintain trust and morale. Overall, the approach is balanced, comprehensive, and indicative of effective CEO leadership under pressure.\"}",
+  "scores": {
+    "Clarity and decisiveness": 110,
+    "Strategic thinking": 115,
+    "Communication": 113
+  },
+  "total": 113.0,
+  "comments": "The answer demonstrates a clear and decisive approach by outlining a thorough review process and transparent communication strategies. It shows strong strategic thinking by aligning cost-cutting with long-term financial health and operational integrity. Communication skills are evident through emphasis on open dialogue with leadership, stakeholders, and employees to maintain trust and morale. Overall, the approach is balanced, comprehensive, and indicative of effective CEO leadership under pressure."
+}

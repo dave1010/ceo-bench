@@ -1,0 +1,14 @@
+{
+  "question_id": "0132-Operational_Excellence-Resource_optimization-Compliance_Cost_Dilemma",
+  "model": "gpt-4.1-nano",
+  "topic": "Operational Excellence",
+  "subtopic": "Resource optimization",
+  "raw": "{\"clarity_and_decisiveness\":115,\"strategic_thinking\":120,\"communication_and_transparency\":110,\"overall_score\":115,\"comments\":\"The CEO response is clear and decisive, demonstrating understanding of the trade-offs between compliance and operational funding. The strategic approach shows foresight in balancing regulatory adherence with financial sustainability, aligning with long-term company goals. While communication and transparency are implied, explicit mention of stakeholder engagement could be stronger. Overall, a strong performance indicating capable leadership.\"}",
+  "scores": {
+    "Clarity and decisiveness": 115,
+    "Strategic thinking": 120,
+    "Communication and transparency": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO response is clear and decisive, demonstrating understanding of the trade-offs between compliance and operational funding. The strategic approach shows foresight in balancing regulatory adherence with financial sustainability, aligning with long-term company goals. While communication and transparency are implied, explicit mention of stakeholder engagement could be stronger. Overall, a strong performance indicating capable leadership."
+}

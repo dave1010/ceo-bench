@@ -1,0 +1,14 @@
+{
+  "question_id": "0145-Risk_&_Ethics-Ethical_decision-making-Leveraging_AI_for_Customer_Data_Analysis",
+  "model": "gpt-4.1-nano",
+  "topic": "Risk & Ethics",
+  "subtopic": "Ethical decision-making",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":120,\"strategic_alignment_with_company_values\":130,\"stakeholder_communication\":125,\"overall_score\":125,\"comments\":\"The CEO's answer is clear and decisive, demonstrating a balanced approach to leveraging AI technology while upholding ethical standards. The emphasis on transparency, explicit consent, and establishing an oversight committee reflects strong strategic alignment with company values focused on ethics and customer trust. Furthermore, the commitment to transparent communication and opt-out options illustrates effective stakeholder communication, fostering trust across the organization and customer base. Overall, this response reflects exceptional leadership in navigating technology-driven ethical dilemmas.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 120,
+    "Strategic alignment with company values": 130,
+    "Stakeholder communication": 125
+  },
+  "total": 125.0,
+  "comments": "The CEO's answer is clear and decisive, demonstrating a balanced approach to leveraging AI technology while upholding ethical standards. The emphasis on transparency, explicit consent, and establishing an oversight committee reflects strong strategic alignment with company values focused on ethics and customer trust. Furthermore, the commitment to transparent communication and opt-out options illustrates effective stakeholder communication, fostering trust across the organization and customer base. Overall, this response reflects exceptional leadership in navigating technology-driven ethical dilemmas."
+}

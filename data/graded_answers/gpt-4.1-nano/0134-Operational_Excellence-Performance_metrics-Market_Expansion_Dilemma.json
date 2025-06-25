@@ -1,0 +1,14 @@
+{
+  "question_id": "0134-Operational_Excellence-Performance_metrics-Market_Expansion_Dilemma",
+  "model": "gpt-4.1-nano",
+  "topic": "Operational Excellence",
+  "subtopic": "Performance metrics",
+  "raw": "{\"decision_clarity_and_decisiveness\":110,\"resource_allocation\":105,\"competitor_analysis\":85,\"overall_score\":100,\"comments\":\"The answer demonstrates clear prioritization and decisiveness by choosing to defend current market position first before expansion. Resource allocation is thoughtfully addressed by focusing limited resources on strengthening existing markets before new investments. However, the competitor analysis is somewhat lacking; while it notes the pressure from competitors' expansion, it does not detail their strengths or weaknesses or how that influences the strategy. Overall, a solid, capable response with room for deeper competitive insight.\"}",
+  "scores": {
+    "Decision Clarity and Decisiveness": 110,
+    "Resource Allocation": 105,
+    "Competitor Analysis": 85
+  },
+  "total": 100.0,
+  "comments": "The answer demonstrates clear prioritization and decisiveness by choosing to defend current market position first before expansion. Resource allocation is thoughtfully addressed by focusing limited resources on strengthening existing markets before new investments. However, the competitor analysis is somewhat lacking; while it notes the pressure from competitors' expansion, it does not detail their strengths or weaknesses or how that influences the strategy. Overall, a solid, capable response with room for deeper competitive insight."
+}

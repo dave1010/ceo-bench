@@ -1,0 +1,14 @@
+{
+  "question_id": "0139-Leadership_&_Communication-Culture_building-Regulatory_Risk_Mitigation",
+  "model": "gpt-4.1-nano",
+  "topic": "Leadership & Communication",
+  "subtopic": "Culture building",
+  "raw": "{\"clarity_and_decisiveness_of_decision\":115,\"stakeholder_communication\":110,\"adaptability\":112,\"overall_score\":112.3,\"comments\":\"The response clearly outlines a strategic and proactive approach to regulatory challenges while promoting innovation, demonstrating strong clarity and decisiveness. It emphasizes engaging regulators early and fostering ethical innovation, indicating effective stakeholder communication and transparency. The approach reflects adaptability by anticipating changes and integrating compliance as a foundation for continued growth. Overall, this is a strong leadership response likely to result in sustainable success.\"}",
+  "scores": {
+    "Clarity and decisiveness of decision": 115,
+    "Stakeholder communication": 110,
+    "Adaptability": 112
+  },
+  "total": 112.3,
+  "comments": "The response clearly outlines a strategic and proactive approach to regulatory challenges while promoting innovation, demonstrating strong clarity and decisiveness. It emphasizes engaging regulators early and fostering ethical innovation, indicating effective stakeholder communication and transparency. The approach reflects adaptability by anticipating changes and integrating compliance as a foundation for continued growth. Overall, this is a strong leadership response likely to result in sustainable success."
+}

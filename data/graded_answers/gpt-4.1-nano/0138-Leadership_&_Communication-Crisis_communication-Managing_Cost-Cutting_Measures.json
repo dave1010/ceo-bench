@@ -1,0 +1,14 @@
+{
+  "question_id": "0138-Leadership_&_Communication-Crisis_communication-Managing_Cost-Cutting_Measures",
+  "model": "gpt-4.1-nano",
+  "topic": "Leadership & Communication",
+  "subtopic": "Crisis communication",
+  "raw": "{\"clarity_and_decisiveness\":115,\"employee_morale\":120,\"financial_impact_assessment\":110,\"overall_score\":115,\"comments\":\"The CEO provides a clear and balanced plan emphasizing strategic cost reductions and transparent communication. The decision to focus on non-essential expenses and productivity enhancements before layoffs shows decisiveness. The inclusion of employee involvement, transparent communication, and support mechanisms reflects strong consideration for morale. While financial analysis is implied, more explicit detail would strengthen the assessment. Overall, the response demonstrates responsible, compassionate leadership balancing financial health with employee well-being effectively.\"}",
+  "scores": {
+    "Clarity and decisiveness": 115,
+    "Employee morale": 120,
+    "Financial impact assessment": 110
+  },
+  "total": 115.0,
+  "comments": "The CEO provides a clear and balanced plan emphasizing strategic cost reductions and transparent communication. The decision to focus on non-essential expenses and productivity enhancements before layoffs shows decisiveness. The inclusion of employee involvement, transparent communication, and support mechanisms reflects strong consideration for morale. While financial analysis is implied, more explicit detail would strengthen the assessment. Overall, the response demonstrates responsible, compassionate leadership balancing financial health with employee well-being effectively."
+}
